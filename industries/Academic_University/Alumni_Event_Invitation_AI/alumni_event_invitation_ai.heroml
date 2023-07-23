@@ -1,0 +1,86 @@
+Your task is to write a "Event Invitation" for the "Academic & University" industry, specifically for an "Alumni Relations Officer". 
+Let's begin by writing a warm introductory statement which highlights the purpose of the event and its relevance to the alumni: {{event_purpose}}. 
+
+Here's some more context about the Event Invitation:
+Event Purpose: {{event_purpose}}
+Event Details: {{event_details}}
+Event Highlights: {{event_highlights}}
+Guest Speakers: {{guest_speakers}}
+Alumni Benefits: {{alumni_benefits}}
+RSVP Information: {{RSVP_information}}
+
+->>>>
+
+We have started our invitation with an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Next, write a detailed section describing the event. Include key information such as the event's date, time, and venue: {{event_details}}.
+
+->>>>
+
+Our invitation now has an engaging introduction and a comprehensive description of the event details:
+
+Introduction:
+{{step_1}}
+
+Event Details:
+{{step_2}}
+
+Let's move on to creating a section covering the main highlights of the event and giving attendees an idea of what they can expect: {{event_highlights}}.
+
+->>>>
+
+We have an introduction, event details, and highlights for our invitation:
+
+Introduction:
+{{step_1}}
+
+Event Details:
+{{step_2}}
+
+Event Highlights:
+{{step_3}}
+
+Next, mention the names and any notable achievements of the key speakers or guests who will be attending: {{guest_speakers}}.
+
+->>>>
+
+At this point, we have an introduction, event details, highlights, and guest speaker information for our invitation:
+
+Introduction:
+{{step_1}}
+
+Event Details:
+{{step_2}}
+
+Event Highlights:
+{{step_3}}
+
+Guest Speakers:
+{{step_4}}
+
+Let's build a section urging alumni to attend, explaining why their presence is valuable and what attending might mean for them: {{alumni_benefits}}.
+
+->>>>
+
+So far, our invitation includes an introduction, event details, highlights, guest speaker information and a section encouraging alumni attendance:
+
+Introduction:
+{{step_1}}
+
+Event Details:
+{{step_2}}
+
+Event Highlights:
+{{step_3}}
+
+Guest Speakers:
+{{step_4}}
+
+Appeal to Alumni:
+{{step_5}}
+
+To finalize the invitation, provide an RSVP conclusion with details on responding, any prerequisites for attendance like pre-registration or fees: {{RSVP_information}}.
+

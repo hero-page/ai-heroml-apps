@@ -1,0 +1,93 @@
+Your task is to write an "Internal Memo" for the "Academic & University" industry, specifically for an "Administrator". 
+
+Let's start by crafting a welcoming, to-the-point salutation that addresses the intended recipients.
+
+Here's some more context about the Internal Memo:
+Salutation: {{salutation}}
+Memo Subject: {{memo_subject}}
+Purpose Of Memo: {{purpose_of_memo}}
+Key Points Or Updates: {{key_points_or_updates}}
+Required Actions: {{required_actions}}
+
+->>>>
+
+We now have a salutation for our Internal Memo:
+
+Salutation:
+{{step_1}}
+
+Next, provide an engaging and clear subject line that captures the essence of the memo’s purpose.
+
+->>>>
+
+The salutation for our internal memo is:
+
+Salutation:
+{{step_1}}
+
+We have generated a subject line for our memo:
+
+Subject Line:
+{{step_2}}
+
+Now, begin by establishing the context and purpose of the memo in the introduction. The introduction should outline why the information is important for the recipients.
+
+->>>>
+
+For our internal memo, we have a salutation and subject line:
+
+Salutation:
+{{step_1}}
+
+Subject Line:
+{{step_2}}
+
+Now, we have also established the context and purpose of our memo:
+
+Introduction:
+{{step_3}}
+
+The next step is to provide the key points or updates in an organized and easy-to-follow manner. These points could include changes to policies or procedures, important dates, or status updates on ongoing initiatives.
+
+->>>>
+
+Up until now in our internal memo, we have the following components:
+
+Introduction:
+{{step_3}}
+
+We are now presenting the key points or updates:
+
+Key Points:
+{{step_4}}
+
+Include any relevant academic or University-specific information that might add more value and relevance to the memo. This could include curriculum changes, institutional goals, or research findings.
+
+->>>>
+
+In the internal memo, we have the key points and updates:
+
+Key Points:
+{{step_4}}
+
+We have added academic or University-specific information:
+
+Academic or University-specific Information:
+{{step_5}}
+
+Now, it's time to provide clear instructions or steps for any actions needed by parties reading the memo.
+
+->>>>
+
+Up until this point, our internal memo for the Academic & University industry includes:
+
+Academic or University-specific Information:
+{{step_5}}
+
+The added instructions for the required actions are:
+
+Required Actions:
+{{step_6}}
+
+In the conclusion, summarize the main points, and if applicable, specify a deadline for the required actions. Close the memo with a note of gratitude for the recipients' time and cooperation.
+

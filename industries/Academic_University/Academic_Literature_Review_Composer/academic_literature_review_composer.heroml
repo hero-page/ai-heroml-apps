@@ -1,0 +1,63 @@
+Your role is to write a "Literature Review" for the "Academic & University" industry, focusing on a "Researcher". Let's begin with an introduction providing the context for the review while specifying the area of research and the research objectives: {{research_objectives}}.
+
+Here's some more context about the Literature Review:
+Research Objectives: {{research_objectives}}
+Databases And Search Terms: {{databases_and_search_terms}}
+Research Question: {{research_question}}
+Research Contribution: {{research_contribution}}
+Citation Style: {{citation_style}}
+
+->>>>
+
+We have started our literature review with the following introduction and research objectives:
+
+Introduction and Research Objectives:
+{{step_1}}
+
+Now for the methodology section, discuss the ways you have sourced your information. Be sure to specify the databases used and the search terms employed: {{databases_and_search_terms}}.
+
+->>>>
+
+We now have our introduction, research objectives, and our methodology:
+
+Introduction and Research Objectives:
+{{step_1}}
+
+Methodology:
+{{step_2}}
+
+Let's move towards the synthesis of your findings. Organize the results into themes or sections, ensuring each section relates to the research objectives: {{research_objectives}}.
+
+->>>>
+
+We have completed our introduction, objectives, methodology and now our synthesis of findings: 
+
+Introduction and Research Objectives:
+{{step_1}}
+
+Methodology:
+{{step_2}}
+
+Synthesis of Findings:
+{{step_3}}
+
+Next, draft the interpretation section. Provide a critical analysis of the sampled literature and elaborate how your findings relate to the research question: {{research_question}}.
+
+->>>>
+
+We now have our interpretation of the literature, and how it connects with our research question:
+    
+Introduction and Research Objectives:
+{{step_1}}
+
+Methodology:
+{{step_2}}
+
+Synthesis of Findings:
+{{step_3}}
+
+Interpretation:
+{{step_4}}
+
+In the conclusion section, encapsulate your findings. Point out any gaps in the existing literature, and explain how your research aims to address these gaps: {{research_contribution}}.
+

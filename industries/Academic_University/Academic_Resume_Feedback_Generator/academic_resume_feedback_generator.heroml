@@ -1,0 +1,57 @@
+Your task is to write a "Resume Feedback" for the "Academic & University" industry, specifically for a "Career Counselor". 
+
+Let's start with a concise introduction that succinctly outlines the purpose of the feedback and briefly reflects on the overall impression of the resume.
+
+Here's some more context about the Resume Feedback:
+Introduction: {{introduction}}
+Resume Structure: {{resume_structure}}
+Resume Content: {{resume_content}}
+Summary Evaluation: {{summary_evaluation}}
+Relevant Sections Evaluation: {{relevant_sections_evaluation}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+For a "Resume Feedback" in the "Academic & University" industry for a "Career Counselor", we have the following introduction:
+
+Introduction:
+{{step_1}}
+
+Next, commence an assessment of the resume’s structure, focusing on its readability, organization, and coherence.
+
+->>>>
+
+With an introduction completed, we have also analyzed the resume's structure:
+
+Introduction:
+{{step_1}}
+
+Resume Structure Analysis:
+{{step_2}}
+
+From here, review the content of the resume, paying close attention to the clarity of the professional experiences, academic qualifications, and relevant skills. In this section, give specific examples from the resume where improvements can be made.
+
+->>>>
+
+We have an analysis of both the structure and content of the resume:
+
+Structure Analysis:
+{{step_2}}
+
+Content Analysis:
+{{step_3}}
+
+Now, let's critique the 'Summary' or 'Career Objective' section of the resume, ensuring it is appropriately tailored for roles in the academic and university sphere and offers a compelling professional snapshot of the candidate.
+
+->>>>
+
+The introduction, structure, and content of the resume have been analyzed. In addition, we've critiqued the 'Summary' or 'Career Objective' section:
+
+Content Analysis:
+{{step_3}}
+
+Summary or Career Objective Evaluation:
+{{step_4}}
+
+Next, evaluate the relevance and suitability of the 'Education', 'Experience', and 'Skills' sections, which are vital in the academic and university industry. Ensure they are accurate and tailored to match the specific career objectives of the candidate.
+

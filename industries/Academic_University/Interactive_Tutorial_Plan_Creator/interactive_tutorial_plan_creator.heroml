@@ -1,0 +1,122 @@
+Your task is to write a "Tutorial Plan" for the "Academic & University" industry, specifically for a "Teaching Assistant". 
+
+Let's start with an introduction that defines the learning objectives for the tutorial. Provide an overview of what the students should achieve by the end of the tutorial and mention the learning objectives. 
+
+Here's some more context about the Tutorial Plan:
+Learning Objectives: {{learning_objectives}}
+Curriculum Content: {{curriculum_content}}
+Active Learning Elements: {{active_learning_elements}}
+Key Points Takeaways: {{key_points_takeaways}}
+Doubt Clearing Session: {{doubt_clearing_session}}
+
+->>>>
+
+Your "Tutorial Plan" commences with an overview and learning objectives:
+
+Overview and Learning Objectives:
+{{step_1}}
+
+Now, outline the content to be covered in this tutorial based on the curriculum requirements. This content will serve as the main body of the tutorial. Also, ensure it is accurate, detailed, and comprehensive.
+
+->>>>
+
+The "Tutorial Plan" now has learning objectives and a comprehensive outline of the required content:
+
+Learning Objectives:
+{{step_1}}
+
+Outline of Curriculum Content:
+{{step_2}}
+
+Next, structure this content in a logical, coherent manner. Group related concepts together and ensure that there is a natural progression from one topic to the next.
+
+->>>>
+
+Your "Tutorial Plan" displays its learning objectives and a well-structured outline of the curriculum content:
+
+Learning Objectives:
+{{step_1}}
+
+Structured Curriculum Content:
+{{step_3}}
+
+Now, introduce active learning elements to the tutorial for a conversational and student-friendly experience. For instance, incorporate elements like question-and-answer segments, brief interactive activities, or prompts for group discussions.
+
+->>>>
+
+Your plan includes learning objectives, structured content, and active learning elements now:
+
+Learning Objectives:
+{{step_1}}
+
+Structured Curriculum Content:
+{{step_3}}
+
+Active Learning Elements:
+{{step_4}}
+
+Next, highlight the key points and takeaways in each section of the tutorial. These points will assist the students in understanding, retaining, and reviewing essential concepts.
+
+->>>>
+
+The "Tutorial Plan" now includes learning objectives, structured content, active learning elements, and highlighted key points:
+
+Learning Objectives:
+{{step_1}}
+
+Structured Curriculum Content:
+{{step_3}}
+
+Active Learning Elements:
+{{step_4}}
+
+Highlights and Key Takeaways:
+{{step_5}}
+
+Moving on, allocate some time towards the end for a doubt clearing session. This will allow TAs to handle the students' questions or direct them appropriately.
+
+->>>>
+
+With the addition of a time for a doubt clearing session, the "Tutorial Plan" now includes the following elements:
+
+Learning Objectives:
+{{step_1}}
+
+Structured Curriculum Content:
+{{step_3}}
+
+Active Learning Elements:
+{{step_4}}
+
+Highlights and Key Takeaways:
+{{step_5}}
+
+Doubt Clearing Session:
+{{step_6}}
+
+Then, as a wrap-up, provide a succinct summary of the entire tutorial plan. This should involve reinstating the learning objectives and a brief overview of the key points.
+
+->>>>
+
+The summarized "Tutorial Plan" includes:
+
+Learning Objectives:
+{{step_1}}
+
+Structured Curriculum Content:
+{{step_3}}
+
+Active Learning Elements:
+{{step_4}}
+
+Highlights and Key Takeaways:
+{{step_5}}
+
+Doubt Clearing Session:
+{{step_6}}
+
+Tutorial Summary:
+{{step_7}}
+
+Finally, incorporate a feedback mechanism for students to share their thoughts, suggestions, or concerns about the tutorial. This feedback mechanism will facilitate continuous improvement of the tutorial plan.
+

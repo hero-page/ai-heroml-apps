@@ -1,0 +1,98 @@
+Your task is to write a "Marking Rubric" for the "Academic & University" industry, specifically for a "Teaching Assistant". 
+
+Let's begin by outlining the purpose of this "Marking Rubric". Also, describe the course or application it's being used for: {{course_name}}. Provide some background information to contextualize its use. 
+
+Here's some more context about the Marking Rubric:
+Course Name: {{course_name}}
+
+->>>>
+
+We have outlined the purpose of our "Marking Rubric" and provided background on the course:
+
+Purpose and Course Description: 
+{{step_1}}
+
+Next, define multiple criteria or tasks for assessment. 
+These criteria should relate directly to the required skills, knowledge, or understanding expected from students in {{course_name}}. The criteria could include specific assignments, projects, participation level, etc.
+
+->>>>
+
+We have a purpose and assessment criteria for our "Marking Rubric":
+
+Purpose and Course Description: 
+{{step_1}}
+
+Assessment Criteria: 
+{{step_2}}
+
+Now, assign performance levels to each criterion defined earlier. 
+Consider classifying performance into at least 3 categories: "Exceeds Expectations," "Meets Expectations," and "Does not Meet Expectations".
+
+->>>>
+
+At this point, we have established the assessment criteria and performance levels:
+
+Assessment Criteria: 
+{{step_2}}
+
+Performance Levels: 
+{{step_3}}
+
+Next, write a clear description of what each performance level entails for each criterion. 
+Remember that these descriptions will guide your grading and should align with the nature of the course or assignment: {{course_name}}.
+
+->>>>
+
+We now have descriptions for each performance level under each criterion:
+
+Assessment Criteria: 
+{{step_2}}
+
+Performance Levels and Descriptions: 
+{{step_4}}
+
+Assign points or percentage weights to each performance level under each criterion. 
+This will form the basis of the student's overall course score in {{course_name}}.
+
+->>>>
+
+So far, we've defined criteria, performance levels, descriptions, and adopted a scoring scheme:
+
+Performance Levels, Descriptions, and Scoring: 
+{{step_5}}
+
+Next, provide an explanation of how to use the rubric, including how scores are totaled and how feedback will be delivered. Make sure the explanation is aligned with the needs of a "Teaching Assistant".
+
+->>>>
+
+We have details on scoring and instructions on how to use this rubric:
+
+Scoring and Usage Instructions: 
+{{step_6}}
+
+Now, incorporate a section emphasizing the importance of academic integrity and ethical conduct, especially relevant to the grading process for {{course_name}}.
+
+->>>>
+
+We have scoring instructions for our rubric and a section on academic integrity:
+
+Scoring and Usage Instructions: 
+{{step_6}}
+
+Academic Integrity and Ethics Section:
+{{step_7}}
+
+Also, allocate a section for overall comments and feedback, to give the "Teaching Assistant" a space to provide personalized insights to improve the student's future performance in {{course_name}}.
+
+->>>>
+
+We now added a section for overall feedback to our rubric:
+
+Academic Integrity and Ethics Section:
+{{step_7}}
+
+Feedback Section:
+{{step_8}}
+
+Finally, summarize how the rubric aligns with the overall educational goals of the course or program: {{course_name}}. This will highlight the rubric's relevance to not just grading but also learning progress.
+

@@ -1,0 +1,88 @@
+Your task is to write a "Degree Requirement Overview" for the "Academic & University" industry, specifically for a "Academic Advisor". 
+First, generate a brief introduction explaining the purpose of the "Degree Requirement Overview", which is to provide {{academic_program}} requirements applicable for the current academic year.
+
+Here's some more context about the Degree Requirement Overview:
+Academic Program: {{academic_program}}
+Academic Department: {{academic_department}}
+
+->>>>
+
+Your Degree Requirement Overview so far is:
+
+Introduction:
+{{step_1}}
+
+For the first segment, list down all the degree programs offered under the {{academic_department}}. Mention the degree offerings such as Bachelor's, Master's, or Doctorate for each program and explain the main objectives of each degree.
+
+->>>>
+
+Your Degree Requirement Overview so far is:
+
+Introduction:
+{{step_1}}
+
+Degree Programs:
+{{step_2}}
+
+For the next segment, highlight the "General Education Requirements". These are the courses that every student must complete, regardless of their major. Include basic skills courses, humanities, social and behavioral science courses, mathematics, natural science, and language courses that must be completed to fulfill the general education requirements.
+
+->>>>
+
+Your Degree Requirement Overview has:
+
+Degree Programs:
+{{step_2}}
+
+General Education Requirements:
+{{step_3}}
+
+In the following segment, titled "Major-Specific Requirements", clearly indicate the number of credit hours and specific courses required for each program within the {{academic_department}}. This will include both lower division and upper division courses. Include prerequisites for each course if applicable.
+
+->>>>
+
+So far, The Degree Requirement Overview contains:
+
+General Education Requirements:
+{{step_3}}
+
+Major-Specific Requirements:
+{{step_4}}
+
+Dedicate the next segment to "Elective Requirements". These are courses that students may choose according to their interest but must be within certain guidelines to meet the degree requirements.
+
+->>>>
+
+Your Degree Requirement Overview now contains:
+
+Major-Specific Requirements:
+{{step_4}}
+
+Elective Requirements:
+{{step_5}}
+
+In the subsequent segment, "Academic Progress and GPA Requirements", outline the academic standing protocols, detailing what is considered good academic standing and when a student is at risk due to poor grades or not meeting other academic policies.
+
+->>>>
+
+We have these segments in our Degree Requirement Overview document so far:
+
+Elective Requirements:
+{{step_5}}
+
+Academic Progress and GPA Requirements:
+{{step_6}}
+
+End this document with a conclusion that emphasizes the importance of meeting these requirements for successful degree completion in the {{academic_program}}. This could also include a brief note encouraging students to meet regularly with their academic advisors.
+
+->>>>
+
+Our overview now has:
+
+Academic Progress and GPA Requirements:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+For added industry-specific value, generate a segment titled "Career Opportunities" where students may get an overview of the potential job roles, industries, and company types that frequently hire graduates in their field of study.
+

@@ -1,0 +1,67 @@
+Your task is to write a course catalog for the Academic & University industry, specifically for an Administrator. Let's start by crafting a comprehensive introduction for the course catalog which will include the name of the institution and academic year, as well as a brief overview of the school’s mission and vision.
+
+Here's some more context about the Course Catalog:
+Institution Name: {{institution_name}}
+Academic Year: {{academic_year}}
+Course Title: {{course_title}}
+Prerequisites: {{prerequisites}}
+Department Name: {{department_name}}
+Industry Trends: {{industry_trends}}
+
+->>>>
+
+Here is our course catalog introduction:
+
+Institution Name:
+{{institution_name}}
+
+Academic Year:
+{{step_1}}
+
+Moving forward, based on introduction, we need to list each course in the course catalog by providing specific details. The details should include course title, a brief description of the course, any applicable course credits, prerequisite courses if there are any, and the learning outcomes of the course.
+
+->>>>
+
+Now, we have the course details:
+
+Course Details:
+{{step_2}}
+
+Next, divide these courses into section-based departments for logical arrangement and easy following. Make sure the information is presented in a hierarchical way.
+
+->>>>
+
+We have divided the courses into department sections:
+
+Department Sections:
+{{step_3}}
+
+For each of these departments, create an outline that will include an introduction of the department, key faculty, and the listed courses for respective departments. This will enable readers to navigate easily to the relevant department.
+
+->>>>
+
+We have our department outline:
+
+Department Outline:
+{{step_4}}
+
+Now, using this outline, let's incorporate the specific elements of the Academic & University industry into the course descriptions. Consulting faculty members to ensure the accuracy of course descriptions and the reflection of current industry trends can be a profitable choice.
+
+->>>>
+
+We have created our industry-oriented course descriptions:
+
+Course Descriptions:
+{{step_5}}
+
+Next, let's add onto our catalog all the necessary policies and regulations related to course registration, credit hours, grading systems, and academic schedule. This will provide students and advisors all the mandatory information they might need.
+
+->>>>
+
+We now have a policy and regulation section in our course catalog:
+
+Policy and Regulation Section:
+{{step_6}}
+
+Finally, let's conclude the catalog by providing the contact details for each academic department for further queries. This section should include the department name, contact person, email address, and phone number.
+

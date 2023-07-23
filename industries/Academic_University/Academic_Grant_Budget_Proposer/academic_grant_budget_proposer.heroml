@@ -1,0 +1,108 @@
+Start by developing an executive summary for the "Budget Proposal" in the "Academic & University" industry for a "Grant Writer". The executive summary should broadly outline the proposal goals: {{proposal_goals}}. It should summarize the main points of the entire proposal including the total budget proposal.
+
+Here's some more context about the Budget Proposal:
+Proposal Goals: {{proposal_goals}}
+Project Definition: {{project_definition}}
+Detailed Costs: {{detailed_costs}}
+Indirect Costs: {{indirect_costs}}
+Supporting Information: {{supporting_information}}
+
+->>>>
+
+For our "Budget Proposal" of "Academic & University" industry for a "Grant Writer", we have this Executive Summary:
+
+Executive Summary:
+{{step_1}}
+
+Now, move into developing a detailed introduction that defines the project: {{project_definition}}. This should include the project’s goals, a brief description of the project, its origins, and its importance to the university.
+
+->>>>
+
+In our "Budget Proposal" for the "Academic & University" industry for a "Grant Writer", we have:
+
+Executive Summary:
+{{step_1}}
+
+Project Introduction:
+{{step_2}}
+
+Next, we need to establish a comprehensive budget. Consider all unique costs that pertain to academia, like project equipment, personnel costs, student support, publications, travel, and other directly associated expenses: {{detailed_costs}}.
+
+->>>>
+
+At this point, in our "Budget Proposal" we have:
+
+Executive Summary:
+{{step_1}}
+
+Project Introduction:
+{{step_2}}
+
+Detailed Budget:
+{{step_3}}
+
+Now, enumerate and explain each of the specific costs in the budget. Always match the costs to the project goals to justify the expenses: {{project-goals_and_costs}}.
+
+->>>>
+
+In our "Budget Proposal" for the "Academic & University" sector for a "Grant Writer", we have established:
+
+Executive Summary:
+{{step_1}}
+
+Project Introduction:
+{{step_2}}
+
+Detailed Budget:
+{{step_3}}
+
+Cost Justification:
+{{step_4}}
+
+For the industry-specific section, provide an outline of the potential academic impact of the funding. Include elements such as scholarly publications, conference presentations, thesis/dissertation opportunities, student assistantship opportunities, and other possible academic outcomes.
+
+->>>>
+
+The comprehensive "Budget Proposal" includes:
+
+Executive Summary:
+{{step_1}}
+
+Project Introduction:
+{{step_2}}
+
+Detailed Budget:
+{{step_3}}
+
+Cost Justification:
+{{step_4}}
+
+Academic Impact:
+{{step_5}}
+
+Now let's detail how indirect costs like administrative expense, use of utilities, and other non-direct expenses will be covered: {{indirect_costs}}.
+
+->>>>
+
+Our "Budget Proposal" comprises:
+
+Executive Summary:
+{{step_1}}
+
+Project Introduction:
+{{step_2}}
+
+Detailed Budget:
+{{step_3}}
+
+Cost Justification:
+{{step_4}}
+
+Academic Impact:
+{{step_5}}
+
+Indirect Costs:
+{{step_6}}
+
+Now, it's time to conclude the budget proposal with a summary that emphasizes the proposal goals: {{proposal_goals}} and appeals for the necessary funding.
+

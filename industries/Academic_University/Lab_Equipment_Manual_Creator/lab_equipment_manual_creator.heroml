@@ -1,0 +1,109 @@
+Your task is to write an "Equipment Operation Manual" for the "Academic & University" industry, specifically for a "Lab Technician". 
+
+Let's begin with an introduction that explains what the equipment does. Describe the equipment: {{equipment_description}}.
+
+Here's some more context about the Equipment Operation Manual:
+Equipment Description: {{equipment_description}}
+Purpose And Audience: {{purpose_and_audience}}
+Safety Measures: {{safety_measures}}
+Operation Steps: {{operation_steps}}
+Troubleshooting Tips: {{troubleshooting_tips}}
+Maintenance Procedures: {{maintenance_procedures}}
+Technical Glossary: {{technical_glossary}}
+Additional Resources: {{additional_resources}}
+
+->>>>
+
+The following is a brief description of the equipment:
+
+Equipment Description:
+{{step_1}}
+
+Now, write a brief about what this manual is intended for and whom it benefits: {{purpose_and_audience}}.
+
+->>>>
+
+We have our Equipment Description:
+
+Equipment Description:
+{{step_1}}
+
+And a brief regarding the purpose of this manual and its audience:
+
+Purpose and Audience:
+{{step_2}}
+
+Next, provide a safety caution section that details the measures to be followed while handling the equipment.
+
+->>>>
+
+Our Equipment Operation Manual currently comprises:
+
+Purpose and Audience:
+{{step_2}}
+
+Safety Measures:
+{{step_3}}
+
+Now, we need a usage guide that presents step-by-step instructions on how to operate the equipment.
+
+->>>>
+
+So far in our Equipment Operation Manual, we have:
+
+Safety Measures:
+{{step_3}}
+
+Operation Steps (Usage Guide):
+{{step_4}}
+
+The next section should be troubleshooting tips that outline common issues technicians may encounter with the equipment, and how to solve them.
+
+->>>>
+
+To date, our Equipment Operation Manual features:
+
+Operation Steps:
+{{step_4}}
+
+Troubleshooting Tips:
+{{step_5}}
+
+Next, create a guide on the periodic maintenance procedures to help prolong the lifespan of the equipment.
+
+->>>>
+
+Our Equipment Operation Manual, for lab technicians, includes:
+
+Troubleshooting Tips:
+{{step_5}}
+
+Maintenance Procedures:
+{{step_6}}
+
+The manual should also include a glossary that explains technical terms related to the equipment present throughout the manual.
+
+->>>>
+
+Let's look at what we have so far for our Equipment Operation Manual:
+
+Maintenance Procedures:
+{{step_6}}
+
+Technical Glossary:
+{{step_7}}
+
+Proceed to write a conclusion emphasizing the importance of adhering to the instructions and safety measures stated in the manual when handling the equipment.
+
+->>>>
+
+Our medical equipment operation manual designed for lab technicians includes:
+
+Technical Glossary:
+{{step_7}}
+
+Conclusion:
+{{step_8}}
+
+Finally, append an additional resources section providing information on where to find replacement parts, technical support, or further information about the equipment.
+

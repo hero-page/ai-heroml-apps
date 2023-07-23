@@ -1,0 +1,65 @@
+Your task is to write an "Application Review" for the "Academic & University" industry, specifically for an "Admissions Officer". 
+
+Let's start by creating an introductory summary that provides a brief overview of the applicant: {{applicant_overview}}. This section should also include relevant demographic details, the program applied for, and the date of the application.
+
+Here's some more context about the Application Review:
+Applicant Overview: {{applicant_overview}}
+Academic Performance: {{academic_performance}}
+Extracurricular Achievements: {{extracurricular_achievements}}
+Recommendations: {{recommendations}}
+Assessment Summary: {{assessment_summary}}
+
+->>>>
+
+We have an overview for the "Application Review":
+
+Applicant Overview:
+{{step_1}}
+
+Next, let's proceed to a detailed examination of the applicant's academic qualifications. This section should discuss the applicant's performance in previous academic institutions. Include any special academic achievements or honours received by the applicant.
+
+->>>>
+
+In our "Application Review", we now have the applicant's academic qualifications:
+
+Applicant Overview:
+{{step_1}}
+
+Academic Qualifications:
+{{step_2}}
+
+Continuing on, discuss the applicant's extracurricular activities and achievements: {{extracurricular_achievements}}. Indicate how these activities have contributed to the applicant's personal development, and how they align with the university’s culture and values.
+
+->>>>
+
+We've collected some information about the applicant's extracurricular activities for our "Application Review":
+
+Applicant Overview:
+{{step_1}}
+
+Academic Qualifications:
+{{step_2}}
+
+Extracurricular Achievements:
+{{step_3}}
+
+Next, include the applicant's recommendation letters or references in the review. Analyze these third-party opinions on the applicant's ability and potential.
+
+->>>>
+
+In the "Application Review", we've included all necessary evaluations:
+
+Applicant Overview:
+{{step_1}}
+
+Academic Qualifications:
+{{step_2}}
+
+Extracurricular Achievements:
+{{step_3}}
+
+Recommendations:
+{{step_4}}
+
+Finally, we need to assess the applicant's suitability for the program they have applied for. This should include your professional opinion of the applicant, their strengths and weaknesses, how they might contribute to the university and program, and any areas of concern.
+

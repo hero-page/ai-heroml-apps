@@ -1,0 +1,112 @@
+Your task is to write a Research Paper for the Academic & University industry, specifically designed for a Researcher. 
+Let's start by writing an abstract that provides a summary of the entire research: {{research_summary}}.
+
+Here's some more context about the Research Paper:
+Research Summary: {{research_summary}}
+Research Context: {{research_context}}
+Previous Works: {{previous_works}}
+Research Design: {{research_design}}
+Research Results: {{research_results}}
+Findings Interpretation: {{findings_interpretation}}
+Research Conclusion: {{research_conclusion}}
+Cited Sources: {{cited_sources}}
+
+->>>>
+
+Now, we have the abstract for our research paper:
+
+Abstract:
+{{step_1}}
+
+Next, let's write an introduction that provides context to the research topic {{research_context}}, including a clear problem statement and the relevance of the problem.
+
+->>>>
+
+At this point, we have an abstract and introduction for our research paper:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, we should proceed to the literature review section that synthesizes and critiques previous works relating to the research topic {{previous_works}}.
+
+->>>>
+
+We now have an abstract, an introduction, and a literature review for our research paper:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature review:
+{{step_3}}
+
+Next, let's write the methodology section that presents the design of the study or experiment: {{research_design}}.
+
+->>>>
+
+We've completed the methodology section, and so far our research paper has the following sections:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Now, we need to discuss and analyze the results or findings from your study or experiment in a results section: {{research_results}}.
+
+->>>>
+
+At this point, our research paper with the abstract, introduction, literature review, methodology, and results sections:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Next, provide an interpretation of your findings in a discussion section, relating them to the existing knowledge in the field: {{findings_interpretation}}.
+
+->>>>
+
+Our research has the following parts:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Discussion:
+{{step_6}}
+
+Now, it's time to conclude the research paper with a summary of the whole research, emphasizing the key findings and their implications in the field: {{research_conclusion}}.
+

@@ -1,0 +1,81 @@
+Your task is to write a "Career Guide" for the "Academic & University" industry, specifically for a "Career Counselor". 
+
+Let's begin by writing an introduction that explains the purpose of the career guide: {{purpose_of_guide}}. This introduction should provide an overview of what the Career Counselors are expected to get from the guide.
+
+Here's some more context about the Career Guide:
+Purpose Of Guide: {{purpose_of_guide}}
+Recurrent Themes: {{recurrent_themes}}
+Desired Competencies: {{desired_competencies}}
+Selected Core Values: {{selected_core_values}}
+Career Pathways And Challenges: {{career_pathways_and_challenges}}
+Chosen Resources: {{chosen_resources}}
+
+->>>>
+
+So far, we have created the introduction for the our Career Guide:
+
+Introduction:
+{{step_1}}
+
+Let's now write an overview of the "Career Counselor" role, highlighting duties and skills required. This section should incorporate the {{recurrent_themes}} identified from our research about the Career Counselor field.
+
+->>>>
+
+In our Career Guide, we have an introduction and a detailed overview of the "Career Counselor" role:
+
+Introduction:
+{{step_1}}
+
+Role of a Career Counselor:
+{{step_2}}
+
+Next, we need to explore the key competencies and qualifications required in the Career Counseling field. This discussion should reference the {{desired_competencies}} provided by the user.
+
+->>>>
+
+So far in our Career Guide, we have provided an introduction, an overview of the "Career Counselor" role, and a comprehensive exploration of key competencies:
+
+Introduction:
+{{step_1}}
+
+Role of a Career Counselor:
+{{step_2}}
+
+Key Competencies:
+{{step_3}}
+
+Given the nature of the Career Counseling job, it's important to include a section on ethics and professionalism that aligns with the {{selected_core_values}} chosen by the user.
+
+->>>>
+
+In our Career Guide, we have discussed the role of a Career Counselor, key competencies, and we have just added a section on ethics and professionalism:
+
+Role of a Career Counselor:
+{{step_2}}
+
+Key Competencies:
+{{step_3}}
+
+Ethics and Professionalism:
+{{step_4}}
+
+Let's move on to present the possible career paths, advancement opportunities, and potential challenges faced by Career Counselors. Align this content with the user's input for {{career_pathways_and_challenges}}.
+
+->>>>
+
+So far in our Career Guide, we have outlined the role, competencies, and ethics of a Career Counselor, and we've just detailed the possible career paths:
+
+Role of a Career Counselor:
+{{step_2}}
+
+Key Competencies:
+{{step_3}}
+
+Ethics and Professionalism:
+{{step_4}}
+
+Career Paths and Opportunities:
+{{step_5}}
+
+Next, we need to provide some resources such as relevant articles, publications, and associations for Career Counselors. Base this information on the {{chosen_resources}} supplied by the user. 
+

@@ -1,0 +1,139 @@
+Your task is to write a "Grant Proposal" for the "Academic & University" industry, specifically for a "Grant Writer". 
+
+Let's start by writing an executive summary. This should provide a concise overview of the proposal, including the purpose, the connected research or project, its expected outcomes, and how it aligns with the goals of the funding body: {{funding_body_goals}}. 
+
+Here's some more context about the Grant Proposal:
+Funding Body Goals: {{funding_body_goals}}
+Problem Statement: {{problem_statement}}
+Project Aims: {{project_aims}}
+Methodology: {{methodology}}
+Anticipated Results: {{anticipated_results}}
+Project Personnel Qualifications: {{project_personnel_qualifications}}
+Project Timeline: {{project_timeline}}
+
+->>>>
+
+Now, we have an executive summary for our grant proposal:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's write an introduction. This part contains more background information about the problem statement or research question to be addressed: {{problem_statement}}. It should also focus on the significance of addressing this issue in the academic and university setting.
+
+->>>>
+
+So far, we have the executive summary and introduction for our grant proposal:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next up, we need to present a detailed project description. This part should include information like the specific aims, methodology, and anticipated results: {{project_aims}}, {{methodology}}, and {{anticipated_results}}.
+
+->>>>
+
+At this point, we have the executive summary, introduction, and project description for our grant proposal:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Description:
+{{step_3}}
+
+Now, let's list who will be involved in the project and their roles. Detail the project personnel and their qualifications: {{project_personnel_qualifications}}. This part should highlight their expertise relevant to the project.
+
+->>>>
+
+So far in our proposal, we have detailed the executive summary, introduction, project description, and the project personnel:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Description:
+{{step_3}}
+
+Project Personnel and their Qualifications:
+{{step_4}}
+
+Next, let's outline a timeline for the project. This should include the key tasks, milestones, and expected completion dates: {{project_timeline}}.
+
+->>>>
+
+At this stage, our grant proposal contains the executive summary, introduction, project description, project personnel, and a comprehensive timeline:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Description:
+{{step_3}}
+
+Project Personnel and their Qualifications:
+{{step_4}}
+
+Project Timeline:
+{{step_5}}
+
+Next, provide a budget section. Detail the estimated total cost of the project and how funds will be allocated across different activities, materials, or personnel. Also outline any potential financial sustainability plan beyond the grant period.
+
+->>>>
+
+Our proposal has so far covered the executive summary, introduction, project description, project personnel, timeline, and budget:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Description:
+{{step_3}}
+
+Project Personnel and their Qualifications:
+{{step_4}}
+
+Project Timeline:
+{{step_5}}
+
+Budget:
+{{step_6}}
+
+Next, let's incorporate information about the institutional capacity: Describe how the university's facilities, resources, and environment support the successful completion of the project. This might include research labs, libraries, or experienced staff.
+
+->>>>
+
+With the addition of the preceding step, our proposal now includes the executive summary, introduction, project description, project personnel, timeline, budget, and information about the institutional capacity:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Description:
+{{step_3}}
+
+Project Personnel and their Qualifications:
+{{step_4}}
+
+Project Timeline:
+{{step_5}}
+
+Budget:
+{{step_6}}
+
+Institutional Capacity:
+{{step_7}}
+
+Lastly, conclude the proposal by emphasizing the impact and benefits of the proposed project to the academic community and the wider society.
+

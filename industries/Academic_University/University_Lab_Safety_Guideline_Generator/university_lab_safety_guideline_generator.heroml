@@ -1,0 +1,93 @@
+Your task is to write a "Lab Safety Rules" for the "Academic & University" industry, specifically for a "Lab Technician". 
+
+Let's start with an introduction that outlines the significance of "Lab Safety Rules" in the "Academic & University" industry. This should help to convey to the lab technicians the value and importance of these rules.
+
+Here's some more context about the Lab Safety Rules:
+Significance Of Lab Safety Rules: {{significance_of_lab_safety_rules}}
+General Safety Rules: {{general_safety_rules}}
+Specific Lab Type: {{specific_lab_type}}
+Equipment Safety Guidelines: {{equipment_safety_guidelines}}
+Emergency Procedures: {{emergency_procedures}}
+
+->>>>
+
+Now that we have set the context for our Lab Safety Rules:
+
+Introduction:
+{{step_1}}
+
+Next, let's compile general safety guidelines which are applicable to all types of labs. This section should include best practices for a safe lab environment, personal protective equipment, handling lab materials and dealing with emergencies or accidents.
+
+->>>>
+
+After presenting an introduction to our Lab Safety Rules:
+
+Introduction:
+{{step_1}}
+
+We have now outlined the general safety rules:
+
+General Safety Rules:
+{{step_2}}
+
+Now, let's move on to write specific lab safety rules, that reflect the unique needs and requirements of different types of labs (like chemistry, physics, or biology labs).
+
+->>>>
+
+We have general safety rules for a lab:
+
+General Safety Rules:
+{{step_2}}
+
+And now, we also have specific rules for different types of labs:
+
+Specific Lab Safety Rules:
+{{step_3}}
+
+Next, we need to include a section in the Lab Safety Rules that focuses on equipment safety. Let's outline guidelines on how to use, maintain, and dispose of various types of lab equipment safely.
+
+->>>>
+
+From the safety rules:
+
+General Safety Rules:
+{{step_2}}
+
+Specific Lab Safety Rules:
+{{step_3}}
+
+Now, we have rules pertaining to equipment safety:
+
+Equipment Safety Guidelines:
+{{step_4}}
+
+Now, let's compile a set of standard procedures that the lab technician must follow in case of a lab mishap or accident. This section should include action plans and emergency procedures for different types of adverse incidents.
+
+->>>>
+
+We now have safety guidelines for lab equipment:
+
+Equipment Safety Guidelines:
+{{step_4}}
+
+Next, we provide procedures to follow in case of emergencies:
+
+Emergency Procedures:
+{{step_5}}
+
+Let's now create a summary or conclusion that reiterates the importance of adhering to lab safety rules, potential risks of not following them, and reminders to update their knowledge of safety protocols regularly.
+
+->>>>
+
+We have compiled emergency procedures:
+
+Emergency Procedures:
+{{step_5}}
+
+Now, here is the concluding summary of our "Lab Safety Rules":
+
+Concluding Summary:
+{{step_6}}
+
+Lastly, we must include proper references to our sources of specific rules or regulations, to ensure the credibility and accuracy of our Lab Safety Rules.
+

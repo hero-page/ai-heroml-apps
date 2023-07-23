@@ -1,0 +1,98 @@
+To generate a "Data Analysis Report" in the "Academic & University" industry for a "Researcher", follow the steps outlined below:
+
+Starting, let's write an informative abstract that provides an overview of the data analysis report, including the research problem, methodologies, major findings, and implications. 
+
+Here's some more context about the Data Analysis Report:
+Abstract Overview: {{abstract_overview}}
+Research Problem: {{research_problem}}
+Literature Review: {{literature_review}}
+Methodology: {{methodology}}
+Data Findings: {{data_findings}}
+Discussion Points: {{discussion_points}}
+Conclusion Points: {{conclusion_points}}
+Reference List: {{reference_list}}
+
+->>>>
+
+We have begun our Data Analysis Report with:
+
+Abstract Overview:
+{{step_1}}
+
+Moving forward, let's develop an introduction that defines the research problem, explains its importance, and states the objectives of the research.
+
+->>>>
+
+We have crafted an Introduction for our Data Analysis Report that builds on the abstract:
+
+Abstract Overview:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+We need to incorporate a literature review section next. This section should summarize previous research studies related to your topic, providing context for our own research and emphasizing the need for our study.
+
+->>>>
+
+We now have an Introduction and a Literature review for our Data Analysis Report:
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Let's proceed with the methodology section that clearly outlines the procedures used in the research process, including data collection and analysis methods.
+
+->>>>
+
+Our Data Analysis Report now includes an Introduction, Literature review, and Methodology:
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+In the results section, we should present the outcomes of our data analysis. Let's generate this section by summarizing the findings without interpretation.
+
+->>>>
+
+Our Data Analysis Report now includes the Results as well:
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+The next section is the Discussion, where we shall interpret the results, compare them with previous studies, and discuss implications for future research.
+
+->>>>
+
+Our Data Analysis Report now includes the Discussion derived from our Results:
+
+Results:
+{{step_5}}
+
+Discussion:
+{{step_6}}
+
+We should now proceed to the conclusion of the report. Let's put together a conclusion that summarizes the main points of the research, data analysis, the implications of findings, and identifies opportunities for future research.
+
+->>>>
+
+Our Data Analysis Report now includes the Conclusion:
+
+Discussion:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+To finish off, let's compile a list of references that mention all books, articles, and other resources used in the research.
+

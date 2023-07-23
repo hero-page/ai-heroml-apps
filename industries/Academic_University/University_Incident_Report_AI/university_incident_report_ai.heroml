@@ -1,0 +1,87 @@
+For generating an "Incident Report" in the "Academic & University" industry for a "Campus Security Officer", let's begin with drafting an initial summary that briefly describes the nature of {{nature_of_incident}}. Use clear, concise, and formal language suitable for official records. Accuracy and honesty are paramount.
+
+Here's some more context about the Incident Report:
+Nature Of Incident: {{nature_of_incident}}
+Time Date Location: {{time_date_location}}
+Detailed Description: {{detailed_description}}
+Involved Parties: {{involved_parties}}
+Immediate Action Taken: {{immediate_action_taken}}
+Subsequent Action Taken: {{subsequent_action_taken}}
+Property Involved: {{property_involved}}
+Evidence Collected: {{evidence_collected}}
+Incident Summary: {{incident_summary}}
+
+->>>>
+
+Having described the nature of the incident, we now have:
+
+Incident Summary:
+{{step_1}}
+
+Next, specify the exact time, date, and location where the incident occurred: {{time_date_location}}.
+
+->>>>
+
+We have the time, date, and location of the incident:
+
+Incident Time, Date & Location:
+{{step_2}}
+
+Now, using any quoted witness statements or other direct sources, let's provide an in-depth description of the incident, explaining what took place in a sequential manner: {{detailed_description}}.
+
+->>>>
+
+We have generated a detailed description of the incident:
+
+Incident Description:
+{{step_3}}
+
+Let's go forward with listing any involved parties including witness, suspect, and victim information: {{involved_parties}}. Kindly, consider privacy guidelines and policies while mentioning any involved parties.
+
+->>>>
+
+Now we have the details about all parties involved in the incident:
+
+Involved Parties:
+{{step_4}}
+
+Now, describe the immediate action taken by campus security after the incident was reported or observed: {{immediate_action_taken}}.
+
+->>>>
+
+We have detailed the immediate response by campus security:
+
+Immediate Actions Taken:
+{{step_5}}
+
+Next, discuss any subsequent actions undertaken such as involving local law enforcement or campus administration: {{subsequent_action_taken}}.
+
+->>>>
+
+We have detailed the subsequent actions undertaken: 
+
+Subsequent Actions Taken:
+{{step_6}}
+
+Now, take an inventory of any property that was lost, stolen, or damaged during the incident: {{property_involved}}. Keep track of the incident's impact in terms of both safety and cost to the university, which can be valuable for university policy consideration.
+
+->>>>
+
+Now we have outlined properties affected during the incident:
+
+Property Involved:
+{{step_7}}
+
+Detail any evidence secured at the scene or from the CCTV footage with specifics about what the evidence indicates: {{evidence_collected}}.
+
+->>>>
+
+We have detailed the evidence, secured at the scene or from CCTV footage:
+
+Evidence Collected:
+{{step_8}}
+
+As a final step, provide a conclusion that summarizes the incident, actions taken, and suggest preventative measures to avoid a similar instance in the future: {{incident_summary}}. 
+
+Remember to complete and file the incident report in a timely manner with the correct authorities, reflecting your training in handling such incidents and using industry-specific terminology.
+

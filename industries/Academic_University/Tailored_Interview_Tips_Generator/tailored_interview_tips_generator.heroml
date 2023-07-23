@@ -1,0 +1,143 @@
+Your task is to write "Interview Tips" for the "Academic & University" industry, specifically for a "Career Counselor". 
+
+Let's start by crafting an engaging introduction that summarizes the purpose of the "Interview Tips": {{purpose_of_tips}}.
+
+Here's some more context about the Interview Tips:
+Purpose Of Tips: {{purpose_of_tips}}
+Key Responsibilities: {{key_responsibilities}}
+Industry Needs: {{industry_needs}}
+Common Scenarios: {{common_scenarios}}
+Common Mistakes: {{common_mistakes}}
+
+->>>>
+
+We have written an introduction for our "Interview Tips" that summarizes the purpose:
+
+Introduction:
+{{step_1}}
+
+Next, create a section that provides an understanding of the essence of a career counselor role in the academic sector. Use key responsibilities to create content that is relevant and informative.
+
+->>>>
+
+For our "Interview Tips", we have an introduction and clear understanding of the career counselor role:
+
+Introduction:
+{{step_1}}
+
+Role Understanding:
+{{step_2}}
+
+
+Now, draft a part outlining general interview tips including essential soft skills. Discuss attributes like communication skills, emotional intelligence, problem-solving skills, and adaptability.
+
+->>>>
+
+Thus far, we have:
+
+Introduction:
+{{step_1}}
+
+Role Understanding:
+{{step_2}}
+
+General Interview Tips:
+{{step_3}}
+
+
+Moving forward, devise a segment focusing on academic sector-specific interview tips, based on unique needs in the education sector.
+
+->>>>
+
+Our "Interview Tips" for a "Career Counselor" in the "Academic & University" sector currently feature:
+
+Introduction:
+{{step_1}}
+
+Role Understanding:
+{{step_2}}
+
+General Interview Tips:
+{{step_3}}
+
+Academic Sector Specific Tips:
+{{step_4}}
+
+
+Next, write a detailed step-by-step guide on typical interview scenarios in the academic sector, making it practical and relatable.
+
+->>>>
+
+In our "Interview Tips", we now have:
+
+Introduction:
+{{step_1}}
+
+Role Understanding:
+{{step_2}}
+
+General Interview Tips:
+{{step_3}}
+
+Academic Sector Specific Tips:
+{{step_4}}
+
+Interview Scenarios Guide:
+{{step_5}}
+
+
+Following that, embed a section that tackles common misconceptions and errors made during interviews.
+
+->>>>
+
+In our "Interview Tips" document, we have:
+
+Introduction:
+{{step_1}}
+
+Role Understanding:
+{{step_2}}
+
+General Interview Tips:
+{{step_3}}
+
+Academic Sector Specific Tips:
+{{step_4}}
+
+Interview Scenarios Guide:
+{{step_5}}
+
+Common Misconceptions and Errors:
+{{step_6}}
+
+
+Let's now create a conclusion summarizing how these "Interview Tips" can potentially enhance the interviewee's performance. Refocus on the initial purpose of the tips.
+
+->>>>
+
+In the "Interview Tips" document, we've added a conclusion. The document now contains:
+
+Introduction:
+{{step_1}}
+
+Role Understanding:
+{{step_2}}
+
+General Interview Tips:
+{{step_3}}
+
+Academic Sector Specific Tips:
+{{step_4}}
+
+Interview Scenarios Guide:
+{{step_5}}
+
+Common Misconceptions and Errors:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+
+Lastly, formulate a final reminder that emphasizes the importance of thorough research about the specific institution, the role, and the academic sector in general.
+

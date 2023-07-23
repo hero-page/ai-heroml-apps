@@ -1,0 +1,56 @@
+Let's prepare a "Study Guide" for the "Academic & University" industry for an "Undergraduate Student". Let's start by writing an introductory paragraph summarizing the main aim of the study guide: {{study_aim}}.
+
+Here's some more context about the Study Guide:
+Study Aim: {{study_aim}}
+Course Topics: {{course_topics}}
+Topic Overview: {{topic_overview}}
+Specific Topic Facts: {{specific_topic_facts}}
+Industry Application: {{industry_application}}
+Specific Topic Questions: {{specific_topic_questions}}
+Topic Takeaways: {{topic_takeaways}}
+
+->>>>
+
+Now we have an introduction for our study guide, which explains its purpose:
+
+Introduction:
+{{step_1}}
+
+Next, let's create a syllabus outline that lists the various topics and subtopics to be covered within the course.
+
+->>>>
+
+We now have a syllabus outline:
+
+Syllabus Outline:
+{{step_2}}
+
+Based on this outline, let's expand on each topic in individual sections. Each section should start with an overview of the topic and outline key points, theories, facts, or formulas that are critical to understanding the particular topic.
+
+->>>>
+
+We now have detailed sections for each topic:
+
+Individual Topic Sections:
+{{step_3}}
+
+For each topic, let's now provide a section dedicated to explaining any available real-world application or industry relevance.
+
+->>>>
+
+Now we have industry and real-world applications for each topic:
+
+Industry and Real-World Applications:
+{{step_4}}
+
+Let's continue by including a section for self-assessment after every topic. This could include multiple choice questions, fill in the blanks, or short answer questions.
+
+->>>>
+
+We now have a self-assessment section for each topic:
+
+Self-assessment Sections:
+{{step_5}}
+
+Next, let's conclude each topic section with a brief summary capturing key takeaways.
+

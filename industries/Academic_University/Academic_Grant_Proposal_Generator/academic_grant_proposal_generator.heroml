@@ -1,0 +1,67 @@
+Your task is to write a "Letter of Inquiry" for the "Academic & University" industry, aimed toward a "Grant Writer". Let's start by drafting an introduction that explains the purpose of the letter, your interest in the funding opportunity: {{funding_interest}}, and introduces the organization you are representing: {{your_organization}}.
+
+Here's some more context about the Letter of Inquiry:
+Funding Interest: {{funding_interest}}
+Your Organization: {{your_organization}}
+Project Needs: {{project_needs}}
+Project Solution: {{project_solution}}
+Grant Usage: {{grant_usage}}
+Your Name And Title: {{your_name_and_title}}
+
+->>>>
+
+With the introduction for the letter of inquiry drafted:
+
+Introduction:
+{{step_1}}
+
+Let's now write the second paragraph. Talk about the need or problem that your project or research aims to address: {{project_needs}}. Make sure to back up this section with substantial data or evidence to strengthen your case.
+
+->>>>
+
+In our "Letter of Inquiry", this is our introduction and the highlighted problem or need:
+
+Introduction:
+{{step_1}}
+
+Problem/Need:
+{{step_2}}
+
+Now, describe specifically how your project or research will provide a solution to the identified problem or need: {{project_solution}}. This description should include a brief summary of your project's objectives, methodology, and expected outcomes.
+
+->>>>
+
+For our "Letter of Inquiry", we have the identified problem/need and our proposed solution:
+
+Problem/Need:
+{{step_2}}
+
+Proposed Solution:
+{{step_3}}
+
+In the next paragraph, detail how the grant will be used if awarded: {{grant_usage}}. This information should include a rough estimate of the project budget and specify how the funds will support the achievement of the project's objectives.
+
+->>>>
+
+In our "Letter of Inquiry" we now have the proposed solution and details of grant usage:
+
+Proposed Solution:
+{{step_3}}
+
+Grant Usage:
+{{step_4}}
+
+Now, conclude the letter with a call to action, encouraging the grantor to consider your proposal. Please express your readiness to provide further information as needed.
+
+->>>>
+
+With the call to action, our "Letter of Inquiry" now includes the grant usage and a conclusion urging the grantor's consideration:
+
+Grant Usage:
+{{step_4}}
+
+Conclusion/Call to Action:
+{{step_5}}
+
+Always end the letter by appreciating the grantor's time and consideration. This should be followed by a formal closing ('Yours sincerely'), and your full name and title: {{your_name_and_title}}.
+

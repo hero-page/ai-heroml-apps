@@ -1,0 +1,65 @@
+Your task is to write an "Essay" for the "Academic & University" industry, specifically for an "Undergraduate Student". 
+Let's begin with an engaging introduction that explains the topic or argument {{essay_topic}}. Be sure to include a thought-provoking title or question, a jargon-free definition of the topic, and a concise thesis statement.
+
+Here's some more context about the Essay:
+Essay Topic: {{essay_topic}}
+Primary Points: {{primary_points}}
+Supporting Evidence: {{supporting_evidence}}
+
+->>>>
+
+We are creating an academic essay on the domain of {{essay_topic}}. We have an engaging introduction for our essay:
+
+Introduction:
+{{step_1}}
+
+Next, let's divide the essay into coherent sections. Each section should focus on one out of the {{primary_points}}, which could be fact-based arguments, an analysis of specific aspects of the topic, or critique and commentary on existing literature.
+
+->>>>
+
+We have divided the essay into structured sections, each focusing on a primary point. Our essay now looks as follows:
+
+Introduction:
+{{step_1}}
+
+Primary Points:
+{{step_2}}
+
+Moving on, let's embellish each section with relevant supporting evidence {{supporting_evidence}}. This can include observations, anecdotes, research data, references to academic materials or real-world examples related to the topic.
+
+->>>>
+
+For each of our primary points, we have included supporting evidence. Our essay's body contains:
+
+Primary Points with Evidence:
+{{step_3}}
+
+Now, incorporate critical analysis and reflection throughout the essay. Examine and explain the implications, significance, and impact of your evidence, and how it reinforces your supporting point and overall thesis.
+
+->>>>
+
+With detailed critical analysis, our essay consists of:
+
+Evidence with Critical Analysis:
+{{step_4}}
+
+For the language and style, use academic language consistently, incorporating industry-specific insights and terminology that demonstrate your understanding of the {{essay_topic}} and its relevance to your field of study.
+
+->>>>
+
+With precise academic language, our essay is composed as follows:
+
+Essay with Academic Language:
+{{step_5}}
+
+Now, let's summarize, interpret, and synthesize your arguments. Restate your thesis in light of the evidence you have presented, and include your final conclusions or recommendations regarding the {{essay_topic}}.
+
+->>>>
+
+We have a conclusion for our essay, summarizing, interpreting, and synthesizing our arguments:
+
+Essay with Conclusion:
+{{step_6}}
+
+Next, append a properly formatted reference list to credit all sources you have referenced in the essay according to the referencing style that is standard in your university.
+

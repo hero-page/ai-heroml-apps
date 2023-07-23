@@ -1,0 +1,107 @@
+Here is your task to create a "Student Feedback" for a "Teaching Assistant" in the "Academic & University" industry. 
+Let's start by writing an introduction that states the purpose of the feedback and provides context for your relationship with the {{teaching_assistant}}.
+
+Here's some more context about the Student Feedback:
+Teaching Assistant: {{teaching_assistant}}
+Specific Instance 1: {{specific_instance_1}}
+Specific Instance 2: {{specific_instance_2}}
+
+->>>>
+
+Now, you have the introduction for your "Student Feedback":
+
+Introduction:
+{{step_1}}
+
+Next, write an overall assessment of the {{teaching_assistant}}, including highlighting their strengths.
+
+->>>>
+
+With the introduction and overall assessment complete, this is your feedback so far:
+
+Introduction:
+{{step_1}}
+
+Overall Assessment:
+{{step_2}}
+
+Moving forward, provide specific experiences from your classroom with the {{teaching_assistant}}. Mention their helpfulness, clarity in explanations, availability for discussions, responsiveness, and interaction.
+
+->>>>
+
+Now you have an introduction, an overall assessment, and a detailed account of your experiences. Here is your current feedback:
+
+Introduction:
+{{step_1}}
+
+Overall Assessment:
+{{step_2}}
+
+Specific Experiences:
+{{step_3}}
+
+For the next step, detail how the {{teaching_assistant}} has helped in enhancing your understanding of the academic subject matter.
+
+->>>>
+
+Now, this is your feedback: 
+
+Introduction:
+{{step_1}}
+
+Overall Assessment:
+{{step_2}}
+
+Specific Experiences:
+{{step_3}}
+
+Teaching Capability:
+{{step_4}}
+
+Now, let's give constructive criticism. Remember, not all feedback is positive; however, it should be constructive and assist the {{teaching_assistant}} in understanding the areas of improvement.
+
+->>>>
+
+We have the feedback's Introduction, Overall Assessment, Specific Experiences, Teaching Capability, and now a section on constructive criticism:
+
+Introduction:
+{{step_1}}
+
+Overall Assessment:
+{{step_2}}
+
+Specific Experiences:
+{{step_3}}
+
+Teaching Capability:
+{{step_4}}
+
+Constructive Criticism:
+{{step_5}}
+
+Moving on, suggest actions which the {{teaching_assistant}} might consider to improve future learning experiences.
+
+->>>>
+
+Now you have added recommendations to your feedback:
+
+Introduction:
+{{step_1}}
+
+Overall Assessment:
+{{step_2}}
+
+Specific Experiences:
+{{step_3}}
+
+Teaching Capability:
+{{step_4}}
+
+Constructive Criticism:
+{{step_5}}
+
+Recommendations:
+{{step_6}}
+
+To conclude the feedback, let's sign off politely. Write a closing statement that includes a final expression of appreciation for the TA's efforts.
+

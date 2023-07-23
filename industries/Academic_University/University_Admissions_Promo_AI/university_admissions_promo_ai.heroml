@@ -1,0 +1,86 @@
+First, let's start by creating an engaging introduction that briefly describes your university and its strengths relating to {{University_description}}.
+
+Here's some more context about the Promotional Material:
+University Description: {{University_description}}
+Distinguished Programs: {{Distinguished_programs}}
+Admissions Process: {{Admissions_process}}
+Uniqueness And Benefits: {{Uniqueness_and_Benefits}}
+Testimonials: {{Testimonials}}
+Financial Assistance: {{Financial_assistance}}
+Call To Action: {{Call_to_action}}
+
+->>>>
+
+Now, we have an introductory description of our university:
+
+University Introduction:
+{{step_1}}
+
+Next, let's highlight distinguished programs, academic departments, or unique opportunities offered at your university using the content from {{Distinguished_programs}}.
+
+->>>>
+
+Our university has been introduced and we have highlighted distinguished programs:
+
+University Introduction:
+{{step_1}}
+
+Highlighted Programs:
+{{step_2}}
+
+Moving on, let's break down the admissions process in a clear, step-by-step manner using the content from {{Admissions_process}}.
+
+->>>>
+
+For the university we have an introduction, highlighted programs and now the admissions process:
+
+University Introduction:
+{{step_1}}
+
+Highlighted Programs:
+{{step_2}}
+
+Admissions Process:
+{{step_3}}
+
+Next, include compelling reasons why choosing your university is advantageous, with a focus on the benefits to the students and their career prospects. Use content from {{Uniqueness_and_Benefits}}.
+
+->>>>
+
+Our promotional material includes an introduction to the university, outlined programs, the admissions process, along with the unique benefits of choosing our university:
+
+University Introduction:
+{{step_1}}
+
+Highlighted Programs:
+{{step_2}}
+
+Admissions Process:
+{{step_3}}
+
+Uniqueness and Benefits:
+{{step_4}}
+
+Now, we will focus on the students and alumni. Please narrate testimonials from successful students/alumni, focusing on how the university contributed to their success using content from {{Testimonials}}.
+
+->>>>
+
+In our promotional material we have inclusion of the university introduction, highlighted programs, admissions process, benefits of choosing our university, and testimonials from students and alumni:
+
+University Introduction:
+{{step_1}}
+
+Highlighted Programs:
+{{step_2}}
+
+Admissions Process:
+{{step_3}}
+
+Uniqueness and Benefits:
+{{step_4}}
+
+Testimonials:
+{{step_5}}
+
+Let's discuss financial aid options. Promote financial aid options, scholarships, and grants available to students, if any, using {{Financial_assistance}} information provided.
+

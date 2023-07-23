@@ -1,0 +1,108 @@
+Your task is to write an "Event Plan" for the "Academic & University" industry, specifically for a "Student Affairs Officer". 
+
+Start by crafting an introduction to the event plan, set the context and clarify the purpose of the event. The introduction should be succinct and compelling: {{event_purpose}}.
+
+Here's some more context about the Event Plan:
+Event Purpose: {{event_purpose}}
+Target Audience: {{target_audience}}
+Event Timeline: {{event_timeline}}
+Required Resources: {{required_resources}}
+Intended Outcomes: {{intended_outcomes}}
+Risk Management: {{risk_management}}
+
+->>>>
+
+Now, we have created an introduction and the purpose of the event:
+
+Introduction & Purpose:
+{{step_1}}
+
+Next, let's identify and clearly state the target audience for the event, which may include specific student groups, faculty members, or the entire university body: {{target_audience}}.
+
+->>>>
+
+For our event plan, we've identified:
+
+Introduction & Purpose:
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Proceeding further, let's craft a timeline detailing the activities to be performed in the preparation, execution, and post-event phases. This should outline the sequence of actions and key milestones for the event: {{event_timeline}}.
+
+->>>>
+
+For our event plan, we have the following components:
+
+Introduction & Purpose:
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Event Timeline:
+{{step_3}}
+
+Next, list the resources required for the event, both human (volunteers, guest speakers, etc.) and material (venue, supplies, etc.). Also, outline a plan explaining how these resources will be mobilized efficiently: {{required_resources}}.
+
+->>>>
+
+Until now, our event plan has:
+
+Introduction & Purpose:
+{{step_1}}
+
+Event Timeline:
+{{step_3}}
+
+Required Resources & Mobilization:
+{{step_4}}
+
+Now, let's explain the expected outcomes of the event. Define the qualitative (like satisfaction and engagement) and quantitative (like attendance rate, surveys) measures to evaluate event's success: {{intended_outcomes}}.
+
+->>>>
+
+For our event plan:
+
+Introduction & Purpose:
+{{step_1}}
+
+Required Resources & Mobilization:
+{{step_4}}
+
+Intended Outcomes:
+{{step_5}}
+
+Now, anticipate potential risks and craft a risk management strategy. Consider unexpected challenges such as weather conditions, low turnout, or other unforeseen circumstances and draw up backup plans: {{risk_management}}.
+
+->>>>
+
+Our event plan so far includes:
+
+Introduction & Purpose:
+{{step_1}}
+
+Intended Outcomes:
+{{step_5}}
+
+Risk Management:
+{{step_6}}
+
+Now, conclude the event plan by restating the purpose: {{event_purpose}}. Summarize the plan's key points and include language that incites voluntary participation in the event.
+
+->>>>
+
+The event plan now includes:
+
+Introduction & Purpose:
+{{step_1}}
+
+Risk Management:
+{{step_6}}
+
+Conclusion & Voluntary Participation:
+{{step_7}}
+
+Lastly, bearing in mind that the event is in an academic setting, where stakeholders range from students and parents to staff and alumni, ensure to include industry-specific considerations influencing the event structure. Use this understanding to align the event plan with the academic calendar and respect academic policies and procedures.
+

@@ -1,0 +1,110 @@
+First, create an introduction to the "Course Selection Guide". The introduction should include a brief explanation of the guide's purpose and its importance in the "Academic & University" industry, specifically for an "Academic Advisor". 
+
+Here's some more context about the Course Selection Guide:
+Guide Purpose: {{guide_purpose}}
+Academic Department: {{academic_department}}
+Course Description: {{course_description}}
+Degree Plan: {{degree_plan}}
+Course Prerequisites: {{course_prerequisites}}
+FAQs: {{FAQs}}
+Contact Information: {{contact_information}}
+
+->>>>
+
+Now we have the introduction for our "Course Selection Guide":
+
+Introduction:
+{{step_1}}
+
+Next, provide specifics for each course. The details should include the course name, course code, description, prerequisites, co-requisites, and credit hours. These should be presented according to the identified academic department or another logical order that fits the institution.
+
+->>>>
+
+The "Course Selection Guide" currently contains:
+
+Introduction:
+{{step_1}}
+
+Course Details:
+{{step_2}}
+
+Moving forward, for each course, elaborate on the description. Highlight the topics covered, learning outcomes, and the teaching method, whether lecture-based, lab-based, or a mix of both.
+
+->>>>
+
+Now, the "Course Selection Guide" has:
+
+Introduction:
+{{step_1}}
+
+Course Details:
+{{step_2}}
+
+Expanded Course Descriptions:
+{{step_3}}
+
+Afterwards, create a degree plan showing the sequence of courses taken each semester to complete a particular degree program. Customize this plan based on full-time and part-time options, and any specialties within the degree.
+
+->>>>
+
+The "Course Selection Guide" currently comprises:
+
+Introduction:
+{{step_1}}
+
+Course Details:
+{{step_2}}
+
+Expanded Course Descriptions:
+{{step_3}}
+
+Degree Plan:
+{{step_4}}
+
+Next, compile information about pre- and co-requisites for each course. This will assist students in planning their course sequences effectively.
+
+->>>>
+
+The "Course Selection Guide" includes the following sections:
+
+Introduction:
+{{step_1}}
+
+Course Details:
+{{step_2}}
+
+Expanded Course Descriptions:
+{{step_3}}
+
+Degree Plan:
+{{step_4}}
+
+Course Pre- and Co-Requisites:
+{{step_5}}
+
+After that, make a list of frequently asked questions with their corresponding answers to address any common questions or concerns students may have about course selection.
+
+->>>>
+
+The "Course Selection Guide" now contains:
+
+Introduction:
+{{step_1}}
+
+Course Details:
+{{step_2}}
+
+Expanded Course Descriptions:
+{{step_3}}
+
+Degree Plan:
+{{step_4}}
+
+Course Pre- and Co-Requisites:
+{{step_5}}
+
+FAQ Section:
+{{step_6}}
+
+To conclude the guide, provide the contact information of advisors, departments, or other resources students can reach out to for further assistance.
+

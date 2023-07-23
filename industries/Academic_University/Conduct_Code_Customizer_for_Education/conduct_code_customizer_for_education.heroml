@@ -1,0 +1,139 @@
+Your task is to write a "Student Conduct Code" for the "Academic & University" industry, specifically for a "Student Affairs Officer". 
+
+Let's start by writing an introduction that clearly outlines the importance and purpose of the Conduct Code in promoting a conducive learning environment.
+
+Here's some more context about the Student Conduct Code:
+Purpose Of Code: {{purpose_of_code}}
+Behavior Expectation: {{behavior_expectation}}
+Categories Of Rules: {{categories_of_rules}}
+Disciplinary Actions: {{disciplinary_actions}}
+Student Rights: {{student_rights}}
+Reporting Procedure: {{reporting_procedure}}
+Policy Updates: {{policy_updates}}
+
+->>>>
+
+We are creating a "Student Conduct Code" and we have written an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, we will write a section that details the overall expectations for student behavior. This might include broad guidelines around respect, honesty, and integrity within the academic community.
+
+->>>>
+
+We are creating a "Student Conduct Code", and we have outlined our expectations for student behavior:
+
+Introduction:
+{{step_1}}
+
+Behavior Expectations:
+{{step_2}}
+
+Now let's write a comprehensive list of specific rules and regulations for students. We will break these down into categories, and provide simple and concise instructions and descriptions of acceptable conduct under each.
+
+->>>>
+
+We are creating our "Student Conduct Code", and have composed a list of specific rules:
+
+Introduction:
+{{step_1}}
+
+Behavior Expectations:
+{{step_2}}
+
+Rules and Regulations:
+{{step_3}}
+
+Next, let's detail the consequences of violating the "Student Conduct Code". This section should explain the disciplinary actions that may be taken, and how these decisions are made in a fair, impartial process.
+
+->>>>
+
+We're compiling our "Student Conduct Code" and we've completed a section detailing consequences for violations:
+
+Introduction:
+{{step_1}}
+
+Behavior Expectations:
+{{step_2}}
+
+Rules and Regulations:
+{{step_3}}
+
+Consequences:
+{{step_4}}
+
+Now, include a segment about student rights, such as rights to free speech, privacy, and appeal processes.
+
+->>>>
+
+Our "Student Conduct Code" is taking shape, we've now incorporated a segment on student rights:
+
+Introduction:
+{{step_1}}
+
+Behavior Expectations:
+{{step_2}}
+
+Rules and Regulations:
+{{step_3}}
+
+Consequences:
+{{step_4}}
+
+Student Rights:
+{{step_5}}
+
+Subsequently, let's add a section that explains the process for reporting violations and seeking guidance.
+
+->>>>
+
+We're creating our "Student Conduct Code", and we have outlined the reporting procedure:
+
+Introduction:
+{{step_1}}
+
+Behavior Expectations:
+{{step_2}}
+
+Rules and Regulations:
+{{step_3}}
+
+Consequences:
+{{step_4}}
+
+Student Rights:
+{{step_5}}
+
+Reporting Procedure:
+{{step_6}}
+
+Next, outline any industry or institution-specific rules. For instance, these might vary depending on whether the institution is a physical campus or an online university, or a technical program vs a liberal arts program.
+
+->>>>
+
+We're completing our "Student Conduct Code", with inclusion of industry-specific rules:
+
+Introduction:
+{{step_1}}
+
+Behavior Expectations:
+{{step_2}}
+
+Rules and Regulations:
+{{step_3}}
+
+Consequences:
+{{step_4}}
+
+Student Rights:
+{{step_5}}
+
+Reporting Procedure:
+{{step_6}}
+
+Institution-specific Rules:
+{{step_7}}
+
+As the final step, include a reminder or process that the Student Conduct Code should be regularly reviewed and updated based on changes in institutional policies, laws, or student needs.
+

@@ -1,0 +1,111 @@
+You are tasked with writing a detailed "Lab Report" for an "Undergraduate Student" in the "Academic & University" industry. 
+
+To start, develop an introduction that gives a brief overview of the experiment that was conducted.
+
+Here's some more context about the Lab Report:
+Experiment Overview: {{experiment_overview}}
+Experiment Objectives: {{experiment_objectives}}
+Equipment And Resources: {{equipment_and_resources}}
+Experiment Results: {{experiment_results}}
+Analysis Of Results: {{analysis_of_results}}
+Experiment Conclusions: {{experiment_conclusions}}
+
+->>>>
+
+We've begun our Lab Report with an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, write a clear and concise description of the experiment's objectives. This should illustrate the purpose of the experiment and the scientific principles being tested.
+
+->>>>
+
+We now have an introduction and a description of the objectives for our Lab Report:
+
+Introduction:
+{{step_1}}
+
+Objectives:
+{{step_2}}
+
+For the next step, create a materials and methods section that catalogs all the tools and resources used while also detailing the process followed during the experiment. Make it comprehensive enough for another student to replicate the experiment.
+
+->>>>
+
+We now have three sections for our Lab Report: an introduction, objectives, and a materials and methods section.
+
+Introduction:
+{{step_1}}
+
+Objectives:
+{{step_2}}
+
+Materials and Methods:
+{{step_3}}
+
+Now, let's construct a results section where all the collected data from the experiment are presented objectively. Refrain from including any interpretation or analysis in this section.
+
+->>>>
+
+Our Lab Report now includes Introduction, Objectives, Materials and Methods, and a Results section:
+
+Introduction:
+{{step_1}}
+
+Objectives:
+{{step_2}}
+
+Materials and Methods:
+{{step_3}}
+
+Results:
+{{step_4}}
+
+Next, we need to write an analysis or discussion section where the results are interpreted. Here, draw conclusions from your data, backing up any claims with evidence from your results.
+
+->>>>
+
+In our Lab Report, we now have Introduction, Objectives, Methods and Materials, Results, and an Analysis section:
+
+Introduction:
+{{step_1}}
+
+Objectives:
+{{step_2}}
+
+Materials and Methods:
+{{step_3}}
+
+Results:
+{{step_4}}
+
+Analysis:
+{{step_5}}
+
+We're almost at the end. Now, pen down a conclusion that succinctly summarizes the key findings and conclusions of your experiment. Remember to link your conclusions back to your original objectives.
+
+->>>>
+
+Here's what our Lab Report consists of so far: 
+
+Introduction:
+{{step_1}}
+
+Objectives:
+{{step_2}}
+
+Materials and Methods:
+{{step_3}}
+
+Results:
+{{step_4}}
+
+Analysis:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+Finally, remember to include a references section listing any resources you referred to when preparing for your experiment or writing your lab report. Adhere to the referencing style prescribed by your university. 
+

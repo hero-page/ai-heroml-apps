@@ -1,0 +1,132 @@
+Start by writing an introduction for the "Thesis Proposal". The introduction should clearly outline the research topic: {{research_topic}}. Additionally, explain the significance and relevance of the topic in relation to existing academic literature in the "Academic & University" industry.
+
+Here's some more context about the Thesis Proposal:
+Research Topic: {{research_topic}}
+Research Objectives: {{research_objectives}}
+
+->>>>
+
+After having an introduction for our "Thesis Proposal" about the {{research_topic}}:
+
+Introduction:
+{{step_1}}
+
+Proceed to write a literature review. This section should present a brief survey of previous studies and scholarly discussions related to the {{research_topic}} to establish a context for the proposal.
+
+->>>>
+
+In our "Thesis Proposal", we have an introduction and a literature review:
+
+Introduction:
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Now, let's state the research objectives {{research_objectives}}, detailing what you aim to achieve through your research. The objectives should be clear, concise, and offer a directed path to the proposal.
+
+->>>>
+
+We have progressed through the "Thesis Proposal" with an introduction, a literature review, and research objectives:
+
+Introduction:
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Research Objectives:
+{{step_3}}
+
+The next step is to provide details on the proposed methodology. This section should explicate how you plan to meet the {{research_objectives}}, detailing the intended approach, methods of data collection, anticipated challenges, and potential solutions.
+
+->>>>
+
+In our "Thesis Proposal", we now have an introduction, a literature review, clearly defined objectives, and a comprehensive methodology:
+
+Introduction:
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Research Objectives:
+{{step_3}}
+
+Proposed Methodology:
+{{step_4}}
+
+Next is to argue for the significance of the proposed thesis. You should explain how your study will contribute to the body of knowledge in your field, and how it will differ from other studies on the {{research_topic}}.
+
+->>>>
+
+Our progressing "Thesis Proposal" contains an introduction, a literature review, research objectives, a methodology, and an argument for the significance of the thesis:
+
+Introduction:
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Research Objectives:
+{{step_3}}
+
+Proposed Methodology:
+{{step_4}}
+
+Significance of the Thesis:
+{{step_5}}
+
+Now that you have the main part of your "Thesis Proposal", elaborate on an anticipated timeline that itemizes specific tasks and when they will be undertaken to successfully accomplish the {{research_objectives}}.
+
+->>>>
+
+In our "Thesis Proposal", we have an introduction, a literature review, clear objectives, a methodology, a description of the thesis's significance, and a timeline:
+
+Introduction:
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Research Objectives:
+{{step_3}}
+
+Proposed Methodology:
+{{step_4}}
+
+Significance of the Thesis:
+{{step_5}}
+
+Proposed Timeline:
+{{step_6}}
+
+Proceed to prepare a list of potential bibliographical references that you plan to utilize in your research. The references should be up-to-date, relevant, and adhere to your institution's citation style.
+
+->>>>
+
+Our "Thesis Proposal" now has an introduction, a literature review, research objectives, a methodology, a discussion on the significance of the thesis, a timeline, and a list of references:
+
+Introduction:
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Research Objectives:
+{{step_3}}
+
+Proposed Methodology:
+{{step_4}}
+
+Significance of the Thesis:
+{{step_5}}
+
+Proposed Timeline:
+{{step_6}}
+
+References:
+{{step_7}}
+
+Finish the "Thesis Proposal" by writing a conclusion that doubles as an abstract. This section should encapsulate the scope, purpose, and methodology of the proposed study on the {{research_topic}} in a valuable and enticing manner.
+

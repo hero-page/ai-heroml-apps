@@ -1,0 +1,78 @@
+Your task is to write a "Safety Procedure" for the "Academic & University" industry, specifically for a "Campus Security Officer". 
+
+Start by writing an introduction that highlights the importance and purpose of the safety procedure as {{safety_importance}}. This will set the tone and reiterate why it's crucial to follow safety procedures.
+
+Here's some more context about the Safety Procedure:
+Safety Importance: {{safety_importance}}
+Context Limitations: {{context_limitations}}
+Procedure Steps: {{procedure_steps}}
+Risks Challenges: {{risks_challenges}}
+Emergency Response: {{emergency_response}}
+Reviews Updates: {{reviews_updates}}
+
+->>>>
+
+You have given an introduction to the safety procedure:
+
+Introduction:
+{{step_1}}
+
+Next, discuss the context and limitations within which the procedure is applicable. Consider {{context_limitations}} while crafting this part because this information helps the Campus Security Officer understand when and where they should apply the procedure.
+
+->>>>
+
+You've established the context and limitations for the safety procedure:
+
+Introduction:
+{{step_1}}
+
+Context and Limitations:
+{{step_2}}
+
+Moving on, break down the safety procedure in detail, sequentially describing each step to be taken in a clear and understandable manner. Consider {{procedure_steps}} and provide specific actions to be taken by security personnel.
+
+->>>>
+
+You've detailed the safety procedure steps:
+
+Introduction:
+{{step_1}}
+
+Context and Limitations:
+{{step_2}}
+
+Procedure Steps:
+{{step_3}}
+
+Now, elaborate on any potential risks and challenges associated with the procedure by considering {{risks_challenges}}. This encourages proactive planning and risk management.
+
+->>>>
+
+You've outlined potential risks and challenges:
+
+Introduction:
+{{step_1}}
+
+Procedure Steps:
+{{step_3}}
+
+Potential Risks and Challenges:
+{{step_4}}
+
+Next, include a section for how to respond to emergencies or irregular situations that could arise during the procedure by considering {{emergency_response}}. This allows Campus Security Officers to anticipate and effectively respond to issues.
+
+->>>>
+
+The safety procedure now includes emergency response guidelines:
+
+Procedure Steps:
+{{step_3}}
+
+Potential Risks and Challenges:
+{{step_4}}
+
+Emergency Response:
+{{step_5}}
+
+Finally, conclude with reviews and updates on the procedure. Consider {{reviews_updates}} to ensure the procedure remains relevant and effective.
+

@@ -1,0 +1,111 @@
+Your task is to write an "Admissions Letter" for the "Academic & University" industry, specifically for an "Admissions Officer". 
+
+Let's start by creating an engaging introduction for this letter.
+- Begin with a warm welcoming message and express excitement towards the applicant: {{applicant's_name}}.
+- Highlight the success of the university and its community.
+
+Here's some more context about the Admissions Letter:
+Program Name: {{program_name}}
+Program Description: {{program_description}}
+Next Steps Instructions: {{next_steps_instructions}}
+
+->>>>
+
+Now, we have an engaging introduction for our admissions letter:
+
+Introduction:
+{{step_1}}
+
+Next, we'll clearly state the purpose of the letter.
+- Write a portion that clearly offers an admission to the chosen program/course at the University: {{program_name}}.
+
+->>>>
+
+The letter now has an introduction and a clear statement of its purpose:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Moving on, let's provide a brief description of the chosen program/course, including the duration, course structure and any special features, if applicable: {{program_description}}.
+
+->>>>
+
+Our letter now includes a description of the program:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Program Description:
+{{step_3}}
+
+Next, outline the evaluation process for applications, and mention the qualities and/or qualifications that made the chosen applicant stand out.
+
+->>>>
+
+Now the letter contains an explanation of the decision process:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Program Description:
+{{step_3}}
+
+Decision Process:
+{{step_4}}
+
+Now it's time to detail the next steps for accepting the offer. Include details on necessary paperwork, deposits, and important dates: {{next_steps_instructions}}.
+
+->>>>
+
+The letter now includes next steps:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Program Description:
+{{step_3}}
+
+Decision Process:
+{{step_4}}
+
+Next Steps:
+{{step_5}}
+
+Let's highlight the university's resources, available support services, extracurricular opportunities, and the community that the student can join at the university.
+
+->>>>
+
+We now have a section of our letter highlighting the university's resources:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Program Description:
+{{step_3}}
+
+Decision Process:
+{{step_4}}
+
+Next Steps:
+{{step_5}}
+
+University's Resources:
+{{step_6}}
+
+Please provide contact information for the admissions office to address any further questions or need for clarification.
+

@@ -1,0 +1,111 @@
+Your task is to draft a "Dissertation" for the "Academic & University" industry, for a "Graduate Student". 
+The first step is to create an abstract that gives an overview of the study: {{study_overview}}.
+
+Here's some more context about the Dissertation:
+Study Overview: {{study_overview}}
+Study Context: {{study_context}}
+Related Literature: {{related_literature}}
+Research Methodology: {{research_methodology}}
+Research Findings: {{research_findings}}
+Study Implications: {{study_implications}}
+Study Conclusion: {{study_conclusion}}
+
+->>>>
+
+In our dissertation, we have our abstract:
+
+Abstract:
+{{step_1}}
+
+Next, let's write an introduction that provides context to your study: {{study_context}}, it should include your research question/problem statement and the objectives.
+
+->>>>
+
+Our dissertation now has an abstract and an introduction:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+The next requirement is to develop a literature review section that explores previous work related to the subject: {{related_literature}}, it should help justify why your study is unique and necessary.
+
+->>>>
+
+We have in our dissertation an abstract, introduction, and a literature review:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Now, let's detail your methodology, this should include your research design, data collection methods, and analysis approach: {{research_methodology}}.
+
+->>>>
+
+In our dissertation, we have an abstract, introduction, literature review, and methodology:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Next, present your research findings or result. Discuss the data you gathered: {{research_findings}}. Then, interpret these results in the context of your research question and related literature.
+
+->>>>
+
+We've written an abstract, introduction, literature review, methodology, and research findings:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Research Findings:
+{{step_5}}
+
+Now, discuss your study implications, which includes the impact and significance of your research on existing literature and practical implications: {{study_implications}}.
+
+->>>>
+
+Our complete items in the dissertation now include an abstract, introduction, literature review, methodology, research findings, and study implications:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Research Findings:
+{{step_5}}
+
+Study Implications:
+{{step_6}}
+
+Next, let's draw a conclusion that restates your research problem, summarizes your findings, and gives suggestions for further studies: {{study_conclusion}}.
+
