@@ -1,0 +1,91 @@
+Your task is to write "Lecture Notes" for the "Academic & University" industry, specifically for a "Professor". 
+
+Let's get started by creating an overview that outlines the lecture's main objective or focus: {{lecture_objective}}. This would help students understand the relevance and importance of the lecture material.
+
+Here's some more context about the Lecture Notes:
+Lecture Objective: {{lecture_objective}}
+Main Topics: {{main_topics}}
+Next Topic: {{next_topic}}
+
+->>>>
+
+To begin writing our lecture notes, we have produced an overview:
+
+Overview:
+{{step_1}}
+
+Next, introduce the main themes or topics that will be covered in the lecture: {{main_topics}}. This will help students follow the progression of the lecture and understand how different parts relate to each other.
+
+->>>>
+
+Having crafted the overview:
+
+Overview:
+{{step_1}}
+
+We have also highlighted the main themes that will be discussed:
+
+Main Themes:
+{{step_2}}
+
+Now detail a step-by-step process explicitly covering each of the main topics: {{main_topics}}. Start with the basic principles before moving on to complex concepts. Provide ample examples and simple explanations for enhanced understanding.
+
+->>>>
+
+Our lecture notes so far state the overview and main themes:
+
+Overview:
+{{step_1}}
+
+Main Themes:
+{{step_2}}
+
+And now, we have a detailed step-by-step process for the topics:
+
+Step-by-step Process:
+{{step_3}}
+
+Importantly, incorporate a segment dedicated to addressing common misconceptions and clarifying tricky or confusing concepts related to the {{main_topics}}.
+
+->>>>
+
+We're making progress with the lecture notes:
+
+Step-by-step Process:
+{{step_3}}
+
+And we've now created a section to address common misconceptions about the topics:
+
+Common Misconceptions and Clarifications:
+{{step_4}}
+
+Next, conclude with a summary that consolidates the main points of the lecture, and reiterate the lecture's objective: {{lecture_objective}}.
+
+->>>>
+
+Our lecture notes are shaping up nicely with:
+
+Common Misconceptions and Clarifications:
+{{step_4}}
+
+Now we have a summary that reinforces the crucial aspects of the lecture:
+
+Summary and Objective Reiteration:
+{{step_5}}
+
+Create a section for potential questions, discussions, and/or further readings related to {{main_topics}}. This encourages students to think critically about the material.
+
+->>>>
+
+Our lecture notes have advanced with:
+
+Summary and Objective Reiteration:
+{{step_5}}
+
+We created a dedicated section for questions and further readings:
+
+Questions and Further Readings:
+{{step_6}}
+
+Lastly, provide an introduction to the topic of the next lecture: {{next_topic}}. This will help keep students interested and provide continuity in their journey.
+

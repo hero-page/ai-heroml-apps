@@ -1,0 +1,91 @@
+
+To create an "Academic Paper" in the "Academic & University" industry for a "Professor", follow these steps:
+
+Start the paper with an "Abstract" that summarizes the research topic and the key findings: {{research_topic}}.
+
+Here's some more context about the Academic Paper:
+Research Topic: {{research_topic}}
+Research Question: {{research_question}}
+Research Methods: {{research_methods}}
+
+->>>>
+
+Now we have an abstract for our academic paper:
+
+Abstract:
+{{step_1}}
+
+Next, let's proceed with an "Introduction" that presents the research question or hypothesis: {{research_question}} and outlines the significance of the study in the academic field.
+
+->>>>
+
+Now, we have the introduction for our academic paper:
+
+Introduction:
+{{step_2}}
+
+Moving on, create a comprehensive "Literature Review" to discuss existing research related to {{research_topic}} and identify the gaps that your paper intends to fill.
+
+->>>>
+
+Now, we have an established literature review for our academic paper:
+
+Literature Review:
+{{step_3}}
+
+Let's now detail the "Methodology" section. Here, describe the research methods and materials used: {{research_methods}}, and provide a justification for their choice.
+
+->>>>
+
+We are progressing with our academic paper. We now have the methodology section:
+
+Methodology:
+{{step_4}}
+
+Our next step involves presenting your findings in the "Results" section, which should answer or address the {{research_question}}.
+
+->>>>
+
+Up to this point, we have detailed results for our academic paper:
+
+Results:
+{{step_5}}
+
+Let's now turn our focus towards the "Discussion" section and analyze these results. Ensure you link the outcomes back to the {{research_question}} and the broader academic context. Also, clarify the implications of your findings for your field.
+
+->>>>
+
+Our academic paper now has a detailed discussion:
+
+Discussion:
+{{step_6}}
+
+Next, draft the "Conclusion" section summarizing the research, reaffirming your findings and their significance to the {{research_topic}}, and suggesting future research directions.
+
+->>>>
+
+Now, we have a conclusion for our academic paper:
+
+Conclusion:
+{{step_7}}
+
+Our next step is to compile a "References" list, acknowledging all the sources cited in your paper, aligning with the academic citation style relevant to your field.
+
+->>>>
+
+So far, we have a comprehensive reference list for our academic paper:
+
+References:
+{{step_8}}
+
+If applicable, let's add an "Appendices" section for any supplementary information or data, without overloading the main text.
+
+->>>>
+
+For our academic paper, we now have the appendices if necessary:
+
+Appendices:
+{{step_9}}
+
+Next, incorporate key phrases and jargon specific to the domain of the {{research_topic}}, this will help to increase both its searchability and credibility.
+
