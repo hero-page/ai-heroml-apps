@@ -4,6 +4,8 @@ Handle research proposals effortlessly with Research Proposal Structurer AI, a s
 
 To run this app online: [Research Proposal Structurer AI Online](https://hero.page/app/research-proposal-structurer-ai-ai-powered-detailed-proposal-generator/iEM0a2JCr6GKhWb2vvPi)
 
+To learn more about AI Apps for Professor use-cases in the Academic & University industry, read [How to Automate Academic Writing with AI Tools](https://hero.page/blog/academic-and-university/professor/how-to-automate-academic-writing-with-ai-tools/170698)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

@@ -4,6 +4,8 @@ Explore your university library like never before with the 'University Library C
 
 To run this app online: [University Library Collection AI Overview Online](https://hero.page/app/university-library-collection-ai-overview-ai-powered-comprehensive-library-insights/Xu9hqKRH9xmyDiyXtJAq)
 
+To learn more about AI Apps for Librarian use-cases in the Academic & University industry, read [How to Enhance Library Workflows with AI Technology](https://hero.page/blog/academic-and-university/librarian/how-to-enhance-library-workflows-with-ai-technology/170706)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

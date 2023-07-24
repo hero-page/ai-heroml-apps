@@ -4,6 +4,8 @@ Discover a refreshing way to secure your campus with the Campus Security Alert G
 
 To run this app online: [Campus Security Alert Generator Online](https://hero.page/app/campus-security-alert-generator-ai-powered-university-security-alerts/ZqQKpn7c8uHi05bfGTv5)
 
+To learn more about AI Apps for Campus Security Officer use-cases in the Academic & University industry, read [How to Enhance Campus Security with AI-Driven Safety Procedures](https://hero.page/blog/academic-and-university/campus-security-officer/how-to-enhance-campus-security-with-ai-driven-safety-procedures/170712)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

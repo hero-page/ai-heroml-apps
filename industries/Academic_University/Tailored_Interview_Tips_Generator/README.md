@@ -4,6 +4,8 @@ A one-of-a-kind AI-driven tool, the Tailored Interview Tips Generator app provid
 
 To run this app online: [Tailored Interview Tips Generator Online](https://hero.page/app/tailored-interview-tips-generator-ai-powered-industry-specific-interview-guidance/3FJI8Rd8bVO86xaa0Zn6)
 
+To learn more about AI Apps for Career Counselor use-cases in the Academic & University industry, read [How to Enhance Career Development with AI in Academia](https://hero.page/blog/academic-and-university/career-counselor/how-to-enhance-career-development-with-ai-in-academia/170707)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

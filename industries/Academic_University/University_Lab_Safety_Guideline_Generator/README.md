@@ -4,6 +4,8 @@ The University Lab Safety Guideline Generator is a cutting-edge app that uses AI
 
 To run this app online: [University Lab Safety Guideline Generator Online](https://hero.page/app/university-lab-safety-guideline-generator-comprehensive-university-lab-safety-guide/XSbjw8rQKBlrmKlH9Ekm)
 
+To learn more about AI Apps for Lab Technician use-cases in the Academic & University industry, read [How to Streamline Lab Procedures with AI in University Settings](https://hero.page/blog/academic-and-university/lab-technician/how-to-streamline-lab-procedures-with-ai-in-university-settings/170711)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

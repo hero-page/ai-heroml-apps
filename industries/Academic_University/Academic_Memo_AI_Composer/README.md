@@ -4,6 +4,8 @@ Explore the vast application of AI in academics with the Academic Memo AI Compos
 
 To run this app online: [Academic Memo AI Composer Online](https://hero.page/app/academic-memo-ai-composer-ai-powered-academic-memo-creation/FNZXo1jTBILdHQ1lsMYH)
 
+To learn more about AI Apps for Administrator use-cases in the Academic & University industry, read [How to Streamline Academic Administration with AI Tools](https://hero.page/blog/academic-and-university/administrator/how-to-streamline-academic-administration-with-ai-tools/170702)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

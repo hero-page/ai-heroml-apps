@@ -4,6 +4,8 @@ Immerse yourself in the intelligent world of Academic Grant Budget Proposer. Thi
 
 To run this app online: [Academic Grant Budget Proposer Online](https://hero.page/app/academic-grant-budget-proposer-comprehensive-academic-grant-cost-analysis/Nf1N5Gs1ieYpzXstaB9w)
 
+To learn more about AI Apps for Grant Writer use-cases in the Academic & University industry, read [How to Streamline Grant Writing in Academia with AI Apps](https://hero.page/blog/academic-and-university/grant-writer/how-to-streamline-grant-writing-in-academia-with-ai-apps/170704)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

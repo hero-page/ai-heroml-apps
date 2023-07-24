@@ -4,6 +4,8 @@ Harness the power of AI with University Admissions Promo AI, designed to provide
 
 To run this app online: [University Admissions Promo AI Online](https://hero.page/app/university-admissions-promo-ai-ai-driven-admissions-insights-and-promotion/eHf3lXJLxsbmONoZJgCW)
 
+To learn more about AI Apps for Admissions Officer use-cases in the Academic & University industry, read [How to Streamline University Admissions with 3 AI Tools](https://hero.page/blog/academic-and-university/admissions-officer/how-to-streamline-university-admissions-with-3-ai-tools/170703)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

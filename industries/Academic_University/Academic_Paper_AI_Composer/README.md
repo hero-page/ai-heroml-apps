@@ -4,6 +4,8 @@ Create and explore scholarly papers with Academic Paper AI Composer. Craft compr
 
 To run this app online: [Academic Paper AI Composer Online](https://hero.page/app/academic-paper-ai-composer-ai-crafted-comprehensive-research-papers/LSHw5g9ntEXY2f9fyqxJ)
 
+To learn more about AI Apps for Professor use-cases in the Academic & University industry, read [How to Automate Academic Writing with AI Tools](https://hero.page/blog/academic-and-university/professor/how-to-automate-academic-writing-with-ai-tools/170698)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

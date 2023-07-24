@@ -4,6 +4,8 @@ Boost your grading process with the AI Teaching Assistant Rubric Creator. Perfec
 
 To run this app online: [AI Teaching Assistant Rubric Creator Online](https://hero.page/app/ai-teaching-assistant-rubric-creator-ai-powered-university-grading-rubric/YLA0EBtg1ge9TTMckIn0)
 
+To learn more about AI Apps for Teaching Assistant use-cases in the Academic & University industry, read [How to Enhance University Teaching with AI Tools for Tutorials, Rubrics, and Feedback](https://hero.page/blog/academic-and-university/teaching-assistant/how-to-enhance-university-teaching-with-ai-tools-for-tutorials-rubrics-and-feedback/170705)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

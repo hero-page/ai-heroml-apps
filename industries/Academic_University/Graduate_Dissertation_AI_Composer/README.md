@@ -4,6 +4,8 @@ Graduate Dissertation AI Composer is an advanced application that uses AI to cre
 
 To run this app online: [Graduate Dissertation AI Composer Online](https://hero.page/app/graduate-dissertation-ai-composer-ai-powered-academic-dissertation-crafting/ME4iKAY5lVNRIV6YTjrv)
 
+To learn more about AI Apps for Graduate Student use-cases in the Academic & University industry, read [How to Elevate University Research with AI Assistance](https://hero.page/blog/academic-and-university/graduate-student/how-to-elevate-university-research-with-ai-assistance/170700)
+
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
 

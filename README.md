@@ -1,6 +1,58 @@
 # HeroML AI Apps Library
 
-### Here is a list of all apps by industry:
+If you want to run these HeroML Apps/Workflows online, you can do so at [https://hero.page/apps](https://hero.page)
+
+If you'd like to use/contribute to the open-source library of HeroML apps, read the instructions below 🥰
+
+## Contributing Guide
+
+As mentioned in the hero-ml repo, this project is open-source, which means it requires your expertise!
+
+There are a tonne of decent workflows in this Repo, but only you can make them better, by contributing to workflows you think your expertise would benefit!
+
+### Prerequisites
+
+Before you start contributing, ensure that you have:
+
+1. A GitHub account.
+2. Installed the [HeroML CLI tool](https://www.npmjs.com/package/heroml) OR cloned the [HeroML Repo](https://github.com/hero-page/hero-ml) to use it with Python or Node.
+
+### Contribution Steps
+
+1. **Fork the repository.** Click the `Fork` button at the top right of this page.
+
+2. **Clone your forked repository.** Go to your GitHub account, locate the forked repository, click the `Code` button, and then click `Copy`. Open a terminal, navigate to the directory where you want to clone the repository, and use the command: `git clone <paste the copied URL>`
+
+3. **Navigate to the cloned repository.** Use the command: `cd <repo-name>`
+
+4. **Create a new branch.** Use the command: `git checkout -b <branch-name>`
+
+5. **Make your changes.** Find the relevant file(s), make your changes, and save the file(s).
+
+6. **Commit your changes.** Use the command: `git add .` to stage your changes and `git commit -m "<commit-message>"` to commit your changes.
+
+7. **Push your changes.** Use the command: `git push origin <branch-name>`
+
+8. **Create a pull request.** Go to your forked repository on GitHub, click the `New pull request` button, select your branch from the dropdown menu, and click `Create pull request`.
+
+### Testing your Changes
+
+Before submitting your pull request, test your changes to ensure they're working as expected. Use the command: `hero run /path/to/your/script.heroml`
+
+### Submitting a Pull Request
+
+Once your changes have been committed and pushed to your forked repository, submit a pull request for review.
+
+Remember to:
+
+- Describe what changes you've made.
+- Explain why you've made those changes.
+- Reference any issues your PR resolves.    
+
+
+Each industry has a variety of AI applications, crafted using HeroML, that cater to its specific needs. These applications range from automated content creation, data analysis, customer service automation, and much more. Below, you'll find a list of these apps, grouped by the industry they serve. 
+    
+Explore these links to learn more about each app's functionality and to see their underlying HeroML scripts:
 
 ## Academic University
 
