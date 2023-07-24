@@ -1,6 +1,6 @@
 # HeroML AI Apps Library
 
-If you want to run these HeroML Apps/Workflows online, you can do so at [https://hero.page/apps](https://hero.page)
+If you want to run these HeroML Apps/Workflows online, you can do so at [https://hero.page/apps](https://hero.page/apps)
 
 If you'd like to use/contribute to the open-source library of HeroML apps, read the instructions below 🥰
 
