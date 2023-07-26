@@ -4,6 +4,8 @@ Unlock the power of AI with Affiliate Marketing Email AI Composer. Craft customi
 
 To run this app online: [Affiliate Marketing Email AI Composer Online](https://hero.page/app/affiliate-marketing-email-ai-composer-ai-crafted-persuasive-affiliate-emails/HynRWCSl3yyppDocBXKQ)
 
+[![Run Affiliate Marketing Email AI Composer Online](/assets/run.svg)](https://hero.page/app/affiliate-marketing-email-ai-composer-ai-crafted-persuasive-affiliate-emails/HynRWCSl3yyppDocBXKQ)
+
 To learn more about AI Apps for Affiliate Marketer use-cases in the Affiliate Marketing industry, read [How to Enhance Affiliate Marketing with AI-Driven Product Reviews and SEO](https://hero.page/blog/ai/affiliate-marketing/how-to-enhance-affiliate-marketing-with-ai-driven-product-reviews-and-seo/170719)
 
 ### What is HeroML?

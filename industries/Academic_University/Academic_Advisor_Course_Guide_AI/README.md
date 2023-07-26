@@ -4,7 +4,9 @@ The Academic Advisor Course Guide AI is a revolutionary app designed for the Aca
 
 To run this app online: [Academic Advisor Course Guide AI Online](https://hero.page/app/academic-advisor-course-guide-ai-ai-powered-university-course-advisor/4ewbHSymxXl0kulk8Mpn)
 
-To learn more about AI Apps for Academic Advisor use-cases in the Academic & University industry, read [How to Streamline Academic Advising with AI Tools](https://hero.page/blog/academic-and-university/academic-advisor/how-to-streamline-academic-advising-with-ai-tools/170708)
+[![Run Academic Advisor Course Guide AI Online](/assets/run.svg)](https://hero.page/app/academic-advisor-course-guide-ai-ai-powered-university-course-advisor/4ewbHSymxXl0kulk8Mpn)
+
+To learn more about AI Apps for Academic Advisor use-cases in the Academic & University industry, read [How to Streamline Academic Advising with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-streamline-academic-advising-with-ai-tools/170708)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

@@ -4,6 +4,8 @@ AgTech Case Study Content Creator renders customized, comprehensive case studies
 
 To run this app online: [AgTech Case Study Content Creator Online](https://hero.page/app/agtech-case-study-content-creator-agtech-innovation-and-impact-insights/Yv3WoAMhGBa4GxDoTxE8)
 
+[![Run AgTech Case Study Content Creator Online](/assets/run.svg)](https://hero.page/app/agtech-case-study-content-creator-agtech-innovation-and-impact-insights/Yv3WoAMhGBa4GxDoTxE8)
+
 To learn more about AI Apps for Content Marketer use-cases in the Agricultural Technology industry, read [How to Elevate AgTech Content Marketing with AI Tools](https://hero.page/blog/ai/agricultural-technology/how-to-elevate-agtech-content-marketing-with-ai-tools/170724)
 
 ### What is HeroML?

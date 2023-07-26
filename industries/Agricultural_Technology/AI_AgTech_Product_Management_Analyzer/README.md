@@ -4,6 +4,8 @@ AI AgTech Product Management Analyzer is a smart tool that uses AI capabilities 
 
 To run this app online: [AI AgTech Product Management Analyzer Online](https://hero.page/app/ai-agtech-product-management-analyzer-tailored-agtech-market-analysis/76CwC1r15kzq6VKQ0Eg5)
 
+[![Run AI AgTech Product Management Analyzer Online](/assets/run.svg)](https://hero.page/app/ai-agtech-product-management-analyzer-tailored-agtech-market-analysis/76CwC1r15kzq6VKQ0Eg5)
+
 To learn more about AI Apps for Product Manager use-cases in the Agricultural Technology industry, read [How to Elevate AgTech with AI for Product Roadmap and Market Analysis](https://hero.page/blog/ai/agricultural-technology/how-to-elevate-agtech-with-ai-for-product-roadmap-and-market-analysis/170723)
 
 ### What is HeroML?

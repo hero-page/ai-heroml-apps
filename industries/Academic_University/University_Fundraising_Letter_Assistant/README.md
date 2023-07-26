@@ -4,7 +4,9 @@ University Fundraising Letter Assistant is a practical tool that utilizes AI tec
 
 To run this app online: [University Fundraising Letter Assistant Online](https://hero.page/app/university-fundraising-letter-assistant-personalized-alumni-fundraising-letters/M3Pz9UWZIHvCYiF7iLtm)
 
-To learn more about AI Apps for Alumni Relations Officer use-cases in the Academic & University industry, read [How to Elevate Alumni Outreach with AI-powered Newsletter, Fundraising and Event Invites](https://hero.page/blog/academic-and-university/alumni-relations-officer/how-to-elevate-alumni-outreach-with-ai-powered-newsletter-fundraising-and-event-invites/170710)
+[![Run University Fundraising Letter Assistant Online](/assets/run.svg)](https://hero.page/app/university-fundraising-letter-assistant-personalized-alumni-fundraising-letters/M3Pz9UWZIHvCYiF7iLtm)
+
+To learn more about AI Apps for Alumni Relations Officer use-cases in the Academic & University industry, read [How to Elevate Alumni Outreach with AI-powered Newsletter, Fundraising and Event Invites](https://hero.page/blog/ai/academic-and-university/how-to-elevate-alumni-outreach-with-ai-powered-newsletter-fundraising-and-event-invites/170710)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

@@ -4,6 +4,8 @@ Automotive Marketing Competitive Analysis AI app delivers detailed reports compi
 
 To run this app online: [Automotive Marketing Competitive Analysis AI Online](https://hero.page/app/automotive-marketing-competitive-analysis-ai-ai-powered-custom-automotive-analysis/nUz6Q3WWSk3h2vrm8LhT)
 
+[![Run Automotive Marketing Competitive Analysis AI Online](/assets/run.svg)](https://hero.page/app/automotive-marketing-competitive-analysis-ai-ai-powered-custom-automotive-analysis/nUz6Q3WWSk3h2vrm8LhT)
+
 To learn more about AI Apps for Product Marketer use-cases in the Automotive Product Marketing industry, read [How to Elevate Automotive Marketing with AI for Specs, Email, Analysis](https://hero.page/blog/ai/automotive-product-marketing/how-to-elevate-automotive-marketing-with-ai-for-specs-email-analysis/170745)
 
 ### What is HeroML?

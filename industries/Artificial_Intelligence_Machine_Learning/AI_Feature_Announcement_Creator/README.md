@@ -4,6 +4,8 @@ Discover the power of AI with the AI Feature Announcement Creator app. Tailoring
 
 To run this app online: [AI Feature Announcement Creator Online](https://hero.page/app/ai-feature-announcement-creator-ai-feature-launch-narrator/wOB62JKjFRxKrDpBsUz6)
 
+[![Run AI Feature Announcement Creator Online](/assets/run.svg)](https://hero.page/app/ai-feature-announcement-creator-ai-feature-launch-narrator/wOB62JKjFRxKrDpBsUz6)
+
 To learn more about AI Apps for Product Manager use-cases in the Artificial Intelligence & Machine Learning industry, read [How to Streamline AI Product Development with Essential Workflow Apps](https://hero.page/blog/ai/artificial-intelligence-and-machine-learning/how-to-streamline-ai-product-development-with-essential-workflow-apps/170733)
 
 ### What is HeroML?

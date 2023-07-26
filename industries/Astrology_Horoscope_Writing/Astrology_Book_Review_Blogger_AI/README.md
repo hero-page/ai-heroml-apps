@@ -4,6 +4,8 @@ Astrology Book Review Blogger AI provides user-specific astrological book review
 
 To run this app online: [Astrology Book Review Blogger AI Online](https://hero.page/app/astrology-book-review-blogger-ai-ai-powered-personalized-astrology-reviews/mL0QmuDkKRjCCTdQCySC)
 
+[![Run Astrology Book Review Blogger AI Online](/assets/run.svg)](https://hero.page/app/astrology-book-review-blogger-ai-ai-powered-personalized-astrology-reviews/mL0QmuDkKRjCCTdQCySC)
+
 To learn more about AI Apps for Astrology Blogger use-cases in the Astrology & Horoscope Writing industry, read [How to Elevate Astrology Blogging with AI-Powered Writing Tools](https://hero.page/blog/ai/astrology-and-horoscope-writing/how-to-elevate-astrology-blogging-with-ai-powered-writing-tools/170738)
 
 ### What is HeroML?

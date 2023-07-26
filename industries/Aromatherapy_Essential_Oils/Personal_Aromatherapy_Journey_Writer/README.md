@@ -4,6 +4,8 @@ Explore the world of aromatherapy with Personal Aromatherapy Journey Writer app!
 
 To run this app online: [Personal Aromatherapy Journey Writer Online](https://hero.page/app/personal-aromatherapy-journey-writer-custom-aromatherapy-narratives-and-insights/q4EqyUOf9j0s7pG0Fkh1)
 
+[![Run Personal Aromatherapy Journey Writer Online](/assets/run.svg)](https://hero.page/app/personal-aromatherapy-journey-writer-custom-aromatherapy-narratives-and-insights/q4EqyUOf9j0s7pG0Fkh1)
+
 To learn more about AI Apps for Wellness Blogger use-cases in the Aromatherapy & Essential Oils industry, read [How to Enrich Your Aromatherapy Journey with AI Solutions](https://hero.page/blog/ai/aromatherapy-and-essential-oils/how-to-enrich-your-aromatherapy-journey-with-ai-solutions/170730)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Astrology Insight & Guidance Generator is your definitive tool for daily persona
 
 To run this app online: [Astrology Insight & Guidance Generator Online](https://hero.page/app/astrology-insight-and-guidance-generator-personalized-comprehensive-horoscope-creator/iIMueBJ7iWL2rk5zhefi)
 
+[![Run Astrology Insight & Guidance Generator Online](/assets/run.svg)](https://hero.page/app/astrology-insight-and-guidance-generator-personalized-comprehensive-horoscope-creator/iIMueBJ7iWL2rk5zhefi)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Numerology industry, read [How to Elevate Horoscope Creation with AI Astrology Apps](https://hero.page/blog/ai/astrology-and-numerology/how-to-elevate-horoscope-creation-with-ai-astrology-apps/170739)
 
 ### What is HeroML?

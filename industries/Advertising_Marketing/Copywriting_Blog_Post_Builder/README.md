@@ -4,6 +4,8 @@ Copywriting Blog Post Builder, an AI-Driven Copywriting Insights Generator, allo
 
 To run this app online: [Copywriting Blog Post Builder Online](https://hero.page/app/copywriting-blog-post-builder-ai-driven-copywriting-insights-generator/rMoAExREnjc88nIRNQap)
 
+[![Run Copywriting Blog Post Builder Online](/assets/run.svg)](https://hero.page/app/copywriting-blog-post-builder-ai-driven-copywriting-insights-generator/rMoAExREnjc88nIRNQap)
+
 To learn more about AI Apps for Copywriter use-cases in the Advertising & Marketing industry, read [How to Supercharge Ad Creation, Email Campaigns, and Blog Posts with AI](https://hero.page/blog/ai/advertising-and-marketing/how-to-supercharge-ad-creation-email-campaigns-and-blog-posts-with-ai/170716)
 
 ### What is HeroML?

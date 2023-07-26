@@ -4,6 +4,8 @@ Turn your SEO strategy into a powerhouse with the SEO Keyword Research Report Bu
 
 To run this app online: [SEO Keyword Research Report Builder Online](https://hero.page/app/seo-keyword-research-report-builder-tailored-seo-keyword-strategy-builder/xlWTco9Bfq3ZQ9QS9rOL)
 
+[![Run SEO Keyword Research Report Builder Online](/assets/run.svg)](https://hero.page/app/seo-keyword-research-report-builder-tailored-seo-keyword-strategy-builder/xlWTco9Bfq3ZQ9QS9rOL)
+
 To learn more about AI Apps for SEO Specialist use-cases in the Advertising & Marketing industry, read [How to Generate SEO Keyword Reports and Optimized Articles with AI](https://hero.page/blog/ai/advertising-and-marketing/how-to-generate-seo-keyword-reports-and-optimized-articles-with-ai/170717)
 
 ### What is HeroML?

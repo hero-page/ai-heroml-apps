@@ -4,7 +4,9 @@ The TA Feedback & Improvement Generator app uses advanced AI to create detailed,
 
 To run this app online: [TA Feedback & Improvement Generator Online](https://hero.page/app/ta-feedback-and-improvement-generator-ai-powered-ta-evaluation-and-advancement/ScnRmoX1ecOS1Rozc2Ts)
 
-To learn more about AI Apps for Teaching Assistant use-cases in the Academic & University industry, read [How to Enhance University Teaching with AI Tools for Tutorials, Rubrics, and Feedback](https://hero.page/blog/academic-and-university/teaching-assistant/how-to-enhance-university-teaching-with-ai-tools-for-tutorials-rubrics-and-feedback/170705)
+[![Run TA Feedback & Improvement Generator Online](/assets/run.svg)](https://hero.page/app/ta-feedback-and-improvement-generator-ai-powered-ta-evaluation-and-advancement/ScnRmoX1ecOS1Rozc2Ts)
+
+To learn more about AI Apps for Teaching Assistant use-cases in the Academic & University industry, read [How to Enhance University Teaching with AI Tools for Tutorials, Rubrics, and Feedback](https://hero.page/blog/ai/academic-and-university/how-to-enhance-university-teaching-with-ai-tools-for-tutorials-rubrics-and-feedback/170705)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

@@ -4,6 +4,8 @@ AI-Based Data Science Tutorial Maker dynamically helps users generate personaliz
 
 To run this app online: [AI-Based Data Science Tutorial Maker Online](https://hero.page/app/ai-based-data-science-tutorial-maker-dynamic-ai-based-data-science-educator/6UmrX2GcWJE7uLUVeTLF)
 
+[![Run AI-Based Data Science Tutorial Maker Online](/assets/run.svg)](https://hero.page/app/ai-based-data-science-tutorial-maker-dynamic-ai-based-data-science-educator/6UmrX2GcWJE7uLUVeTLF)
+
 To learn more about AI Apps for Data Scientist use-cases in the Artificial Intelligence & Machine Learning industry, read [How to Streamline AI Dataset Reporting, Data Analysis, and Tutorial Creation](https://hero.page/blog/ai/artificial-intelligence-and-machine-learning/how-to-streamline-ai-dataset-reporting-data-analysis-and-tutorial-creation/170732)
 
 ### What is HeroML?

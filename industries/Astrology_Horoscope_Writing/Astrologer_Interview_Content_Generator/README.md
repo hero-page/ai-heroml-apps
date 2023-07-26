@@ -4,6 +4,8 @@ Explore astrology with Astrologer Interview Content Generator! Personalize your 
 
 To run this app online: [Astrologer Interview Content Generator Online](https://hero.page/app/astrologer-interview-content-generator-celestial-events-and-astrologer-insights/gIwDRYLJkcIZqEX0CNi8)
 
+[![Run Astrologer Interview Content Generator Online](/assets/run.svg)](https://hero.page/app/astrologer-interview-content-generator-celestial-events-and-astrologer-insights/gIwDRYLJkcIZqEX0CNi8)
+
 To learn more about AI Apps for Astrology Blogger use-cases in the Astrology & Horoscope Writing industry, read [How to Elevate Astrology Blogging with AI-Powered Writing Tools](https://hero.page/blog/ai/astrology-and-horoscope-writing/how-to-elevate-astrology-blogging-with-ai-powered-writing-tools/170738)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Explore Automotive Email Personalizer AI, an app specialized in creating intimat
 
 To run this app online: [Automotive Email Personalizer AI Online](https://hero.page/app/automotive-email-personalizer-ai-personalized-auto-service-connect/OFrIca8tQOQrn5kJPyEf)
 
+[![Run Automotive Email Personalizer AI Online](/assets/run.svg)](https://hero.page/app/automotive-email-personalizer-ai-personalized-auto-service-connect/OFrIca8tQOQrn5kJPyEf)
+
 To learn more about AI Apps for Automotive Technician use-cases in the Automotive Sales & Services industry, read [How to Enhance Auto Repair Estimates, Service Reports and Client Emails with AI](https://hero.page/blog/ai/automotive-sales-and-services/how-to-enhance-auto-repair-estimates-service-reports-and-client-emails-with-ai/170749)
 
 ### What is HeroML?

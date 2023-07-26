@@ -4,6 +4,8 @@ Discover the magic of numerology with Personalized Numerology Report AI. This ad
 
 To run this app online: [Personalized Numerology Report AI Online](https://hero.page/app/personalized-numerology-report-ai-ai-generated-personalized-numerology-reports/0hbArEcHQn7HcaPVImYA)
 
+[![Run Personalized Numerology Report AI Online](/assets/run.svg)](https://hero.page/app/personalized-numerology-report-ai-ai-generated-personalized-numerology-reports/0hbArEcHQn7HcaPVImYA)
+
 To learn more about AI Apps for Numerologist use-cases in the Astrology & Numerology industry, read [How to Generate Comprehensive Numerology Reports with AI Apps](https://hero.page/blog/ai/astrology-and-numerology/how-to-generate-comprehensive-numerology-reports-with-ai-apps/170740)
 
 ### What is HeroML?

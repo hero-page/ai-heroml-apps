@@ -4,6 +4,8 @@ Boost your automotive social media strategy using the Automotive Social Post Str
 
 To run this app online: [Automotive Social Post Strategizer Online](https://hero.page/app/automotive-social-post-strategizer-ai-powered-automotive-marketing-strategist/9TIk4nArs1J9f09VektU)
 
+[![Run Automotive Social Post Strategizer Online](/assets/run.svg)](https://hero.page/app/automotive-social-post-strategizer-ai-powered-automotive-marketing-strategist/9TIk4nArs1J9f09VektU)
+
 To learn more about AI Apps for Content Creator use-cases in the Automotive Product Marketing industry, read [How to Craft AI-Driven Automotive Content for Stellar Reviews and Social Media Impact](https://hero.page/blog/ai/automotive-product-marketing/how-to-craft-ai-driven-automotive-content-for-stellar-reviews-and-social-media-impact/170746)
 
 ### What is HeroML?

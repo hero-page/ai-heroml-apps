@@ -4,7 +4,9 @@ The Academic Literature Review Composer, with AI-based literature analysis, perm
 
 To run this app online: [Academic Literature Review Composer Online](https://hero.page/app/academic-literature-review-composer-comprehensive-ai-based-literature-analysis/NmLPtb6O0xBxTJSiMf9i)
 
-To learn more about AI Apps for Researcher use-cases in the Academic & University industry, read [How to Enhance Academic Research with AI Tools](https://hero.page/blog/academic-and-university/researcher/how-to-enhance-academic-research-with-ai-tools/170699)
+[![Run Academic Literature Review Composer Online](/assets/run.svg)](https://hero.page/app/academic-literature-review-composer-comprehensive-ai-based-literature-analysis/NmLPtb6O0xBxTJSiMf9i)
+
+To learn more about AI Apps for Researcher use-cases in the Academic & University industry, read [How to Enhance Academic Research with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-enhance-academic-research-with-ai-tools/170699)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

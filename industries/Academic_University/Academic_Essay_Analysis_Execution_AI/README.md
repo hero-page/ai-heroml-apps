@@ -4,7 +4,9 @@ Academic Essay Analysis & Execution AI is a sophisticated tool designed to craft
 
 To run this app online: [Academic Essay Analysis & Execution AI Online](https://hero.page/app/academic-essay-analysis-and-execution-ai-smart-thesis-driven-essay-generator/lZjO5ysW9h9suT8CNhBg)
 
-To learn more about AI Apps for Undergraduate Student use-cases in the Academic & University industry, read [How to Ace University Writing with AI Academic Assistance](https://hero.page/blog/academic-and-university/undergraduate-student/how-to-ace-university-writing-with-ai-academic-assistance/170701)
+[![Run Academic Essay Analysis & Execution AI Online](/assets/run.svg)](https://hero.page/app/academic-essay-analysis-and-execution-ai-smart-thesis-driven-essay-generator/lZjO5ysW9h9suT8CNhBg)
+
+To learn more about AI Apps for Undergraduate Student use-cases in the Academic & University industry, read [How to Ace University Writing with AI Academic Assistance](https://hero.page/blog/ai/academic-and-university/how-to-ace-university-writing-with-ai-academic-assistance/170701)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

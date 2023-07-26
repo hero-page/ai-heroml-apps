@@ -4,6 +4,8 @@ Unveil your cosmos influenced persona with our AI-Powered Personalized Birth Cha
 
 To run this app online: [Personalized Birth Chart Analysis AI Online](https://hero.page/app/personalized-birth-chart-analysis-ai-ai-powered-custom-astrology-profile/oiYYaXyKUN6r3ZFeyAOE)
 
+[![Run Personalized Birth Chart Analysis AI Online](/assets/run.svg)](https://hero.page/app/personalized-birth-chart-analysis-ai-ai-powered-custom-astrology-profile/oiYYaXyKUN6r3ZFeyAOE)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Numerology industry, read [How to Elevate Horoscope Creation with AI Astrology Apps](https://hero.page/blog/ai/astrology-and-numerology/how-to-elevate-horoscope-creation-with-ai-astrology-apps/170739)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Explore the world of automotive sales with Car Sales Deal Summary AI. With the p
 
 To run this app online: [Car Sales Deal Summary AI Online](https://hero.page/app/car-sales-deal-summary-ai-comprehensive-multi-dimensional-sales-analysis/8rsxWulRdEJs8mTVLBq5)
 
+[![Run Car Sales Deal Summary AI Online](/assets/run.svg)](https://hero.page/app/car-sales-deal-summary-ai-comprehensive-multi-dimensional-sales-analysis/8rsxWulRdEJs8mTVLBq5)
+
 To learn more about AI Apps for Car Salesperson use-cases in the Automotive Sales & Services industry, read [How to Enhance Car Sales with AI-Driven Descriptions, Emails, and Summaries](https://hero.page/blog/ai/automotive-sales-and-services/how-to-enhance-car-sales-with-ai-driven-descriptions-emails-and-summaries/170748)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Discover a personalized world of Astrology with the 'Horoscope Guidance & Growth
 
 To run this app online: [Horoscope Guidance & Growth AI Online](https://hero.page/app/horoscope-guidance-and-growth-ai-ai-powered-astrology-and-personal-growth/82TyaLw2x1wzmHJ5VUeY)
 
+[![Run Horoscope Guidance & Growth AI Online](/assets/run.svg)](https://hero.page/app/horoscope-guidance-and-growth-ai-ai-powered-astrology-and-personal-growth/82TyaLw2x1wzmHJ5VUeY)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Horoscope Writing industry, read [How to Elevate Astrology Writing with AI-Driven Tools](https://hero.page/blog/ai/astrology-and-horoscope-writing/how-to-elevate-astrology-writing-with-ai-driven-tools/170737)
 
 ### What is HeroML?

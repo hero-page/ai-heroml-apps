@@ -4,6 +4,8 @@ Discover the secrets of the cosmos with Astrology Transit Analysis AI. This powe
 
 To run this app online: [Astrology Transit Analysis AI Online](https://hero.page/app/astrology-transit-analysis-ai-ai-powered-personalized-astrology-insights/x2O81xYZ39xvW5LE2GT7)
 
+[![Run Astrology Transit Analysis AI Online](/assets/run.svg)](https://hero.page/app/astrology-transit-analysis-ai-ai-powered-personalized-astrology-insights/x2O81xYZ39xvW5LE2GT7)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Horoscope Writing industry, read [How to Elevate Astrology Writing with AI-Driven Tools](https://hero.page/blog/ai/astrology-and-horoscope-writing/how-to-elevate-astrology-writing-with-ai-driven-tools/170737)
 
 ### What is HeroML?

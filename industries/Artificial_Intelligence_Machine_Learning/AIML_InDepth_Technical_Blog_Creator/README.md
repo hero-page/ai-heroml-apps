@@ -4,6 +4,8 @@ Immerse yourself in the world of Artificial Intelligence with AI-ML In-Depth Tec
 
 To run this app online: [AI-ML In-Depth Technical Blog Creator Online](https://hero.page/app/ai-ml-in-depth-technical-blog-creator-ai-research-deep-dive-generator/ltQ8Ucld1yLeub4hBbKK)
 
+[![Run AI-ML In-Depth Technical Blog Creator Online](/assets/run.svg)](https://hero.page/app/ai-ml-in-depth-technical-blog-creator-ai-research-deep-dive-generator/ltQ8Ucld1yLeub4hBbKK)
+
 To learn more about AI Apps for AI Researcher use-cases in the Artificial Intelligence & Machine Learning industry, read [How to Master AI Research Writing with Diverse AI Tools](https://hero.page/blog/ai/artificial-intelligence-and-machine-learning/how-to-master-ai-research-writing-with-diverse-ai-tools/170731)
 
 ### What is HeroML?

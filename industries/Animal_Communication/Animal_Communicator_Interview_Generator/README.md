@@ -4,6 +4,8 @@ Animal Communicator Interview Generator app provides unique insights into animal
 
 To run this app online: [Animal Communicator Interview Generator Online](https://hero.page/app/animal-communicator-interview-generator-exclusive-animal-communicator-insights/tiCABFgfQU4pxUOerT1Z)
 
+[![Run Animal Communicator Interview Generator Online](/assets/run.svg)](https://hero.page/app/animal-communicator-interview-generator-exclusive-animal-communicator-insights/tiCABFgfQU4pxUOerT1Z)
+
 To learn more about AI Apps for Pet Blogger use-cases in the Animal Communication industry, read [How to Enhance Pet Communication with HeroML AI Apps](https://hero.page/blog/ai/animal-communication/how-to-enhance-pet-communication-with-heroml-ai-apps/170728)
 
 ### What is HeroML?

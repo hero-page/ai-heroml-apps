@@ -4,7 +4,9 @@ Alumni Event Invitation AI is a revolutionary app that leverages AI technology t
 
 To run this app online: [Alumni Event Invitation AI Online](https://hero.page/app/alumni-event-invitation-ai-ai-powered-personalized-alumni-invitations/DXl9DpMVO5QHyDKem2WB)
 
-To learn more about AI Apps for Alumni Relations Officer use-cases in the Academic & University industry, read [How to Elevate Alumni Outreach with AI-powered Newsletter, Fundraising and Event Invites](https://hero.page/blog/academic-and-university/alumni-relations-officer/how-to-elevate-alumni-outreach-with-ai-powered-newsletter-fundraising-and-event-invites/170710)
+[![Run Alumni Event Invitation AI Online](/assets/run.svg)](https://hero.page/app/alumni-event-invitation-ai-ai-powered-personalized-alumni-invitations/DXl9DpMVO5QHyDKem2WB)
+
+To learn more about AI Apps for Alumni Relations Officer use-cases in the Academic & University industry, read [How to Elevate Alumni Outreach with AI-powered Newsletter, Fundraising and Event Invites](https://hero.page/blog/ai/academic-and-university/how-to-elevate-alumni-outreach-with-ai-powered-newsletter-fundraising-and-event-invites/170710)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

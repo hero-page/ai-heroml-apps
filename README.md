@@ -258,3 +258,11 @@ Explore these links to learn more about each app's functionality and to see thei
 * [Crypto Market Analysis Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_Market_Analysis_Creator)
 * [Crypto News AI Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_News_AI_Writer)
 * [Crypto Trading Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_Trading_Guide_Creator)
+## Blogging Online Publishing
+
+* [AI Blogging Editors Guide Maker](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blogging_Online_Publishing/AI_Blogging_Editors_Guide_Maker)
+* [Blog Editors AI Outline Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blogging_Online_Publishing/Blog_Editors_AI_Outline_Creator)
+* [Bloggers AI Review Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blogging_Online_Publishing/Bloggers_AI_Review_Creator)
+* [Bloggers Personalized Newsletter AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blogging_Online_Publishing/Bloggers_Personalized_Newsletter_AI)
+* [DeepDive Blog Post Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blogging_Online_Publishing/DeepDive_Blog_Post_Creator)
+* [Dynamic Blogging Content Planner](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blogging_Online_Publishing/Dynamic_Blogging_Content_Planner)

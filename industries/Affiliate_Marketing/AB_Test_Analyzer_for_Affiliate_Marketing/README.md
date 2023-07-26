@@ -4,6 +4,8 @@ A/B Test Analyzer for Affiliate Marketing provides AI-driven, tailored reports, 
 
 To run this app online: [A/B Test Analyzer for Affiliate Marketing Online](https://hero.page/app/ab-test-analyzer-for-affiliate-marketing-customized-affiliate-marketing-ab-analysis/X18sACEIDaQ4eELK5Ig6)
 
+[![Run A/B Test Analyzer for Affiliate Marketing Online](/assets/run.svg)](https://hero.page/app/ab-test-analyzer-for-affiliate-marketing-customized-affiliate-marketing-ab-analysis/X18sACEIDaQ4eELK5Ig6)
+
 To learn more about AI Apps for Data Analyst use-cases in the Affiliate Marketing industry, read [How to Propel Affiliate Marketing with AI Data Analysis Tools](https://hero.page/blog/ai/affiliate-marketing/how-to-propel-affiliate-marketing-with-ai-data-analysis-tools/170721)
 
 ### What is HeroML?

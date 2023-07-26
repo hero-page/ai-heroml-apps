@@ -4,6 +4,8 @@ Explore the world of aromatherapy with AromaTherapy Review Generator, your AI-po
 
 To run this app online: [AromaTherapy Review Generator Online](https://hero.page/app/aromatherapy-review-generator-ai-powered-aromatherapy-review-expert/4RZZQHw4YXNrGhYmDcdh)
 
+[![Run AromaTherapy Review Generator Online](/assets/run.svg)](https://hero.page/app/aromatherapy-review-generator-ai-powered-aromatherapy-review-expert/4RZZQHw4YXNrGhYmDcdh)
+
 To learn more about AI Apps for Wellness Blogger use-cases in the Aromatherapy & Essential Oils industry, read [How to Enrich Your Aromatherapy Journey with AI Solutions](https://hero.page/blog/ai/aromatherapy-and-essential-oils/how-to-enrich-your-aromatherapy-journey-with-ai-solutions/170730)
 
 ### What is HeroML?

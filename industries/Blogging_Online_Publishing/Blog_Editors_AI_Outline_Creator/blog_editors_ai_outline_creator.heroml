@@ -1,0 +1,106 @@
+Your task is to write a "Post Outline" for the "Blogging & Online Publishing" industry, specifically for an "Editor". Let's start by creating an attention-grabbing title that succinctly describes the topic of your post: {{post_topic}}.
+
+Here's some more context about the Post Outline:
+Post Topic: {{post_topic}}
+Recent Update: {{recent_update}}
+Industry: {{industry}}
+
+->>>>
+
+Now, we have our post title:
+
+Post Title:
+{{step_1}}
+
+Next, write an introduction for the post that provides a brief overview of the {{post_topic}}, stating the purpose of the content. Make sure you include an appeal to readers about why the content is valuable to them.
+
+->>>>
+
+We have created a compelling post title and an inviting introduction:
+
+Post Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Our next step is to break down the main post content into smaller sections. Each section should address a key aspect of the {{post_topic}}. For each section, provide a subheading along with a brief summary of what will be covered.
+
+->>>>
+
+We have our post divided into sections with subheadings and summaries:
+
+Post Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Content Sections:
+{{step_3}}
+
+Online publishing often requires addressing recent industry trends or updates. Include a section regarding a recent update, {{recent_update}}, in the {{industry}} to enhance your post's relevance.
+
+->>>>
+
+We now have a section addressing a recent update:
+
+Post Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Content Sections:
+{{step_3}}
+
+Recent Update Section:
+{{step_4}}
+
+Next, provide actionable tips or advice related to the {{post_topic}}. Offering practical instructions or steps can make the content more engaging and valuable to your readers.
+
+->>>>
+
+We have included actionable advice:
+
+Post Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Content Sections:
+{{step_3}}
+
+Recent Update Section:
+{{step_4}}
+
+Advice Section:
+{{step_5}}
+
+Now, write a section about the implications or impact of the {{post_topic}} on the blogging and online publishing industry. Highlight the relevance and importance of your topic in this section.
+
+->>>>
+
+We have a section discussing the implications of the {{post_topic}}:
+
+Post Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Content Sections:
+{{step_3}}
+
+Recent Update Section:
+{{step_4}}
+
+Advice Section:
+{{step_5}}
+
+Implications Section:
+{{step_6}}
+
+Now, include a concluding section that briefly summarises the main points of your content and indicates the benefits of implementing your advice or learning from your content.
+

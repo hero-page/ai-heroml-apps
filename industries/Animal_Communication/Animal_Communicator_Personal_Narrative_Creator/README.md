@@ -4,6 +4,8 @@ Become an animal communicator and narrate your journey with Animal Communicator 
 
 To run this app online: [Animal Communicator Personal Narrative Creator Online](https://hero.page/app/animal-communicator-personal-narrative-creator-ai-powered-animal-communicator-chronicles/tsFAfceU7jIJuzzEfomh)
 
+[![Run Animal Communicator Personal Narrative Creator Online](/assets/run.svg)](https://hero.page/app/animal-communicator-personal-narrative-creator-ai-powered-animal-communicator-chronicles/tsFAfceU7jIJuzzEfomh)
+
 To learn more about AI Apps for Animal Communicator use-cases in the Animal Communication industry, read [How to Enhance Animal Communication Skills with AI Apps](https://hero.page/blog/ai/animal-communication/how-to-enhance-animal-communication-skills-with-ai-apps/170727)
 
 ### What is HeroML?

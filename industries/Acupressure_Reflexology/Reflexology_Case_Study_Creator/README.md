@@ -4,6 +4,8 @@ Reflexology Case Study Creator is a revolutionary AI-powered app designed exclus
 
 To run this app online: [Reflexology Case Study Creator Online](https://hero.page/app/reflexology-case-study-creator-ai-generated-reflexology-therapy-narratives/3RKboh18qqIkDBl4AdmR)
 
+[![Run Reflexology Case Study Creator Online](/assets/run.svg)](https://hero.page/app/reflexology-case-study-creator-ai-generated-reflexology-therapy-narratives/3RKboh18qqIkDBl4AdmR)
+
 To learn more about AI Apps for Reflexologist use-cases in the Acupressure & Reflexology industry, read [How to Generate AI-Assisted Reflexology Guides and Case Studies](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-generate-ai-assisted-reflexology-guides-and-case-studies/170714)
 
 ### What is HeroML?

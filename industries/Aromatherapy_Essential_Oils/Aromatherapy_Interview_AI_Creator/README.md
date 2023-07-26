@@ -4,6 +4,8 @@ Immerse in the world of aromatherapy with Aromatherapy Interview AI Creator. Thi
 
 To run this app online: [Aromatherapy Interview AI Creator Online](https://hero.page/app/aromatherapy-interview-ai-creator-ai-generated-aromatherapist-insights/XVSYDb5UGnOvEu27MF5G)
 
+[![Run Aromatherapy Interview AI Creator Online](/assets/run.svg)](https://hero.page/app/aromatherapy-interview-ai-creator-ai-generated-aromatherapist-insights/XVSYDb5UGnOvEu27MF5G)
+
 To learn more about AI Apps for Wellness Blogger use-cases in the Aromatherapy & Essential Oils industry, read [How to Enrich Your Aromatherapy Journey with AI Solutions](https://hero.page/blog/ai/aromatherapy-and-essential-oils/how-to-enrich-your-aromatherapy-journey-with-ai-solutions/170730)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ The AI Email Campaign Creator for AdMark Professionals app crafts tailored conte
 
 To run this app online: [AI Email Campaign Creator for AdMark Professionals Online](https://hero.page/app/ai-email-campaign-creator-for-admark-professionals-admark-content-and-insight-generator/sOkBpq0QcjHA2CPDHozp)
 
+[![Run AI Email Campaign Creator for AdMark Professionals Online](/assets/run.svg)](https://hero.page/app/ai-email-campaign-creator-for-admark-professionals-admark-content-and-insight-generator/sOkBpq0QcjHA2CPDHozp)
+
 To learn more about AI Apps for Copywriter use-cases in the Advertising & Marketing industry, read [How to Supercharge Ad Creation, Email Campaigns, and Blog Posts with AI](https://hero.page/blog/ai/advertising-and-marketing/how-to-supercharge-ad-creation-email-campaigns-and-blog-posts-with-ai/170716)
 
 ### What is HeroML?

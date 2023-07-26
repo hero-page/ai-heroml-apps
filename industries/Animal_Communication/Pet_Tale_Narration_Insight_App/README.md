@@ -4,6 +4,8 @@ Embrace the Pet Tale Narration & Insight App, designated for an inclusive pet na
 
 To run this app online: [Pet Tale Narration & Insight App Online](https://hero.page/app/pet-tale-narration-and-insight-app-personalized-pet-expertise-narratives/Vq96wCf6ivZM3QYL5zTv)
 
+[![Run Pet Tale Narration & Insight App Online](/assets/run.svg)](https://hero.page/app/pet-tale-narration-and-insight-app-personalized-pet-expertise-narratives/Vq96wCf6ivZM3QYL5zTv)
+
 To learn more about AI Apps for Pet Blogger use-cases in the Animal Communication industry, read [How to Enhance Pet Communication with HeroML AI Apps](https://hero.page/blog/ai/animal-communication/how-to-enhance-pet-communication-with-heroml-ai-apps/170728)
 
 ### What is HeroML?

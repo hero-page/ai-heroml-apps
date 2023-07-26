@@ -4,7 +4,9 @@ Explore the power of AI with Interactive Tutorial Plan Creator, a one-stop app f
 
 To run this app online: [Interactive Tutorial Plan Creator Online](https://hero.page/app/interactive-tutorial-plan-creator-personalized-doubt-clearing-tutorial-design/biGQhQFvjjNrht43xsem)
 
-To learn more about AI Apps for Teaching Assistant use-cases in the Academic & University industry, read [How to Enhance University Teaching with AI Tools for Tutorials, Rubrics, and Feedback](https://hero.page/blog/academic-and-university/teaching-assistant/how-to-enhance-university-teaching-with-ai-tools-for-tutorials-rubrics-and-feedback/170705)
+[![Run Interactive Tutorial Plan Creator Online](/assets/run.svg)](https://hero.page/app/interactive-tutorial-plan-creator-personalized-doubt-clearing-tutorial-design/biGQhQFvjjNrht43xsem)
+
+To learn more about AI Apps for Teaching Assistant use-cases in the Academic & University industry, read [How to Enhance University Teaching with AI Tools for Tutorials, Rubrics, and Feedback](https://hero.page/blog/ai/academic-and-university/how-to-enhance-university-teaching-with-ai-tools-for-tutorials-rubrics-and-feedback/170705)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

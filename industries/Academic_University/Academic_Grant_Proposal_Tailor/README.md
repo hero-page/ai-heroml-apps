@@ -4,7 +4,9 @@ Academic Grant Proposal Tailor is a dynamic application that uses powerful AI te
 
 To run this app online: [Academic Grant Proposal Tailor Online](https://hero.page/app/academic-grant-proposal-tailor-tailored-academic-proposal-generator/yBva7rNnxGEAudtf9u5J)
 
-To learn more about AI Apps for Grant Writer use-cases in the Academic & University industry, read [How to Streamline Grant Writing in Academia with AI Apps](https://hero.page/blog/academic-and-university/grant-writer/how-to-streamline-grant-writing-in-academia-with-ai-apps/170704)
+[![Run Academic Grant Proposal Tailor Online](/assets/run.svg)](https://hero.page/app/academic-grant-proposal-tailor-tailored-academic-proposal-generator/yBva7rNnxGEAudtf9u5J)
+
+To learn more about AI Apps for Grant Writer use-cases in the Academic & University industry, read [How to Streamline Grant Writing in Academia with AI Apps](https://hero.page/blog/ai/academic-and-university/how-to-streamline-grant-writing-in-academia-with-ai-apps/170704)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

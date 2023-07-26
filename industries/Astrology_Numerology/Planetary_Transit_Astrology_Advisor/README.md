@@ -4,6 +4,8 @@ Planetary Transit Astrology Advisor is a unique app empowering users to harness 
 
 To run this app online: [Planetary Transit Astrology Advisor Online](https://hero.page/app/planetary-transit-astrology-advisor-custom-astrological-transit-interpretations/hoQPngI0OeF1vT1GSACA)
 
+[![Run Planetary Transit Astrology Advisor Online](/assets/run.svg)](https://hero.page/app/planetary-transit-astrology-advisor-custom-astrological-transit-interpretations/hoQPngI0OeF1vT1GSACA)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Numerology industry, read [How to Elevate Horoscope Creation with AI Astrology Apps](https://hero.page/blog/ai/astrology-and-numerology/how-to-elevate-horoscope-creation-with-ai-astrology-apps/170739)
 
 ### What is HeroML?

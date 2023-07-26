@@ -4,6 +4,8 @@ Explore the mysteries of tarot with AI-Powered Tarot Analysis. Employing advance
 
 To run this app online: [Tarot Analysis & Personalized Insights AI Online](https://hero.page/app/tarot-analysis-and-personalized-insights-ai-ai-powered-personalized-tarot-analysis/9SXRFm4lvIjSPdGIKwxJ)
 
+[![Run Tarot Analysis & Personalized Insights AI Online](/assets/run.svg)](https://hero.page/app/tarot-analysis-and-personalized-insights-ai-ai-powered-personalized-tarot-analysis/9SXRFm4lvIjSPdGIKwxJ)
+
 To learn more about AI Apps for Tarot Reader use-cases in the Astrology & Tarot Reading industry, read [How to Enhance Tarot Reading with AI-Assisted Card Analysis](https://hero.page/blog/ai/astrology-and-tarot-reading/how-to-enhance-tarot-reading-with-ai-assisted-card-analysis/170743)
 
 ### What is HeroML?

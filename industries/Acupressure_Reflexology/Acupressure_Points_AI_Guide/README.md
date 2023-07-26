@@ -4,6 +4,8 @@ Discover the art of acupressure with Acupressure Points AI Guide. A perfect and 
 
 To run this app online: [Acupressure Points AI Guide Online](https://hero.page/app/acupressure-points-ai-guide-customized-acupressure-learning-and-safety/dCHOT3lwSdv659yo6bT1)
 
+[![Run Acupressure Points AI Guide Online](/assets/run.svg)](https://hero.page/app/acupressure-points-ai-guide-customized-acupressure-learning-and-safety/dCHOT3lwSdv659yo6bT1)
+
 To learn more about AI Apps for Acupressure Practitioner use-cases in the Acupressure & Reflexology industry, read [How to Enhance Acupressure Practice with AI-assisted Apps](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-enhance-acupressure-practice-with-ai-assisted-apps/170713)
 
 ### What is HeroML?

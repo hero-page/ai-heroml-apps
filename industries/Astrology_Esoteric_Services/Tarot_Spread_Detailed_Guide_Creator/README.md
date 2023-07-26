@@ -4,6 +4,8 @@ Explore the world of Tarot in depth with Tarot Spread Detailed Guide Creator. Th
 
 To run this app online: [Tarot Spread Detailed Guide Creator Online](https://hero.page/app/tarot-spread-detailed-guide-creator-custom-tarot-spread-insight-generator/krz2L8jEuhDXm40lpcNs)
 
+[![Run Tarot Spread Detailed Guide Creator Online](/assets/run.svg)](https://hero.page/app/tarot-spread-detailed-guide-creator-custom-tarot-spread-insight-generator/krz2L8jEuhDXm40lpcNs)
+
 To learn more about AI Apps for Tarot Reader use-cases in the Astrology & Esoteric Services industry, read [How to Elevate Tarot Readings with AI in Astrology Services](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-elevate-tarot-readings-with-ai-in-astrology-services/170735)
 
 ### What is HeroML?

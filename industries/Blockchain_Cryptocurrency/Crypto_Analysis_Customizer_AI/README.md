@@ -4,6 +4,8 @@ Crypto Analysis Customizer AI, the ultimate app for tailored cryptocurrency insi
 
 To run this app online: [Crypto Analysis Customizer AI Online](https://hero.page/app/crypto-analysis-customizer-ai-tailored-cryptocurrency-insights-and-analysis/I2jmuYC5Mhv1kf1tKYKY)
 
+[![Run Crypto Analysis Customizer AI Online](/assets/run.svg)](https://hero.page/app/crypto-analysis-customizer-ai-tailored-cryptocurrency-insights-and-analysis/I2jmuYC5Mhv1kf1tKYKY)
+
 To learn more about AI Apps for Crypto Journalist use-cases in the Blockchain & Cryptocurrency industry, read [How to Generate Stellar Crypto Articles, Interviews and Analysis with AI](https://hero.page/blog/ai/blockchain-and-cryptocurrency/how-to-generate-stellar-crypto-articles-interviews-and-analysis-with-ai/170753)
 
 ### What is HeroML?

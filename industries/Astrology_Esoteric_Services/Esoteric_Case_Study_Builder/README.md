@@ -4,6 +4,8 @@ The Esoteric Case Study Builder app is a powerful tool for Tarot Readers. It use
 
 To run this app online: [Esoteric Case Study Builder Online](https://hero.page/app/esoteric-case-study-builder-narrating-tarot-success-stories/cqL61useyYzXlc5HuMRs)
 
+[![Run Esoteric Case Study Builder Online](/assets/run.svg)](https://hero.page/app/esoteric-case-study-builder-narrating-tarot-success-stories/cqL61useyYzXlc5HuMRs)
+
 To learn more about AI Apps for Tarot Reader use-cases in the Astrology & Esoteric Services industry, read [How to Elevate Tarot Readings with AI in Astrology Services](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-elevate-tarot-readings-with-ai-in-astrology-services/170735)
 
 ### What is HeroML?

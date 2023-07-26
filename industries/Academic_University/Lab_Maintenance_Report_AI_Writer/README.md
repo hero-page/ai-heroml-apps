@@ -4,7 +4,9 @@ The Lab Maintenance Report AI Writer's innovative features allow a Lab Technicia
 
 To run this app online: [Lab Maintenance Report AI Writer Online](https://hero.page/app/lab-maintenance-report-ai-writer-strategic-lab-equipment-maintenance-tracker/VccttfVW0JB4Xj53n29H)
 
-To learn more about AI Apps for Lab Technician use-cases in the Academic & University industry, read [How to Streamline Lab Procedures with AI in University Settings](https://hero.page/blog/academic-and-university/lab-technician/how-to-streamline-lab-procedures-with-ai-in-university-settings/170711)
+[![Run Lab Maintenance Report AI Writer Online](/assets/run.svg)](https://hero.page/app/lab-maintenance-report-ai-writer-strategic-lab-equipment-maintenance-tracker/VccttfVW0JB4Xj53n29H)
+
+To learn more about AI Apps for Lab Technician use-cases in the Academic & University industry, read [How to Streamline Lab Procedures with AI in University Settings](https://hero.page/blog/ai/academic-and-university/how-to-streamline-lab-procedures-with-ai-in-university-settings/170711)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

@@ -4,7 +4,9 @@ Academic Requirement AI Guide is an innovative app aiding students throughout th
 
 To run this app online: [Academic Requirement AI Guide Online](https://hero.page/app/academic-requirement-ai-guide-ai-powered-comprehensive-academic-guide/W1aHQunWMg2cz9mtfqLE)
 
-To learn more about AI Apps for Academic Advisor use-cases in the Academic & University industry, read [How to Streamline Academic Advising with AI Tools](https://hero.page/blog/academic-and-university/academic-advisor/how-to-streamline-academic-advising-with-ai-tools/170708)
+[![Run Academic Requirement AI Guide Online](/assets/run.svg)](https://hero.page/app/academic-requirement-ai-guide-ai-powered-comprehensive-academic-guide/W1aHQunWMg2cz9mtfqLE)
+
+To learn more about AI Apps for Academic Advisor use-cases in the Academic & University industry, read [How to Streamline Academic Advising with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-streamline-academic-advising-with-ai-tools/170708)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

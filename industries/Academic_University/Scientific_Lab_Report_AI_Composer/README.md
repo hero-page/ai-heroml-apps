@@ -4,7 +4,9 @@ Scientific Lab Report AI Composer, a Data Analysis & Report Generator, allows us
 
 To run this app online: [Scientific Lab Report AI Composer Online](https://hero.page/app/scientific-lab-report-ai-composer-data-analysis-and-report-generator/b1EXxE0yOVcmLHw8PfQb)
 
-To learn more about AI Apps for Undergraduate Student use-cases in the Academic & University industry, read [How to Ace University Writing with AI Academic Assistance](https://hero.page/blog/academic-and-university/undergraduate-student/how-to-ace-university-writing-with-ai-academic-assistance/170701)
+[![Run Scientific Lab Report AI Composer Online](/assets/run.svg)](https://hero.page/app/scientific-lab-report-ai-composer-data-analysis-and-report-generator/b1EXxE0yOVcmLHw8PfQb)
+
+To learn more about AI Apps for Undergraduate Student use-cases in the Academic & University industry, read [How to Ace University Writing with AI Academic Assistance](https://hero.page/blog/ai/academic-and-university/how-to-ace-university-writing-with-ai-academic-assistance/170701)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

@@ -4,6 +4,8 @@ Enhancing your aromatherapy knowledge with Aromatherapy Guide and Case Study Cre
 
 To run this app online: [Aromatherapy Guide & Case Study Creator Online](https://hero.page/app/aromatherapy-guide-and-case-study-creator-case-studies-for-aromatherapy-mastery/53CnbKQCGMBNfpffVhIP)
 
+[![Run Aromatherapy Guide & Case Study Creator Online](/assets/run.svg)](https://hero.page/app/aromatherapy-guide-and-case-study-creator-case-studies-for-aromatherapy-mastery/53CnbKQCGMBNfpffVhIP)
+
 To learn more about AI Apps for Aromatherapist use-cases in the Aromatherapy & Essential Oils industry, read [How to Enhance Aromatherapy with AI-Driven Essential Oil Descriptions](https://hero.page/blog/ai/aromatherapy-and-essential-oils/how-to-enhance-aromatherapy-with-ai-driven-essential-oil-descriptions/170729)
 
 ### What is HeroML?

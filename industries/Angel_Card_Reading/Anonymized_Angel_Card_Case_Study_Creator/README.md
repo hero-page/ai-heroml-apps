@@ -4,6 +4,8 @@ Discover the power of Anonymized Angel Card Case Study Creator. Create insightfu
 
 To run this app online: [Anonymized Angel Card Case Study Creator Online](https://hero.page/app/anonymized-angel-card-case-study-creator-anonymized-angel-card-success-stories/R1Dsd0CeB9hVobR7vYG6)
 
+[![Run Anonymized Angel Card Case Study Creator Online](/assets/run.svg)](https://hero.page/app/anonymized-angel-card-case-study-creator-anonymized-angel-card-success-stories/R1Dsd0CeB9hVobR7vYG6)
+
 To learn more about AI Apps for Angel Card Reader use-cases in the Angel Card Reading industry, read [How to Elevate Angel Card Readings with AI Insights](https://hero.page/blog/ai/angel-card-reading/how-to-elevate-angel-card-readings-with-ai-insights/170725)
 
 ### What is HeroML?

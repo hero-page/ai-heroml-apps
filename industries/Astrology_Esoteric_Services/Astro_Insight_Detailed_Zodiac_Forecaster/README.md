@@ -4,6 +4,8 @@ Astro Insight, your personalized AI zodiac guide, offers precise astrological fo
 
 To run this app online: [Astro Insight: Detailed Zodiac Forecaster Online](https://hero.page/app/astro-insight:-detailed-zodiac-forecaster-personalized-ai-zodiac-wisdom/JKp60V3czi25ltuDNn1l)
 
+[![Run Astro Insight: Detailed Zodiac Forecaster Online](/assets/run.svg)](https://hero.page/app/astro-insight:-detailed-zodiac-forecaster-personalized-ai-zodiac-wisdom/JKp60V3czi25ltuDNn1l)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Esoteric Services industry, read [How to Elevate Astrological Services with AI Forecasting Tools](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-elevate-astrological-services-with-ai-forecasting-tools/170734)
 
 ### What is HeroML?

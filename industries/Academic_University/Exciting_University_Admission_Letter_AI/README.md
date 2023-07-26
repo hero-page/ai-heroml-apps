@@ -4,7 +4,9 @@ Unleash the power of AI with Exciting University Admission Letter AI. Create per
 
 To run this app online: [Exciting University Admission Letter AI Online](https://hero.page/app/exciting-university-admission-letter-ai-personalized-exciting-university-admission-letters/QmOfIzZ3qHqacZ0WaOb6)
 
-To learn more about AI Apps for Admissions Officer use-cases in the Academic & University industry, read [How to Streamline University Admissions with 3 AI Tools](https://hero.page/blog/academic-and-university/admissions-officer/how-to-streamline-university-admissions-with-3-ai-tools/170703)
+[![Run Exciting University Admission Letter AI Online](/assets/run.svg)](https://hero.page/app/exciting-university-admission-letter-ai-personalized-exciting-university-admission-letters/QmOfIzZ3qHqacZ0WaOb6)
+
+To learn more about AI Apps for Admissions Officer use-cases in the Academic & University industry, read [How to Streamline University Admissions with 3 AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-streamline-university-admissions-with-3-ai-tools/170703)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

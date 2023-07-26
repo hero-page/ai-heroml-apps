@@ -4,6 +4,8 @@ Esoteric Blogger Journey Scribe is a unique app for creating customized narrativ
 
 To run this app online: [Esoteric Blogger Journey Scribe Online](https://hero.page/app/esoteric-blogger-journey-scribe-customized-esoteric-blogger-narratives/0I9S9khT5vdWpMg2koNS)
 
+[![Run Esoteric Blogger Journey Scribe Online](/assets/run.svg)](https://hero.page/app/esoteric-blogger-journey-scribe-customized-esoteric-blogger-narratives/0I9S9khT5vdWpMg2koNS)
+
 To learn more about AI Apps for Esoteric Blogger use-cases in the Astrology & Esoteric Services industry, read [How to Empower Esoteric Blogging with AI in Astrology Services](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-empower-esoteric-blogging-with-ai-in-astrology-services/170736)
 
 ### What is HeroML?

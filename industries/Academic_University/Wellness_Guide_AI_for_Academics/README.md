@@ -4,7 +4,9 @@ Wellness Guide AI for Academics is an AI-powered app providing customized, high-
 
 To run this app online: [Wellness Guide AI for Academics Online](https://hero.page/app/wellness-guide-ai-for-academics-tailored-wellness-guide-for-officers/yq05orH8XV3Nl9b6g11l)
 
-To learn more about AI Apps for Student Affairs Officer use-cases in the Academic & University industry, read [How to Innovate Academic Planning with AI Tools](https://hero.page/blog/academic-and-university/student-affairs-officer/how-to-innovate-academic-planning-with-ai-tools/170709)
+[![Run Wellness Guide AI for Academics Online](/assets/run.svg)](https://hero.page/app/wellness-guide-ai-for-academics-tailored-wellness-guide-for-officers/yq05orH8XV3Nl9b6g11l)
+
+To learn more about AI Apps for Student Affairs Officer use-cases in the Academic & University industry, read [How to Innovate Academic Planning with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-innovate-academic-planning-with-ai-tools/170709)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

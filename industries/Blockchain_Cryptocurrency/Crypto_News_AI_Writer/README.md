@@ -4,6 +4,8 @@ Delve into blockchain with Crypto News AI Writer, your go-to source for AI-gener
 
 To run this app online: [Crypto News AI Writer Online](https://hero.page/app/crypto-news-ai-writer-ai-generated-cryptocurrency-journalism/E3TJdApnzPk3xz3SXUQJ)
 
+[![Run Crypto News AI Writer Online](/assets/run.svg)](https://hero.page/app/crypto-news-ai-writer-ai-generated-cryptocurrency-journalism/E3TJdApnzPk3xz3SXUQJ)
+
 To learn more about AI Apps for Crypto Journalist use-cases in the Blockchain & Cryptocurrency industry, read [How to Generate Stellar Crypto Articles, Interviews and Analysis with AI](https://hero.page/blog/ai/blockchain-and-cryptocurrency/how-to-generate-stellar-crypto-articles-interviews-and-analysis-with-ai/170753)
 
 ### What is HeroML?

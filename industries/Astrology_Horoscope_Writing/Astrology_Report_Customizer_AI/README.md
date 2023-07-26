@@ -4,6 +4,8 @@ Discover the impact of the cosmos on your life with Astrology Report Customizer 
 
 To run this app online: [Astrology Report Customizer AI Online](https://hero.page/app/astrology-report-customizer-ai-ai-generated-in-depth-zodiac-guidance/jxGts2JuHJHrroFskYC5)
 
+[![Run Astrology Report Customizer AI Online](/assets/run.svg)](https://hero.page/app/astrology-report-customizer-ai-ai-generated-in-depth-zodiac-guidance/jxGts2JuHJHrroFskYC5)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Horoscope Writing industry, read [How to Elevate Astrology Writing with AI-Driven Tools](https://hero.page/blog/ai/astrology-and-horoscope-writing/how-to-elevate-astrology-writing-with-ai-driven-tools/170737)
 
 ### What is HeroML?

@@ -4,7 +4,9 @@ Academic Security Protocol AI Planner is an advanced app designed for campus sec
 
 To run this app online: [Academic Security Protocol AI Planner Online](https://hero.page/app/academic-security-protocol-ai-planner-ai-powered-campus-security-planning/gNx7mdgJ7p4QliiNQGGn)
 
-To learn more about AI Apps for Campus Security Officer use-cases in the Academic & University industry, read [How to Enhance Campus Security with AI-Driven Safety Procedures](https://hero.page/blog/academic-and-university/campus-security-officer/how-to-enhance-campus-security-with-ai-driven-safety-procedures/170712)
+[![Run Academic Security Protocol AI Planner Online](/assets/run.svg)](https://hero.page/app/academic-security-protocol-ai-planner-ai-powered-campus-security-planning/gNx7mdgJ7p4QliiNQGGn)
+
+To learn more about AI Apps for Campus Security Officer use-cases in the Academic & University industry, read [How to Enhance Campus Security with AI-Driven Safety Procedures](https://hero.page/blog/ai/academic-and-university/how-to-enhance-campus-security-with-ai-driven-safety-procedures/170712)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

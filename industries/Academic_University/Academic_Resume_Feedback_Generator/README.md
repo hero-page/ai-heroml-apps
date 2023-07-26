@@ -4,7 +4,9 @@ Discover the power of AI with the Academic Resume Feedback Generator app. This d
 
 To run this app online: [Academic Resume Feedback Generator Online](https://hero.page/app/academic-resume-feedback-generator-academic-resume-ai-critique/OJUnkSBhTXlc9fiEMOb7)
 
-To learn more about AI Apps for Career Counselor use-cases in the Academic & University industry, read [How to Enhance Career Development with AI in Academia](https://hero.page/blog/academic-and-university/career-counselor/how-to-enhance-career-development-with-ai-in-academia/170707)
+[![Run Academic Resume Feedback Generator Online](/assets/run.svg)](https://hero.page/app/academic-resume-feedback-generator-academic-resume-ai-critique/OJUnkSBhTXlc9fiEMOb7)
+
+To learn more about AI Apps for Career Counselor use-cases in the Academic & University industry, read [How to Enhance Career Development with AI in Academia](https://hero.page/blog/ai/academic-and-university/how-to-enhance-career-development-with-ai-in-academia/170707)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

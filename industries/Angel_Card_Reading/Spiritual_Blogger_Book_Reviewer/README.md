@@ -4,6 +4,8 @@ The Spiritual Blogger Book Reviewer  app offers tailored Angel Card Reading revi
 
 To run this app online: [Spiritual Blogger Book Reviewer Online](https://hero.page/app/spiritual-blogger-book-reviewer-tailored-angel-card-reading-reviews/jTQJrP3TyFAr6TbCHFwa)
 
+[![Run Spiritual Blogger Book Reviewer Online](/assets/run.svg)](https://hero.page/app/spiritual-blogger-book-reviewer-tailored-angel-card-reading-reviews/jTQJrP3TyFAr6TbCHFwa)
+
 To learn more about AI Apps for Spiritual Blogger use-cases in the Angel Card Reading industry, read [How to Elevate Your Spiritual Blog with AI-Enhanced Angel Card Reading Apps](https://hero.page/blog/ai/angel-card-reading/how-to-elevate-your-spiritual-blog-with-ai-enhanced-angel-card-reading-apps/170726)
 
 ### What is HeroML?

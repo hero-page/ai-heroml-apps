@@ -1,0 +1,84 @@
+Your task is to write a "Product Review" for the "Blogging & Online Publishing" industry, specifically for a "Blogger". 
+
+Let's begin with an engaging introduction that includes a brief description and your initial thoughts about the product.
+
+Here's some more context about the Product Review:
+Product Intro: {{product_intro}}
+Product Features: {{product_features}}
+Personal Experience: {{personal_experience}}
+Detailed Analysis: {{detailed_analysis}}
+Comparison: {{comparison}}
+Final Verdict: {{final_verdict}}
+
+->>>>
+
+Our review for bloggers starts with an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Next, share detailed information about the product's features and specifications, specifically highlighting the ones that are particularly relevant for bloggers.
+
+->>>>
+
+For the product review, we have an introduction and detailed information about the product's features:
+
+Introduction:
+{{step_1}}
+
+Product's Features:
+{{step_2}}
+
+Now, describe your personal experience with the product, such as how you've used it and what results or benefits you've observed.
+
+->>>>
+
+In the product review, we have discussed the product's features and shared personal experiences:
+
+Product's Features:
+{{step_2}}
+
+Personal Experience:
+{{step_3}}
+
+Next, thoroughly analyze each feature of the product, considering its utility, performance, and impact on your blogging activities. Be sure to include specific examples to support your observations.
+
+->>>>
+
+We are reviewing a product. We have detailed the product's features, shared personal experiences, and analyzed each feature in terms of utility, performance, and impact:
+
+Product's Features:
+{{step_2}}
+
+Personal Experience:
+{{step_3}}
+
+Detailed Analysis:
+{{step_4}}
+
+Starting from the detailed analysis, let's compare the product with similar products available in the market, emphasizing its unique strengths and weaknesses.
+
+->>>>
+
+In the product review, we have a detailed analysis and a comparison against similar products:
+
+Detailed Analysis:
+{{step_4}}
+
+Comparison:
+{{step_5}}
+
+Now, provide your final verdict on the product, and give your recommendation on who would benefit most from it. Justify whether you would or wouldn't recommend this product to other bloggers.
+
+->>>>
+
+The product review now includes a comparison of the product against similar products, and a final verdict:
+
+Comparison:
+{{step_5}}
+
+Final Verdict:
+{{step_6}}
+
+Try to incorporate industry-specific vocabulary and references where appropriate, to enhance the relevance of the review for your fellow bloggers. 
+

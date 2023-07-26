@@ -4,7 +4,9 @@ Explore the future of academic writing with the Academic Research Paper AI Compo
 
 To run this app online: [Academic Research Paper AI Composer Online](https://hero.page/app/academic-research-paper-ai-composer-ai-powered-comprehensive-academic-author/L1yrKmPBPPsRiI8vjroO)
 
-To learn more about AI Apps for Researcher use-cases in the Academic & University industry, read [How to Enhance Academic Research with AI Tools](https://hero.page/blog/academic-and-university/researcher/how-to-enhance-academic-research-with-ai-tools/170699)
+[![Run Academic Research Paper AI Composer Online](/assets/run.svg)](https://hero.page/app/academic-research-paper-ai-composer-ai-powered-comprehensive-academic-author/L1yrKmPBPPsRiI8vjroO)
+
+To learn more about AI Apps for Researcher use-cases in the Academic & University industry, read [How to Enhance Academic Research with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-enhance-academic-research-with-ai-tools/170699)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

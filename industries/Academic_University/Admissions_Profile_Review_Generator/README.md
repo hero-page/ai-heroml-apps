@@ -4,7 +4,9 @@ Use the Admissions Profile Review Generator to streamline your candidate review 
 
 To run this app online: [Admissions Profile Review Generator Online](https://hero.page/app/admissions-profile-review-generator-automated-comprehensive-admissions-assessment/PDPtNibgDs7ViA1U9Hyw)
 
-To learn more about AI Apps for Admissions Officer use-cases in the Academic & University industry, read [How to Streamline University Admissions with 3 AI Tools](https://hero.page/blog/academic-and-university/admissions-officer/how-to-streamline-university-admissions-with-3-ai-tools/170703)
+[![Run Admissions Profile Review Generator Online](/assets/run.svg)](https://hero.page/app/admissions-profile-review-generator-automated-comprehensive-admissions-assessment/PDPtNibgDs7ViA1U9Hyw)
+
+To learn more about AI Apps for Admissions Officer use-cases in the Academic & University industry, read [How to Streamline University Admissions with 3 AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-streamline-university-admissions-with-3-ai-tools/170703)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

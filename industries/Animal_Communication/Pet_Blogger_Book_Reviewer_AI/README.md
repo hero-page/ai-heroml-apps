@@ -4,6 +4,8 @@ Immerse yourself in riveting book reviews with Pet Blogger Book Reviewer AI, an 
 
 To run this app online: [Pet Blogger Book Reviewer AI Online](https://hero.page/app/pet-blogger-book-reviewer-ai-ai-generated-pet-blogger-book-reviews/uZhVNuFp6m3wZwZByEOd)
 
+[![Run Pet Blogger Book Reviewer AI Online](/assets/run.svg)](https://hero.page/app/pet-blogger-book-reviewer-ai-ai-generated-pet-blogger-book-reviews/uZhVNuFp6m3wZwZByEOd)
+
 To learn more about AI Apps for Pet Blogger use-cases in the Animal Communication industry, read [How to Enhance Pet Communication with HeroML AI Apps](https://hero.page/blog/ai/animal-communication/how-to-enhance-pet-communication-with-heroml-ai-apps/170728)
 
 ### What is HeroML?

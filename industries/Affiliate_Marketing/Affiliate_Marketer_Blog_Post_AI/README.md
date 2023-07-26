@@ -4,6 +4,8 @@ Affiliate Marketer Blog Post AI allows users to generate high-quality, AI-powere
 
 To run this app online: [Affiliate Marketer Blog Post AI Online](https://hero.page/app/affiliate-marketer-blog-post-ai-ai-powered-success-stories-in-affiliate-marketing/C4wTgnteEQQ7lbxYCHse)
 
+[![Run Affiliate Marketer Blog Post AI Online](/assets/run.svg)](https://hero.page/app/affiliate-marketer-blog-post-ai-ai-powered-success-stories-in-affiliate-marketing/C4wTgnteEQQ7lbxYCHse)
+
 To learn more about AI Apps for Content Creator use-cases in the Affiliate Marketing industry, read [How to Maximize Affiliate Marketing with AI-Powered Content Creation Tools](https://hero.page/blog/ai/affiliate-marketing/how-to-maximize-affiliate-marketing-with-ai-powered-content-creation-tools/170720)
 
 ### What is HeroML?

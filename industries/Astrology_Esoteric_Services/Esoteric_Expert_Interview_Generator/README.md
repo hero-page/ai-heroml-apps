@@ -4,6 +4,8 @@ Discover the world of esoteric practices and astrology through dynamic interview
 
 To run this app online: [Esoteric Expert Interview Generator Online](https://hero.page/app/esoteric-expert-interview-generator-interactive-esoteric-blogger-insights/TandVRwFXNB6WSGCQYVh)
 
+[![Run Esoteric Expert Interview Generator Online](/assets/run.svg)](https://hero.page/app/esoteric-expert-interview-generator-interactive-esoteric-blogger-insights/TandVRwFXNB6WSGCQYVh)
+
 To learn more about AI Apps for Esoteric Blogger use-cases in the Astrology & Esoteric Services industry, read [How to Empower Esoteric Blogging with AI in Astrology Services](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-empower-esoteric-blogging-with-ai-in-astrology-services/170736)
 
 ### What is HeroML?

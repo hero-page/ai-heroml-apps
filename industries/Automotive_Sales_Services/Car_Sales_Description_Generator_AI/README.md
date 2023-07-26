@@ -4,6 +4,8 @@ Utilize the potential of AI with Car Sales Description Generator AI for a tailor
 
 To run this app online: [Car Sales Description Generator AI Online](https://hero.page/app/car-sales-description-generator-ai-ai-powered-comprehensive-car-salesmanship/15nZG7O6jWKzG5fvkwNC)
 
+[![Run Car Sales Description Generator AI Online](/assets/run.svg)](https://hero.page/app/car-sales-description-generator-ai-ai-powered-comprehensive-car-salesmanship/15nZG7O6jWKzG5fvkwNC)
+
 To learn more about AI Apps for Car Salesperson use-cases in the Automotive Sales & Services industry, read [How to Enhance Car Sales with AI-Driven Descriptions, Emails, and Summaries](https://hero.page/blog/ai/automotive-sales-and-services/how-to-enhance-car-sales-with-ai-driven-descriptions-emails-and-summaries/170748)
 
 ### What is HeroML?

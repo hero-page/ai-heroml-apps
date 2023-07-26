@@ -4,6 +4,8 @@ Astrological Transit Guidance Generator taps into AI for generating personalized
 
 To run this app online: [Astrological Transit Guidance Generator Online](https://hero.page/app/astrological-transit-guidance-generator-customized-transit-insights-and-guidance/xAKpc3czXgnfgsAk5kRT)
 
+[![Run Astrological Transit Guidance Generator Online](/assets/run.svg)](https://hero.page/app/astrological-transit-guidance-generator-customized-transit-insights-and-guidance/xAKpc3czXgnfgsAk5kRT)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Esoteric Services industry, read [How to Elevate Astrological Services with AI Forecasting Tools](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-elevate-astrological-services-with-ai-forecasting-tools/170734)
 
 ### What is HeroML?

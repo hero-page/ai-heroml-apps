@@ -4,6 +4,8 @@ Create engaging marketing narratives with Press Release Storyteller AI that uses
 
 To run this app online: [Press Release Storyteller AI Online](https://hero.page/app/press-release-storyteller-ai-ai-powered-marketing-storytelling/sgJSShIi6Dc4iRRnkLO3)
 
+[![Run Press Release Storyteller AI Online](/assets/run.svg)](https://hero.page/app/press-release-storyteller-ai-ai-powered-marketing-storytelling/sgJSShIi6Dc4iRRnkLO3)
+
 To learn more about AI Apps for Marketing Manager use-cases in the Advertising & Marketing industry, read [How to Transform Marketing Strategy with Top AI Workflow Apps](https://hero.page/blog/ai/advertising-and-marketing/how-to-transform-marketing-strategy-with-top-ai-workflow-apps/170718)
 
 ### What is HeroML?

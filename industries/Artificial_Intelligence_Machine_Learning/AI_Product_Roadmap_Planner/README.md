@@ -4,6 +4,8 @@ AI Product Roadmap Planner, a strategic AI product development planner transform
 
 To run this app online: [AI Product Roadmap Planner Online](https://hero.page/app/ai-product-roadmap-planner-strategic-ai-product-development-planner/XU5Sxvo4HUz5ruGK0DZp)
 
+[![Run AI Product Roadmap Planner Online](/assets/run.svg)](https://hero.page/app/ai-product-roadmap-planner-strategic-ai-product-development-planner/XU5Sxvo4HUz5ruGK0DZp)
+
 To learn more about AI Apps for Product Manager use-cases in the Artificial Intelligence & Machine Learning industry, read [How to Streamline AI Product Development with Essential Workflow Apps](https://hero.page/blog/ai/artificial-intelligence-and-machine-learning/how-to-streamline-ai-product-development-with-essential-workflow-apps/170733)
 
 ### What is HeroML?

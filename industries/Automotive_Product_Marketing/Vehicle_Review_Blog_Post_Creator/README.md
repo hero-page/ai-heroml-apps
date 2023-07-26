@@ -4,6 +4,8 @@ Vehicle Review Blog Post Creator, driven by AI, delivers comprehensive vehicle a
 
 To run this app online: [Vehicle Review Blog Post Creator Online](https://hero.page/app/vehicle-review-blog-post-creator-ai-powered-comprehensive-vehicle-analysis/Zi6cfOc2dOh5C4bcyXFo)
 
+[![Run Vehicle Review Blog Post Creator Online](/assets/run.svg)](https://hero.page/app/vehicle-review-blog-post-creator-ai-powered-comprehensive-vehicle-analysis/Zi6cfOc2dOh5C4bcyXFo)
+
 To learn more about AI Apps for Content Creator use-cases in the Automotive Product Marketing industry, read [How to Craft AI-Driven Automotive Content for Stellar Reviews and Social Media Impact](https://hero.page/blog/ai/automotive-product-marketing/how-to-craft-ai-driven-automotive-content-for-stellar-reviews-and-social-media-impact/170746)
 
 ### What is HeroML?

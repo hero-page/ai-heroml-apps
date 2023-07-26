@@ -4,6 +4,8 @@ Auto Repair Estimate Detailer is a powerful AI-based app that produces precise, 
 
 To run this app online: [Auto Repair Estimate Detailer Online](https://hero.page/app/auto-repair-estimate-detailer-customized-detailed-automotive-repair-estimates/GAbYKpxs56F3qPt0i8P0)
 
+[![Run Auto Repair Estimate Detailer Online](/assets/run.svg)](https://hero.page/app/auto-repair-estimate-detailer-customized-detailed-automotive-repair-estimates/GAbYKpxs56F3qPt0i8P0)
+
 To learn more about AI Apps for Automotive Technician use-cases in the Automotive Sales & Services industry, read [How to Enhance Auto Repair Estimates, Service Reports and Client Emails with AI](https://hero.page/blog/ai/automotive-sales-and-services/how-to-enhance-auto-repair-estimates-service-reports-and-client-emails-with-ai/170749)
 
 ### What is HeroML?

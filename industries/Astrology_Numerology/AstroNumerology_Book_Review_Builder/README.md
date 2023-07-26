@@ -4,6 +4,8 @@ Astro-Numerology Book Review Builder is bespoke software for crafting unique and
 
 To run this app online: [Astro-Numerology Book Review Builder Online](https://hero.page/app/astro-numerology-book-review-builder-astro-numerology-book-review-generator/z9WKx8CAFCan7uXdcSGP)
 
+[![Run Astro-Numerology Book Review Builder Online](/assets/run.svg)](https://hero.page/app/astro-numerology-book-review-builder-astro-numerology-book-review-generator/z9WKx8CAFCan7uXdcSGP)
+
 To learn more about AI Apps for Astrology Blogger use-cases in the Astrology & Numerology industry, read [How to Elevate Astrology Blogging with Innovative AI Tools](https://hero.page/blog/ai/astrology-and-numerology/how-to-elevate-astrology-blogging-with-innovative-ai-tools/170741)
 
 ### What is HeroML?

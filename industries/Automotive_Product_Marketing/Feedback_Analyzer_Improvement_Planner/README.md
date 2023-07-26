@@ -4,6 +4,8 @@ Feedback Analyzer & Improvement Planner is an advanced AI-driven application tha
 
 To run this app online: [Feedback Analyzer & Improvement Planner Online](https://hero.page/app/feedback-analyzer-and-improvement-planner-ai-driven-feedback-strategy-optimizer/FuMFJShoCsfO1nJaIZnU)
 
+[![Run Feedback Analyzer & Improvement Planner Online](/assets/run.svg)](https://hero.page/app/feedback-analyzer-and-improvement-planner-ai-driven-feedback-strategy-optimizer/FuMFJShoCsfO1nJaIZnU)
+
 To learn more about AI Apps for Product Manager use-cases in the Automotive Product Marketing industry, read [How to Refine Automotive Product Marketing with AI Tools](https://hero.page/blog/ai/automotive-product-marketing/how-to-refine-automotive-product-marketing-with-ai-tools/170747)
 
 ### What is HeroML?

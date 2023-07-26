@@ -4,6 +4,8 @@ Journey into the world of tarot and astrology with Spiritual Journey Tarot-Astro
 
 To run this app online: [Spiritual Journey Tarot-Astrology Blogger Online](https://hero.page/app/spiritual-journey-tarot-astrology-blogger-personal-astro-tarot-industry-journey/0GVEh5YSdaMY3mbOOFWP)
 
+[![Run Spiritual Journey Tarot-Astrology Blogger Online](/assets/run.svg)](https://hero.page/app/spiritual-journey-tarot-astrology-blogger-personal-astro-tarot-industry-journey/0GVEh5YSdaMY3mbOOFWP)
+
 To learn more about AI Apps for Spiritual Blogger use-cases in the Astrology & Tarot Reading industry, read [How to Elevate Astrology Tarot Blogging with AI Enhancements](https://hero.page/blog/ai/astrology-and-tarot-reading/how-to-elevate-astrology-tarot-blogging-with-ai-enhancements/170744)
 
 ### What is HeroML?

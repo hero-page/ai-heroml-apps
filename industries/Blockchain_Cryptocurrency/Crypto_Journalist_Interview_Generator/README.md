@@ -4,6 +4,8 @@ Explore deep insights into the crypto-world with Crypto Journalist Interview Gen
 
 To run this app online: [Crypto Journalist Interview Generator Online](https://hero.page/app/crypto-journalist-interview-generator-insightful-ai-powered-crypto-conversations/t2HmLTOXIRqkNfT6fyQE)
 
+[![Run Crypto Journalist Interview Generator Online](/assets/run.svg)](https://hero.page/app/crypto-journalist-interview-generator-insightful-ai-powered-crypto-conversations/t2HmLTOXIRqkNfT6fyQE)
+
 To learn more about AI Apps for Crypto Journalist use-cases in the Blockchain & Cryptocurrency industry, read [How to Generate Stellar Crypto Articles, Interviews and Analysis with AI](https://hero.page/blog/ai/blockchain-and-cryptocurrency/how-to-generate-stellar-crypto-articles-interviews-and-analysis-with-ai/170753)
 
 ### What is HeroML?

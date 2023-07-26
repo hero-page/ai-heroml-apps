@@ -1,0 +1,79 @@
+Your task is to write a "Content Calendar" for the "Blogging & Online Publishing" industry, specifically for an "Editor". Let's start by defining the purpose of the Content Calendar: {{content_purpose}}. This could be to enhance reader engagement, drive traffic to the website, establish thought leadership, etc. Make sure this purpose is the core backbone of your calendar.
+
+Here's some more context about the Content Calendar:
+Content Purpose: {{content_purpose}}
+Main Topics: {{main_topics}}
+Publishing Frequency: {{publishing_frequency}}
+Industry Events: {{industry_events}}
+Blog Details: {{blog_details}}
+Brief Summary: {{brief_summary}}
+
+->>>>
+
+Utilizing defined Content Calendar purpose:
+
+Content Purpose:
+{{step_1}}
+
+Next, identify key themes/topics that the content will revolve around. These themes/topics should align with the overarching goals.
+
+->>>>
+
+After identifying key themes/topics:
+
+Content Purpose:
+{{step_1}}
+
+Main Topics:
+{{step_2}}
+
+Now, determine the frequency of content publishing. This could be daily, weekly or monthly, depending on the capabilities and resources of your team.
+
+->>>>
+
+With a defined publishing frequency:
+
+Content Purpose:
+{{step_1}}
+
+Publishing Frequency:
+{{step_3}}
+
+Next, based on the publishing frequency, you need to divide the calendar into appropriate time slots: days for daily, weeks for weekly, or months for monthly. Within these time slots, allocate the blog topics stemming from main topics.
+
+->>>>
+
+After allocating time slots:
+
+Publishing Frequency:
+{{step_3}}
+
+Time Slots with Blog Topics:
+{{step_4}}
+
+Considerations following the pace of the industry can help in content planning. Align your topics with important industry events, notable product launches, trending subjects, etc. Therefore, ensure that your content is timely, relevant, and valuable to the reader.
+
+->>>>
+
+With the integration of industry-specific aspects:
+
+Time Slots with Blog Topics:
+{{step_4}}
+
+Industry-specific Aspects:
+{{step_5}}
+
+Allocate a section in the calendar to detail the title of the blog post, the author, the date of publication, and the blog post status (drafted, reviewed, published).
+
+->>>>
+
+Adding blog details for each time slot:
+
+Time Slots with Blog Topics and Industry Aspects:
+{{step_5}}
+
+Blog Details:
+{{step_6}}
+
+For each blog post in your planned calendar, describe briefly. Include the primary message, target audience, SEO keywords, and any call to action.
+

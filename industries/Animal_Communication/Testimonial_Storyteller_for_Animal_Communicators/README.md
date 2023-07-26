@@ -4,6 +4,8 @@ Testimonial Storyteller for Animal Communicators, an AI-powered app creating uni
 
 To run this app online: [Testimonial Storyteller for Animal Communicators Online](https://hero.page/app/testimonial-storyteller-for-animal-communicators-ai-powered-animal-tales-and-transformations/vHkyI7b6F214KY7XRwj0)
 
+[![Run Testimonial Storyteller for Animal Communicators Online](/assets/run.svg)](https://hero.page/app/testimonial-storyteller-for-animal-communicators-ai-powered-animal-tales-and-transformations/vHkyI7b6F214KY7XRwj0)
+
 To learn more about AI Apps for Animal Communicator use-cases in the Animal Communication industry, read [How to Enhance Animal Communication Skills with AI Apps](https://hero.page/blog/ai/animal-communication/how-to-enhance-animal-communication-skills-with-ai-apps/170727)
 
 ### What is HeroML?

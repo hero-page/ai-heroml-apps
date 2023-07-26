@@ -4,6 +4,8 @@ Explore the tech-filled world of agriculture with the AgTech Blog Content Genera
 
 To run this app online: [AgTech Blog Content Generator Online](https://hero.page/app/agtech-blog-content-generator-agtech-insight:-engaging-comprehensive-content/baTzrD28UqPkfABRJ0jY)
 
+[![Run AgTech Blog Content Generator Online](/assets/run.svg)](https://hero.page/app/agtech-blog-content-generator-agtech-insight:-engaging-comprehensive-content/baTzrD28UqPkfABRJ0jY)
+
 To learn more about AI Apps for Content Marketer use-cases in the Agricultural Technology industry, read [How to Elevate AgTech Content Marketing with AI Tools](https://hero.page/blog/ai/agricultural-technology/how-to-elevate-agtech-content-marketing-with-ai-tools/170724)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Discover Acupressure Session Description Creator, an app designed to generate ta
 
 To run this app online: [Acupressure Session Description Creator Online](https://hero.page/app/acupressure-session-description-creator-personalized-acupressure-session-descriptions/9tAJoPKahZkzPOIizUK7)
 
+[![Run Acupressure Session Description Creator Online](/assets/run.svg)](https://hero.page/app/acupressure-session-description-creator-personalized-acupressure-session-descriptions/9tAJoPKahZkzPOIizUK7)
+
 To learn more about AI Apps for Acupressure Practitioner use-cases in the Acupressure & Reflexology industry, read [How to Enhance Acupressure Practice with AI-assisted Apps](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-enhance-acupressure-practice-with-ai-assisted-apps/170713)
 
 ### What is HeroML?

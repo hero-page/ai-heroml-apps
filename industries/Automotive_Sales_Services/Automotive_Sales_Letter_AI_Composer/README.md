@@ -4,6 +4,8 @@ Automotive Sales Letter AI Composer lets you generate personalized and persuasiv
 
 To run this app online: [Automotive Sales Letter AI Composer Online](https://hero.page/app/automotive-sales-letter-ai-composer-ai-based-personalized-automotive-sales-letters/7GefVwXwVXwPtrsY5F98)
 
+[![Run Automotive Sales Letter AI Composer Online](/assets/run.svg)](https://hero.page/app/automotive-sales-letter-ai-composer-ai-based-personalized-automotive-sales-letters/7GefVwXwVXwPtrsY5F98)
+
 To learn more about AI Apps for Dealership Manager use-cases in the Automotive Sales & Services industry, read [How to Elevate Automotive Sales Strategy with AI Tools](https://hero.page/blog/ai/automotive-sales-and-services/how-to-elevate-automotive-sales-strategy-with-ai-tools/170750)
 
 ### What is HeroML?

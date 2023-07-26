@@ -4,6 +4,8 @@ Unlock the secrets of communication with the Animal Communicators' Guide Creator
 
 To run this app online: [Animal Communicators' Guide Creator Online](https://hero.page/app/animal-communicators'-guide-creator-ai-powered-species-specific-communication-guidance/l6Mq3Yt9TWgepMUsUvIj)
 
+[![Run Animal Communicators' Guide Creator Online](/assets/run.svg)](https://hero.page/app/animal-communicators'-guide-creator-ai-powered-species-specific-communication-guidance/l6Mq3Yt9TWgepMUsUvIj)
+
 To learn more about AI Apps for Animal Communicator use-cases in the Animal Communication industry, read [How to Enhance Animal Communication Skills with AI Apps](https://hero.page/blog/ai/animal-communication/how-to-enhance-animal-communication-skills-with-ai-apps/170727)
 
 ### What is HeroML?

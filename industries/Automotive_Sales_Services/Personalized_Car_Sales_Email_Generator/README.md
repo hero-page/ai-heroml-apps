@@ -4,6 +4,8 @@ Experience seamless car salesmanship with the Personalized Car Sales Email Gener
 
 To run this app online: [Personalized Car Sales Email Generator Online](https://hero.page/app/personalized-car-sales-email-generator-ai-powered-personalized-car-sales-emails/7AUABgXNkAwsyJnbb6DO)
 
+[![Run Personalized Car Sales Email Generator Online](/assets/run.svg)](https://hero.page/app/personalized-car-sales-email-generator-ai-powered-personalized-car-sales-emails/7AUABgXNkAwsyJnbb6DO)
+
 To learn more about AI Apps for Car Salesperson use-cases in the Automotive Sales & Services industry, read [How to Enhance Car Sales with AI-Driven Descriptions, Emails, and Summaries](https://hero.page/blog/ai/automotive-sales-and-services/how-to-enhance-car-sales-with-ai-driven-descriptions-emails-and-summaries/170748)
 
 ### What is HeroML?

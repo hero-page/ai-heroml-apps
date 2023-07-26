@@ -4,6 +4,8 @@ Strategic Campaign Planner AI allows users to specify variables, harnessing the 
 
 To run this app online: [Strategic Campaign Planner AI Online](https://hero.page/app/strategic-campaign-planner-ai-ai-powered-evaluation-driven-campaign-planning/oSygMmnZ6zT8NWWNfhLk)
 
+[![Run Strategic Campaign Planner AI Online](/assets/run.svg)](https://hero.page/app/strategic-campaign-planner-ai-ai-powered-evaluation-driven-campaign-planning/oSygMmnZ6zT8NWWNfhLk)
+
 To learn more about AI Apps for Marketing Manager use-cases in the Advertising & Marketing industry, read [How to Transform Marketing Strategy with Top AI Workflow Apps](https://hero.page/blog/ai/advertising-and-marketing/how-to-transform-marketing-strategy-with-top-ai-workflow-apps/170718)
 
 ### What is HeroML?

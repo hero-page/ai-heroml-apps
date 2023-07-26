@@ -4,6 +4,8 @@ Ad Copy AI Craftsman is a powerful, AI-powered tool that lets users craft perfec
 
 To run this app online: [Ad Copy AI Craftsman Online](https://hero.page/app/ad-copy-ai-craftsman-ai-driven-ad-creation-mastery/zt4Bcuxgv9VhkFeIP46F)
 
+[![Run Ad Copy AI Craftsman Online](/assets/run.svg)](https://hero.page/app/ad-copy-ai-craftsman-ai-driven-ad-creation-mastery/zt4Bcuxgv9VhkFeIP46F)
+
 To learn more about AI Apps for Copywriter use-cases in the Advertising & Marketing industry, read [How to Supercharge Ad Creation, Email Campaigns, and Blog Posts with AI](https://hero.page/blog/ai/advertising-and-marketing/how-to-supercharge-ad-creation-email-campaigns-and-blog-posts-with-ai/170716)
 
 ### What is HeroML?

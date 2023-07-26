@@ -4,6 +4,8 @@ Use AgriTech Press Release Constructor to create highly customized, sophisticate
 
 To run this app online: [AgriTech Press Release Constructor Online](https://hero.page/app/agritech-press-release-constructor-ai-generated-agritech-launch-announcements/IE1Adg3we2cJyZqJm9CN)
 
+[![Run AgriTech Press Release Constructor Online](/assets/run.svg)](https://hero.page/app/agritech-press-release-constructor-ai-generated-agritech-launch-announcements/IE1Adg3we2cJyZqJm9CN)
+
 To learn more about AI Apps for Content Marketer use-cases in the Agricultural Technology industry, read [How to Elevate AgTech Content Marketing with AI Tools](https://hero.page/blog/ai/agricultural-technology/how-to-elevate-agtech-content-marketing-with-ai-tools/170724)
 
 ### What is HeroML?

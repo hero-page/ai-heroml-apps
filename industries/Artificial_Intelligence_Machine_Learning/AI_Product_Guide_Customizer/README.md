@@ -4,6 +4,8 @@ AI Product Guide Customizer helps create tailored guides for Artificial Intellig
 
 To run this app online: [AI Product Guide Customizer Online](https://hero.page/app/ai-product-guide-customizer-custom-ai-product-management-guide/qZu1pOHQgfeBsynaH3BQ)
 
+[![Run AI Product Guide Customizer Online](/assets/run.svg)](https://hero.page/app/ai-product-guide-customizer-custom-ai-product-management-guide/qZu1pOHQgfeBsynaH3BQ)
+
 To learn more about AI Apps for Product Manager use-cases in the Artificial Intelligence & Machine Learning industry, read [How to Streamline AI Product Development with Essential Workflow Apps](https://hero.page/blog/ai/artificial-intelligence-and-machine-learning/how-to-streamline-ai-product-development-with-essential-workflow-apps/170733)
 
 ### What is HeroML?

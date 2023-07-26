@@ -4,6 +4,8 @@ Explore the fascinating world of Astrology & Numerology with Astro-Blogger Perso
 
 To run this app online: [Astro-Blogger Personal Experience AI Online](https://hero.page/app/astro-blogger-personal-experience-ai-personal-astrology-journey-insights/6IGcM1cNOnt0Tew1z67w)
 
+[![Run Astro-Blogger Personal Experience AI Online](/assets/run.svg)](https://hero.page/app/astro-blogger-personal-experience-ai-personal-astrology-journey-insights/6IGcM1cNOnt0Tew1z67w)
+
 To learn more about AI Apps for Astrology Blogger use-cases in the Astrology & Numerology industry, read [How to Elevate Astrology Blogging with Innovative AI Tools](https://hero.page/blog/ai/astrology-and-numerology/how-to-elevate-astrology-blogging-with-innovative-ai-tools/170741)
 
 ### What is HeroML?

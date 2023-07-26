@@ -4,7 +4,9 @@ The University Alumni Newsletter Creator app uses AI technology to produce engag
 
 To run this app online: [University Alumni Newsletter Creator Online](https://hero.page/app/university-alumni-newsletter-creator-customized-engagement-driven-alumni-newsletters/L4noBSU3Pw9xtIRhlPH0)
 
-To learn more about AI Apps for Alumni Relations Officer use-cases in the Academic & University industry, read [How to Elevate Alumni Outreach with AI-powered Newsletter, Fundraising and Event Invites](https://hero.page/blog/academic-and-university/alumni-relations-officer/how-to-elevate-alumni-outreach-with-ai-powered-newsletter-fundraising-and-event-invites/170710)
+[![Run University Alumni Newsletter Creator Online](/assets/run.svg)](https://hero.page/app/university-alumni-newsletter-creator-customized-engagement-driven-alumni-newsletters/L4noBSU3Pw9xtIRhlPH0)
+
+To learn more about AI Apps for Alumni Relations Officer use-cases in the Academic & University industry, read [How to Elevate Alumni Outreach with AI-powered Newsletter, Fundraising and Event Invites](https://hero.page/blog/ai/academic-and-university/how-to-elevate-alumni-outreach-with-ai-powered-newsletter-fundraising-and-event-invites/170710)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

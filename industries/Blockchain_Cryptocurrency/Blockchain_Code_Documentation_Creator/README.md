@@ -4,6 +4,8 @@ Blockchain Code Documentation Creator is an AI-powered tool designed for blockch
 
 To run this app online: [Blockchain Code Documentation Creator Online](https://hero.page/app/blockchain-code-documentation-creator-ai-powered-blockchain-code-documenter/DxCRxEU5lEjV5Ho5sLCZ)
 
+[![Run Blockchain Code Documentation Creator Online](/assets/run.svg)](https://hero.page/app/blockchain-code-documentation-creator-ai-powered-blockchain-code-documenter/DxCRxEU5lEjV5Ho5sLCZ)
+
 To learn more about AI Apps for Blockchain Developer use-cases in the Blockchain & Cryptocurrency industry, read [How to Streamline Blockchain Workflow with HeroML AI](https://hero.page/blog/ai/blockchain-and-cryptocurrency/how-to-streamline-blockchain-workflow-with-heroml-ai/170751)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Tailor your marketing proposals effectively with Marketing Proposal Tailor AI. D
 
 To run this app online: [Marketing Proposal Tailor AI Online](https://hero.page/app/marketing-proposal-tailor-ai-tailored-ai-marketing-proposals/fXJWSYUo0kA0XLFXDV34)
 
+[![Run Marketing Proposal Tailor AI Online](/assets/run.svg)](https://hero.page/app/marketing-proposal-tailor-ai-tailored-ai-marketing-proposals/fXJWSYUo0kA0XLFXDV34)
+
 To learn more about AI Apps for Marketing Manager use-cases in the Advertising & Marketing industry, read [How to Transform Marketing Strategy with Top AI Workflow Apps](https://hero.page/blog/ai/advertising-and-marketing/how-to-transform-marketing-strategy-with-top-ai-workflow-apps/170718)
 
 ### What is HeroML?

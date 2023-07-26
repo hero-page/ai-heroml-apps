@@ -4,7 +4,9 @@ Lab Equipment Manual Creator allows you to craft comprehensive guides tailored f
 
 To run this app online: [Lab Equipment Manual Creator Online](https://hero.page/app/lab-equipment-manual-creator-comprehensive-laboratory-equipment-guides/UlLsTkb055dDWVRDsvlN)
 
-To learn more about AI Apps for Lab Technician use-cases in the Academic & University industry, read [How to Streamline Lab Procedures with AI in University Settings](https://hero.page/blog/academic-and-university/lab-technician/how-to-streamline-lab-procedures-with-ai-in-university-settings/170711)
+[![Run Lab Equipment Manual Creator Online](/assets/run.svg)](https://hero.page/app/lab-equipment-manual-creator-comprehensive-laboratory-equipment-guides/UlLsTkb055dDWVRDsvlN)
+
+To learn more about AI Apps for Lab Technician use-cases in the Academic & University industry, read [How to Streamline Lab Procedures with AI in University Settings](https://hero.page/blog/ai/academic-and-university/how-to-streamline-lab-procedures-with-ai-in-university-settings/170711)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

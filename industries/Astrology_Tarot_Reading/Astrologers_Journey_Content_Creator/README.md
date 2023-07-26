@@ -4,6 +4,8 @@ Astrologer's Journey Content Creator lets you weave personalized Astrology & Tar
 
 To run this app online: [Astrologer's Journey Content Creator Online](https://hero.page/app/astrologer's-journey-content-creator-personalized-astrology-and-tarot-narratives/N0j8qO9sooBgIB7eecoi)
 
+[![Run Astrologer's Journey Content Creator Online](/assets/run.svg)](https://hero.page/app/astrologer's-journey-content-creator-personalized-astrology-and-tarot-narratives/N0j8qO9sooBgIB7eecoi)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Tarot Reading industry, read [How to Advance Astrology Practice with AI Horoscope and Guide Creation](https://hero.page/blog/ai/astrology-and-tarot-reading/how-to-advance-astrology-practice-with-ai-horoscope-and-guide-creation/170742)
 
 ### What is HeroML?

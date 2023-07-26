@@ -4,6 +4,8 @@ Unlock in-depth analysis with Agriculture Tech Feature Analyst. This app uses AI
 
 To run this app online: [Agriculture Tech Feature Analyst Online](https://hero.page/app/agriculture-tech-feature-analyst-tailored-tech-analysis-for-agriculture/J02OP9pRFVsxdUmhRw0y)
 
+[![Run Agriculture Tech Feature Analyst Online](/assets/run.svg)](https://hero.page/app/agriculture-tech-feature-analyst-tailored-tech-analysis-for-agriculture/J02OP9pRFVsxdUmhRw0y)
+
 To learn more about AI Apps for Product Manager use-cases in the Agricultural Technology industry, read [How to Elevate AgTech with AI for Product Roadmap and Market Analysis](https://hero.page/blog/ai/agricultural-technology/how-to-elevate-agtech-with-ai-for-product-roadmap-and-market-analysis/170723)
 
 ### What is HeroML?

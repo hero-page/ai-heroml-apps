@@ -4,6 +4,8 @@ Discover the power of customized learning with the Reflexology Foot Chart Guide 
 
 To run this app online: [Reflexology Foot Chart Guide Creator Online](https://hero.page/app/reflexology-foot-chart-guide-creator-customizable-reflexology-guide-creator/zqdg3VxmuKWySPw5OgZA)
 
+[![Run Reflexology Foot Chart Guide Creator Online](/assets/run.svg)](https://hero.page/app/reflexology-foot-chart-guide-creator-customizable-reflexology-guide-creator/zqdg3VxmuKWySPw5OgZA)
+
 To learn more about AI Apps for Reflexologist use-cases in the Acupressure & Reflexology industry, read [How to Generate AI-Assisted Reflexology Guides and Case Studies](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-generate-ai-assisted-reflexology-guides-and-case-studies/170714)
 
 ### What is HeroML?

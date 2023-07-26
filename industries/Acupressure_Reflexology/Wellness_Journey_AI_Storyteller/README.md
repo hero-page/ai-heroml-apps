@@ -4,6 +4,8 @@ Wellness Journey AI Storyteller app offers a new approach to wellness storytelli
 
 To run this app online: [Wellness Journey AI Storyteller Online](https://hero.page/app/wellness-journey-ai-storyteller-personalized-wellness-journey-narratives/y8BmmTk3DP7CTbgK5IQk)
 
+[![Run Wellness Journey AI Storyteller Online](/assets/run.svg)](https://hero.page/app/wellness-journey-ai-storyteller-personalized-wellness-journey-narratives/y8BmmTk3DP7CTbgK5IQk)
+
 To learn more about AI Apps for Wellness Blogger use-cases in the Acupressure & Reflexology industry, read [How to Elevate Acupressure Blogging with AI Assisted Journeys & Reviews](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-elevate-acupressure-blogging-with-ai-assisted-journeys-and-reviews/170715)
 
 ### What is HeroML?

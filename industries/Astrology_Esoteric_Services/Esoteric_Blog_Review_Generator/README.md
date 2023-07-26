@@ -4,6 +4,8 @@ Esoteric Blog Review Generator is a powerful AI-driven application specially tai
 
 To run this app online: [Esoteric Blog Review Generator Online](https://hero.page/app/esoteric-blog-review-generator-personalized-esoteric-industry-review-generator/7GbTIRJBWq6wO2Idovoo)
 
+[![Run Esoteric Blog Review Generator Online](/assets/run.svg)](https://hero.page/app/esoteric-blog-review-generator-personalized-esoteric-industry-review-generator/7GbTIRJBWq6wO2Idovoo)
+
 To learn more about AI Apps for Esoteric Blogger use-cases in the Astrology & Esoteric Services industry, read [How to Empower Esoteric Blogging with AI in Astrology Services](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-empower-esoteric-blogging-with-ai-in-astrology-services/170736)
 
 ### What is HeroML?

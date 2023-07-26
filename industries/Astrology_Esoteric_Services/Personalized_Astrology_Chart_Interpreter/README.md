@@ -4,6 +4,8 @@ Explore the unknown with the Personalized Astrology Chart Interpreter app. With 
 
 To run this app online: [Personalized Astrology Chart Interpreter Online](https://hero.page/app/personalized-astrology-chart-interpreter-customized-astrology-for-personal-growth/Gft8ruQSnepE8XfQNIk0)
 
+[![Run Personalized Astrology Chart Interpreter Online](/assets/run.svg)](https://hero.page/app/personalized-astrology-chart-interpreter-customized-astrology-for-personal-growth/Gft8ruQSnepE8XfQNIk0)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Esoteric Services industry, read [How to Elevate Astrological Services with AI Forecasting Tools](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-elevate-astrological-services-with-ai-forecasting-tools/170734)
 
 ### What is HeroML?

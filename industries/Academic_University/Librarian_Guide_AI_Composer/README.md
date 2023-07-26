@@ -4,7 +4,9 @@ Explore the academic library space with Librarian Guide AI Composer—your virtu
 
 To run this app online: [Librarian Guide AI Composer Online](https://hero.page/app/librarian-guide-ai-composer-ai-powered-academic-librarian-guide/nait8Sm8zK0toooO2wVB)
 
-To learn more about AI Apps for Librarian use-cases in the Academic & University industry, read [How to Enhance Library Workflows with AI Technology](https://hero.page/blog/academic-and-university/librarian/how-to-enhance-library-workflows-with-ai-technology/170706)
+[![Run Librarian Guide AI Composer Online](/assets/run.svg)](https://hero.page/app/librarian-guide-ai-composer-ai-powered-academic-librarian-guide/nait8Sm8zK0toooO2wVB)
+
+To learn more about AI Apps for Librarian use-cases in the Academic & University industry, read [How to Enhance Library Workflows with AI Technology](https://hero.page/blog/ai/academic-and-university/how-to-enhance-library-workflows-with-ai-technology/170706)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

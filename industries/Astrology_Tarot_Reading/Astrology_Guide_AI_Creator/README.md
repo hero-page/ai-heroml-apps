@@ -4,6 +4,8 @@ Astrology Guide AI Creator, your comprehensive astrology learning and applicatio
 
 To run this app online: [Astrology Guide AI Creator Online](https://hero.page/app/astrology-guide-ai-creator-comprehensive-astrology-learning-and-application-guide/0yykb6kfHhoGIial2vxQ)
 
+[![Run Astrology Guide AI Creator Online](/assets/run.svg)](https://hero.page/app/astrology-guide-ai-creator-comprehensive-astrology-learning-and-application-guide/0yykb6kfHhoGIial2vxQ)
+
 To learn more about AI Apps for Astrologer use-cases in the Astrology & Tarot Reading industry, read [How to Advance Astrology Practice with AI Horoscope and Guide Creation](https://hero.page/blog/ai/astrology-and-tarot-reading/how-to-advance-astrology-practice-with-ai-horoscope-and-guide-creation/170742)
 
 ### What is HeroML?

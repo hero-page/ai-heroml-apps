@@ -4,6 +4,8 @@ Blockchain Project Proposal Creator is an AI-driven app for creating extensively
 
 To run this app online: [Blockchain Project Proposal Creator Online](https://hero.page/app/blockchain-project-proposal-creator-ai-driven-blockchain-project-planning/3FBkxE4EQ73EY9pFPDPF)
 
+[![Run Blockchain Project Proposal Creator Online](/assets/run.svg)](https://hero.page/app/blockchain-project-proposal-creator-ai-driven-blockchain-project-planning/3FBkxE4EQ73EY9pFPDPF)
+
 To learn more about AI Apps for Blockchain Developer use-cases in the Blockchain & Cryptocurrency industry, read [How to Streamline Blockchain Workflow with HeroML AI](https://hero.page/blog/ai/blockchain-and-cryptocurrency/how-to-streamline-blockchain-workflow-with-heroml-ai/170751)
 
 ### What is HeroML?

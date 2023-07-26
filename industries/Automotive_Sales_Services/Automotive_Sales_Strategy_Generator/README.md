@@ -4,6 +4,8 @@ Leverage the power of AI with Automotive Sales Strategy Generator, your tailored
 
 To run this app online: [Automotive Sales Strategy Generator Online](https://hero.page/app/automotive-sales-strategy-generator-tailored-automotive-dealership-sales-strategies/8MzKlsaqQ46ISYVDOELd)
 
+[![Run Automotive Sales Strategy Generator Online](/assets/run.svg)](https://hero.page/app/automotive-sales-strategy-generator-tailored-automotive-dealership-sales-strategies/8MzKlsaqQ46ISYVDOELd)
+
 To learn more about AI Apps for Dealership Manager use-cases in the Automotive Sales & Services industry, read [How to Elevate Automotive Sales Strategy with AI Tools](https://hero.page/blog/ai/automotive-sales-and-services/how-to-elevate-automotive-sales-strategy-with-ai-tools/170750)
 
 ### What is HeroML?

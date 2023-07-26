@@ -4,6 +4,8 @@ Experience an advanced AI-powered essential oil app designed for aromatherapists
 
 To run this app online: [Essential Oil Descriptor for Aromatherapists Online](https://hero.page/app/essential-oil-descriptor-for-aromatherapists-ai-powered-essential-oil-encyclopedia/mZjdlb4sdatZrLYtdTBo)
 
+[![Run Essential Oil Descriptor for Aromatherapists Online](/assets/run.svg)](https://hero.page/app/essential-oil-descriptor-for-aromatherapists-ai-powered-essential-oil-encyclopedia/mZjdlb4sdatZrLYtdTBo)
+
 To learn more about AI Apps for Aromatherapist use-cases in the Aromatherapy & Essential Oils industry, read [How to Enhance Aromatherapy with AI-Driven Essential Oil Descriptions](https://hero.page/blog/ai/aromatherapy-and-essential-oils/how-to-enhance-aromatherapy-with-ai-driven-essential-oil-descriptions/170729)
 
 ### What is HeroML?

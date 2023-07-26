@@ -4,7 +4,9 @@ University Incident Report AI, subtitled Campus Security Incident Reporting, is 
 
 To run this app online: [University Incident Report AI Online](https://hero.page/app/university-incident-report-ai-campus-security-incident-reporting/UQaTvUpnohXdNIOzn7O4)
 
-To learn more about AI Apps for Campus Security Officer use-cases in the Academic & University industry, read [How to Enhance Campus Security with AI-Driven Safety Procedures](https://hero.page/blog/academic-and-university/campus-security-officer/how-to-enhance-campus-security-with-ai-driven-safety-procedures/170712)
+[![Run University Incident Report AI Online](/assets/run.svg)](https://hero.page/app/university-incident-report-ai-campus-security-incident-reporting/UQaTvUpnohXdNIOzn7O4)
+
+To learn more about AI Apps for Campus Security Officer use-cases in the Academic & University industry, read [How to Enhance Campus Security with AI-Driven Safety Procedures](https://hero.page/blog/ai/academic-and-university/how-to-enhance-campus-security-with-ai-driven-safety-procedures/170712)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

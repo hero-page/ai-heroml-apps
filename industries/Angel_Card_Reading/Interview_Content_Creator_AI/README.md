@@ -4,6 +4,8 @@ Interview Content Creator AI is an innovative app that revolutionizes Angel Card
 
 To run this app online: [Interview Content Creator AI Online](https://hero.page/app/interview-content-creator-ai-ai-crafted-angel-card-readings/Wkptz4dNF01LetpHd09q)
 
+[![Run Interview Content Creator AI Online](/assets/run.svg)](https://hero.page/app/interview-content-creator-ai-ai-crafted-angel-card-readings/Wkptz4dNF01LetpHd09q)
+
 To learn more about AI Apps for Spiritual Blogger use-cases in the Angel Card Reading industry, read [How to Elevate Your Spiritual Blog with AI-Enhanced Angel Card Reading Apps](https://hero.page/blog/ai/angel-card-reading/how-to-elevate-your-spiritual-blog-with-ai-enhanced-angel-card-reading-apps/170726)
 
 ### What is HeroML?

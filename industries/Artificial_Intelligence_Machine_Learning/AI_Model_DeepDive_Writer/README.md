@@ -4,6 +4,8 @@ The AI Model Deep-Dive Writer app is your ultimate guide for a thorough understa
 
 To run this app online: [AI Model Deep-Dive Writer Online](https://hero.page/app/ai-model-deep-dive-writer-comprehensive-ai-model-explainer/yUAH1NQoEWqgoaTvOxYx)
 
+[![Run AI Model Deep-Dive Writer Online](/assets/run.svg)](https://hero.page/app/ai-model-deep-dive-writer-comprehensive-ai-model-explainer/yUAH1NQoEWqgoaTvOxYx)
+
 To learn more about AI Apps for AI Researcher use-cases in the Artificial Intelligence & Machine Learning industry, read [How to Master AI Research Writing with Diverse AI Tools](https://hero.page/blog/ai/artificial-intelligence-and-machine-learning/how-to-master-ai-research-writing-with-diverse-ai-tools/170731)
 
 ### What is HeroML?

@@ -4,7 +4,9 @@ Discover the ultimate personalized career guide with Career Guide Customizer AI.
 
 To run this app online: [Career Guide Customizer AI Online](https://hero.page/app/career-guide-customizer-ai-ai-powered-personalized-career-guidance/U5pdEUig9SGwSrEBFVKG)
 
-To learn more about AI Apps for Career Counselor use-cases in the Academic & University industry, read [How to Enhance Career Development with AI in Academia](https://hero.page/blog/academic-and-university/career-counselor/how-to-enhance-career-development-with-ai-in-academia/170707)
+[![Run Career Guide Customizer AI Online](/assets/run.svg)](https://hero.page/app/career-guide-customizer-ai-ai-powered-personalized-career-guidance/U5pdEUig9SGwSrEBFVKG)
+
+To learn more about AI Apps for Career Counselor use-cases in the Academic & University industry, read [How to Enhance Career Development with AI in Academia](https://hero.page/blog/ai/academic-and-university/how-to-enhance-career-development-with-ai-in-academia/170707)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

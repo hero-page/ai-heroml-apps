@@ -4,6 +4,8 @@ Wellness Interview AI Writer, an AI-powered maestro, crafts custom wellness expe
 
 To run this app online: [Wellness Interview AI Writer Online](https://hero.page/app/wellness-interview-ai-writer-ai-powered-wellness-expert-interviews/PiyoWwskHVgMk48OxCtE)
 
+[![Run Wellness Interview AI Writer Online](/assets/run.svg)](https://hero.page/app/wellness-interview-ai-writer-ai-powered-wellness-expert-interviews/PiyoWwskHVgMk48OxCtE)
+
 To learn more about AI Apps for Wellness Blogger use-cases in the Acupressure & Reflexology industry, read [How to Elevate Acupressure Blogging with AI Assisted Journeys & Reviews](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-elevate-acupressure-blogging-with-ai-assisted-journeys-and-reviews/170715)
 
 ### What is HeroML?

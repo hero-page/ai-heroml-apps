@@ -4,6 +4,8 @@ Explore the world of crypto trading with the Crypto Trading Guide Creator. An AI
 
 To run this app online: [Crypto Trading Guide Creator Online](https://hero.page/app/crypto-trading-guide-creator-comprehensive-user-friendly-crypto-trading-guide/CrFzfbJa5ds0zH6IErTG)
 
+[![Run Crypto Trading Guide Creator Online](/assets/run.svg)](https://hero.page/app/crypto-trading-guide-creator-comprehensive-user-friendly-crypto-trading-guide/CrFzfbJa5ds0zH6IErTG)
+
 To learn more about AI Apps for Crypto Trader use-cases in the Blockchain & Cryptocurrency industry, read [How to Amplify Crypto Trading with AI-Driven Market Analysis & Investment Tips](https://hero.page/blog/ai/blockchain-and-cryptocurrency/how-to-amplify-crypto-trading-with-ai-driven-market-analysis-and-investment-tips/170752)
 
 ### What is HeroML?

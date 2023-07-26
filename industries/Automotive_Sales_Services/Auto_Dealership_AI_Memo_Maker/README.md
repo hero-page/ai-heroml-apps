@@ -4,6 +4,8 @@ Auto Dealership AI Memo Maker is a powerful tool that uses AI to create tailored
 
 To run this app online: [Auto Dealership AI Memo Maker Online](https://hero.page/app/auto-dealership-ai-memo-maker-ai-crafted-customized-dealership-memos/QTfBeFZKChSc6X2cPkg1)
 
+[![Run Auto Dealership AI Memo Maker Online](/assets/run.svg)](https://hero.page/app/auto-dealership-ai-memo-maker-ai-crafted-customized-dealership-memos/QTfBeFZKChSc6X2cPkg1)
+
 To learn more about AI Apps for Dealership Manager use-cases in the Automotive Sales & Services industry, read [How to Elevate Automotive Sales Strategy with AI Tools](https://hero.page/blog/ai/automotive-sales-and-services/how-to-elevate-automotive-sales-strategy-with-ai-tools/170750)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Unlock the potential of AI with the Automotive Product Email Campaign AI. This a
 
 To run this app online: [Automotive Product Email Campaign AI Online](https://hero.page/app/automotive-product-email-campaign-ai-ai-automotive-email-campaign-specialist/U5RkuyMRSf8cyBVMt8Rn)
 
+[![Run Automotive Product Email Campaign AI Online](/assets/run.svg)](https://hero.page/app/automotive-product-email-campaign-ai-ai-automotive-email-campaign-specialist/U5RkuyMRSf8cyBVMt8Rn)
+
 To learn more about AI Apps for Product Marketer use-cases in the Automotive Product Marketing industry, read [How to Elevate Automotive Marketing with AI for Specs, Email, Analysis](https://hero.page/blog/ai/automotive-product-marketing/how-to-elevate-automotive-marketing-with-ai-for-specs-email-analysis/170745)
 
 ### What is HeroML?

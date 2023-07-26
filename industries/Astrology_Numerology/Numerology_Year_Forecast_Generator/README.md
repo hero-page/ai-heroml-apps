@@ -4,6 +4,8 @@ Numerology Year Forecast Generator is an AI-driven mobile app that enables users
 
 To run this app online: [Numerology Year Forecast Generator Online](https://hero.page/app/numerology-year-forecast-generator-ai-powered-personal-numerology-forecasts/KS92sZ1Lvp2k1vb3PQvS)
 
+[![Run Numerology Year Forecast Generator Online](/assets/run.svg)](https://hero.page/app/numerology-year-forecast-generator-ai-powered-personal-numerology-forecasts/KS92sZ1Lvp2k1vb3PQvS)
+
 To learn more about AI Apps for Numerologist use-cases in the Astrology & Numerology industry, read [How to Generate Comprehensive Numerology Reports with AI Apps](https://hero.page/blog/ai/astrology-and-numerology/how-to-generate-comprehensive-numerology-reports-with-ai-apps/170740)
 
 ### What is HeroML?

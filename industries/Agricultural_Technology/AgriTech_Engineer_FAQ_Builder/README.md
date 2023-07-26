@@ -4,6 +4,8 @@ The Agri-Tech Engineer FAQ Builder app harnesses AI power to generate custom gui
 
 To run this app online: [Agri-Tech Engineer FAQ Builder Online](https://hero.page/app/agri-tech-engineer-faq-builder-custom-ai-agri-tech-guide/UAxngZKHZdEbprdzg9cA)
 
+[![Run Agri-Tech Engineer FAQ Builder Online](/assets/run.svg)](https://hero.page/app/agri-tech-engineer-faq-builder-custom-ai-agri-tech-guide/UAxngZKHZdEbprdzg9cA)
+
 To learn more about AI Apps for Agri-Tech Engineer use-cases in the Agricultural Technology industry, read [How to Streamline Agri-Tech Documentation with AI Apps](https://hero.page/blog/ai/agricultural-technology/how-to-streamline-agri-tech-documentation-with-ai-apps/170722)
 
 ### What is HeroML?

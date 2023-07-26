@@ -4,6 +4,8 @@ Experience the power of AI with AI Test Drive Experience Creator. An innovative 
 
 To run this app online: [AI Test Drive Experience Creator Online](https://hero.page/app/ai-test-drive-experience-creator-customized-test-drive-insights/91VyJWIPMhkVvbnQrqtG)
 
+[![Run AI Test Drive Experience Creator Online](/assets/run.svg)](https://hero.page/app/ai-test-drive-experience-creator-customized-test-drive-insights/91VyJWIPMhkVvbnQrqtG)
+
 To learn more about AI Apps for Content Creator use-cases in the Automotive Product Marketing industry, read [How to Craft AI-Driven Automotive Content for Stellar Reviews and Social Media Impact](https://hero.page/blog/ai/automotive-product-marketing/how-to-craft-ai-driven-automotive-content-for-stellar-reviews-and-social-media-impact/170746)
 
 ### What is HeroML?

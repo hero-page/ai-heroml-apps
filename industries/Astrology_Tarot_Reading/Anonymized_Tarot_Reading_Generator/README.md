@@ -4,6 +4,8 @@ Anonymized Tarot Reading Generator offers personalized, AI-powered tarot interpr
 
 To run this app online: [Anonymized Tarot Reading Generator Online](https://hero.page/app/anonymized-tarot-reading-generator-personalized-in-depth-tarot-interpretations/RbSL9xFZVyj5J3VRsWUz)
 
+[![Run Anonymized Tarot Reading Generator Online](/assets/run.svg)](https://hero.page/app/anonymized-tarot-reading-generator-personalized-in-depth-tarot-interpretations/RbSL9xFZVyj5J3VRsWUz)
+
 To learn more about AI Apps for Tarot Reader use-cases in the Astrology & Tarot Reading industry, read [How to Enhance Tarot Reading with AI-Assisted Card Analysis](https://hero.page/blog/ai/astrology-and-tarot-reading/how-to-enhance-tarot-reading-with-ai-assisted-card-analysis/170743)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Therapeutic Review AI Composer, AI-powered reflexology review insights, helps yo
 
 To run this app online: [Therapeutic Review AI Composer Online](https://hero.page/app/therapeutic-review-ai-composer-ai-powered-reflexology-review-insights/fdDcFGcYUp2TYDptFHfQ)
 
+[![Run Therapeutic Review AI Composer Online](/assets/run.svg)](https://hero.page/app/therapeutic-review-ai-composer-ai-powered-reflexology-review-insights/fdDcFGcYUp2TYDptFHfQ)
+
 To learn more about AI Apps for Wellness Blogger use-cases in the Acupressure & Reflexology industry, read [How to Elevate Acupressure Blogging with AI Assisted Journeys & Reviews](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-elevate-acupressure-blogging-with-ai-assisted-journeys-and-reviews/170715)
 
 ### What is HeroML?

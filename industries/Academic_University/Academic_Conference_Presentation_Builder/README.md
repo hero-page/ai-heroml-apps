@@ -4,9 +4,9 @@ The Academic Conference Presentation Builder transforms your research into detai
 
 To run this app online: [Academic Conference Presentation Builder Online](https://hero.page/app/academic-conference-presentation-builder-transforming-research-into-presentations/v0qLY1YXRc5L5MiJMbF8)
 
-[![Run Academic Conference Presentation Builder Online](/assets/run.svg)](https://hero.page/apps)
+[![Run Academic Conference Presentation Builder Online](/assets/run.svg)](https://hero.page/app/academic-conference-presentation-builder-transforming-research-into-presentations/v0qLY1YXRc5L5MiJMbF8)
 
-To learn more about AI Apps for Graduate Student use-cases in the Academic & University industry, read [How to Elevate University Research with AI Assistance](https://hero.page/blog/academic-and-university/graduate-student/how-to-elevate-university-research-with-ai-assistance/170700)
+To learn more about AI Apps for Graduate Student use-cases in the Academic & University industry, read [How to Elevate University Research with AI Assistance](https://hero.page/blog/ai/academic-and-university/how-to-elevate-university-research-with-ai-assistance/170700)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

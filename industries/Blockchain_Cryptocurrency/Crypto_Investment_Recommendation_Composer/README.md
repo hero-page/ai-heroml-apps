@@ -4,6 +4,8 @@ Crypto Investment Recommendation Composer is your AI-powered guide to the crypto
 
 To run this app online: [Crypto Investment Recommendation Composer Online](https://hero.page/app/crypto-investment-recommendation-composer-ai-powered-custom-crypto-analysis/i8TboHrdR8qX6FiV4rKf)
 
+[![Run Crypto Investment Recommendation Composer Online](/assets/run.svg)](https://hero.page/app/crypto-investment-recommendation-composer-ai-powered-custom-crypto-analysis/i8TboHrdR8qX6FiV4rKf)
+
 To learn more about AI Apps for Crypto Trader use-cases in the Blockchain & Cryptocurrency industry, read [How to Amplify Crypto Trading with AI-Driven Market Analysis & Investment Tips](https://hero.page/blog/ai/blockchain-and-cryptocurrency/how-to-amplify-crypto-trading-with-ai-driven-market-analysis-and-investment-tips/170752)
 
 ### What is HeroML?

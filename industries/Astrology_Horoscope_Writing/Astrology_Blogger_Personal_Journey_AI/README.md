@@ -4,6 +4,8 @@ Astrology Blogger Personal Journey AI, AI-Powered Astrology Journey Narration, l
 
 To run this app online: [Astrology Blogger Personal Journey AI Online](https://hero.page/app/astrology-blogger-personal-journey-ai-ai-powered-astrology-journey-narration/FVHWUS2i0CQrYYqhmdtE)
 
+[![Run Astrology Blogger Personal Journey AI Online](/assets/run.svg)](https://hero.page/app/astrology-blogger-personal-journey-ai-ai-powered-astrology-journey-narration/FVHWUS2i0CQrYYqhmdtE)
+
 To learn more about AI Apps for Astrology Blogger use-cases in the Astrology & Horoscope Writing industry, read [How to Elevate Astrology Blogging with AI-Powered Writing Tools](https://hero.page/blog/ai/astrology-and-horoscope-writing/how-to-elevate-astrology-blogging-with-ai-powered-writing-tools/170738)
 
 ### What is HeroML?

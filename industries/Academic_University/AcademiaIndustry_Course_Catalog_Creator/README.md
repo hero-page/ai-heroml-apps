@@ -4,7 +4,9 @@ Academia-Industry Course Catalog Creator is a user-friendly application that har
 
 To run this app online: [Academia-Industry Course Catalog Creator Online](https://hero.page/app/academia-industry-course-catalog-creator-linking-academia-industry-via-courses/Xomz4kPxELmhm6iRZiYF)
 
-To learn more about AI Apps for Administrator use-cases in the Academic & University industry, read [How to Streamline Academic Administration with AI Tools](https://hero.page/blog/academic-and-university/administrator/how-to-streamline-academic-administration-with-ai-tools/170702)
+[![Run Academia-Industry Course Catalog Creator Online](/assets/run.svg)](https://hero.page/app/academia-industry-course-catalog-creator-linking-academia-industry-via-courses/Xomz4kPxELmhm6iRZiYF)
+
+To learn more about AI Apps for Administrator use-cases in the Academic & University industry, read [How to Streamline Academic Administration with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-streamline-academic-administration-with-ai-tools/170702)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

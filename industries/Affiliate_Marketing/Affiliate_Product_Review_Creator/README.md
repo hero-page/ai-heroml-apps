@@ -4,6 +4,8 @@ Explore the power of AI with Affiliate Product Review Creator, a unique app that
 
 To run this app online: [Affiliate Product Review Creator Online](https://hero.page/app/affiliate-product-review-creator-personalized-ai-powered-affiliate-reviews/w3ohyb7RJxnYoppAbxEz)
 
+[![Run Affiliate Product Review Creator Online](/assets/run.svg)](https://hero.page/app/affiliate-product-review-creator-personalized-ai-powered-affiliate-reviews/w3ohyb7RJxnYoppAbxEz)
+
 To learn more about AI Apps for Affiliate Marketer use-cases in the Affiliate Marketing industry, read [How to Enhance Affiliate Marketing with AI-Driven Product Reviews and SEO](https://hero.page/blog/ai/affiliate-marketing/how-to-enhance-affiliate-marketing-with-ai-driven-product-reviews-and-seo/170719)
 
 ### What is HeroML?

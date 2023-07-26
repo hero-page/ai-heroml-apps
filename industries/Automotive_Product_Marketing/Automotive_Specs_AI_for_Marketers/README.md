@@ -4,6 +4,8 @@ Automotive Specs AI for Marketers is a tool designed for marketing professionals
 
 To run this app online: [Automotive Specs AI for Marketers Online](https://hero.page/app/automotive-specs-ai-for-marketers-ai-powered-custom-auto-specs/yarYc1gTNBqA09L142VA)
 
+[![Run Automotive Specs AI for Marketers Online](/assets/run.svg)](https://hero.page/app/automotive-specs-ai-for-marketers-ai-powered-custom-auto-specs/yarYc1gTNBqA09L142VA)
+
 To learn more about AI Apps for Product Marketer use-cases in the Automotive Product Marketing industry, read [How to Elevate Automotive Marketing with AI for Specs, Email, Analysis](https://hero.page/blog/ai/automotive-product-marketing/how-to-elevate-automotive-marketing-with-ai-for-specs-email-analysis/170745)
 
 ### What is HeroML?

@@ -4,7 +4,9 @@ ProfGuide: Precision Lecture Planner is an innovative AI-powered app that crafts
 
 To run this app online: [ProfGuide: Precision Lecture Planner Online](https://hero.page/app/profguide:-precision-lecture-planner-ai-powered-comprehensive-lecture-notes/nzTE4cYYxndDwQhj3ZMv)
 
-To learn more about AI Apps for Professor use-cases in the Academic & University industry, read [How to Automate Academic Writing with AI Tools](https://hero.page/blog/academic-and-university/professor/how-to-automate-academic-writing-with-ai-tools/170698)
+[![Run ProfGuide: Precision Lecture Planner Online](/assets/run.svg)](https://hero.page/app/profguide:-precision-lecture-planner-ai-powered-comprehensive-lecture-notes/nzTE4cYYxndDwQhj3ZMv)
+
+To learn more about AI Apps for Professor use-cases in the Academic & University industry, read [How to Automate Academic Writing with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-automate-academic-writing-with-ai-tools/170698)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

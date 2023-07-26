@@ -4,6 +4,8 @@ Auto Repair Transparency Report Creator is a unique tool leveraging AI to genera
 
 To run this app online: [Auto Repair Transparency Report Creator Online](https://hero.page/app/auto-repair-transparency-report-creator-comprehensive-transparent-auto-service-reports/Csy78ZDuN3uIwUtgoht9)
 
+[![Run Auto Repair Transparency Report Creator Online](/assets/run.svg)](https://hero.page/app/auto-repair-transparency-report-creator-comprehensive-transparent-auto-service-reports/Csy78ZDuN3uIwUtgoht9)
+
 To learn more about AI Apps for Automotive Technician use-cases in the Automotive Sales & Services industry, read [How to Enhance Auto Repair Estimates, Service Reports and Client Emails with AI](https://hero.page/blog/ai/automotive-sales-and-services/how-to-enhance-auto-repair-estimates-service-reports-and-client-emails-with-ai/170749)
 
 ### What is HeroML?

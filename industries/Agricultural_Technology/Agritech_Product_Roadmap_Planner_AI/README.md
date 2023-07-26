@@ -4,6 +4,8 @@ The Agritech Product Roadmap Planner AI enables users to formulate precise promp
 
 To run this app online: [Agritech Product Roadmap Planner AI Online](https://hero.page/app/agritech-product-roadmap-planner-ai-ai-driven-agritech-strategy-planner/9QnqlYhW5eftCfBQUBmH)
 
+[![Run Agritech Product Roadmap Planner AI Online](/assets/run.svg)](https://hero.page/app/agritech-product-roadmap-planner-ai-ai-driven-agritech-strategy-planner/9QnqlYhW5eftCfBQUBmH)
+
 To learn more about AI Apps for Product Manager use-cases in the Agricultural Technology industry, read [How to Elevate AgTech with AI for Product Roadmap and Market Analysis](https://hero.page/blog/ai/agricultural-technology/how-to-elevate-agtech-with-ai-for-product-roadmap-and-market-analysis/170723)
 
 ### What is HeroML?

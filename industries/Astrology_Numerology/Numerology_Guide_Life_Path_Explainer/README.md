@@ -4,6 +4,8 @@ This unique app, Numerology Guide: Life Path Explainer, provides personalized in
 
 To run this app online: [Numerology Guide: Life Path Explainer Online](https://hero.page/app/numerology-guide:-life-path-explainer-personalized-life-path-numerology-insights/IvgPdcsSaZ4UauURvdWU)
 
+[![Run Numerology Guide: Life Path Explainer Online](/assets/run.svg)](https://hero.page/app/numerology-guide:-life-path-explainer-personalized-life-path-numerology-insights/IvgPdcsSaZ4UauURvdWU)
+
 To learn more about AI Apps for Numerologist use-cases in the Astrology & Numerology industry, read [How to Generate Comprehensive Numerology Reports with AI Apps](https://hero.page/blog/ai/astrology-and-numerology/how-to-generate-comprehensive-numerology-reports-with-ai-apps/170740)
 
 ### What is HeroML?

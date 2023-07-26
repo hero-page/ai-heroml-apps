@@ -4,6 +4,8 @@ Auto Marketing Meeting Minutes AI, an AI-driven innovative solution, is designed
 
 To run this app online: [Auto Marketing Meeting Minutes AI Online](https://hero.page/app/auto-marketing-meeting-minutes-ai-ai-driven-automotive-meeting-insights/CeMCxtbJj61K0Md6YGXH)
 
+[![Run Auto Marketing Meeting Minutes AI Online](/assets/run.svg)](https://hero.page/app/auto-marketing-meeting-minutes-ai-ai-driven-automotive-meeting-insights/CeMCxtbJj61K0Md6YGXH)
+
 To learn more about AI Apps for Product Manager use-cases in the Automotive Product Marketing industry, read [How to Refine Automotive Product Marketing with AI Tools](https://hero.page/blog/ai/automotive-product-marketing/how-to-refine-automotive-product-marketing-with-ai-tools/170747)
 
 ### What is HeroML?

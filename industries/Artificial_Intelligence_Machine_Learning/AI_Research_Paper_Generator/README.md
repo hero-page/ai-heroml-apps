@@ -4,6 +4,8 @@ Get AI Research Paper Generator, an AI-driven academic toolset tailored for rese
 
 To run this app online: [AI Research Paper Generator Online](https://hero.page/app/ai-research-paper-generator-ai-driven-academic-research-tools/42bC10Whybw4nUzACn3y)
 
+[![Run AI Research Paper Generator Online](/assets/run.svg)](https://hero.page/app/ai-research-paper-generator-ai-driven-academic-research-tools/42bC10Whybw4nUzACn3y)
+
 To learn more about AI Apps for AI Researcher use-cases in the Artificial Intelligence & Machine Learning industry, read [How to Master AI Research Writing with Diverse AI Tools](https://hero.page/blog/ai/artificial-intelligence-and-machine-learning/how-to-master-ai-research-writing-with-diverse-ai-tools/170731)
 
 ### What is HeroML?

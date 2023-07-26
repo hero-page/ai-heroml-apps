@@ -4,6 +4,8 @@ Reflexology Guide AI Creator is a revolutionary app for reflexology practitioner
 
 To run this app online: [Reflexology Guide AI Creator Online](https://hero.page/app/reflexology-guide-ai-creator-comprehensive-ai-reflexology-mastery/hGWbC8KI2SjoFoSc7JU4)
 
+[![Run Reflexology Guide AI Creator Online](/assets/run.svg)](https://hero.page/app/reflexology-guide-ai-creator-comprehensive-ai-reflexology-mastery/hGWbC8KI2SjoFoSc7JU4)
+
 To learn more about AI Apps for Reflexologist use-cases in the Acupressure & Reflexology industry, read [How to Generate AI-Assisted Reflexology Guides and Case Studies](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-generate-ai-assisted-reflexology-guides-and-case-studies/170714)
 
 ### What is HeroML?

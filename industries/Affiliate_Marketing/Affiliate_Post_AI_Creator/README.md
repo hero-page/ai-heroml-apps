@@ -4,6 +4,8 @@ Affiliate Post AI Creator helps users easily craft persuasive affiliate marketin
 
 To run this app online: [Affiliate Post AI Creator Online](https://hero.page/app/affiliate-post-ai-creator-ai-generated-promotional-affiliate-posts/xi1X7ZWHV0FJvb4Aeo8k)
 
+[![Run Affiliate Post AI Creator Online](/assets/run.svg)](https://hero.page/app/affiliate-post-ai-creator-ai-generated-promotional-affiliate-posts/xi1X7ZWHV0FJvb4Aeo8k)
+
 To learn more about AI Apps for Content Creator use-cases in the Affiliate Marketing industry, read [How to Maximize Affiliate Marketing with AI-Powered Content Creation Tools](https://hero.page/blog/ai/affiliate-marketing/how-to-maximize-affiliate-marketing-with-ai-powered-content-creation-tools/170720)
 
 ### What is HeroML?

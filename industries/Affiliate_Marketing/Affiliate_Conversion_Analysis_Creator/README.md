@@ -4,6 +4,8 @@ Affiliate Conversion Analysis Creator is an AI-powered tool to optimize your aff
 
 To run this app online: [Affiliate Conversion Analysis Creator Online](https://hero.page/app/affiliate-conversion-analysis-creator-ai-powered-affiliate-conversion-optimizer/MKnR7iMWnaR1EzHmbMoZ)
 
+[![Run Affiliate Conversion Analysis Creator Online](/assets/run.svg)](https://hero.page/app/affiliate-conversion-analysis-creator-ai-powered-affiliate-conversion-optimizer/MKnR7iMWnaR1EzHmbMoZ)
+
 To learn more about AI Apps for Data Analyst use-cases in the Affiliate Marketing industry, read [How to Propel Affiliate Marketing with AI Data Analysis Tools](https://hero.page/blog/ai/affiliate-marketing/how-to-propel-affiliate-marketing-with-ai-data-analysis-tools/170721)
 
 ### What is HeroML?

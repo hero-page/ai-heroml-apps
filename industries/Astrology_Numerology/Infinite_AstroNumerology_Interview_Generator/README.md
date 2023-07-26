@@ -4,6 +4,8 @@ Discover the life of astrologers and numerologists thru Infinite Astro-Numerolog
 
 To run this app online: [Infinite Astro-Numerology Interview Generator Online](https://hero.page/app/infinite-astro-numerology-interview-generator-personalized-astro-numerologist-insights/mxQQ7269Lmnv1LRB4cNn)
 
+[![Run Infinite Astro-Numerology Interview Generator Online](/assets/run.svg)](https://hero.page/app/infinite-astro-numerology-interview-generator-personalized-astro-numerologist-insights/mxQQ7269Lmnv1LRB4cNn)
+
 To learn more about AI Apps for Astrology Blogger use-cases in the Astrology & Numerology industry, read [How to Elevate Astrology Blogging with Innovative AI Tools](https://hero.page/blog/ai/astrology-and-numerology/how-to-elevate-astrology-blogging-with-innovative-ai-tools/170741)
 
 ### What is HeroML?

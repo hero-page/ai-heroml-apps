@@ -4,6 +4,8 @@ Unleash the power of AI with Affiliate Marketing Data Report AI, your ultimate s
 
 To run this app online: [Affiliate Marketing Data Report AI Online](https://hero.page/app/affiliate-marketing-data-report-ai-ai-powered-comprehensive-affiliate-analysis/jZ7gs0QcPPtzvFRv6QhW)
 
+[![Run Affiliate Marketing Data Report AI Online](/assets/run.svg)](https://hero.page/app/affiliate-marketing-data-report-ai-ai-powered-comprehensive-affiliate-analysis/jZ7gs0QcPPtzvFRv6QhW)
+
 To learn more about AI Apps for Data Analyst use-cases in the Affiliate Marketing industry, read [How to Propel Affiliate Marketing with AI Data Analysis Tools](https://hero.page/blog/ai/affiliate-marketing/how-to-propel-affiliate-marketing-with-ai-data-analysis-tools/170721)
 
 ### What is HeroML?

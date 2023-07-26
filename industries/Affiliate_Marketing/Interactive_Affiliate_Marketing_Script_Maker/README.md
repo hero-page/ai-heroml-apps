@@ -4,6 +4,8 @@ This app, Interactive Affiliate Marketing Script Maker, empowers users to create
 
 To run this app online: [Interactive Affiliate Marketing Script Maker Online](https://hero.page/app/interactive-affiliate-marketing-script-maker-interactive-scripting-for-affiliate-marketing/CMZU2dS2Wnu75RqrM4jf)
 
+[![Run Interactive Affiliate Marketing Script Maker Online](/assets/run.svg)](https://hero.page/app/interactive-affiliate-marketing-script-maker-interactive-scripting-for-affiliate-marketing/CMZU2dS2Wnu75RqrM4jf)
+
 To learn more about AI Apps for Content Creator use-cases in the Affiliate Marketing industry, read [How to Maximize Affiliate Marketing with AI-Powered Content Creation Tools](https://hero.page/blog/ai/affiliate-marketing/how-to-maximize-affiliate-marketing-with-ai-powered-content-creation-tools/170720)
 
 ### What is HeroML?

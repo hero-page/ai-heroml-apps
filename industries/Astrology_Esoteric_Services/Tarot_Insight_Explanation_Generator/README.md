@@ -4,6 +4,8 @@ Enhance your Tarot knowledge with our AI-Powered Tarot Insight & Explanation Gen
 
 To run this app online: [Tarot Insight & Explanation Generator Online](https://hero.page/app/tarot-insight-and-explanation-generator-ai-powered-tarot-interpretation-guide/eUqUf40vQVbyYq7xYs5D)
 
+[![Run Tarot Insight & Explanation Generator Online](/assets/run.svg)](https://hero.page/app/tarot-insight-and-explanation-generator-ai-powered-tarot-interpretation-guide/eUqUf40vQVbyYq7xYs5D)
+
 To learn more about AI Apps for Tarot Reader use-cases in the Astrology & Esoteric Services industry, read [How to Elevate Tarot Readings with AI in Astrology Services](https://hero.page/blog/ai/astrology-and-esoteric-services/how-to-elevate-tarot-readings-with-ai-in-astrology-services/170735)
 
 ### What is HeroML?

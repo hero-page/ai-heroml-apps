@@ -4,6 +4,8 @@ Create specialized Agri-Tech manuals with Agri-Tech User Guide Creator, an app t
 
 To run this app online: [Agri-Tech User Guide Creator Online](https://hero.page/app/agri-tech-user-guide-creator-customized-comprehensive-agri-tech-manuals/pM87kB1eck5fo3CViDZw)
 
+[![Run Agri-Tech User Guide Creator Online](/assets/run.svg)](https://hero.page/app/agri-tech-user-guide-creator-customized-comprehensive-agri-tech-manuals/pM87kB1eck5fo3CViDZw)
+
 To learn more about AI Apps for Agri-Tech Engineer use-cases in the Agricultural Technology industry, read [How to Streamline Agri-Tech Documentation with AI Apps](https://hero.page/blog/ai/agricultural-technology/how-to-streamline-agri-tech-documentation-with-ai-apps/170722)
 
 ### What is HeroML?

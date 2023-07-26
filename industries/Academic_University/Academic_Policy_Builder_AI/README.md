@@ -4,7 +4,9 @@ Academic Policy Builder AI, an AI-Powered University Policy Generator, offers it
 
 To run this app online: [Academic Policy Builder AI Online](https://hero.page/app/academic-policy-builder-ai-ai-powered-university-policy-generator/NDgY3KgEoeLBOcVaKzIO)
 
-To learn more about AI Apps for Administrator use-cases in the Academic & University industry, read [How to Streamline Academic Administration with AI Tools](https://hero.page/blog/academic-and-university/administrator/how-to-streamline-academic-administration-with-ai-tools/170702)
+[![Run Academic Policy Builder AI Online](/assets/run.svg)](https://hero.page/app/academic-policy-builder-ai-ai-powered-university-policy-generator/NDgY3KgEoeLBOcVaKzIO)
+
+To learn more about AI Apps for Administrator use-cases in the Academic & University industry, read [How to Streamline Academic Administration with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-streamline-academic-administration-with-ai-tools/170702)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

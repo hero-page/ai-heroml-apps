@@ -4,6 +4,8 @@ SEO Content Specialist Assistant, an AI-Driven SEO Content Optimizer, allows use
 
 To run this app online: [SEO Content Specialist Assistant Online](https://hero.page/app/seo-content-specialist-assistant-ai-driven-seo-content-optimizer/fCEjG7z9nWojc6DuG73D)
 
+[![Run SEO Content Specialist Assistant Online](/assets/run.svg)](https://hero.page/app/seo-content-specialist-assistant-ai-driven-seo-content-optimizer/fCEjG7z9nWojc6DuG73D)
+
 To learn more about AI Apps for SEO Specialist use-cases in the Advertising & Marketing industry, read [How to Generate SEO Keyword Reports and Optimized Articles with AI](https://hero.page/blog/ai/advertising-and-marketing/how-to-generate-seo-keyword-reports-and-optimized-articles-with-ai/170717)
 
 ### What is HeroML?

@@ -4,6 +4,8 @@ Spiritual Book Review AI goes beyond the ordinary to empower bloggers. Use its A
 
 To run this app online: [Spiritual Book Review AI Online](https://hero.page/app/spiritual-book-review-ai-tailored-astrology-and-tarot-book-insights/ZzVywETptt8SbSYEpxFw)
 
+[![Run Spiritual Book Review AI Online](/assets/run.svg)](https://hero.page/app/spiritual-book-review-ai-tailored-astrology-and-tarot-book-insights/ZzVywETptt8SbSYEpxFw)
+
 To learn more about AI Apps for Spiritual Blogger use-cases in the Astrology & Tarot Reading industry, read [How to Elevate Astrology Tarot Blogging with AI Enhancements](https://hero.page/blog/ai/astrology-and-tarot-reading/how-to-elevate-astrology-tarot-blogging-with-ai-enhancements/170744)
 
 ### What is HeroML?

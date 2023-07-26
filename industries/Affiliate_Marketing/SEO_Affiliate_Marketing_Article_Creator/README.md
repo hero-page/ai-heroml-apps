@@ -4,6 +4,8 @@ Elevate your affiliate marketing with the SEO Affiliate Marketing Article Creato
 
 To run this app online: [SEO Affiliate Marketing Article Creator Online](https://hero.page/app/seo-affiliate-marketing-article-creator-tailored-seo-affiliate-content-generator/zMUVU8RUzc8NoiMH3Ztk)
 
+[![Run SEO Affiliate Marketing Article Creator Online](/assets/run.svg)](https://hero.page/app/seo-affiliate-marketing-article-creator-tailored-seo-affiliate-content-generator/zMUVU8RUzc8NoiMH3Ztk)
+
 To learn more about AI Apps for Affiliate Marketer use-cases in the Affiliate Marketing industry, read [How to Enhance Affiliate Marketing with AI-Driven Product Reviews and SEO](https://hero.page/blog/ai/affiliate-marketing/how-to-enhance-affiliate-marketing-with-ai-driven-product-reviews-and-seo/170719)
 
 ### What is HeroML?

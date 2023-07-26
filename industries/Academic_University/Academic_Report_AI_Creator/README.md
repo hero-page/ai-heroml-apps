@@ -4,7 +4,9 @@ Academic Report AI Creator is a ground-breaking app that uses AI to generate cus
 
 To run this app online: [Academic Report AI Creator Online](https://hero.page/app/academic-report-ai-creator-ai-powered-academic-report-generator/WdjMmRPrI0f3m6AGtiTw)
 
-To learn more about AI Apps for Researcher use-cases in the Academic & University industry, read [How to Enhance Academic Research with AI Tools](https://hero.page/blog/academic-and-university/researcher/how-to-enhance-academic-research-with-ai-tools/170699)
+[![Run Academic Report AI Creator Online](/assets/run.svg)](https://hero.page/app/academic-report-ai-creator-ai-powered-academic-report-generator/WdjMmRPrI0f3m6AGtiTw)
+
+To learn more about AI Apps for Researcher use-cases in the Academic & University industry, read [How to Enhance Academic Research with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-enhance-academic-research-with-ai-tools/170699)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

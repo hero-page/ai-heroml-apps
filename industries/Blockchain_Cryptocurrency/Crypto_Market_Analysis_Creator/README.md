@@ -4,6 +4,8 @@ Become a crypto market expert with the Crypto Market Analysis Creator. This AI-p
 
 To run this app online: [Crypto Market Analysis Creator Online](https://hero.page/app/crypto-market-analysis-creator-ai-powered-cryptocurrency-market-analyst/IwIOqLNrbRDi2JHo8AOv)
 
+[![Run Crypto Market Analysis Creator Online](/assets/run.svg)](https://hero.page/app/crypto-market-analysis-creator-ai-powered-cryptocurrency-market-analyst/IwIOqLNrbRDi2JHo8AOv)
+
 To learn more about AI Apps for Crypto Trader use-cases in the Blockchain & Cryptocurrency industry, read [How to Amplify Crypto Trading with AI-Driven Market Analysis & Investment Tips](https://hero.page/blog/ai/blockchain-and-cryptocurrency/how-to-amplify-crypto-trading-with-ai-driven-market-analysis-and-investment-tips/170752)
 
 ### What is HeroML?

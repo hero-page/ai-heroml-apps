@@ -4,7 +4,9 @@ Introducing Conduct Code Customizer for Education, your reliable partner for cra
 
 To run this app online: [Conduct Code Customizer for Education Online](https://hero.page/app/conduct-code-customizer-for-education-tailored-conduct-codes-via-ai/z08qgDDIlrhbbi4PvBE6)
 
-To learn more about AI Apps for Student Affairs Officer use-cases in the Academic & University industry, read [How to Innovate Academic Planning with AI Tools](https://hero.page/blog/academic-and-university/student-affairs-officer/how-to-innovate-academic-planning-with-ai-tools/170709)
+[![Run Conduct Code Customizer for Education Online](/assets/run.svg)](https://hero.page/app/conduct-code-customizer-for-education-tailored-conduct-codes-via-ai/z08qgDDIlrhbbi4PvBE6)
+
+To learn more about AI Apps for Student Affairs Officer use-cases in the Academic & University industry, read [How to Innovate Academic Planning with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-innovate-academic-planning-with-ai-tools/170709)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

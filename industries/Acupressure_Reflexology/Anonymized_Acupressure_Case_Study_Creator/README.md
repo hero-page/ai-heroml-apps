@@ -4,6 +4,8 @@ Anonymized Acupressure Case Study Creator is an AI-driven tool designed for deta
 
 To run this app online: [Anonymized Acupressure Case Study Creator Online](https://hero.page/app/anonymized-acupressure-case-study-creator-ai-driven-anonymized-acupressure-studies/Leq04WfTBkOzWG7VtFs4)
 
+[![Run Anonymized Acupressure Case Study Creator Online](/assets/run.svg)](https://hero.page/app/anonymized-acupressure-case-study-creator-ai-driven-anonymized-acupressure-studies/Leq04WfTBkOzWG7VtFs4)
+
 To learn more about AI Apps for Acupressure Practitioner use-cases in the Acupressure & Reflexology industry, read [How to Enhance Acupressure Practice with AI-assisted Apps](https://hero.page/blog/ai/acupressure-and-reflexology/how-to-enhance-acupressure-practice-with-ai-assisted-apps/170713)
 
 ### What is HeroML?

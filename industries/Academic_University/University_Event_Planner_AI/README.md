@@ -4,7 +4,9 @@ The app, University Event Planner AI, is your ultimate AI-driven tool for compre
 
 To run this app online: [University Event Planner AI Online](https://hero.page/app/university-event-planner-ai-ai-driven-university-event-strategy/CvJwwLjuJr1tFnMoCtOP)
 
-To learn more about AI Apps for Student Affairs Officer use-cases in the Academic & University industry, read [How to Innovate Academic Planning with AI Tools](https://hero.page/blog/academic-and-university/student-affairs-officer/how-to-innovate-academic-planning-with-ai-tools/170709)
+[![Run University Event Planner AI Online](/assets/run.svg)](https://hero.page/app/university-event-planner-ai-ai-driven-university-event-strategy/CvJwwLjuJr1tFnMoCtOP)
+
+To learn more about AI Apps for Student Affairs Officer use-cases in the Academic & University industry, read [How to Innovate Academic Planning with AI Tools](https://hero.page/blog/ai/academic-and-university/how-to-innovate-academic-planning-with-ai-tools/170709)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

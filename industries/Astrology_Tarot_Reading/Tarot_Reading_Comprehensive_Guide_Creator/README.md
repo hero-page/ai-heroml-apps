@@ -4,6 +4,8 @@ Immerse yourself in the comprehensive world of Tarot with our AI-powered app, Ta
 
 To run this app online: [Tarot Reading Comprehensive Guide Creator Online](https://hero.page/app/tarot-reading-comprehensive-guide-creator-comprehensive-ai-powered-tarot-guide/1ArF10ektglsHf0Q8g7h)
 
+[![Run Tarot Reading Comprehensive Guide Creator Online](/assets/run.svg)](https://hero.page/app/tarot-reading-comprehensive-guide-creator-comprehensive-ai-powered-tarot-guide/1ArF10ektglsHf0Q8g7h)
+
 To learn more about AI Apps for Tarot Reader use-cases in the Astrology & Tarot Reading industry, read [How to Enhance Tarot Reading with AI-Assisted Card Analysis](https://hero.page/blog/ai/astrology-and-tarot-reading/how-to-enhance-tarot-reading-with-ai-assisted-card-analysis/170743)
 
 ### What is HeroML?

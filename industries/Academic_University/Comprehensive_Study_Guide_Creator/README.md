@@ -4,7 +4,9 @@ As an AI-powered undergraduate study aid, Comprehensive Study Guide Creator enab
 
 To run this app online: [Comprehensive Study Guide Creator Online](https://hero.page/app/comprehensive-study-guide-creator-ai-powered-undergraduate-study-aid/TLRkq600Os73FSGtddg7)
 
-To learn more about AI Apps for Undergraduate Student use-cases in the Academic & University industry, read [How to Ace University Writing with AI Academic Assistance](https://hero.page/blog/academic-and-university/undergraduate-student/how-to-ace-university-writing-with-ai-academic-assistance/170701)
+[![Run Comprehensive Study Guide Creator Online](/assets/run.svg)](https://hero.page/app/comprehensive-study-guide-creator-ai-powered-undergraduate-study-aid/TLRkq600Os73FSGtddg7)
+
+To learn more about AI Apps for Undergraduate Student use-cases in the Academic & University industry, read [How to Ace University Writing with AI Academic Assistance](https://hero.page/blog/ai/academic-and-university/how-to-ace-university-writing-with-ai-academic-assistance/170701)
 
 ### What is HeroML?
 HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 

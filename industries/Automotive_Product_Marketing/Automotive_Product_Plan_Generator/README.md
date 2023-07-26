@@ -4,6 +4,8 @@ The Automotive Product Plan Generator is a strategic automotive product developm
 
 To run this app online: [Automotive Product Plan Generator Online](https://hero.page/app/automotive-product-plan-generator-strategic-automotive-product-development-ai/CZZJmA1OUhse4qyATG1Q)
 
+[![Run Automotive Product Plan Generator Online](/assets/run.svg)](https://hero.page/app/automotive-product-plan-generator-strategic-automotive-product-development-ai/CZZJmA1OUhse4qyATG1Q)
+
 To learn more about AI Apps for Product Manager use-cases in the Automotive Product Marketing industry, read [How to Refine Automotive Product Marketing with AI Tools](https://hero.page/blog/ai/automotive-product-marketing/how-to-refine-automotive-product-marketing-with-ai-tools/170747)
 
 ### What is HeroML?

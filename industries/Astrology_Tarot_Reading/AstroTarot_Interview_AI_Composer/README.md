@@ -4,6 +4,8 @@ Astro-Tarot Interview AI Composer, your Personalized Astro-Tarot Reader Insight 
 
 To run this app online: [Astro-Tarot Interview AI Composer Online](https://hero.page/app/astro-tarot-interview-ai-composer-personalized-astro-tarot-reader-insights/ZKTywIER81qoKqrIgGil)
 
+[![Run Astro-Tarot Interview AI Composer Online](/assets/run.svg)](https://hero.page/app/astro-tarot-interview-ai-composer-personalized-astro-tarot-reader-insights/ZKTywIER81qoKqrIgGil)
+
 To learn more about AI Apps for Spiritual Blogger use-cases in the Astrology & Tarot Reading industry, read [How to Elevate Astrology Tarot Blogging with AI Enhancements](https://hero.page/blog/ai/astrology-and-tarot-reading/how-to-elevate-astrology-tarot-blogging-with-ai-enhancements/170744)
 
 ### What is HeroML?
