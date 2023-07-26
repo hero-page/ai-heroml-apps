@@ -1,0 +1,102 @@
+Your task is to write a "Product Review" for the "Aromatherapy & Essential Oils" industry, specifically for a "Wellness Blogger". Consider that the readers value sourced, realistic information and want to genuinely understand the product's effects. 
+
+Let's start by writing a captivating introduction about the product: {{product_name}}. The introduction should grab the reader's attention and briefly explain why they might need the product.
+
+Here's some more context about the Product Review:
+Product Name: {{product_name}}
+Reasons For Choose: {{reasons_for_choose}}
+Usage Process: {{usage_process}}
+
+->>>>
+
+We have started our "Product Review" with a captivating introduction about {{product_name}}:
+
+Introduction:
+{{step_1}}
+
+Now, we need to define what the product is. Include in this section basic details like the product name: {{product_name}}, its manufacturer, and the unique features that distinguish it from other products in the same category.
+
+->>>>
+
+After defining the product, we have:
+
+Introduction:
+{{step_1}}
+
+Product Definition:
+{{step_2}}
+
+Next, we should outline why this product was chosen for review. The reasons could range from its popularity, its unique features, or the health benefits it supposedly provides.
+
+->>>>
+
+As per the explanation given, our product review has
+
+Product Definition:
+{{step_2}}
+
+Reasons for Choosing:
+{{step_3}}
+
+Let's move on to present how the product was used, its positive aspects, and those features that could be improved. This section needs to be relatable and authentic, reinforcing the wellness aspect.
+
+->>>>
+
+Thus far, we have shared the reasons for choosing the product and how it was used:
+    
+Reasons for Choosing:
+{{step_3}}
+
+Usage and Evaluation:
+{{step_4}}
+
+Next, it's time to critically assess the product quality. Discuss the scent profile, potency, packaging and any noticeable effects of {{product_name}}.
+
+->>>>
+
+Now, we have both an evaluation based on personal usage and a critical quality assessment of {{product_name}}:
+
+Usage and Evaluation:
+{{step_4}}
+
+Product Quality Assessment:
+{{step_5}}
+
+Now, let's discuss how the product aligns with your wellness routine or different wellness trends. This should offer your readers insights into the suitability of the product for different aromatherapy practices.
+
+->>>>
+
+Having assessed the product and its usage, we now have a discussion on its alignment with wellness routines or trends:
+
+Product Quality Assessment:
+{{step_5}}
+
+Wellness Suitability Discussion:
+{{step_6}}
+
+Discuss any potential risks or side effects observed or researched related to the use of {{product_name}}, this is key information for wellness bloggers to share with their audience.
+
+->>>>
+
+Having understood the suitability of the product for wellness routines, we have described any potential risks or side effects:
+
+Wellness Suitability Discussion:
+{{step_6}}
+
+Product Risks and Side-Effects:
+{{step_7}}
+
+Let's wrap up the review, offering a succinct summary of thoughts on the product: {{product_name}}. This should answer any pertinent question a potential buyer might have about the product.
+
+->>>>
+
+After listing potential risks and side effects, we have a wrap-up of the review:
+
+Product Risks and Side-Effects:
+{{step_7}}
+
+Review Wrap-Up:
+{{step_8}}
+
+Finally, state whether or not the product, {{product_name}}, would be recommended to others. 
+

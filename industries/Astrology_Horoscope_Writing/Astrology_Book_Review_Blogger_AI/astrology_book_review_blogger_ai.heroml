@@ -1,0 +1,90 @@
+Start by introducing your "Book Review" with an engaging introduction containing the {{book_title}}, {{author_name}}, and a brief overview to capture the audience's attention. 
+
+Here's some more context about the Book Review:
+Book Title: {{book_title}}
+Author Name: {{author_name}}
+Astrology Perspective: {{astrology_perspective}}
+Astrology Depiction: {{astrology_depiction}}
+Final Evaluation: {{final_evaluation}}
+
+->>>>
+
+Now, we have an introduction to the 'Book Review', carrying:
+
+Introduction:
+{{step_1}}
+
+Based on this introduction, draft a summary of the book content, with enough details to pique interest but not to reveal the entire storyline. Highlight the parts related to astrology or horoscope.
+
+->>>>
+
+Here's the introduction and a reader-engaging summary:
+
+Introduction:
+{{step_1}}
+
+Content Summary:
+{{step_2}}
+
+Next, analyze the book's unique perspective or contributions to the field of astrology. Discuss the perspective {{astrology_perspective}} and how this book adds to the existing body of knowledge.
+
+->>>>
+
+We have an Introduction, a summary, and an analysis of the book's unique perspective or contributions:
+
+Introduction:
+{{step_1}}
+
+Content Summary:
+{{step_2}}
+
+Astrology Perspective:
+{{step_3}}
+
+Now, comment on the author's writing style. Discuss how well it adapts for the subject matter.
+
+->>>>
+
+We have commented on the author's writing style as:
+
+Writing Style Comment:
+{{step_4}}
+
+Based on the author's style, describe how the book portrays various astrological aspects such as realism, symbolism, or fantasy {{astrology_depiction}}. Discuss these aspects' contribution to the overall narrative.
+
+->>>>
+
+We have the book's portrayal of astrological aspects:
+
+Astrological Aspects Portrayal:
+{{step_5}}
+
+Next, share your impression of the book and how it met or deviated from your expectations. Provide a constructive critique.
+
+->>>>
+
+Here's the critique and impression:
+
+Impression and Critique:
+{{step_6}}
+
+Based on your impressions and critique, identify and elaborate on the audience who would enjoy this book, such as beginner students of astrology or seasoned astrologers.
+
+->>>>
+
+We have the intended audience for the book:
+
+Intended Audience:
+{{step_7}}
+
+Now, draft a final evaluation of the book, considering if it was informative, engaging, or thought-provoking {{final_evaluation}}. Explain if it would make good reference material for an Astrology Blogger.
+
+->>>>
+
+We now have a final evaluation:
+
+Final Evaluation:
+{{step_8}}
+
+With your final evaluation in mind, weave in references to your experience as an Astrology Blogger. These could involve your knowledge of astrological phenomena and horoscope writing to underscore your expertise.
+

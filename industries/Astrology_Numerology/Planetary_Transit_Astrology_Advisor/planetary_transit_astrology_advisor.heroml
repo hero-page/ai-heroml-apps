@@ -1,0 +1,109 @@
+Your task is to write a "Planetary Transit Interpretation" for the "Astrology & Numerology" industry for an "Astrologer". Let's start by writing an introduction that provides the overall context of the planetary transit: {{transit_context}}. This should specify the nature of the transit, its significance in astrology, and the purpose of the interpretation.
+
+Here's some more context about the Planetary Transit Interpretation:
+Transit Context: {{transit_context}}
+Transiting Planet: {{transiting_planet}}
+Transiting Sign: {{transiting_sign}}
+Planetary Aspects: {{planetary_aspects}}
+Affected Houses: {{affected_houses}}
+
+->>>>
+
+We have successfully written an introduction for our Planetary Transit Interpretation:
+
+Introduction:
+{{step_1}}
+
+Next, let's detail the specific planet that is in transit: {{transiting_planet}}. Discuss here the symbolic meaning of this planet in astrology and its general influence on life events.
+
+->>>>
+
+The introduction and the detailed context for the specific planet in transit are:
+
+Introduction:
+{{step_1}}
+
+
+Transiting Planet:
+{{step_2}}
+
+Our next step is describe the sign through which the planet is transiting: {{transiting_sign}}. In this step, we need to explain the characteristics of the sign, and how the energy of the transiting planet may be expressed through the qualities of this sign.
+
+->>>>
+
+We have the introduction, the details for the specific planet in transit, and the description for the sign through which the planet is transiting:
+
+Introduction:
+{{step_1}}
+
+Transiting Planet:
+{{step_2}}
+
+Transiting Sign:
+{{step_3}}
+
+Next, let's analyze the major aspects that the transiting planet forms with other planets during this period: {{planetary_aspects}}. Elaborate on the potential effects and manifestations of these aspects in a person's life.
+
+->>>>
+
+The introduction, the details for the specific planet in transit, the description for the sign through which the planet is transiting, and the analysis of the planetary aspects are:
+
+Introduction:
+{{step_1}}
+
+Transiting Planet:
+{{step_2}}
+
+Transiting Sign:
+{{step_3}}
+
+Planetary Aspects:
+{{step_4}}
+
+Our next step is to discuss the Houses in the natal chart that the transit will influence: {{affected_houses}}. Redress the themes related to these Houses and how they can be impacted by the transit.
+
+->>>>
+
+We have the introduction, the details for the specific planet in transit, the description for the sign through which the planet is transiting, the analysis of the planetary aspects, and the discussion of the affected houses:
+
+Introduction:
+{{step_1}}
+
+Transiting Planet:
+{{step_2}}
+
+Transiting Sign:
+{{step_3}}
+
+Planetary Aspects:
+{{step_4}}
+
+Affected Houses:
+{{step_5}}
+
+We should now construct an interpretation section to synthesize all the points above into a cohesive narrative of the transit’s impact. This should combine {{transiting_planet}}, {{transiting_sign}}, {{planetary_aspects}}, and {{affected_houses}} to forecast potential effects and experiences during this transit.
+
+->>>>
+
+We have completed the introduction, the specific planet in transit, the transiting sign, planetary aspects, affected houses, and interpretation of the transit:
+
+Introduction:
+{{step_1}}
+
+Transiting Planet:
+{{step_2}}
+
+Transiting Sign:
+{{step_3}}
+
+Planetary Aspects:
+{{step_4}}
+
+Affected Houses:
+{{step_5}}
+
+Interpretation of the Transit:
+{{step_6}}
+
+The next task is to conclude the interpretation with advice and steps on how to best navigate the energies of this transit, or align one's life with the transit's potential effects. 
+

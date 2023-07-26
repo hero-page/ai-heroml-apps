@@ -1,0 +1,88 @@
+Write a "Product Review" for the "Astrology & Esoteric Services" industry, specifically for a "Esoteric Blogger". 
+First, let's create an engaging introduction that briefly describes the product or service called {{product_or_service}}. This introduction needs to highlight what makes the product or service unique especially in the context of the esoteric and astrology field.
+
+Here's some more context about the Product Review:
+Product Or Service: {{product_or_service}}
+Product Usage: {{product_usage}}
+Product Effects: {{product_effects}}
+Product Value: {{product_value}}
+Product Comparison: {{product_comparison}}
+Target Audience: {{target_audience}}
+
+->>>>
+
+We now have an engaging introduction as follows:
+
+Introduction:
+{{step_1}}
+
+Let's move on and write a specific section on the product or service. In this section, we need to provide key details and characteristics of {{product_or_service}}. This section should include variables like {{product_usage}}, {{product_effects}}, {{product_value}}, and {{product_comparison}}, thus extensively explaining its usage, effects, value, and comparison within the esoteric field.
+
+->>>>
+
+Based on the introduction:
+
+Introduction:
+{{step_1}}
+
+We have detailed the specificity of the product/service as:
+
+Product/Service Specificity:
+{{step_2}}
+
+It's time to focus on the target audience of the product or service, {{target_audience}}. In this section discuss how the product or service can benefit this particular group within the esoteric and astrology sector.
+
+->>>>
+
+So far, the review includes details about the product or service:
+
+Product/Service Specificity:
+{{step_2}}
+
+And now we've identified its target audience as:
+
+Target Audience:
+{{step_3}}
+
+Next, we will present a section that explores the strengths and weaknesses of {{product_or_service}}. This will include the benefits for esoteric bloggers, any negative aspects, potential difficulties, and limitations related to its use in the esoteric field.
+
+->>>>
+
+Building on the previous sections:
+
+Introduction:
+{{step_1}}
+
+Product/Service Specificity:
+{{step_2}}
+
+Target Audience:
+{{step_3}}
+
+We have our assessment of the product/service as:
+
+Product/Service Assessment:
+{{step_4}}
+
+Now, let's draft a conclusion that includes personal recommendations. This conclusion should discuss if {{product_or_service}} might benefit other esoteric bloggers and reasons why (or why not). The conclusion should also invite readers to comment on the product or service.
+
+->>>>
+
+Based on the completed sections:
+
+Product/Service Specificity:
+{{step_2}}
+
+Target Audience:
+{{step_3}}
+
+Product/Service Assessment:
+{{step_4}}
+
+The conclusion for this review is:
+
+Conclusion:
+{{step_5}}
+
+Finally, let's ensure our review is industry-specific. We need to sprinkle astrology, numerology, tarot or other esoteric field terminologies within the review - to increase its relevance and resonance with practitioners and enthusiasts. Note the importance of maintaining a balance between objective assessment and personal experience in the review.
+

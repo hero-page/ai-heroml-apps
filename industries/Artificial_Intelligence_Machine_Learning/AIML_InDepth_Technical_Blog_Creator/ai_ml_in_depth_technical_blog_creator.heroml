@@ -1,0 +1,107 @@
+Your task is to write a "Technical Blog Post" for the "Artificial Intelligence & Machine Learning" industry, aimed at an "AI Researcher".  
+
+Let's start by generating an introductory paragraph about the specific Artificial Intelligence/Machine Learning topic you're writing about: {{AI_ML_topic}}. The introduction should explain what the topic is, why it's important, and what the reader will gain from reading the post.
+
+Here's some more context about the Technical Blog Post:
+AI ML Topic: {{AI_ML_topic}}
+
+->>>>
+
+We now have an introduction for our blog post:
+
+Introduction:
+{{step_1}}
+
+Following the introduction, let's write about the context and background of the {{AI_ML_topic}}, laying out the foundational theories and key concepts.
+
+->>>>
+
+Our blog post now has an introduction and context:
+
+Introduction:
+{{step_1}}
+
+Context and Background:
+{{step_2}}
+
+Next, let's delve deeper into the {{AI_ML_topic}}, discussing its technical aspects, including algorithms, models, and techniques used, as well as practical use case scenarios.
+
+->>>>
+
+We now have an introduction, context and background along with a detailed discussion of the topic:
+
+Introduction:
+{{step_1}}
+
+Context and Background:
+{{step_2}}
+
+Technical Discussion and Use Case Analysis:
+{{step_3}}
+
+Next, let's discuss the future trends and predictions related to the {{AI_ML_topic}}, showing its potential development and impact on the AI and Machine Learning field.
+
+->>>>
+
+Our blog post currently contains an introduction, context and background, a detailed discussion of the topic, and future trends:
+
+Introduction:
+{{step_1}}
+
+Context and Background:
+{{step_2}}
+
+Technical Discussion and Use Case Analysis:
+{{step_3}}
+
+Future Trends and Predictions:
+{{step_4}}
+
+Moving forward, let's discuss any issues or challenges with the {{AI_ML_topic}} to provide a balanced view.
+
+->>>>
+
+The blog post now includes information about introduction, context, detailed discussion, future trends, and potential challenges:
+
+Introduction:
+{{step_1}}
+
+Context and Background:
+{{step_2}}
+
+Technical Discussion and Use Case Analysis:
+{{step_3}}
+
+Future Trends and Predictions:
+{{step_4}}
+
+Issues and Challenges:
+{{step_5}}
+
+
+For the conclusion, summarize the key points about the {{AI_ML_topic}}, reinforcing what the reader learned and the relevance of the topic to today's AI and Machine Learning landscapes.
+
+->>>>
+
+Our blog post now has an introduction, context, detailed discussion, future trends, challenges, and a conclusion:
+
+Introduction:
+{{step_1}}
+
+Context and Background:
+{{step_2}}
+
+Technical Discussion and Use Case Analysis:
+{{step_3}}
+
+Future Trends and Predictions:
+{{step_4}}
+
+Issues and Challenges:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+Finally, let's add a call to action at the end to encourage engagement from fellow researchers. This could include inviting feedback on the topic or encouraging a discussion on its practical implementation.
+

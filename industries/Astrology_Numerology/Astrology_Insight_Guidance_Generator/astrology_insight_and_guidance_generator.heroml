@@ -1,0 +1,70 @@
+Your task is to write a "Horoscope" for the "Astrology & Numerology" industry, specifically for an "Astrologer". 
+
+Let's start by writing an introduction that provides a brief overview of the astrological sign the horoscope pertains to: {{astrological_sign}}. This should include relevant characteristics of the sign, as a tie-in to the horoscope's message.
+
+Here's some more context about the Horoscope:
+Astrological Sign: {{astrological_sign}}
+Mood Overview: {{mood_overview}}
+Predictions Areas: {{predictions_areas}}
+Planetary Influences: {{planetary_influences}}
+
+->>>>
+
+In the horoscope for the astrological sign:
+
+Astrological Sign Overview:
+{{step_1}}
+
+Next, discuss the general mood you expect for the horoscope period: {{mood_overview}}. Use astrological observations and justifications connected to {{astrological_sign}} to discuss the mood.
+
+->>>>
+
+In our horoscope for the astrological sign:
+
+Astrological Sign Overview:
+{{step_1}}
+
+The general mood for the horoscope period:
+{{step_2}}
+
+Now, base your predictions on key areas of life including love, career, health, and finance. Each section should individually discuss these areas and how they'll likely be affected during this horoscope period.
+
+->>>>
+
+Until now, our horoscope has:
+
+Astrological Sign Overview:
+{{step_1}}
+
+General Mood Overview:
+{{step_2}}
+
+Let's see the predictions in key areas of life:
+{{step_3}}
+
+Next, introduce planetary influences: {{planetary_influences}}. Detail the alignments, planets moving into/out of the sign, and their potential effects on {{astrological_sign}}.
+
+->>>>
+
+The predictions in these key areas of life have been made:
+
+Overall Predictions:
+{{step_3}}
+
+Now, let's elaborate on the major planetary influences:
+{{step_4}}
+
+Now, wrap it up with a summary that reinforces the general mood: {{mood_overview}}, key predictions across the different life areas: {{predictions_areas}}, and major planetary influences: {{planetary_influences}}.
+
+->>>>
+
+After considering the major planetary influences:
+
+Planetary Influences:
+{{step_4}}
+
+This is the horoscope summary:
+{{step_5}}
+
+Lastly, provide compassionate tips and advice to navigate through any potential challenges that might arise for the sign, grounded in astrological knowledge.
+

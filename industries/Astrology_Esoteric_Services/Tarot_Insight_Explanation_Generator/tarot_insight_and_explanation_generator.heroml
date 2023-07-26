@@ -1,0 +1,54 @@
+Your task is to write a "Tarot Card Explanation" for the "Astrology & Esoteric Services" industry, specifically for a "Tarot Reader". Let's start by creating an introduction that presents the {{tarot_card_name}}, including a brief overview of its basic meaning and its significance in a tarot deck.
+
+Here's some more context about the Tarot Card Explanation:
+Tarot Card Name: {{tarot_card_name}}
+Tarot Card Image: {{tarot_card_image}}
+
+->>>>
+
+Now, we have an introduction for our {{tarot_card_name}}:
+
+Introduction:
+{{step_1}}
+
+Let's further enhance the explanation by diving into the detailed description of the {{tarot_card_image}}, discussing the inherent symbolism present in the imagery.
+
+->>>>
+
+We presented the {{tarot_card_name}} and its inherent imagery. Here is the description:
+
+Introduction:
+{{step_1}}
+
+Detailed Description:
+{{step_2}}
+
+Now, discuss the upright meaning of the {{tarot_card_name}} in detail, elaborating on what the card signifies when it appears upright in a reading.
+
+->>>>
+
+For our {{tarot_card_name}}, we have its upright meaning:
+
+Introduction:
+{{step_1}}
+
+Detailed Description:
+{{step_2}}
+
+Upright Meaning:
+{{step_3}}
+
+Move on to provide a comprehensive explanation of the reversed meaning of the {{tarot_card_name}}.
+
+->>>>
+
+The {{tarot_card_name}} now has detailed information both for its upright and reversed meanings:
+
+Upright Meaning:
+{{step_3}}
+
+Reversed Meaning:
+{{step_4}}
+
+Now, let's enrich the explanation by incorporating the esoteric and astrological correspondences of the {{tarot_card_name}}.
+

@@ -1,0 +1,78 @@
+Your task is to write a "Performance Report" for the "Affiliate Marketing" industry, specifically for a "Data Analyst". 
+Start by creating an executive summary that overviews the performance period, detailing necessary variables such as the campaign name: {{campaign_name}}, campaign duration: {{campaign_duration}}, main achievements, and critical points that need addressing.
+
+Here's some more context about the Performance Report:
+Campaign Name: {{campaign_name}}
+Campaign Duration: {{campaign_duration}}
+Campaign Goals: {{campaign_goals}}
+Top Affiliates: {{top_affiliates}}
+
+->>>>
+
+Having prepared an executive summary for the performance report:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's introduce the background by highlighting the affiliate marketing landscape during the report period and state the specific goals of the campaign: {{campaign_goals}}.
+
+->>>>
+
+With a detailed executive summary and a background introduction:
+
+Executive Summary:
+{{step_1}}
+
+Background Introduction:
+{{step_2}}
+
+Move on to present a detailed performance analysis. Here, comprehensively analyze key performance indicators (KPIs) such as Click-Through Rate (CTR), Conversion Rate (CVR), Revenue, Average Order Value (AOV) and Return on Ad Spend (ROAS). For each KPI, detail the starting value, ending value, % change, and the reasons for these changes.
+
+->>>>
+
+With the executive summary, background, and a detailed performance analysis:
+
+Executive Summary:
+{{step_1}}
+
+Background Introduction:
+{{step_2}}
+
+Performance Analysis:
+{{step_3}}
+
+Next, dedicate a section detailing the performance of the top affiliate partners: {{top_affiliates}}. Explain their conversion rates, total conversions, contributed revenue, and the traffic they've driven.
+
+->>>>
+
+With information on the executive summary, background, performance analysis, and affiliate partners:
+
+Executive Summary:
+{{step_1}}
+
+Background Introduction:
+{{step_2}}
+
+Performance Analysis:
+{{step_3}}
+
+Affiliate Partners Overview:
+{{step_4}}
+
+An in-depth insights section should now be crafted. It should provide analysis and interpretation of the data, identifying patterns, trends, and correlations. The impacts of external factors such as changes in the competitive landscape or macroeconomic shifts should also be discussed.
+
+->>>>
+
+Now having insights based on the data analysis and affiliate partner overview:
+
+Performance Analysis:
+{{step_3}}
+
+Affiliate Partners Overview:
+{{step_4}}
+
+In-depth Insights:
+{{step_5}}
+
+The next step is to come up with an action plan that proposes next steps based on the data and insights gathered. The proposed actions should aim to improve performance for the following periods and should directly relate to the initial campaign goals: {{campaign_goals}}.
+

@@ -1,0 +1,64 @@
+Your task is to write a "Product Roadmap" for the "Agricultural Technology" industry, specifically for a "Product Manager". 
+Let's start by generating an executive overview detailing the objective of the roadmap and introducing the product you're referring to: {{product}}.
+
+Here's some more context about the Product Roadmap:
+Product: {{product}}
+Target Market: {{target_market}}
+Product Features: {{product_features}}
+Development Milestones: {{development_milestones}}
+Risks And Dependencies: {{risks_and_dependencies}}
+
+->>>>
+
+Now we have an overview of our product, fit for an executive summary:
+
+Executive Overview:
+{{step_1}}
+
+Next, define and describe the target market of this product, including the needs and problems that the product is designed to address.
+
+->>>>
+
+So far, we have an executive overview and a description of our product's target market:
+
+Executive Overview:
+{{step_1}}
+
+Target Market Description:
+{{step_2}}
+
+Now, let's provide an outline of the product's features and capabilities. Be sure to include each feature's or capability's value proposition and how it addresses the needs or problems of the target market.
+
+->>>>
+
+We have our product's executive overview, market specificity and now, a detailed feature list:
+
+Executive Overview:
+{{step_1}}
+
+Target Market Description:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Next, identify some key development milestones for the product, such as major enhancements, integrations, or launches. Also provide corresponding timelines for achieving these milestones.
+
+->>>>
+
+Following our roadmap, we now have an executive overview, description of the target market, product features and development milestones:
+
+Executive Overview:
+{{step_1}}
+
+Target Market Description:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Product Development Milestones:
+{{step_4}}
+
+Now we need to highlight and discuss any critical dependencies, risks, and mitigation strategies relevant to the agriculture industry. Examples could include potential regulatory changes, weather-related risks, or supply chain disruptions.
+

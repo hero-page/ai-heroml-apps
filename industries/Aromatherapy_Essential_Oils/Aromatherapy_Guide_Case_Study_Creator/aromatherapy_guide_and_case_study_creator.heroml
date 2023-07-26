@@ -1,0 +1,94 @@
+Your task is to write a "Therapy Guide" for the "Aromatherapy & Essential Oils" industry, specifically for an "Aromatherapist". 
+
+Begin by writing an introduction that explains the purpose of this therapy guide. Make sure it's clear and concise, and focus on discussing the benefits of "Aromatherapy & Essential oils" in relation to the intended purpose.
+
+Here's some more context about the Therapy Guide:
+Purpose: {{purpose}}
+Extraction Methods And Uses: {{extraction_methods_and_uses}}
+Essential Oil Profile: {{essential_oil_profile}}
+Blending And Safety Guidelines: {{blending_and_safety_guidelines}}
+Condition Based Essential Oils: {{condition_based_essential_oils}}
+Case Studies: {{case_studies}}
+Guide Value: {{guide_value}}
+
+->>>>
+
+Now we have a clear introduction to our Therapy Guide:
+
+Introduction:
+{{step_1}}
+
+Moving on, write a section that introduces the history and fundamental principles of "Aromatherapy & Essential Oils". Explain the different ways essential oils are extracted and their varied uses in therapy.
+
+->>>>
+
+We have an introduction and an overview of the history and principles of Aromatherapy:
+
+Introduction:
+{{step_1}}
+
+History and Principles:
+{{step_2}}
+
+The next step is to compile a comprehensive list of essential oils. Detail the specific benefits and therapeutic uses of each, discussing the benefits, contraindications, and methods of use where relevant.
+
+->>>>
+
+We have detailed the history and principles, and created a comprehensive list of essential oils:
+
+History and Principles:
+{{step_2}}
+
+Essential Oils List:
+{{step_3}}
+
+Now, draft guidelines on the correct methods of blending essential oils and the safety precautions to take.
+
+->>>>
+
+We have a comprehensive list of essential oils and a crafted set of guidelines for blending and safety:
+
+Essential Oils List:
+{{step_3}}
+
+Blending and Safety Guidelines:
+{{step_4}}
+
+Let's navigate towards introducing the concept of "Aromatherapy & Essential oils" for different conditions. Categorize these based on the conditions the aromatherapist will be treating.
+
+->>>>
+
+We have our guidelines for blending and safety, and a categorized list of essential oils based on conditions:
+
+Blending and Safety Guidelines:
+{{step_4}}
+
+Condition-Based Essential Oils:
+{{step_5}}
+
+Now, write up a series of case studies that illustrate the application of aromatherapy. Discuss each case's initial condition, the essential oils used, and the outcome of the therapy.
+
+->>>>
+
+We have a list of condition-based essential oils and a series of illustrative case studies:
+
+Condition-Based Essential Oils:
+{{step_5}}
+
+Case Studies:
+{{step_6}}
+
+Follow this up by concluding the guide with an appendix section. Include a glossary of relevant terms, useful websites or books for further reading, and an index for easy navigation.
+
+->>>>
+
+Now we have a set of illustrative case studies and a comprehensive appendix for our guide:
+
+Case Studies:
+{{step_6}}
+
+Appendix:
+{{step_7}}
+
+Finally, summarize the Therapy Guide with a conclusion which reiterates the value of the guide and how it contributes to improving the aromatherapist's work.
+

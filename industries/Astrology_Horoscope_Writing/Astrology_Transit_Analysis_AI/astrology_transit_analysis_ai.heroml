@@ -1,0 +1,99 @@
+Let's embark on creating a "Planetary Transit Analysis" for the "Astrology & Horoscope Writing" industry, specifically for an "Astrologer".
+
+To kick off, write an introduction explaining the astrological significance of planetary transits, presenting this information as {{significance_of_transits}}.
+
+Here's some more context about the Planetary Transit Analysis:
+Significance Of Transits: {{significance_of_transits}}
+Planetary Transit: {{planetary_transit}}
+Position Of Planet: {{position_of_planet}}
+
+->>>>
+
+The introduction explains the significance of planetary transits as follows:
+
+Introduction:
+{{step_1}}
+
+Next, provide a detailed outline of the specific planetary transit we are analyzing. This outline should offer valuable insights into the characteristics and dynamics of the {{planetary_transit}}.
+
+->>>>
+
+So far, we have an introduction and a detailed outline of the planetary transit:
+
+Introduction:
+{{step_1}}
+
+Detailed Outline:
+{{step_2}}
+
+Now, detail each of the key moments in the {{planetary_transit}} timeline. This should include when it starts, reaches its peak, and finally concludes.
+
+->>>>
+
+We have defined the key moments of the {{planetary_transit}}:
+
+Introduction:
+{{step_1}}
+
+Detailed Outline:
+{{step_2}}
+
+Key Moments:
+{{step_3}}
+
+Next, incorporate a comprehensive explanation of the astrological impacts of the {{planetary_transit}}, particularly focusing on how these can influence individual zodiac signs.
+
+->>>>
+
+We have detailed the astrological impact of the {{planetary_transit}}:
+
+Detailed Outline:
+{{step_2}}
+
+Key Moments:
+{{step_3}}
+
+Astrological Impacts:
+{{step_4}}
+
+Moving on, discuss the various aspects formed during the {{planetary_transit}} and how they can influence changes in emotion, behavior, or circumstance.
+
+->>>>
+
+We have a discussion of various aspects formed during the {{planetary_transit}}:
+
+Key Moments:
+{{step_3}}
+
+Astrological Impacts:
+{{step_4}}
+
+Aspects and Influences:
+{{step_5}}
+
+Now, create astrological predictions for the different zodiac signs. These should be based on the specific effects of the {{planetary_transit}}.
+
+->>>>
+
+We have astrological predictions based on the {{planetary_transit}}:
+
+Aspects and Influences:
+{{step_5}}
+
+Astrological Predictions:
+{{step_6}}
+
+Next, analyze the positioning of the planet during the transit: {{position_of_planet}} and note its related astrological implications.
+
+->>>>
+
+We have an analysis of the planet's positioning during the {{planetary_transit}}:
+
+Astrological Predictions:
+{{step_6}}
+
+Planet Position Analysis:
+{{step_7}}
+
+To wrap this up, write a conclusion that offers a summary of the anticipated changes and influences that the {{planetary_transit}} may impact on individual zodiac signs or on a larger astrological scale.
+

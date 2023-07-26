@@ -1,0 +1,85 @@
+Your task is to write a "Data Analysis Report" for the "Artificial Intelligence & Machine Learning" industry, specifically for a "Data Scientist". 
+
+Start by composing an executive summary for the data analysis report about the topic: {{analysis_topic}}. This should clearly state the problem or question that you're looking to answer, the dataset(s) used and the main findings in a concise manner.
+
+Here's some more context about the Data Analysis Report:
+Analysis Topic: {{analysis_topic}}
+Business Context: {{business_context}}
+Data Source: {{data_source}}
+Models Used: {{models_used}}
+Model Results: {{model_results}}
+
+->>>>
+
+The executive summary for the "Data Analysis Report" is completed:
+
+Executive Summary:
+{{step_1}}
+
+Next, construct an introduction that outlines the business or research context: {{business_context}} and the purpose of the analysis. This section should provide a broader context about the project or research for which the data analysis is desired, including a brief reference to the target problem statement.
+
+->>>>
+
+We have developed the introduction to our data analysis report:
+
+Introduction:
+{{step_2}}
+
+Now, detail the process of data gathering and pre-processing. Specify the source of the dataset: {{data_source}}, type of the data, and methods used for data cleaning, transformation, or any other pre-processing steps necessary.
+
+->>>>
+
+With the introduction for our report:
+
+Introduction:
+{{step_2}}
+
+We have detailed the methods of data gathering and pre-processing:
+
+Data Gathering and Pre-processing:
+{{step_3}}
+
+Following this, in the methodology section, explain the AI/ML techniques or models: {{models_used}} applied to the data for analysis. It is important to elaborate on the type of model, any parameters that were tuned, or the reasoning behind the chosen architecture.
+
+->>>>
+
+After illustrating the process of gathering and pre-processing data:
+
+Data Gathering and Pre-processing:
+{{step_3}}
+
+We now have described the methodology used for analysis:
+
+Methodology:
+{{step_4}}
+
+Next, elaborate on the results of the analysis. Explain the output of the models: {{model_results}}, and what these results reveal about the data or the problem at hand. This can include interpretation of coefficients in regression, top features in classification, identified clusters or patterns, model accuracy, or any other relevant metrics.
+
+->>>>
+
+Post detailing the methodology used in our analysis:
+
+Methodology:
+{{step_4}}
+
+We have summarized the results from our analysis:
+
+Results:
+{{step_5}}
+
+Now, let's conclude the report with a summary of the findings, any limitations, and the potential implications for the business context: {{business_context}}. Discuss whether the problem or the question was answered, the reliability of the results, any unanswered questions, and where future work could head.
+
+->>>>
+
+After interpreting our analysis:
+
+Results:
+{{step_5}}
+
+We now have a conclusion summarizing the entire research:
+
+Conclusion:
+{{step_6}}
+
+Finally, create an additional section for references if any external resources or literature were utilized during the analysis.
+

@@ -1,0 +1,71 @@
+Your task is to write a "Dataset Description" for the "Artificial Intelligence & Machine Learning" industry, specifically for a "Data Scientist". 
+
+Start with a clear introduction that explains what the dataset contains: {{dataset_content}}. Avoid diving into too much detail at this point.
+
+Here's some more context about the Dataset Description:
+Dataset Content: {{dataset_content}}
+Data Sources: {{data_sources}}
+Dataset Size And Structure: {{dataset_size_and_structure}}
+Dataset Features: {{dataset_features}}
+Dataset Limitations: {{dataset_limitations}}
+
+->>>>
+
+We've now written a clear introduction, which explains what the dataset contains:
+
+Introduction:
+{{step_1}}
+
+Following the introduction, please provide an in-depth description of the data source(s): {{data_sources}}. This might include the original source of the data, how it was collected or generated, and any transformations or preprocessing steps that were applied to it.
+
+->>>>
+
+With our introduction in place, we've also described the data source(s) in depth:
+
+Introduction:
+{{step_1}}
+
+Data Sources:
+{{step_2}}
+
+Create a section dedicated to explaining the size and structure of the dataset: {{dataset_size_and_structure}}. This should address the number and types of data points included in the dataset, the way in which the data is organized or structured, and any key patterns or characteristics that emerge from this structure.
+
+->>>>
+
+We have our introduction, a description of the data source, and now a detailed view of our dataset's size and structure:
+
+Introduction:
+{{step_1}}
+
+Data Sources:
+{{step_2}}
+
+Dataset Size and Structure:
+{{step_3}}
+
+Next, describe the interesting or unique attributes or features of the dataset: {{dataset_features}}. Outline prominent variables in the data, how they are encoded, and their relevance in the context of AI & Machine Learning. Emphasize those aspects that would have particular interest to a Data Scientist.
+
+->>>>
+
+We have detailed the dataset's size and structure, now let's look at the description of the attributes and features:
+
+Dataset Size and Structure:
+{{step_3}}
+
+Dataset Features:
+{{step_4}}
+
+Now, dedicate a section to explain any limitations or potential biases in the dataset: {{dataset_limitations}}. Include any missing data, imbalances, or potential biases in the dataset that could impact the result of data analysis or model training.
+
+->>>>
+
+We detailed the attributes and features of the dataset and provided an explanation of any limitations or potential biases:
+
+Dataset Features:
+{{step_4}}
+
+Dataset Limitations:
+{{step_5}}
+
+Next, create a summary that recaps the key points about the dataset: {{dataset_content}}, {{data_sources}}, {{dataset_size_and_structure}}, {{dataset_features}}, and {{dataset_limitations}}. This should reemphasize why this dataset is important and how it could be used in the context of AI & Machine Learning.
+

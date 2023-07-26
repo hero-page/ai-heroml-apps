@@ -1,0 +1,79 @@
+Your task is to write an "Email Campaign" for the "Affiliate Marketing" industry, specifically for an "Affiliate Marketer". 
+Let's start by generating an introduction that briefly explains the purpose of the email and the value that {{promoted_product_service}} brings to the potential buyer.
+
+Here's some more context about the Email Campaign:
+Promoted Product Service: {{promoted_product_service}}
+Target Audience: {{target_audience}}
+
+->>>>
+
+We have generated an introduction for our email campaign that clears the purpose and value proposition:
+
+Introduction:
+{{step_1}}
+
+Now, let's describe the specific features and advantages of the {{promoted_product_service}}, using simple and engaging language that resonates with the audience.
+
+->>>>
+
+Now we have the introduction and key features of our {{promoted_product_service}} ready:
+
+Introduction:
+{{step_1}}
+
+Key Features:
+{{step_2}}
+
+Next, we need to share some user testimonials and success stories that relate to the use of {{promoted_product_service}}. Ensure to choose the genuine ones that resonate with our readers.
+
+->>>>
+
+For our email campaign, we now have introduction, key features, and some user testimonials:
+
+Introduction:
+{{step_1}}
+
+Key Features:
+{{step_2}}
+
+Testimonials:
+{{step_3}}
+
+To make our email more effective, let's now introduce a sense of urgency. Remind the readers that the opportunity to get {{promoted_product_service}} might not last forever.
+
+->>>>
+
+Now, we have a sense of urgency included in our email campaign:
+
+Sense of Urgency:
+{{step_4}}
+
+Next, let's generate a clear "Call-to-action" that explains to the reader what to do next if they're interested in the {{promoted_product_service}}.
+
+->>>>
+
+Our email campaign now has a clear call to action:
+
+Call To Action:
+{{step_5}}
+
+We now need to tailor our message for the potential buyer we're targeting with this campaign. Specifically point out how the benefits from {{promoted_product_service}} would be appealing to our {{target_audience}}.
+
+->>>>
+
+We have tailored our message for a potential buyer:
+
+Tailored Message:
+{{step_6}}
+
+Let's wrap up our email with a conclusion that emphasizes the core benefits offered by the {{promoted_product_service}} and encourages the reader to take immediate action.
+
+->>>>
+
+Our email now has a convincing conclusion:
+
+Conclusion:
+{{step_7}}
+
+Lastly, we have to include a discreet disclaimer explaining that the mail contains affiliate links. Make sure it's done subtly without interfering with our main message or call to action.
+

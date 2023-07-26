@@ -1,0 +1,99 @@
+Your task is to write a "Technical FAQ" for the "Agricultural Technology" industry, specifically for an "Agri-Tech Engineer". 
+Let's start with an introduction that briefly describes the focal agricultural technology: {{agri_tech}}.
+
+Here's some more context about the Technical FAQ:
+Agri Tech: {{agri_tech}}
+
+->>>>
+
+Writing a "Technical FAQ" in the "Agricultural Technology" industry for an "Agri-Tech Engineer" and we started with:
+
+Introduction:
+{{step_1}}
+
+Next, craft a list of commonly encountered problems or concerns related to the use and implementation of the {{agri_tech}}.
+
+->>>>
+
+So far, we have an introduction and a list of common problems for our FAQ:
+
+Introduction:
+{{step_1}}
+
+List of Common Problems:
+{{step_2}}
+
+Now, alongside each listed problem from {{step_2}}, provide detailed, easy-to-understand answers or solutions.
+
+->>>>
+
+We created a list of common problems and provided solutions for each:
+
+List of Common Problems and Solutions:
+{{step_3}}
+
+Next, discuss operation or maintenance procedures inherent to the {{agri_tech}} that might be of interest to most users.
+
+->>>>
+
+Now, we have common problems, solutions, and a discussion of operation and maintenance procedures for our FAQ:
+
+Operation and maintenance procedures:
+{{step_4}}
+
+Include safety measures, environmental impact, and efficiency tips specifically tailored to the {{agri_tech}}.
+
+->>>>
+
+At this point, we have an introduction, problems and solutions, operation and maintenance procedures, as well as safety measures and tips for our FAQ:
+
+Safety Measures and Tips:
+{{step_5}}
+
+Describe in-depth how to troubleshoot common setup or operation issues with the {{agri_tech}}.
+
+->>>>
+
+We've added a troubleshooting guide to our growing FAQ:
+
+Troubleshooting Guide:
+{{step_6}}
+
+Include a section for FAQs on any software associated with the {{agri_tech}}, providing a step-by-step guide on how to navigate, update, or troubleshoot the software.
+
+->>>>
+
+Our FAQ now includes a distinct section for software-related issues:
+
+Software FAQs:
+{{step_7}}
+
+Consider having an area discussing latest advancements, trends, or industry news revolving around the {{agri_tech}} or other related technologies.
+
+->>>>
+
+We have now added a section about the latest industry trends and news to the FAQ:
+
+Latest Advancements and Industry News:
+{{step_8}}
+
+Conclude with contact information for additional technical support.
+
+->>>>
+
+Our FAQ is nearly complete, and now includes contact information for further support:
+
+Contact Information:
+{{step_9}}
+
+To enhance user experience, update the FAQs based on new issues or advancements related to the {{agri_tech}}:
+
+->>>>
+
+We now have an updated version of our FAQs that considers recent advancements and issues:
+
+Updated FAQs:
+{{step_10}}
+
+For improved navigation, categorize FAQs based on the {{agri_tech}} components/operations, software, safety measures, troubleshooting, and recent updates. Include a table of contents at the beginning for easy access to each category.
+

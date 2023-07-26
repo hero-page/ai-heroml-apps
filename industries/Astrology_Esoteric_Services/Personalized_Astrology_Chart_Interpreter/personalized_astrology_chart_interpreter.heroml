@@ -1,0 +1,153 @@
+Let's write a "Birth Chart Reading" for the "Astrology & Esoteric Services" industry, specifically for an "Astrologer". 
+
+We can start off by writing a clear introduction for the reading that defines the purpose: {{purpose_of_reading}}.
+
+Here's some more context about the Birth Chart Reading:
+Purpose Of Reading: {{purpose_of_reading}}
+Sun Sign: {{sun_sign}}
+Moon Sign: {{moon_sign}}
+Rising Sign: {{rising_sign}}
+Personal Context: {{personal_context}}
+Personal Recommendations: {{personal_recommendations}}
+
+->>>>
+
+Now we have an introduction for our "Birth Chart Reading":
+
+Introduction:
+{{step_1}}
+
+Next, provide an overview of the chart’s critical components: the Sun sign, Moon sign, and Ascendant (Rising sign). Explain what these elements mean and how they relate to the person whose chart you are interpreting.
+
+->>>>
+
+With an introduction already established:
+
+Introduction:
+{{step_1}}
+
+We now have an overview of the critical components of the birth chart:
+
+Critical Components Overview:
+{{step_2}}
+
+Given this, we can then detail the person's Sun sign – the core of their identity, considering factors like personality traits, instincts, and long-term goals. Use the {{sun_sign}} variable for the exact Sun sign.
+
+->>>>
+
+We have the introduction and overview of the components:
+
+Introduction:
+{{step_1}}
+
+Critical Components Overview:
+{{step_2}}
+
+This is the detailed interpretation of the individual's Sun sign:
+
+Sun Sign Interpretation:
+{{step_3}}
+
+Now, let's explain the Moon sign, signifying emotional responses, subconscious predisposition, and character traits. Use the {{moon_sign}} variable for this representation.
+
+->>>>
+
+So far, we have provided an interpretation of the Sun sign:
+
+Sun Sign Interpretation:
+{{step_3}}
+
+This is our explanation of the Moon sign:
+
+Moon Sign Explanation:
+{{step_4}}
+
+Next, discuss the Ascendant or rising sign, which identifies the individual's outward expression, personal first impressions, and physical appearance. Here, we will use the {{rising_sign}} variable.
+
+->>>>
+
+With the Sun and Moon signs interpreted:
+
+Sun Sign Interpretation:
+{{step_3}}
+
+Moon Sign Explanation:
+{{step_4}}
+
+Now, we have a discussion on the Rising sign:
+
+Rising Sign Interpretation:
+{{step_5}}
+
+Following the interpretation of the Sun sign, Moon sign, and Rising sign, let's create a separate section interpreting each of the houses in the birth chart. Cover the areas of life they correspond to, and how the occupants (planets) of these houses may affect them.
+
+->>>>
+
+Now that the Rising sign has been interpreted:
+
+Rising Sign Interpretation:
+{{step_5}}
+
+We have a separate section on the interpretation of the houses in the birth chart:
+
+Houses Interpretation:
+{{step_6}}
+
+Next, explain the planetary aspects – the arrangement of planets in relation to each other at the time of birth. Discuss what each major aspect could indicate for the individual.
+
+->>>>
+
+We have gone through the interpretations of the houses:
+
+Houses Interpretation:
+{{step_6}}
+
+Now, we will explain the planetary aspects:
+
+Planetary Aspects Explanation:
+{{step_7}}
+
+Let's incorporate industry-specific language and symbology into this reading to enrich its depth and relevance. Be sure the language, where possible, is broken down and explained for easy understanding by a general audience.
+
+->>>>
+
+After explaining the planetary aspects:
+
+Planetary Aspects Explanation:
+{{step_7}}
+
+We have incorporated industry-specific language and symbology, enhanced for general audience understanding:
+
+Industry-Specific Language and Symbology:
+{{step_8}}
+
+We now need to factor in the personal context of the individual whose birth chart we're interpreting: {{personal_context}}. This might include significant life events, relationships, or other details that could provide insight into the birth chart.
+
+->>>>
+
+With our usage of industry-specific language:
+
+Industry-Specific Language and Symbology:
+{{step_8}}
+
+We have now taken into account the individual's personal context in understanding the birth chart:
+
+Personal Context Interpretation:
+{{step_9}}
+
+Let's now conclude the birth chart reading with a synthesis of what the different parts imply when viewed collectively. Identify any prominent theme, challenge, or message.
+
+->>>>
+
+Now that we have interpreted the personal context:
+
+Personal Context Interpretation:
+{{step_9}}
+
+We have concluded our birth chart reading with a synthesis of its various parts:
+
+Charts Synthesis:
+{{step_10}}
+
+Finally, we will provide actionable recommendations or considerations based on the reading of the birth chart. This could be personalized advice for dealing with challenges or harnessing strengths shown by the birth chart: {{personal_recommendations}}.
+

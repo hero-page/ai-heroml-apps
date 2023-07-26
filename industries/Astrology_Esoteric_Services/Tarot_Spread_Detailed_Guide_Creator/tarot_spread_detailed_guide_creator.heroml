@@ -1,0 +1,62 @@
+Let's set out to write a "Tarot Spread Guide" for the "Astrology & Esoteric Services" industry, specifically for a "Tarot Reader". We'll start by creating an introduction that explains the purpose of the tarot spread guide. Please write the introduction considering {{purpose_of_spread}}.
+
+Here's some more context about the Tarot Spread Guide:
+Purpose Of Spread: {{purpose_of_spread}}
+Historical Context: {{historical_context}}
+Card Position Details: {{card_position_details}}
+Area Of Life: {{area_of_life}}
+Interpretation Tips: {{interpretation_tips}}
+Personal Experiences: {{personal_experiences}}
+
+->>>>
+
+Our "Tarot Spread Guide" begins with:
+
+Introduction:
+{{step_1}}
+
+Next, let's describe the historical or cultural context of the spread. Detail its origins and traditional uses. Remember to include the {{historical_context}}.
+
+->>>>
+
+The introduction to our "Tarot Spread Guide" is:
+
+Introduction:
+{{step_1}}
+
+The historical context of the spread is:
+
+Historical Context:
+{{step_2}}
+
+Now, let's create a detailed numbered list for each position in the spread. Please provide an explanation of what the card in that position represents: {{card_position_details}}.
+
+->>>>
+
+We have described our introduction and historical context as:
+
+Introduction:
+{{step_1}}
+
+Historical Context:
+{{step_2}}
+
+For each card position in the spread we have:
+
+Card Position Details:
+{{step_3}}
+
+Next, discuss the specific questions or areas of life each position of the spread can illuminate. This could include aspects such as relationships, career, or spiritual growth: {{area_of_life}}.
+
+->>>>
+
+So far, for our "Tarot Spread Guide", we have:
+
+Card Position Details:
+{{step_3}}
+
+Areas of life each position can illuminate:
+{{step_4}}
+
+Let's continue by including practical advice on how to interpret the spread. This can cover topics like understanding card combinations, dealing with reversals and application of intuition: {{interpretation_tips}}.
+

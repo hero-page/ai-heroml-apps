@@ -1,0 +1,67 @@
+Let's create a product roadmap for a Product Manager within the Artificial Intelligence & Machine Learning Industry, focusing on your product: {{product_name}}. The first step is to craft a concise introduction that outlines the objective of your product: {{product_objective}}. 
+
+Here's some more context about the Product Roadmap:
+Product Objective: {{product_objective}}
+Development Milestones: {{development_milestones}}
+Required Resources: {{required_resources}}
+Key Technologies: {{key_technologies}}
+Potential Challenges: {{potential_challenges}}
+
+->>>>
+
+The introduction for the product roadmap of {{product_name}} is ready:
+
+Product Objective:
+{{step_1}}
+
+Now, let's outline a timeline for the development of {{product_name}}, marking key features or development milestones such as research and development, prototyping, alpha and beta testing, and product release.
+
+->>>>
+
+Our {{product_name}} product roadmap has an objective:
+
+Product Objective:
+{{step_1}}
+
+And it includes a detailed timeline for development:
+
+Development Timeline:
+{{step_2}}
+
+For the next, let's discuss the resources required for each of these milestones in the product's lifecycle. These could include personnel, equipment, or facilities.
+
+->>>>
+
+Now, we have detailed the necessary resources for {{product_name}}'s development:
+
+Product Objective:
+{{step_1}}
+
+Development Timeline:
+{{step_2}}
+
+Required Resources:
+{{step_3}}
+
+The next step in our roadmap is to map out the key technological aspects that {{product_name}} will contain. In regard to AI and ML, specify which algorithms or models will be used, whether they'll be developed in-house or sourced externally, and any other technologically relevant components of the product.
+
+->>>>
+
+Our roadmap for {{product_name}} includes:
+
+Product Objective:
+{{step_1}}
+
+Development Timeline:
+{{step_2}}
+
+Required Resources:
+{{step_3}}
+
+Additionally, we have outlined the key technologies:
+
+Key Technologies:
+{{step_4}}
+
+Let's now discuss the potential major risks and roadblocks that could occur during the development or post-launch of {{product_name}}. These might include things such as regulatory challenges to technological hurdles.
+

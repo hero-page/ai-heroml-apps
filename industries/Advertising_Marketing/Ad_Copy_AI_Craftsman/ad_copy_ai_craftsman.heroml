@@ -1,0 +1,85 @@
+Your task is to write an "Ad Copy" for the "Advertising & Marketing" industry, specifically for a "Copywriter". Let's begin with creating a compelling headline to hook in readers.
+
+Here's some more context about the Ad Copy:
+Hook Headline: {{hook_headline}}
+Problem Description: {{problem_description}}
+Product Features: {{product_features}}
+Testimonial Reviews: {{testimonial_reviews}}
+Call To Action: {{call_to_action}}
+Assurance Point: {{assurance_point}}
+
+->>>>
+
+We've started our "Ad Copy" with a compelling headline:
+
+Headline:
+{{step_1}}
+
+Next, let's draft a description that expands on the concept of our headline, demonstrating the issue your product or service solves.
+
+->>>>
+
+Our "Ad Copy" now has a compelling headline and a problem description:
+
+Headline:
+{{step_1}}
+
+Problem Description:
+{{step_2}}
+
+Now, let's introduce your product or service, focusing on its unique selling points, benefits, and features that make it the best solution to the problem.
+
+->>>>
+
+Our "Ad Copy" so far includes a captivating headline, a description of the problem, and an introduction to your product or service:
+
+Headline:
+{{step_1}}
+
+Problem Description:
+{{step_2}}
+
+Product Introduction:
+{{step_3}}
+
+Next, if available, include testimonials or client reviews highlighting beneficial results to foster trust with the audience.
+
+->>>>
+
+Now our "Ad Copy" has a strong structure that includes an enticing headline, a problem description, an introduction to your product or service, and supportive testimonials and reviews:
+
+Headline:
+{{step_1}}
+
+Problem Description:
+{{step_2}}
+
+Product Introduction:
+{{step_3}}
+
+Testimonials and Reviews:
+{{step_4}}
+
+Our next task is to create a clear and powerful call-to-action, guiding readers on what they should do next.
+
+->>>>
+
+Our "Ad Copy" now includes an inviting headline, a problem description, a product introduction, testimonials, and a persuasive call-to-action:
+
+Headline:
+{{step_1}} 
+
+Problem Description:
+{{step_2}}
+
+Product Introduction:
+{{step_3}}
+
+Testimonials and Reviews:
+{{step_4}}
+
+Call to Action:
+{{step_5}}
+
+To conclude our "Ad Copy", let's provide some sort of assurance, like a money-back guarantee or a free trial, to the reader to instill a sense of security in their decision.
+

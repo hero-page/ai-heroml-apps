@@ -1,0 +1,78 @@
+Your task is to write a "Model Description" for the "Artificial Intelligence & Machine Learning" industry, specifically for an "AI Researcher". 
+
+Start off by generating an introductory paragraph that gives a brief background of the model: {{model_background}}. Explain the purpose or the need that the model fulfills in the AI & Machine Learning industry, which aligns with the interests of the AI Researcher.
+
+Here's some more context about the Model Description:
+Model Background: {{model_background}}
+Model Theory: {{model_theory}}
+Model Building: {{model_building}}
+Model Testing: {{model_testing}}
+Model Benefits: {{model_benefits}}
+Model Limitations: {{model_limitations}}
+
+->>>>
+
+Now we have an introduction that provides the background and purpose of the model:
+
+Introduction:
+{{step_1}}
+
+Next, let's delve into the underlying theory or principles of your model: {{model_theory}}. Ensure it addresses the mathematical, computational or logical basis of the model in a way that is understandable and interesting for an AI Researcher.
+
+->>>>
+
+We now have the theories and principles of the model explained:
+
+Introduction:
+{{step_1}}
+
+Model Theory:
+{{step_2}}
+
+Proceed on to a section that describes the process of building and training the model: {{model_building}}. You should detail the data used, how data was handled, algorithmic details for the model's training process, feature selection, and other technical details relevant for the AI Researcher.
+
+->>>>
+
+We now have the processes of building and training the AI model:
+
+Introduction:
+{{step_1}}
+
+Model Theory:
+{{step_2}}
+
+Model Building:
+{{step_3}}
+
+Next, establish a part that discloses how the model was tested and validated: {{model_testing}}. This should encompass testing strategies used, performance metrics evaluated, and how the model stood against them.
+
+->>>>
+
+We have describe the model's testing and validation process:
+
+Introduction:
+{{step_1}}
+
+Model Building:
+{{step_3}}
+
+Model Testing:
+{{step_4}}
+
+Following along, let's create a segment that discusses the benefits and potential applications of the model in the real-world: {{model_benefits}}. Provide tangible examples of how the AI model could be efficiently used and what problems it can solve.
+
+->>>>
+
+We now have details about the benefits and applications of the model:
+
+Introduction:
+{{step_1}}
+
+Model Testing:
+{{step_4}}
+
+Model Benefits:
+{{step_5}}
+
+Finally, end with a component that reveals the limitations and possible improvements of the model: {{model_limitations}}. Discuss the limitations, potential challenges of deploying your model and how these might be addressed in future iterations or research.
+

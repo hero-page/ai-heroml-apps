@@ -1,0 +1,81 @@
+Your task is to write a "Numerology Report" for the "Astrology & Numerology" industry, specifically for a "Numerologist". 
+Let's start by creating a personalized introduction for the subject named: {{subject_name}}. This introduction should include basic information like their date of birth and relevant numerological constants derived from this data.
+
+Here's some more context about the Numerology Report:
+Subject Name: {{subject_name}}
+
+->>>>
+
+We now have a personalized introduction addressing the subject of the report:
+
+Introduction:
+{{step_1}}
+
+Next, focus on the 'Life Path Number'. Start by explaining the method of calculation and its significance, then present the calculated 'Life Path Number' for {{subject_name}}. Provide an elaborate interpretation about what this number signifies in their life.
+
+->>>>
+
+We have an introduction and the elaboration on 'Life Path Number':
+ 
+Introduction:
+{{step_1}}
+
+Life Path Number:
+{{step_2}}
+
+Moving onto the 'Expression Number' section, explain how the full name of {{subject_name}} translates into numerical format and how to calculate the 'Expression Number'. Discuss the impact this number has on {{subject_name}}'s talents, abilities, and shortcomings.
+
+->>>>
+
+In the report, the introduction, 'Life Path Number', and 'Expression Number' are as follows:
+
+Introduction:
+{{step_1}}
+
+Life Path Number:
+{{step_2}}
+
+Expression Number:
+{{step_3}}
+
+Next, dedicate a section to the 'Soul Urge Number'. Like the previous parts, explain the method of calculation. Then interpret the implications of the 'Soul Urge Number' for {{subject_name}}, providing insights into their inner desires and hidden aspects of personality.
+
+->>>>
+
+So far, we have the elements:
+
+Introduction:
+{{step_1}}
+
+Life Path Number:
+{{step_2}}
+
+Expression Number:
+{{step_3}}
+
+Soul Urge Number:
+{{step_4}}
+
+Now, let's analyze the 'Personality Number' which describes how {{subject_name}} is perceived by the world. Discuss this number in detail and interpret its significance in relation to {{subject_name}}'s external image.
+
+->>>>
+
+In the numerology report, we have generated:
+
+Introduction:
+{{step_1}}
+
+Life Path Number:
+{{step_2}}
+
+Expression Number:
+{{step_3}}
+
+Soul Urge Number:
+{{step_4}}
+
+Personality Number:
+{{step_5}}
+
+Now, you need to summarize the overall findings and provide a concise overview of all the numbers and their implications in the life of {{subject_name}}. This should include the potential strengths, challenges, opportunities, and personal traits revealed by the numbers.
+

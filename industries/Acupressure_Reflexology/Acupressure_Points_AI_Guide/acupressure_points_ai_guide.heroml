@@ -1,0 +1,91 @@
+Let's begin by outlining the purpose of "Acupressure Point Guide", specifically for an "Acupressure Practitioner". The objective of the guide should focus on {{guide_objective}}, such as pain relief, general wellness, or stress management.
+
+Here's some more context about the Acupressure Point Guide:
+Guide Objective: {{guide_objective}}
+Key Points: {{key_points}}
+Key Point: {{key_point}}
+
+->>>>
+
+We now have an objective for our "Acupressure Point Guide":
+
+Objective:
+{{step_1}}
+
+Now, outline the basics of acupressure. Explain what it is, how it works, and the benefits of using it to achieve our guide objective.
+
+->>>>
+
+We have outlined the basics of acupressure in relation to our guide objective:
+
+Objective:
+{{step_1}}
+
+Basics of Acupressure:
+{{step_2}}
+
+Next step is to identify the key acupressure points of interest: {{key_points}}. These points should align with the outlined objective.
+
+->>>>
+
+We've identified the key acupressure points aligning with the objective:
+
+Objective:
+{{step_1}}
+
+Key Points:
+{{step_3}}
+
+Each key acupressure point: {{key_point}} will need a detailed description. This should specify where it is located, how it aids in achieving the objective, and demonstrate the correct method to apply pressure to it.
+
+->>>>
+
+We've provided details about the key acupressure points for our guide:
+
+Objective:
+{{step_1}}
+
+Key Points Details:
+{{step_4}}
+
+Designed a section that underlines the important safety concerns and contraindications. Point out when acupressure should not be applied and which pressure points to avoid based on certain health conditions.
+
+->>>>
+
+We now have safety precautions that come with each key point:
+
+Key Points Details:
+{{step_4}}
+
+Safety Precautions:
+{{step_5}}
+
+Develop an application section specifying general guidelines for performing acupressure, such as how long to hold each point, what kind of pressure to use, etc.
+
+->>>>
+
+For our guide, we have an application section describing the general approach to execute acupressure:
+
+Application Guidelines:
+{{step_6}}
+
+Let's create a troubleshooting section addressing frequent issues that may occur while practicing acupressure, and potential solutions to these problems.
+
+->>>>
+
+We now have a dedicated troubleshooting section addressing potential issues:
+
+Troubleshooting Guide:
+{{step_7}}
+
+To conclude, let's summarize the main aspects from our "Acupressure Point Guide" related to the objective. Inspire continuous practice by re-emphasizing the benefits of acupressure.
+
+->>>>
+
+We've summarized the key elements of our guide:
+
+Summary:
+{{step_8}}
+
+To finish, let's construct an appendix or resources section. This could include further readings, reference books, or wellness centers recommendations that could improve the practitioner's understanding and execution of acupressure.
+

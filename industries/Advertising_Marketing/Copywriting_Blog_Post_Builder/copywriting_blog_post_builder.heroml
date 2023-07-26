@@ -1,0 +1,77 @@
+Your task is to write a "Blog Post" for the "Advertising & Marketing" industry, specifically for a "Copywriter". Let's start by creating an engaging title for our blog post. Keep the title catchy, relevant, and ensure it conveys the purpose of the post. 
+
+Here's some more context about the Blog Post:
+Blog Title: {{blog_title}}
+Blog Context: {{blog_context}}
+Industry Examples: {{industry_examples}}
+Practical Advice: {{practical_advice}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+Our blog post for the "Copywriter" in the "Advertising & Marketing" industry has a captivating title:
+
+Title:
+{{step_1}}
+
+Next, construct an introduction to the topic with a compelling hook. State the relevance of the topic and what the reader can expect to learn from the post.
+
+->>>>
+
+With the blog post's title being:
+
+Title:
+{{step_1}}
+
+We now have a compelling introduction to the topic:
+
+Introduction:
+{{step_2}}
+
+Now, break down the subject matter of copywriting into key points. Discuss aspects such as techniques, tips, tools, industry trends, challenges, and possible solutions.
+
+->>>>
+
+For the blog post titled:
+
+Title:
+{{step_1}}
+
+We have the introduction and the breakdown of the subject matter:
+
+Introduction:
+{{step_2}}
+
+Subject Breakdown:
+{{step_3}}
+
+Next, enrich the blog by incorporating industry-specific examples, case studies, best practices, and expert opinions. Cite successful ad campaigns, results, and lessons learned.
+
+->>>>
+
+With the subject matter being:
+
+Subject Breakdown:
+{{step_3}}
+
+We now have industry-specific examples that provide additional depth:
+
+Industry-Specific Examples:
+{{step_4}}
+
+Now, share practical tips or advice that can be immediately applied by the readers. This can include templates, formulas, useful resources or websites.
+
+->>>>
+
+Given the industry-specific examples:
+
+Industry-Specific Examples:
+{{step_4}}
+
+We have come up with practical tips or advice for immediate application:
+
+Practical Advice:
+{{step_5}}
+
+Finally, summarize the main points of the post in the conclusion. Include a call-to-action to encourage readers to try your suggestions, share the post, or get in touch for more information.
+

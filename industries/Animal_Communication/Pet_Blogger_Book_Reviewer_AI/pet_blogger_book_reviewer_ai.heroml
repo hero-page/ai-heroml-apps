@@ -1,0 +1,86 @@
+Your task is to write a "Book Review" for the "Animal Communication" industry, specifically for a "Pet Blogger". 
+
+Let's commence by writing an engaging introduction that provides a summary of the book's content, especially as it pertains to the field of "Animal Communication".
+
+Here's some more context about the Book Review:
+Book Summary: {{book_summary}}
+Author Background: {{author_background}}
+Main Themes And Messages: {{main_themes_and_messages}}
+Personal Opinion: {{personal_opinion}}
+Conclusion And Recommendation: {{conclusion_and_recommendation}}
+
+->>>>
+
+We have an engaging introduction for the book review:
+
+Introduction:
+{{step_1}}
+
+Next, discuss the author's background and their expertise in the industry of "Animal Communication". Include any noteworthy credentials, experience, or recognition received by the author.
+
+->>>>
+
+We've introduced the book, and provided information about the author's background:
+
+Introduction:
+{{step_1}}
+
+Author's Background:
+{{step_2}}
+
+Now, analyze the main themes and messages of the book. Remember to focus on how the book contributes to the understanding of animal communication, and how the author brings these themes to life through their writing.
+
+->>>>
+
+The book introduction, author background, and analysis of main themes and messages are complete:
+
+Introduction:
+{{step_1}}
+
+Author's background:
+{{step_2}}
+
+Main Themes and Messages:
+{{step_3}}
+
+Let's document your personal opinion on the book now. Please critique the strengths and weaknesses of the book. Discuss the style of writing, the structure of the content, and any unique elements incorporated in the book that make it stand out. Also, consider how well it meets the needs of pet bloggers and their audience.
+
+->>>>
+
+The introduction, author's background, main themes, and our personal opinion on the book are ready:
+
+Introduction:
+{{step_1}}
+
+Author's background:
+{{step_2}}
+
+Main Themes and Messages:
+{{step_3}}
+
+Personal Opinion:
+{{step_4}}
+
+Next, discuss implications and applications of the book's content in real-life pet blogging. Detail how information from the book can be used by pet bloggers to understand their pets better, improve training techniques, and contribute to responsibly raising and communicating with animals.
+
+->>>>
+
+In the review, we have an introduction, author's background, main themes, personal opinion, and real-life applications of the book's messages:
+
+Introduction:
+{{step_1}}
+
+Author's background:
+{{step_2}}
+
+Main Themes and Messages:
+{{step_3}}
+
+Personal Opinion:
+{{step_4}}
+
+Real-life applications:
+{{step_5}}
+
+Now, let's conclude with an overall rating of the book based on your critique. Finally, provide a recommendation - you could either recommend the book to fellow pet bloggers or suggest an alternative book(s) in case it does not adequately meet your expectations.
+

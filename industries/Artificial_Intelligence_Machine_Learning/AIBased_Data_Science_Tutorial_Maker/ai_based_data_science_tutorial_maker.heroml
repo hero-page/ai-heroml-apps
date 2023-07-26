@@ -1,0 +1,125 @@
+Your task is to write a "Tutorial" for the "Artificial Intelligence & Machine Learning" industry, specifically tailored for a "Data Scientist". Let's begin with an introduction that briefly outlines the main goal: {{main_goal}}.
+
+Here's some more context about the Tutorial:
+Main Goal: {{main_goal}}
+
+->>>>
+
+Now we have our introduction for this tutorial:
+
+Introduction:
+{{step_1}}
+
+Next, create the first module introducing basic concepts and terminologies of Artificial Intelligence and Machine Learning crucial to the data science field. Ensure that these concepts are applicable to the {{main_goal}}.
+
+->>>>
+
+For our tutorial, we now have the introduction and the first module:
+
+Introduction:
+{{step_1}}
+
+Module 1 (Basics):
+{{step_2}}
+
+Moving forward, let's develop the second module that elaborates on more advanced topics relevant to the {{main_goal}} such as natural language processing, deep learning, reinforcement learning among others.
+
+->>>>
+
+Our tutorial now comprises the introduction, the basic module, and an advanced module:
+
+Introduction:
+{{step_1}}
+
+Module 1 (Basics):
+{{step_2}}
+
+Module 2 (Advanced Topics):
+{{step_3}}
+
+Next, design a module that provides a walkthrough of a real-life example or case study associated with the {{main_goal}}, to illustrate the application of theoretical knowledge in practical industry contexts.
+
+->>>>
+
+Thus far, we have the introduction, basic concepts module, advanced topics module, and a case study module:
+
+Introduction:
+{{step_1}}
+
+Module 1 (Basics):
+{{step_2}}
+
+Module 2 (Advanced Topics):
+{{step_3}}
+
+Module 3 (Case Study):
+{{step_4}}
+
+Design the fourth module dedicated to the statistical tools and programming languages used by a Data Scientist to handle data and develop predictive models. Include step-by-step instructions linked to the {{main_goal}}.
+
+->>>>
+
+Now, our tutorial includes an introduction, basic and advanced topics modules, a case study module and a module on tools and languages:
+
+Introduction:
+{{step_1}}
+
+Module 1 (Basics):
+{{step_2}}
+
+Module 2 (Advanced Topics):
+{{step_3}}
+
+Module 3 (Case Study):
+{{step_4}}
+
+Module 4 (Tools & Languages):
+{{step_5}}
+
+Now include an interactive task, problem or assignment at the end of each module that reinforces key learning points, relating to the {{main_goal}}.
+
+->>>>
+
+Our tutorial now comprises an introduction, four modules, and interactive tasks:
+
+Introduction:
+{{step_1}}
+
+Module 1 and Task:
+{{step_2}}, {{step_6}}
+
+Module 2 and Task:
+{{step_3}}, {{step_7}}
+
+Module 3 and Task:
+{{step_4}}, {{step_8}}
+
+Module 4 and Task:
+{{step_5}}, {{step_9}}
+
+Next, create a module for review and discussion where learners can reflect, provide feedback, express difficulties, and inspire further exploration. Make sure this module relates to the {{main_goal}} of the tutorial.
+
+->>>>
+
+Our tutorial now comprises an introduction, four modules with tasks, and a review and discussion module:
+
+Introduction:
+{{step_1}}
+
+Module 1 and Task:
+{{step_2}}, {{step_6}}
+
+Module 2 and Task:
+{{step_3}}, {{step_7}}
+
+Module 3 and Task:
+{{step_4}}, {{step_8}}
+
+Module 4 and Task:
+{{step_5}}, {{step_9}}
+
+Review & Discussion Module:
+{{step_10}}
+
+Finally, wrap up our tutorial with a summary that reiterates the {{main_goal}} and the main takeaways from each module, providing closure for the learner.
+

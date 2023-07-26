@@ -1,0 +1,89 @@
+Your task is to write a "Reading Case Study" for the "Astrology & Esoteric Services" industry, particularly for a "Tarot Reader". 
+
+Let's start by introducing a specific client scenario that the Tarot Reader helped resolve. Briefly mention the client's issue/problem: {{client_issue}}.
+
+Here's some more context about the Reading Case Study:
+Client Issue: {{client_issue}}
+Plan Of Action: {{plan_of_action}}
+
+->>>>
+
+We're building a case study about a Tarot Reader, and we have our initial client scenario:
+
+Client Scenario:
+{{step_1}}
+
+Next, describe the initial interaction between the Tarot Reader and the client. Elaborate on how the Tarot Reader drew up a plan of action tailored to this specific scenario.
+
+->>>>
+
+The initial scenario and Tarot Reader's plan of action now look like this:
+
+Client Scenario:
+{{step_1}}
+
+Plan of Action:
+{{step_2}}
+
+Now, dive into the actual Tarot reading process. Highlight the specific Tarot card spreads used, the interpretation of drawn cards, and how the tarot reader addressed the client's issue.
+
+->>>>
+
+We have the scenario, plan of action, and Tarot reading process:
+
+Client Scenario:
+{{step_1}}
+
+Plan of Action:
+{{step_2}}
+
+Tarot Reading Process:
+{{step_3}}
+
+Next, detail the client's reaction and their initial understanding of the reading. Also, provide examples of how they implemented the insights arising from the reading into their life.
+
+->>>>
+
+So far, we have the scenario, plan of action, Tarot reading process, and the client's reaction following the reading:
+
+Client Scenario:
+{{step_1}}
+
+Plan of Action:
+{{step_2}}
+
+Tarot Reading Process:
+{{step_3}}
+
+Client's Reaction and Impact:
+{{step_4}}
+
+Now, document any follow-up sessions or additional support provided by the Tarot Reader. Discuss how these subsequent sessions helped reinforce and refine the guidance provided in the initial reading.
+
+->>>>
+
+We now have follow-up sessions that supplemented the initial Tarot reading:
+
+Tarot Reading Process:
+{{step_3}}
+
+Client's Reaction and Impact:
+{{step_4}}
+
+Follow-up Sessions:
+{{step_5}}
+
+To conclude, review the overall impact of the Tarot reading on the client's situation. Illustrate how the resolution/improvement of the client's issue was a direct result of the Tarot Reader's guidance.
+
+->>>>
+
+We have the final impact of the Tarot reading:
+
+Follow-up Sessions:
+{{step_5}}
+
+Final Impact:
+{{step_6}}
+
+Finally, prepare a brief summary re-emphasizing the skill and professionalism of the Tarot Reader. Highlight the utility of the Tarot reading service in aiding clients through challenging scenarios.
+

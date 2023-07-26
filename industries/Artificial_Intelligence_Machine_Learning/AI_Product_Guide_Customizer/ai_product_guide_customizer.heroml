@@ -1,0 +1,140 @@
+Your task is to write a "User Guide" for the "Artificial Intelligence & Machine Learning" industry, specifically for a "Product Manager". 
+Let's start with an introduction that defines the purpose of the artificial intelligence or machine learning product: {{product_purpose}}.
+
+Here's some more context about the User Guide:
+Product Purpose: {{product_purpose}}
+Audience: {{audience}}
+Product Features: {{product_features}}
+Interface Usability: {{interface_usability}}
+Integration: {{integration}}
+Troubleshooting: {{troubleshooting}}
+FAQs: {{FAQs}}
+Product Benefits: {{product_benefits}}
+Support Resources: {{support_resources}}
+
+->>>>
+
+We have a "User Guide" that's starting to take shape, and our introduction section is:
+
+Introduction (Product Purpose):
+{{step_1}}
+
+Next, write down the target audience section, explaining who the primary users of the product are: {{audience}}.
+
+->>>>
+
+Our "User Guide" now has an introduction and a target audience section:
+
+Introduction (Product Purpose):
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Moving forward, create a section on the product overview. Explain what the AI or ML product does and its core features: {{product_features}}.
+
+->>>>
+
+In the "User Guide", we have now defined the introduction, the target audience, and the product overview:
+
+Introduction (Product Purpose):
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Product Overview:
+{{step_3}}
+
+Next, include a user-interface guide. Detail how to use the product's interface for maximum efficiency: {{interface_usability}}.
+
+->>>>
+
+For the "User Guide", we now have information on the introduction, target audience, product overview, and the user-interface guide:
+
+Introduction (Product Purpose):
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Product Overview:
+{{step_3}}
+
+User-Interface Guide:
+{{step_4}}
+
+Continue with the guide by describing how to integrate the product into the existing workflows or systems, if applicable: {{integration}}.
+
+->>>>
+
+In our "User Guide" so far, we have information about the introduction, target audience, product overview, user-interface guide, and product integration:
+
+Introduction (Product Purpose):
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Product Overview:
+{{step_3}}
+
+User-Interface Guide:
+{{step_4}}
+
+Product Integration:
+{{step_5}}
+
+Now, include a troubleshooting guide that addresses common issues and solutions a user may face with the product: {{troubleshooting}}.
+
+->>>>
+
+So far, the "User Guide" includes the introduction, target audience, product overview, user-interface guide, product integration, and troubleshooting guide:
+
+Introduction (Product Purpose):
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Product Overview:
+{{step_3}}
+
+User-Interface Guide:
+{{step_4}}
+
+Product Integration:
+{{step_5}}
+
+Troubleshooting Guide:
+{{step_6}}
+
+Provide a comprehensive FAQ segment, focusing on regular queries that are related to the features, integration, and trouble-shooting: {{FAQs}}.
+
+->>>>
+
+In the "User Guide" so far, we have completed the introduction, target audience, product overview, user-interface guide, product integration, troubleshooting guide, and the FAQ section:
+
+Introduction (Product Purpose):
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Product Overview:
+{{step_3}}
+
+User-Interface Guide:
+{{step_4}}
+
+Product Integration:
+{{step_5}}
+
+Troubleshooting Guide:
+{{step_6}}
+
+FAQs:
+{{step_7}}
+
+Reinforce the benefits and unique selling proposition of the AI/ML productin the conclusion: {{product_benefits}}.
+

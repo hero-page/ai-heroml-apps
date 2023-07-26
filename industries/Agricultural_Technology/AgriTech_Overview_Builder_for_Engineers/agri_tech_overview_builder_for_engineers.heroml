@@ -1,0 +1,110 @@
+Let's start by creating a captivating introduction, which provides context on the current state and relevance of agricultural technology. Call the introduction {{current_stage_and_relevance}}.
+
+Here's some more context about the Technology Overview:
+Current Stage And Relevance: {{current_stage_and_relevance}}
+Agri Tech Aims: {{agri_tech_aims}}
+Agri Tech Components: {{agri_tech_components}}
+Normal Operation: {{normal_operation}}
+User Interaction And Maintenance: {{user_interaction_and_maintenance}}
+Industry Specific Impacts: {{industry_specific_impacts}}
+Future Developments: {{future_developments}}
+
+->>>>
+
+We have prepared the introduction to our Technology Overview for the Agricultural Technology industry:
+
+Introduction:
+{{step_1}}
+
+Now, describe the overall aims of the specific agricultural technology we are focusing on. Name it {{agri_tech_aims}}.
+
+->>>>
+
+Our Technology Overview now contains an introduction and a description of the aims of the agricultural technology:
+
+Introduction:
+{{step_1}}
+
+Aims of the Agricultural Technology:
+{{step_2}}
+
+Next, we will outline the major components and systems that make up this agricultural technology. Call this section {{agri_tech_components}}.
+
+->>>>
+
+We now have an introduction, a description of the aims, and an overview of the components of the agricultural technology:
+
+Introduction:
+{{step_1}}
+
+Aims of the Agricultural Technology:
+{{step_2}}
+
+Major Components of the Agricultural Technology:
+{{step_3}}
+
+Now, create subsections to discuss each component or system outlined in step_3, providing information about their technological features, agronomic implications and their potential impacts on farming practices.
+
+->>>>
+
+We have an introduction, a description of the aims, an overview of the components, and now a detailed discussion of each:
+
+Introduction:
+{{step_1}}
+
+Aims of the Agricultural Technology:
+{{step_2}}
+
+Major Components of the Agricultural Technology:
+{{step_3}}
+
+Detailed Discussion of Each Component:
+{{step_4}}
+
+Next, describe how the agricultural technology operates under normal conditions. This section will be called {{normal_operation}}.
+
+->>>>
+
+Our Technology Overview now includes an understanding of how the technology operates in normal conditions:
+
+Introduction:
+{{step_1}}
+
+Aims of the Agricultural Technology:
+{{step_2}}
+
+Major Components of the Agricultural Technology:
+{{step_3}}
+
+Detailed Discussion of Each Component:
+{{step_4}}
+
+Operation Under Normal Conditions:
+{{step_5}}
+
+Please generate a detailed section on the technology's user interaction, maintenance requirements, and troubleshooting. Name this section {{user_interaction_and_maintenance}}.
+
+->>>>
+
+We now have information on user interaction, maintenance and troubleshooting in addition to the normal operation, introduction, aims, and components of the agricultural technology:
+
+Introduction:
+{{step_1}}
+
+Aims of the Agricultural Technology:
+{{step_2}}
+
+Major Components of the Agricultural Technology:
+{{step_3}}
+
+Detailed Discussion of Each Component:
+{{step_4}}
+
+Operation Under Normal Conditions:
+{{step_5}}
+
+User Interaction, Maintenance and Troubleshooting:
+{{step_6}}
+
+Incorporate in our Technology Overview the implications of this agricultural technology on sustainability, productivity, and other industry-specific concerns in a new section called {{industry_specific_impacts}}.
+

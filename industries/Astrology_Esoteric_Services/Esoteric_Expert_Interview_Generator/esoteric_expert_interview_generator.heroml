@@ -1,0 +1,63 @@
+Your task is to write an "Interview with Expert" for the "Astrology & Esoteric Services" industry, specifically for an "Esoteric Blogger". Let's start by introducing the expert who will be interviewed. This introduction should outline who the expert is, their experience in the field of astrology and esoteric services, and how they relate to the core focus of this discussion: {{core_focus}}.
+
+Here's some more context about the Interview with Expert:
+Core Focus: {{core_focus}}
+Topics: {{topics}}
+Audience Questions: {{audience_questions}}
+Expert Final Words: {{expert_final_words}}
+Expert Contact Info: {{expert_contact_info}}
+
+->>>>
+
+Now, we have provided an introduction to the expert to be interviewed:
+
+Introduction:
+{{step_1}}
+
+Next, outline the main topics that this interview will cover. These topics may include the expert's journey in astrology and esoteric services, their specific area of expertise, and major contributions they've made to the field: {{topics}}.
+
+->>>>
+
+We have detailed an introduction to the expert and topics for the interview:
+
+Introduction:
+{{step_1}}
+
+Topics:
+{{step_2}}
+
+Next, write a series of questions and corresponding answers from the expert based on the topics just outlined.
+
+->>>>
+
+Our interview now includes an introduction, topics, and a detailed discussion:
+
+Introduction:
+{{step_1}}
+
+Topics:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Now, compile a set of questions gathered from the audience. These questions should cover the topic areas that have been defined and drive engagement with the readers: {{audience_questions}}.
+
+->>>>
+
+Following the detailed discussion, we have added a segment for audience questions:
+
+Introduction:
+{{step_1}}
+
+Topics:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Audience Questions:
+{{step_4}}
+
+Close the interview with the expert's final thoughts or messages. They may wish to communicate something about their upcoming projects, insights they’ve gained from their past experiences, or an important message for the esoteric community. Additionally, include their contact information or social media handles for readers to follow their work: {{expert_final_words}}, {{expert_contact_info}}.
+

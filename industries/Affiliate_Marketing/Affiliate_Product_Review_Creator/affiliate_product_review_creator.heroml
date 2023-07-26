@@ -1,0 +1,104 @@
+Your task is to write a "Product Review" for the "Affiliate Marketing" industry, specifically for an "Affiliate Marketer". We'll break this down into stages. 
+
+Let's start with an opening that introduces {{product_name}}, the product you're reviewing:
+
+Here's some more context about the Product Review:
+Product Name: {{product_name}}
+Product Details: {{product_details}}
+Product Performance: {{product_performance}}
+Product Value: {{product_value}}
+Affiliate Relevance: {{affiliate_relevance}}
+
+->>>>
+
+Building a product review for {{product_name}}, we've created an engaging opening that also provides a brief background of the product and the company behind it: 
+
+Opening:
+{{step_1}}
+
+Next, we need to provide a detailed overview of the product itself. This should include key features, functionality, and benefits of {{product_name}}, as well as personal experiences using the product.
+
+->>>>
+
+In our review of {{product_name}}, we now have an introduction and a detailed overview:
+
+Introduction:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Next, let's discuss and evaluate the product's performance. Highlight whether {{product_name}} fulfilled its claimed functionalities during real-world use.
+
+->>>>
+
+Our review now includes a thorough product overview and an assessment of {{product_name}}'s performance:
+
+Product Overview:
+{{step_2}}
+
+Product Performance:
+{{step_3}}
+
+It's time to discuss the product's value proposition. Explain how {{product_name}} compares to other similar products and why it might be a better choice for potential buyers.
+
+->>>>
+
+At this point, we've critically evaluated {{product_name}}'s performance and outlined its value proposition:
+
+Product Performance:
+{{step_3}}
+
+Value Proposition:
+{{step_4}}
+
+Next, let's dig into why {{product_name}} could be valuable for an audience in the affiliate niche. Elucidate how this product connects with this specific audience.
+
+->>>>
+
+Our product review now features an evaluation of the product's performance, its value proposition, and its relevance to the affiliate audience:
+
+Value Proposition:
+{{step_4}}
+
+Relevance to Affiliate Audience:
+{{step_5}}
+
+Now that we've thoroughly discussed the details, let's summarize the review, recapping key points like the product's features, performance, value proposition, and relevance to the audience.
+
+->>>>
+
+Our detailed product review currently includes multiple key aspects:
+
+Relevance to Affiliate Audience:
+{{step_5}}
+
+Review Summary:
+{{step_6}}
+
+We're nearly done! Now, let's provide a clear and brief conclusion. Reiterate thoughts on {{product_name}} and whether you recommend it, considering all factors discussed so far. Also, include a call-to-action for potential buyers.
+
+->>>>
+
+We've summarised our review and provided a clear conclusion:
+
+Review Summary:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+As we strive for authenticity, honesty and transparency in our review, we need to mention any cons or disadvantages of {{product_name}}. Include these in the review.
+
+->>>>
+
+Our comprehensive product review includes balanced feedback, including mention of cons or disadvantages:
+
+Conclusion:
+{{step_7}}
+
+Product Cons:
+{{step_8}}
+
+Finally, embed affiliate links within the review in a seamless way. Make sure it's easy for readers to locate and click these links if they wish to purchase {{product_name}}.
+

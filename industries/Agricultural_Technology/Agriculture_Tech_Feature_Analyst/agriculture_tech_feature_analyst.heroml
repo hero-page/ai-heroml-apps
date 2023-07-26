@@ -1,0 +1,71 @@
+You are set to write a "Feature Description" for the "Agricultural Technology" industry, specifically for a "Product Manager". 
+Let's start by creating an introduction that outlines the new feature of the technology: {{feature_name}}. Explain how it fits within the overall technology offering.
+
+Here's some more context about the Feature Description:
+Feature Name: {{feature_name}}
+Manager Challenges: {{manager_challenges}}
+Feature Operation: {{feature_operation}}
+Advantages: {{advantages}}
+Weather Compatibility: {{weather_compatibility}}
+Quantified Benefits: {{quantified_benefits}}
+
+->>>>
+
+We have a solid understanding of the featured technology's position in the overall technology offering:
+
+Introduction to {{feature_name}}:
+{{step_1}}
+
+Now, discuss the product manager's problems or challenges: {{manager_challenges}} and how this feature addresses them.
+
+->>>>
+
+We have a well-put-together analysis of the product manager's challenges:
+
+Product Manager's Challenges and Solutions:
+{{step_2}}
+
+Next, provide a comprehensive but understandable explanation of how the feature operates and its significant components: {{feature_operation}}.
+
+->>>>
+
+With the product manager's challenges in mind,
+
+Product Manager's Challenges and Solutions:
+{{step_2}}
+
+we have developed a comprehensive but accessible description of how the feature operates:
+
+Feature Operation:
+{{step_3}}
+
+Now let's explain the advantages of the feature to farmers and other users in the agricultural realm: {{advantages}}.
+
+->>>>
+
+We have a well-rounded understanding of the feature's operation,
+
+Feature Operation:
+{{step_3}}
+
+and have highlighted its advantages to the agricultural sector:
+
+Feature Advantages:
+{{step_4}}
+
+Given the sensitivity of the agricultural industry to changing climactic and environmental conditions, let's provide detailed information on the compatibility and advantages of the feature in various conditions: {{weather_compatibility}}.
+
+->>>>
+
+With a vivid description of the feature's advantages,
+
+Feature Advantages:
+{{step_4}}
+
+we have detailed the feature's compatibility under various weather conditions:
+
+Weather Compatibility:
+{{step_5}}
+
+Next, quantify the benefits that farmers and other users can expect from the feature in terms of increased productivity, reduced costs, or improved sustainability: {{quantified_benefits}}.
+

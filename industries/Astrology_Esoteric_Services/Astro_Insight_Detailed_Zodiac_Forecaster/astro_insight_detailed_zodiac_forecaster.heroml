@@ -1,0 +1,64 @@
+Your task is to create an Astrological Forecast for the Astrology and Esoteric Services industry specifically for an Astrologer. 
+Let's start by creating an introduction that covers the general energy and celestial happenings of the time period being addressed: {{time_period}}. This should include relevant aspects of planetary positions, lunar phases, or significant cosmic events.
+
+Here's some more context about the Astrological Forecast:
+Time Period: {{time_period}}
+Zodiac Signs: {{zodiac_signs}}
+Planetary Transits: {{planetary_transits}}
+Planetary Aspects: {{planetary_aspects}}
+Zodiac Sign: {{zodiac_sign}}
+
+->>>>
+
+We have crafted an introduction for our Astrological Forecast:
+
+Introduction:
+{{step_1}}
+
+Moving on, let's present the key themes for each zodiac sign: {{zodiac_signs}}. Each forecast should start with a brief overview of the main energy or theme, followed by detailed insights and predictions.
+
+->>>>
+
+In our Astrological Forecast, these are the themes for each zodiac sign:
+
+Zodiac Sign Themes:
+{{step_2}}
+
+Next, we should detail the noteworthy transitions of planets or 'Planetary Transits', emphasizing on how these transits may affect various aspects of life and the energies to capitalize on or be cautious about.
+
+->>>>
+
+In our forecast, we have the introduction and sign-wise themes, and we have included the planetary transits:
+
+Planetary Transits:
+{{step_3}}
+
+Now, let's focus on the potential influence of the {{planetary_aspects}}. Describe how these aspects are interacting and what potential effects they may have on the zodiac signs.
+
+->>>>
+
+In our Astrological Forecast, we have the planetary transits and the influences of planetary aspects:
+
+Planetary Aspects: 
+{{step_4}}
+
+Next, integrate the major celestial events or shifts happening during the {{time_period}}, such as eclipses, retrogrades, etc. Highlight the general energetic implications of these events and their potential effects on the {{zodiac_signs}}.
+
+->>>>
+
+Now in our forecast, we have the planetary aspects and major celestial events:
+
+Celestial Events:
+{{step_5}}
+
+With all the information presented so far, we can begin to provide unique insights and advice tailored towards each Zodiac sign. This could include advice on personal growth, relations, or managing challenges.
+
+->>>>
+
+Our astrological forecast now contains key celestial events and personalized advice for each sign:
+
+Sign directed advice:
+{{step_6}}
+
+Let's conclude this forecast with a reflective message on the overall energy of {{time_period}}, incorporating relevant considerations from previous steps.
+

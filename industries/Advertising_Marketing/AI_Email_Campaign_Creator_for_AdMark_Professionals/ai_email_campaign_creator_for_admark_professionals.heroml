@@ -1,0 +1,97 @@
+Your task is to write an "Email Campaign" for the "Advertising & Marketing" industry, specifically for a "Copywriter". 
+
+To begin, let's craft a compelling subject line that piques the interest of your target recipients.
+
+Here's some more context about the Email Campaign:
+Subject Line: {{subject_line}}
+Opening Salutation: {{opening_salutation}}
+Email Purpose: {{email_purpose}}
+Main Content: {{main_content}}
+Value Proposition: {{value_proposition}}
+Call To Action: {{call_to_action}}
+Closing Statement: {{closing_statement}}
+
+->>>>
+
+We have a compelling subject line for our email campaign:
+
+Subject Line:
+{{step_1}}
+
+Next, construct the opening of your email with a personalized salutation and a warm introduction that establishes a rapport with the recipient and sets the tone for the email.
+
+->>>>
+
+The subject line and the opening for our email is ready:
+
+Subject Line:
+{{step_1}}
+
+Opening Salutation:
+{{step_2}}
+
+Next, state the purpose of the email and briefly outline what will be discussed in the upcoming sections.
+
+->>>>
+
+We have created our email's subject, opening, and purpose:
+
+Subject Line:
+{{step_1}}
+
+Opening Salutation:
+{{step_2}}
+
+Email Purpose:
+{{step_3}}
+
+Now, carry on with the main body of your content. This part of the email should be informative, disseminating useful insights or knowledge pertinent to the industry.
+
+->>>>
+
+Our email so far has a subject line, opening, purpose and now, the main body:
+
+Subject Line:
+{{step_1}}
+
+Opening Salutation:
+{{step_2}}
+
+Email Purpose:
+{{step_3}}
+
+Main Content:
+{{step_4}}
+
+Carry on to showcase specific benefits or value propositions that differentiate your service or product, and pinpoint any industry-specific trends or challenges.
+
+->>>>
+
+On our email now, we have a detailed introduction, main body, and we highlighted the benefits or value propositions:
+
+Introduction and Email Purpose:
+{{step_3}}
+
+Main Content:
+{{step_4}}
+
+Value Proposition:
+{{step_5}}
+
+Let's proceed to the call to action (CTA). This may involve asking the recipient to reply to your email, visit your website, download a resource, or maybe sign up for a demo or a consultation.
+
+->>>>
+
+Currently, we have the main content along with the value proposition and a call to action:
+
+Main Content:
+{{step_4}}
+
+Value Proposition:
+{{step_5}}
+
+Call to Action:
+{{step_6}}
+
+To wrap things up, create a polite sign-off, a reminder of the CTA, and your contact details - making it easy for the recipient to get in touch if they wish.
+

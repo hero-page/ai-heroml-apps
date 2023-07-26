@@ -1,0 +1,70 @@
+Your task is to write a "Horoscope" for the "Astrology & Tarot Reading" industry, specifically for an "Astrologer". 
+To initiate this process, first, create a brief introduction that gives an overview of the general atmosphere for the chosen zodiac sign during the time period: {{Zodiac_Sign}}, {{Time_Period}}. Incorporate industry-specific elements and terminologies related to astrology and zodiac signs into this introduction.
+
+Here's some more context about the Horoscope:
+Zodiac Sign: {{Zodiac_Sign}}
+Time Period: {{Time_Period}}
+Planetary Influences: {{Planetary_Influences}}
+Personal Life: {{Personal_Life}}
+Professional Life: {{Professional_Life}}
+Health Wellness: {{Health_Wellness}}
+Challenges Opportunities: {{Challenges_Opportunities}}
+Final Thought: {{Final_Thought}}
+
+->>>>
+
+Having crafted our horoscope introduction, we have:
+
+Horoscope Introduction:
+{{step_1}}
+
+Next, let's craft an informative and engaging section on how the planetary influences will impact the personal life of individuals under the zodiac sign: {{Planetary_Influences}}, {{Personal_Life}}. Ensure to use astrological terminologies and symbolic elements tied to the zodiac sign where relevant.
+
+->>>>
+
+Our horoscope has an introduction and a section discussing the impact on personal lives:
+
+Horoscope Introduction:
+{{step_1}}
+
+Impact on Personal Life:
+{{step_2}}
+
+Once this is done, write a section discussing the potential effects of the planetary influences on the career and professional life of the individuals: {{Planetary_Influences}}, {{Professional_Life}}. Try to deliver these insights in a manner that respects the reader's interpretations and experiences of their respective zodiac sign.
+
+->>>>
+
+With the personal life impact section, we now have an overview of professional life:
+
+Impact on Personal Life:
+{{step_2}}
+
+Impact on Professional Life:
+{{step_3}}
+
+Following this, write a section that provides insights into health and wellness predictions for the zodiac sign based on astral movements: {{Zodiac_Sign}}, {{Health_Wellness}}. Make sure to present these predictions without instilling fear or promoting negativity.
+
+->>>>
+
+Now, our horoscope includes information about personal life, professional life, and health and wellness:
+
+Impact on Professional Life:
+{{step_3}}
+
+Health and Wellness Predictions:
+{{step_4}}
+
+Next, craft advice or wisdom suitable for the zodiac sign on how to navigate the challenges and opportunities arising during the time period: {{Zodiac_Sign}}, {{Challenges_Opportunities}}. Try to promote a sense of understanding and guidance.
+
+->>>>
+
+Our horoscope for the zodiac sign now includes advice on tackling upcoming challenges and opportunities:
+
+Health and Wellness Predictions:
+{{step_4}}
+
+Advice on Challenges and Opportunities:
+{{step_5}}
+
+Finally, as a conclusion, express positive affirmations or encouraging advice tailored for the zodiac sign to end on a reassuring note: {{Zodiac_Sign}}, {{Final_Thought}}.
+

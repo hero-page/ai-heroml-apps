@@ -17,6 +17,11 @@ Before you start contributing, ensure that you have:
 1. A GitHub account.
 2. Installed the [HeroML CLI tool](https://www.npmjs.com/package/heroml) OR cloned the [HeroML Repo](https://github.com/hero-page/hero-ml) to use it with Python or Node.
 
+## Questions?
+Join our discord, will try to be as helpful as possible!
+
+[![Join Hero Discord link](https://firebasestorage.googleapis.com/v0/b/focushero-1650416072840.appspot.com/o/task_pictures%2F3514e48-484c-330-0a4a-d72c571672a-8eea077-600f-b346-4263-f3607863b4cc?alt=media&token=e0ebb1f9-283d-4bff-b0b0-75efd9d15232)](https://discord.gg/CqyV5kUK)
+
 ### Contribution Steps
 
 1. **Fork the repository.** Click the `Fork` button at the top right of this page.
@@ -101,3 +106,116 @@ Explore these links to learn more about each app's functionality and to see thei
 * [University Lab Safety Guideline Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Academic_University/University_Lab_Safety_Guideline_Generator)
 * [University Library Collection AI Overview](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Academic_University/University_Library_Collection_AI_Overview)
 * [Wellness Guide AI for Academics](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Academic_University/Wellness_Guide_AI_for_Academics)
+## Acupressure Reflexology
+
+* [Acupressure Points AI Guide](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Acupressure_Points_AI_Guide)
+* [Acupressure Session Description Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Acupressure_Session_Description_Creator)
+* [Anonymized Acupressure Case Study Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Anonymized_Acupressure_Case_Study_Creator)
+* [Reflexology Case Study Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Reflexology_Case_Study_Creator)
+* [Reflexology Foot Chart Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Reflexology_Foot_Chart_Guide_Creator)
+* [Reflexology Guide AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Reflexology_Guide_AI_Creator)
+* [Therapeutic Review AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Therapeutic_Review_AI_Composer)
+* [Wellness Interview AI Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Wellness_Interview_AI_Writer)
+* [Wellness Journey AI Storyteller](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Acupressure_Reflexology/Wellness_Journey_AI_Storyteller)
+## Advertising Marketing
+
+* [AI Email Campaign Creator for AdMark Professionals](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Advertising_Marketing/AI_Email_Campaign_Creator_for_AdMark_Professionals)
+* [Ad Copy AI Craftsman](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Advertising_Marketing/Ad_Copy_AI_Craftsman)
+* [Copywriting Blog Post Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Advertising_Marketing/Copywriting_Blog_Post_Builder)
+* [Marketing Proposal Tailor AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Advertising_Marketing/Marketing_Proposal_Tailor_AI)
+* [Press Release Storyteller AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Advertising_Marketing/Press_Release_Storyteller_AI)
+* [SEO Content Specialist Assistant](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Advertising_Marketing/SEO_Content_Specialist_Assistant)
+* [SEO Keyword Research Report Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Advertising_Marketing/SEO_Keyword_Research_Report_Builder)
+* [Strategic Campaign Planner AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Advertising_Marketing/Strategic_Campaign_Planner_AI)
+## Affiliate Marketing
+
+* [AB Test Analyzer for Affiliate Marketing](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/AB_Test_Analyzer_for_Affiliate_Marketing)
+* [Affiliate Conversion Analysis Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/Affiliate_Conversion_Analysis_Creator)
+* [Affiliate Marketer Blog Post AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/Affiliate_Marketer_Blog_Post_AI)
+* [Affiliate Marketing Data Report AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/Affiliate_Marketing_Data_Report_AI)
+* [Affiliate Marketing Email AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/Affiliate_Marketing_Email_AI_Composer)
+* [Affiliate Post AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/Affiliate_Post_AI_Creator)
+* [Affiliate Product Review Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/Affiliate_Product_Review_Creator)
+* [Interactive Affiliate Marketing Script Maker](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/Interactive_Affiliate_Marketing_Script_Maker)
+* [SEO Affiliate Marketing Article Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Affiliate_Marketing/SEO_Affiliate_Marketing_Article_Creator)
+## Agricultural Technology
+
+* [AI AgTech Product Management Analyzer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/AI_AgTech_Product_Management_Analyzer)
+* [AgTech Blog Content Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/AgTech_Blog_Content_Generator)
+* [AgTech Case Study Content Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/AgTech_Case_Study_Content_Creator)
+* [AgriTech Engineer FAQ Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/AgriTech_Engineer_FAQ_Builder)
+* [AgriTech Overview Builder for Engineers](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/AgriTech_Overview_Builder_for_Engineers)
+* [AgriTech Press Release Constructor](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/AgriTech_Press_Release_Constructor)
+* [AgriTech User Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/AgriTech_User_Guide_Creator)
+* [Agriculture Tech Feature Analyst](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/Agriculture_Tech_Feature_Analyst)
+* [Agritech Product Roadmap Planner AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Agricultural_Technology/Agritech_Product_Roadmap_Planner_AI)
+## Angel Card Reading
+
+* [Angel Card Insight and Interpretation](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Angel_Card_Reading/Angel_Card_Insight_and_Interpretation)
+* [Angel Card Reading Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Angel_Card_Reading/Angel_Card_Reading_Guide_Creator)
+* [Anonymized Angel Card Case Study Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Angel_Card_Reading/Anonymized_Angel_Card_Case_Study_Creator)
+* [Interview Content Creator AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Angel_Card_Reading/Interview_Content_Creator_AI)
+* [Spiritual Blogger Book Reviewer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Angel_Card_Reading/Spiritual_Blogger_Book_Reviewer)
+* [Spiritual Bloggers Angel Cards Narrative](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Angel_Card_Reading/Spiritual_Bloggers_Angel_Cards_Narrative)
+## Animal Communication
+
+* [Animal Communicator Interview Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Animal_Communication/Animal_Communicator_Interview_Generator)
+* [Animal Communicator Personal Narrative Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Animal_Communication/Animal_Communicator_Personal_Narrative_Creator)
+* [Animal Communicators Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Animal_Communication/Animal_Communicators_Guide_Creator)
+* [Pet Blogger Book Reviewer AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Animal_Communication/Pet_Blogger_Book_Reviewer_AI)
+* [Pet Tale Narration Insight App](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Animal_Communication/Pet_Tale_Narration_Insight_App)
+* [Testimonial Storyteller for Animal Communicators](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Animal_Communication/Testimonial_Storyteller_for_Animal_Communicators)
+## Aromatherapy Essential Oils
+
+* [AromaTherapy Review Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Aromatherapy_Essential_Oils/AromaTherapy_Review_Generator)
+* [Aromatherapy Case Study Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Aromatherapy_Essential_Oils/Aromatherapy_Case_Study_Builder)
+* [Aromatherapy Guide Case Study Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Aromatherapy_Essential_Oils/Aromatherapy_Guide_Case_Study_Creator)
+* [Aromatherapy Interview AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Aromatherapy_Essential_Oils/Aromatherapy_Interview_AI_Creator)
+* [Essential Oil Descriptor for Aromatherapists](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Aromatherapy_Essential_Oils/Essential_Oil_Descriptor_for_Aromatherapists)
+* [Personal Aromatherapy Journey Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Aromatherapy_Essential_Oils/Personal_Aromatherapy_Journey_Writer)
+## Artificial Intelligence Machine Learning
+
+* [AIBased Data Science Tutorial Maker](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AIBased_Data_Science_Tutorial_Maker)
+* [AIML Data Analysis Report Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AIML_Data_Analysis_Report_Creator)
+* [AIML InDepth Technical Blog Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AIML_InDepth_Technical_Blog_Creator)
+* [AI Dataset Description Compendium](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AI_Dataset_Description_Compendium)
+* [AI Feature Announcement Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AI_Feature_Announcement_Creator)
+* [AI Model DeepDive Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AI_Model_DeepDive_Writer)
+* [AI Product Guide Customizer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AI_Product_Guide_Customizer)
+* [AI Product Roadmap Planner](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AI_Product_Roadmap_Planner)
+* [AI Research Paper Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Artificial_Intelligence_Machine_Learning/AI_Research_Paper_Generator)
+## Astrology Esoteric Services
+
+* [Astro Insight Detailed Zodiac Forecaster](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Astro_Insight_Detailed_Zodiac_Forecaster)
+* [Astrological Transit Guidance Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Astrological_Transit_Guidance_Generator)
+* [Esoteric Blog Review Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Esoteric_Blog_Review_Generator)
+* [Esoteric Blogger Journey Scribe](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Esoteric_Blogger_Journey_Scribe)
+* [Esoteric Case Study Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Esoteric_Case_Study_Builder)
+* [Esoteric Expert Interview Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Esoteric_Expert_Interview_Generator)
+* [Personalized Astrology Chart Interpreter](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Personalized_Astrology_Chart_Interpreter)
+* [Tarot Insight Explanation Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Tarot_Insight_Explanation_Generator)
+* [Tarot Spread Detailed Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Esoteric_Services/Tarot_Spread_Detailed_Guide_Creator)
+## Astrology Horoscope Writing
+
+* [Astrologer Interview Content Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Horoscope_Writing/Astrologer_Interview_Content_Generator)
+* [Astrology Blogger Personal Journey AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Horoscope_Writing/Astrology_Blogger_Personal_Journey_AI)
+* [Astrology Book Review Blogger AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Horoscope_Writing/Astrology_Book_Review_Blogger_AI)
+* [Astrology Report Customizer AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Horoscope_Writing/Astrology_Report_Customizer_AI)
+* [Astrology Transit Analysis AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Horoscope_Writing/Astrology_Transit_Analysis_AI)
+* [Horoscope Guidance Growth AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Horoscope_Writing/Horoscope_Guidance_Growth_AI)
+## Astrology Numerology
+
+* [AstroBlogger Personal Experience AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/AstroBlogger_Personal_Experience_AI)
+* [AstroNumerology Book Review Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/AstroNumerology_Book_Review_Builder)
+* [Astrology Insight Guidance Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/Astrology_Insight_Guidance_Generator)
+* [Infinite AstroNumerology Interview Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/Infinite_AstroNumerology_Interview_Generator)
+* [Numerology Guide Life Path Explainer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/Numerology_Guide_Life_Path_Explainer)
+* [Numerology Year Forecast Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/Numerology_Year_Forecast_Generator)
+* [Personalized Birth Chart Analysis AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/Personalized_Birth_Chart_Analysis_AI)
+* [Personalized Numerology Report AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/Personalized_Numerology_Report_AI)
+* [Planetary Transit Astrology Advisor](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/Planetary_Transit_Astrology_Advisor)
+## Astrology Tarot Reading
+
+* [Astrologers Journey Content Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Astrologers_Journey_Content_Creator)
+* [Astrology Guide AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Astrology_Guide_AI_Creator)
+* [Horoscope Guide Wellness Advisor](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Horoscope_Guide_Wellness_Advisor)

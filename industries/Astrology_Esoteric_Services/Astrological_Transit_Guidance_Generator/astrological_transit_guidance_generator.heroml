@@ -1,0 +1,85 @@
+Your task is to write a "Planetary Transit Explanation" for the "Astrology & Esoteric Services" industry, specifically for an "Astrologer". 
+
+To begin, create an introduction that defines planetary transit and explains its importance in astrology.
+
+Here's some more context about the Planetary Transit Explanation:
+Planetary Transit: {{planetary_transit}}
+Current Transit: {{current_transit}}
+General Implications: {{general_implications}}
+Zodiac Signs: {{zodiac_signs}}
+
+->>>>
+
+Our journey into planetary transits has started with a clear understanding of what they are:
+
+Introduction:
+{{step_1}}
+
+Now, generate an overview of the current planetary transit(s) happening at this moment. This should include which planet is involved, the sign it's transiting through, and the duration of the transit.
+
+->>>>
+
+Our explanation of planetary transits for an astrologer so far consists of the following parts:
+
+Introduction:
+{{step_1}}
+
+Current Planetary Transits:
+{{step_2}}
+
+Next, discuss the general astrological implications of the current transit. This might include areas of life typically influenced by the involved planet, traits associated with the sign the planet is transiting through, and the symbolic or spiritual significance related to the transit.
+
+->>>>
+
+The explanation of planetary transits for an astrologer we are creating has the following components:
+
+Introduction:
+{{step_1}}
+
+Current Planetary Transits:
+{{step_2}}
+
+General Astrological Implications of Current Transit:
+{{step_3}}
+
+Now, delve into a detailed interpretation of what the current planetary transit might signify for each zodiac sign. You may want to address how individuals with different sun signs, moon signs, rising signs or prominent placements in their natal charts might be affected.
+
+->>>>
+
+The "Planetary Transit Explanation" we have developed thus far for the astrologer consists of the following:
+
+Introduction:
+{{step_1}}
+
+Current Planetary Transits:
+{{step_2}}
+
+General Astrological Implications of Current Transit:
+{{step_3}}
+
+Interpretation for Each Zodiac Sign:
+{{step_4}}
+
+Next, provide guidance and suggestions drawn from your astrological analysis. For instance, during the transit phase of the current transit in question, what actions should someone take? What aspects of life should they pay specific attention to?
+
+->>>>
+
+Our "Planetary Transit Explanation" has these sections in place so far:
+
+Introduction:
+{{step_1}}
+
+Current Planetary Transits:
+{{step_2}}
+
+General Astrological Implications of Current Transit:
+{{step_3}}
+
+Interpretation for Each Zodiac Sign:
+{{step_4}}
+
+Guidance and Suggestions:
+{{step_5}}
+
+Our final action is to close the explanation with a concise summary of the content, re-emphasizing the main points, and ensure to encourage the audience to view the transit(s) as opportunities for growth and transformation, and to note that these are general interpretations - personal experiences might vary based on individual natal charts.
+

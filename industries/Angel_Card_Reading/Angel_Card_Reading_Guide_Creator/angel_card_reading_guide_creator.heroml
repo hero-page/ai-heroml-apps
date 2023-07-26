@@ -1,0 +1,108 @@
+Your task is to write a "Reading Experience" for the "Angel Card Reading" industry, specifically for an "Angel Card Reader". 
+Start by crafting an introduction that sets the mood for the reading session. This might include the reason for the reading: {{reason_for_reading}}.
+
+Here's some more context about the Reading Experience:
+Reason For Reading: {{reason_for_reading}}
+Chosen Spread: {{chosen_spread}}
+Question Or Focus: {{question_or_focus}}
+Querent State: {{querent_state}}
+
+->>>>
+
+Your task is to provide a reading experience. Till now we have:
+
+Introduction:
+{{step_1}}
+
+Now, describe the process of how to select and spread the Angel Cards, which is the central task of an Angel Card Reading. In this section, ensure to explain how the reader shuffles and cuts the deck, then spreads the cards in the {{chosen_spread}}.
+
+->>>>
+
+We have: 
+
+Introduction:
+{{step_1}}
+
+Selection & Spreading Angel Cards:
+{{step_2}}
+
+Now, provide a guide for interpreting each card's symbolism and messages. Illustrate how their meanings can be influenced by the position of cards in {{chosen_spread}} and their relation to the {{question_or_focus}}.
+
+->>>>
+
+We have: 
+
+Introduction:
+{{step_1}}
+
+Selection & Spreading Angel Cards:
+{{step_2}}
+
+Interpreting Angels Cards:
+{{step_3}}
+
+Now dedicates a section to address the key points associated with the {{question_or_focus}}. Let the angel card reader interpret these cards considering the individual's emotional, physical, and mental status: {{querent_state}}. After this, help the reader to lead the querent through a discussion on how these cards answer or give insights into the {{question_or_focus}}.
+
+->>>>
+
+We now have detailed the process of selecting and spreading the cards and interpreting them:
+
+Introduction:
+{{step_1}}
+
+Selection & Spreading Angel Cards:
+{{step_2}}
+
+Interpreting Angels Cards:
+{{step_3}}
+
+Addressing Key Points:
+{{step_4}}
+
+Next, detail the importance of connecting with the angels during the reading. Try to emphasise the role of intuition in angel card reading, guiding the user to feel and understand energy and possible messages from angels related to the {{querent_state}} and {{question_or_focus}}.
+
+->>>>
+
+Currently, we have:
+
+Introduction:
+{{step_1}}
+
+Selection & Spreading Angel Cards:
+{{step_2}}
+
+Interpreting Angels Cards:
+{{step_3}}
+
+Addressing Key Points:
+{{step_4}}
+
+Connecting with Angels:
+{{step_5}}
+
+Now, wrap up the reading experience by summarising the essential points. Provide guidance on integrating the insights from the reading into real-life scenarios based on the {{question_or_focus}} and the individual's state of being: {{querent_state}}.
+
+->>>>
+
+We have developed so far:
+
+Introduction:
+{{step_1}}
+
+Selection & Spreading Angel Cards:
+{{step_2}}
+
+Interpreting Angels Cards:
+{{step_3}}
+
+Addressing Key Points:
+{{step_4}}
+
+Connecting with Angels:
+{{step_5}}
+
+Wrapping up the Reading:
+{{step_6}}
+
+Next, close the reading session by encouraging the querent to express their thoughts on the experience, any insights they gained and how they are feeling post-reading about the {{question_or_focus}}. 
+

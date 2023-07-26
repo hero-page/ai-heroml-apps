@@ -1,0 +1,71 @@
+Your task is to write a "Therapy Review" for the "Acupressure & Reflexology" industry, specifically for a "Wellness Blogger". 
+Let's start with an introduction that provides an overview of the therapy experience.
+
+Here's some more context about the Therapy Review:
+Therapy Experience: {{therapy_experience}}
+Pre Therapy Condition: {{pre_therapy_condition}}
+Therapy Process: {{therapy_process}}
+Post Therapy Outcome: {{post_therapy_outcome}}
+Recommendations And Final Thoughts: {{recommendations_and_final_thoughts}}
+Conclusion Remarks: {{conclusion_remarks}}
+
+->>>>
+
+Now, we have an introduction for our "Therapy Review" which gives readers an idea about the therapy experience:
+
+Introduction:
+{{step_1}}
+
+Next, let's communicate your pre-therapy condition. This section should cover your health status before undergoing the therapy. Discuss any ailments, stress, issues in detail to provide a clear before snapshot.
+
+->>>>
+
+So far, we've constructed an introduction and discussed the pre-therapy condition for the "Therapy Review":
+
+Introduction:
+{{step_1}}
+
+Pre-Therapy Condition:
+{{step_2}}
+
+Moving on, let's detail your therapy process with specific steps and sensations. Explain the methodology, the progression, your physical and emotional responses during each step, and any unique or noteworthy occurrences.
+
+->>>>
+
+In this "Therapy Review" we have an introduction, outlined the pre-therapy condition, and detailed the therapy process:
+
+Introduction:
+{{step_1}}
+
+Pre-Therapy Condition:
+{{step_2}}
+
+Therapy Process:
+{{step_3}}
+
+Now, let's discuss in-depth about the post-therapy condition and results. Remember to compare your health status or well-being before and after the therapy, mentioning any improvements or side effects.
+
+->>>>
+
+So far, we've detailed the therapy process and discussed the post-therapy outcome in the "Therapy Review":
+
+Therapy Process:
+{{step_3}}
+
+Post-Therapy Outcome:
+{{step_4}}
+
+Next, let's pen down your recommendations and final thoughts on the therapy. Express your personal opinion on whether you found the therapy beneficial and worthwhile, and whether you'd suggest it to your readers.
+
+->>>>
+
+In our "Therapy Review" we have discussed the Post-Therapy Outcome, and shared our recommendations and final thoughts about the therapy:
+
+Post-Therapy Outcome:
+{{step_4}}
+
+Recommendations and Final Thoughts:
+{{step_5}}
+
+Lastly, conclude with details about continuing the therapy, future plans, or other relevant remarks related to your wellness journey.
+

@@ -1,0 +1,89 @@
+Your task is to write a "Birth Chart Analysis" for the "Astrology & Numerology" industry, specifically for an "Astrologer". Let's start by drafting an introductory paragraph explaining the individual's {{birth_date}} and {{birth_time}}, and the significance of these factors in a birth chart analysis.
+
+Here's some more context about the Birth Chart Analysis:
+Birth Date: {{birth_date}}
+Birth Time: {{birth_time}}
+Individual Name: {{individual_name}}
+Birth Place: {{birth_place}}
+
+->>>>
+
+We begin the "Birth Chart Analysis" with an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's describe the Sun sign – the Zodiac sign that the Sun was traveling through at the exact {{birth_time}} and {{birth_date}}. Explain what the Sun sign implies about {{individual_name}}'s core self, basic personality, and ego.
+
+->>>>
+
+In the "Birth Chart Analysis", we have an introduction and a description of Sun sign:
+
+Introduction:
+{{step_1}}
+
+Sun Sign Description:
+{{step_2}}
+
+Now, analyze {{individual_name}}'s Moon sign - the Zodiac sign where the Moon was stationed at the time of birth. Interpret how this reveals the individual's emotional and inner world.
+
+->>>>
+
+In our "Birth Chart Analysis", we have a description of the Sun sign and a detailed analysis of the Moon sign:
+
+Sun Sign Description:
+{{step_2}}
+
+Moon Sign Analysis:
+{{step_3}}
+
+Next, discuss the Ascendant (or Rising sign), which represents the sign that was coming up on the Eastern horizon at the {{birth_time}} in the {{birth_place}}. This section should delve into how {{individual_name}} presents himself or herself to the external world.
+
+->>>>
+
+For the "Birth Chart Analysis", we have analyzed Moon sign and explained the Ascendant:
+
+Moon Sign Analysis:
+{{step_3}}
+
+Ascendant Explanation:
+{{step_4}}
+
+Now, it's time to do a detailed rundown of every planet (Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto) and their respective house positions at the {{birth_time}} and {{birth_date}}. Explain how these affect various aspects of {{individual_name}}'s life including communication style, love tendencies, drive, luck, discipline, rebellion, dreams, power, etc.
+
+->>>>
+
+In our "Birth Chart Analysis", we have explained the Ascendant and given a detailed analysis of each planet and its house position:
+
+Ascendant Explanation:
+{{step_4}}
+
+Planets and House Positions Analysis:
+{{step_5}}
+
+Analyze the Angular relationships (or ‘aspects’) between the planets at the time of birth. Discuss whether any patterns ('Yods', 'T-Squares' etc.) are formed, and what they signify for {{individual_name}}.
+
+->>>>
+
+In our "Birth Chart Analysis", we have analyzed each planet and its house position and the Angular relationships between the planets:
+
+Planets and House Positions Analysis:
+{{step_5}}
+
+Angular Relationships Analysis:
+{{step_6}}
+
+Next, explain the North Node and South Node, which are the points where the moon's orbit crosses the ecliptic at the {{birth_date}} and {{birth_time}}, and provide insights into the life path that {{individual_name}} is meant to take and their past lives respectively.
+
+->>>>
+
+In our "Birth Chart Analysis", we have analyzed Angular relationships between the planets and provided an explanation of the North Node and South Node:
+
+Angular Relationships Analysis:
+{{step_6}}
+
+North Node and South Node Explanation:
+{{step_7}}
+
+If the birth chart showcases any unique features (like stelliums, grand trines, etc), discuss their implications on the individual's life.
+

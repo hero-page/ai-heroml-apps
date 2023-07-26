@@ -1,0 +1,94 @@
+Write a "Personal Year Forecast" for the "Astrology & Numerology" industry, specifically for a "Numerologist". 
+
+First, we'll start with an introduction that explains what a "Personal Year Forecast" is. It should explain how it provides insights into the year ahead regarding areas like personal, professional, and spiritual growth. 
+
+Here's some more context about the Personal Year Forecast:
+Introduction: {{introduction}}
+Birth Date: {{birth_date}}
+Universal Year Number: {{Universal_Year_Number}}
+Personal Year Overview: {{Personal_Year_Overview}}
+Career Forecast: {{Career_Forecast}}
+Relationships Forecast: {{Relationships_Forecast}}
+Personal Growth Forecast: {{Personal_Growth_Forecast}}
+Health Forecast: {{Health_Forecast}}
+Life Advice: {{life_advice}}
+Summary: {{summary}}
+
+->>>>
+
+For the "Personal Year Forecast", we have constructed the following introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's explain how to calculate the Personal Year Number using the user's birth date. The user's birth date (day and month) plus the Universal Year number (current year reduced to a single digit) equals their Personal Year Number.
+
+->>>>
+
+For the "Personal Year Forecast", we have defined the method to calculate the Personal Year Number:
+
+Introduction:
+{{step_1}}
+
+Method to Calculate Personal Year Number:
+{{step_2}}
+
+Our next task is to provide an overview of what that Personal Year in numerology represents generally, from an overall perspective.
+
+->>>>
+
+For the "Personal Year Forecast", we have constructed an overview:
+
+Introduction:
+{{step_1}}
+
+Method to Calculate Personal Year Number:
+{{step_2}}
+
+Personal Year Overview:
+{{step_3}}
+
+Now, let's section the forecast into areas like career, relationships, personal growth, and health. For each of these sections, we need to provide detailed predictions relevant to their Personal Year Number.
+
+->>>>
+
+In our "Personal Year Forecast", we have detailed predictions for each specific domain:
+
+Personal Year Overview:
+{{step_3}}
+
+Career Forecast:
+{{step_4a}}
+
+Relationships Forecast:
+{{step_4b}}
+
+Personal Growth Forecast:
+{{step_4c}}
+
+Health Forecast:
+{{step_4d}}
+
+Next, we have to offer guidance on how the reader can navigate potential challenges and how best to utilize the positive energy in their Personal Year. This should provide practical life advice based on their Personal Year Number.
+
+->>>>
+
+In our "Personal Year Forecast", we have provided life advice based on the Personal Year Number:
+
+Career Forecast:
+{{step_4a}}
+
+Relationships Forecast:
+{{step_4b}}
+
+Personal Growth Forecast:
+{{step_4c}}
+
+Health Forecast:
+{{step_4d}}
+
+Life Advice:
+{{step_5}}
+
+For the conclusion, let's summarize the forecast, reminding them of their Personal Year Number and its key themes, and encouraging them to use this forecast as a tool for personal development.
+
