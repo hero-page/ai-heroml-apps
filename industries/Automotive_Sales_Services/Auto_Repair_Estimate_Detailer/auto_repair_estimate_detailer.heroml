@@ -1,0 +1,71 @@
+Your task is to write a "Repair Estimate" for the "Automotive Sales & Services" industry, specifically for an "Automotive Technician". Let's start with an introduction by greeting the vehicle owner and providing details about the vehicle (e.g., year, make, model, mileage) {{vehicle_info}}. Also detail the reason for the estimate: {{estimate_reason}}.
+
+Here's some more context about the Repair Estimate:
+Estimate Reason: {{estimate_reason}}
+Vehicle Info: {{vehicle_info}}
+Initial Condition: {{initial_condition}}
+Inspection Findings: {{inspection_findings}}
+Proposed Services: {{proposed_services}}
+Service Costs: {{service_costs}}
+Service Duration: {{service_duration}}
+
+->>>>
+
+We have an introduction for our repair estimate:
+
+Introduction:
+{{step_1}}
+
+Next, we need to detail our inspection findings. Start by describing the initial condition of the vehicle upon drop-off, noting any visible issues: {{initial_condition}}. Then, present the results from your vehicle inspection, describing the discovered problems and what might have caused them: {{inspection_findings}}.
+
+->>>>
+
+We have conducted our inspection and detailed the findings as follows:
+
+Inspection Findings:
+{{step_2}}
+
+Now, based on the findings, let's propose the necessary repairs and replacements: {{proposed_services}}. Describe why these services are necessary for each issue found.
+
+->>>>
+
+Our inspection was detailed in:
+
+Inspection Findings:
+{{step_2}}
+
+Now, we have proposed the necessary repairs and replacements and explained why they are necessary:
+
+Proposed Repairs and Replacements:
+{{step_3}}
+
+Next, provide a detailed breakdown of the costs associated with each proposed service, including parts, labor, and any other applicable fees: {{service_costs}}. Sum up with the total cost for all proposed services.
+
+->>>>
+
+Our proposed repairs and replacements are given in:
+
+Proposed Repairs and Replacements:
+{{step_3}}
+
+Here is the detailed cost breakdown for each proposed service and the total cost:
+
+Estimate Costs:
+{{step_4}}
+
+Now, estimate how long each repair or maintenance process will take: {{service_duration}}. Also provide details about when the vehicle will be ready for pickup.
+
+->>>>
+
+After giving a detailed cost estimation in:
+
+Estimate Costs:
+{{step_4}}
+
+We have now provided an estimated duration for each service and the expected vehicle pick-up time:
+
+Timeline and Logistics:
+{{step_5}}
+
+Let's conclude our repair estimate by giving the contact information of the technician or service department, so that the vehicle owner can follow-up their questions or concerns.
+

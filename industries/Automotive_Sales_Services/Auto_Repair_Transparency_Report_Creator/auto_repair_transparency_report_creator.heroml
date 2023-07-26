@@ -1,0 +1,102 @@
+Your task is to write a "Service Report" for the "Automotive Sales & Services" industry, specifically for a "Automotive Technician". Let's begin by drafting an introduction that provides a general summary of the work performed: {{work_summary}}. Make sure to include the date, the automotive technician's name, and customer's details.
+
+Here's some more context about the Service Report:
+Work Summary: {{work_summary}}
+Customer Complaint: {{customer_complaint}}
+Diagnostics And Repairs: {{diagnostics_and_repairs}}
+Parts And Labor: {{parts_and_labor}}
+Recommendations: {{recommendations}}
+
+->>>>
+
+For our service report, we've drafted the following introduction:
+
+Introduction:
+{{step_1}}
+
+Next, design a comprehensive customer's information section. This should include the customer's name, contact information, and vehicle details (Make, model, year, and VIN) as submitted in the form.
+
+->>>>
+
+For our service report, we have:
+
+Introduction:
+{{step_1}}
+
+Now we've designed the following customer's information section:
+
+Customer's Information:
+{{step_2}}
+
+Now, create a detailed description of the problem reported by the customer: {{customer_complaint}}. It's important to state the initial concerns of the customer as it helps set the scope for understanding the problem and the solutions provided.
+
+->>>>
+
+Currently in our service report:
+
+Customer's Information:
+{{step_2}}
+
+We've added a detailed description of the problem reported by the customer:
+
+Customer complaint description:
+{{step_3}}
+
+Let's detail the diagnosed problems, and lay out the steps taken to resolve it: {{diagnostics_and_repairs}}. Explain what was wrong with the vehicle, how it was diagnosed, and what was done to fix it.
+
+->>>>
+
+In our service report:
+
+Customer Complaint Description:
+{{step_3}}
+
+We've explained in detail the diagnosed problems and the steps taken to resolve them:
+
+Diagnosed Problems and Repairs:
+{{step_4}}
+
+Now, it's time to create a parts and labor section. List out all the parts replaced and the labor involved: {{parts_and_labor}}. This provides transparency to the customer about what changes have been made to their vehicle, and the costs associated with those changes.
+
+->>>>
+
+So far in our service report:
+
+Diagnosed Problems and Repairs:
+{{step_4}}
+
+We've added a parts and labor section:
+
+Parts and Labor:
+{{step_5}}
+
+Next, let's work on the recommendations section, summarizing any upcoming service or part replacement that might be necessary: {{recommendations}}. The recommendations should be based on the vehicle's mileage and its current condition.
+
+->>>>
+
+Now our service report includes:
+
+Parts and Labor:
+{{step_5}}
+
+We have also added the recommendations section:
+
+Recommendations:
+{{step_6}}
+
+To wrap up, let's write a summary and next steps section that reiterates what work was done, what future work needs to be done, and what should be monitored.
+
+->>>>
+
+In our Service Report:
+
+Recommendations:
+{{step_6}}
+
+We have added a summary and next steps section:
+
+Summary and Next Steps:
+{{step_7}}
+
+Lastly, create a payment and signature section where customers can acknowledge the services rendered, the related costs and make payment arrangements. This serves as an agreement from the customer for the work cited in the report. 
+

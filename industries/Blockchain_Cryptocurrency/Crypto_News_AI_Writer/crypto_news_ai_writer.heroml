@@ -1,0 +1,75 @@
+Start by writing a headline for the "News Article" that captures the main theme of the article and invokes curiosity in the reader.
+
+Here's some more context about the News Article:
+Headline: {{headline}}
+Intro Overview: {{intro_overview}}
+Article Topic: {{article_topic}}
+Expert Views: {{expert_views}}
+Article Conclusion: {{article_conclusion}}
+
+->>>>
+
+We have a headline for our news article:
+
+Headline:
+{{step_1}}
+
+Next, write an introduction that gives an overview of the topic and its relevance in the blockchain and cryptocurrency industry. Mention recent events, trends or statistics.
+
+->>>>
+
+We have the headline and introduction for our news article:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, let's write the body of the article. Divide it into different subheadings for better readability. It should delve into the details of the {{article_topic}}, and might include aspects such as its impact on the cryptocurrency market, its implications for traders or investors, any regulatory considerations, and how it compares with other similar developments.
+
+->>>>
+
+We have the headline, introduction, and body of our news article:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Body:
+{{step_3}}
+
+Now incorporate key industry-specific jargon and concepts such as block mining, hash rate, smart contracts, ICOs, digital wallets, or any other terms relevant to the {{article_topic}} within the body of the article.
+
+->>>>
+
+Our news article now includes relevant key industry-specific terms:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Body with key industry-specific jargon:
+{{step_4}}
+
+Next, let's incorporate expert opinions and quotes to substantiate the points in your article. Interview industry leaders, analysts or blockchain developers and use their thoughts to provide an authoritative voice to your article.
+
+->>>>
+
+Our news article now includes expert opinions:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Body with key industry-specific jargon and expert opinions:
+{{step_5}}
+
+Now it's time to conclude the article. Summarise the major points of the article, and offer a speculation or prediction of what these developments mean for the future of the industry.
+

@@ -228,8 +228,33 @@ Explore these links to learn more about each app's functionality and to see thei
 ## Automotive Product Marketing
 
 * [AI Test Drive Experience Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/AI_Test_Drive_Experience_Creator)
+* [Auto Marketing Meeting Minutes AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Auto_Marketing_Meeting_Minutes_AI)
 * [Automotive Marketing Competitive Analysis AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Marketing_Competitive_Analysis_AI)
 * [Automotive Product Email Campaign AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Product_Email_Campaign_AI)
+* [Automotive Product Plan Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Product_Plan_Generator)
 * [Automotive Social Post Strategizer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Social_Post_Strategizer)
 * [Automotive Specs AI for Marketers](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Specs_AI_for_Marketers)
+* [Feedback Analyzer Improvement Planner](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Feedback_Analyzer_Improvement_Planner)
 * [Vehicle Review Blog Post Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Vehicle_Review_Blog_Post_Creator)
+## Automotive Sales Services
+
+* [Auto Dealership AI Memo Maker](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Auto_Dealership_AI_Memo_Maker)
+* [Auto Repair Estimate Detailer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Auto_Repair_Estimate_Detailer)
+* [Auto Repair Transparency Report Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Auto_Repair_Transparency_Report_Creator)
+* [Automotive Email Personalizer AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Automotive_Email_Personalizer_AI)
+* [Automotive Sales Letter AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Automotive_Sales_Letter_AI_Composer)
+* [Automotive Sales Strategy Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Automotive_Sales_Strategy_Generator)
+* [Car Sales Deal Summary AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Car_Sales_Deal_Summary_AI)
+* [Car Sales Description Generator AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Car_Sales_Description_Generator_AI)
+* [Personalized Car Sales Email Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Sales_Services/Personalized_Car_Sales_Email_Generator)
+## Blockchain Cryptocurrency
+
+* [Blockchain Code Documentation Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Blockchain_Code_Documentation_Creator)
+* [Blockchain Development Interactive Tutorial Maker](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Blockchain_Development_Interactive_Tutorial_Maker)
+* [Blockchain Project Proposal Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Blockchain_Project_Proposal_Creator)
+* [Crypto Analysis Customizer AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_Analysis_Customizer_AI)
+* [Crypto Investment Recommendation Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_Investment_Recommendation_Composer)
+* [Crypto Journalist Interview Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_Journalist_Interview_Generator)
+* [Crypto Market Analysis Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_Market_Analysis_Creator)
+* [Crypto News AI Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_News_AI_Writer)
+* [Crypto Trading Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Blockchain_Cryptocurrency/Crypto_Trading_Guide_Creator)

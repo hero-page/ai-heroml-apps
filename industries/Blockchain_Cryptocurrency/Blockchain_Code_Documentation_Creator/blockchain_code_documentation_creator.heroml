@@ -1,0 +1,113 @@
+Your task is to write a "Code Documentation" for the "Blockchain & Cryptocurrency" industry, specifically for a "Blockchain Developer". 
+
+Start with an introduction that describes the purpose and the overall functionality of your blockchain project: {{blockchain_functionality}}.
+
+Here's some more context about the Code Documentation:
+Blockchain Functionality: {{blockchain_functionality}}
+Blockchain Architecture: {{blockchain_architecture}}
+Smart Contracts: {{smart_contracts}}
+Consensus Mechanism: {{consensus_mechanism}}
+Transaction Processing: {{transaction_processing}}
+Blockchain Security: {{blockchain_security}}
+Technical Appendices: {{technical_appendices}}
+Release Notes: {{release_notes}}
+
+->>>>
+
+Our "Code Documentation" begins with an introduction on our blockchain project:
+
+Introduction:
+{{step_1}}
+
+Now, outline the architecture of the blockchain solution and discuss how various components interact with each other: {{blockchain_architecture}}.
+
+->>>>
+
+In our "Code Documentation", we've discussed the project's introduction and its architectural details:
+
+Introduction:
+{{step_1}}
+
+Architecture:
+{{step_2}}
+
+Next, detail the smart contracts used in the project. For each contract, provide its purpose, functions, and interactions with other contracts: {{smart_contracts}}.
+
+->>>>
+
+So far in our documentation, we have detailed the introduction, the architecture, and the smart contracts of our blockchain project:
+
+Introduction:
+{{step_1}}
+
+Architecture:
+{{step_2}}
+
+Smart Contracts:
+{{step_3}}
+
+Now, describe the consensus mechanisms in place, algorithms used, and reasons why they were chosen for your specific project: {{consensus_mechanism}}.
+
+->>>>
+
+We've discussed the introduction, architecture, smart contracts, and the consensus mechanism of the project in our "Code Documentation":
+
+Introduction:
+{{step_1}}
+
+Architecture:
+{{step_2}}
+
+Smart Contracts:
+{{step_3}}
+
+Consensus Mechanism:
+{{step_4}}
+
+Next, break down the process of how transactions are processed and recorded on the blockchain: {{transaction_processing}}.
+
+->>>>
+
+In our "Code Documentation", we've included explanations for the introduction, architecture, smart contracts, consensus mechanism, and transaction processing:
+
+Introduction:
+{{step_1}}
+
+Architecture:
+{{step_2}}
+
+Smart Contracts:
+{{step_3}}
+
+Consensus Mechanism:
+{{step_4}}
+
+Transaction Processing:
+{{step_5}}
+
+After this, shed some light on the security measures and systems in place designed to protect the integrity of the blockchain: {{blockchain_security}}.
+
+->>>>
+
+In our "Code Documentation", we've discussed the introduction, architecture, smart contracts, consensus mechanism, transaction processing, and security measures of the project:
+
+Introduction:
+{{step_1}}
+
+Architecture:
+{{step_2}}
+
+Smart Contracts:
+{{step_3}}
+
+Consensus Mechanism:
+{{step_4}}
+
+Transaction Processing:
+{{step_5}}
+
+Security Measures:
+{{step_6}}
+
+Next, include appendices that cover more complex or technical elements of code such as data structures and cryptographic functions: {{technical_appendices}}.
+

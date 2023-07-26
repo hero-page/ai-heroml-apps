@@ -1,0 +1,72 @@
+Start by addressing the staff and introducing yourself as the dealership manager. Be sure to state the reasons for the memo: {{memo_reasons}}.
+
+Here's some more context about the Staff Memo:
+Memo Reasons: {{memo_reasons}}
+Key Points: {{key_points}}
+Strategies: {{strategies}}
+Forthcoming Changes: {{forthcoming_changes}}
+Industry Forecast: {{industry_forecast}}
+
+->>>>
+
+We are creating a "Staff Memo" addressed to the staff of a dealership. We have identified the recipient and the reasons for the memo:
+
+Dealership Staff Memo
+
+To:
+{{step_1}}
+
+Continue the memo by discussing the key points: {{key_points}}. These points should reflect the motivation behind the memo.
+
+->>>>
+
+In our "Staff Memo" we have established the introduction:
+
+To:
+{{step_1}}
+
+Let's expand by discussing the key points:
+
+Key Points:
+{{step_2}}
+
+The next step is to develop a portion of the memo that outlines the strategies: {{strategies}}. These strategies should align with the objectives described in the key points and should be relevant for our Automotive Sales & Services industry.
+
+->>>>
+
+For our "Staff Memo";
+
+In the introduction, we address:
+
+To:
+{{step_1}}
+
+With the key focus on:
+
+Key Points:
+{{step_2}}
+
+Now, let's discuss the strategies to meet these key points:
+
+Automotive Sales & Services Strategies:
+{{step_3}}
+
+Include information on forthcoming changes and trainings related to dealership standards and procedures: {{forthcoming_changes}}.
+
+->>>>
+
+Our "Staff Memo" for the dealership staff contains:
+
+Key Points:
+{{step_2}}
+
+Automotive Sales & Services Strategies:
+{{step_3}}
+
+We will now add the information on forthcoming changes and trainings:
+
+Forthcoming Changes and Trainings:
+{{step_4}}
+
+Now, incorporate a forecast on the dealership's growth and its role within the wider automotive industry, using the variable {{industry_forecast}}. Don't forget to provide encouraging words for maintaining high levels of service.
+

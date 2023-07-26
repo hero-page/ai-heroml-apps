@@ -1,0 +1,71 @@
+Your task is to write a "Product Development Plan" for the "Automotive Product Marketing" industry, specifically for a "Product Manager". 
+
+Firstly, generate an executive summary for this product. The summary should offer an overview of the intended functionality of the product and the projected market space.
+
+Here's some more context about the Product Development Plan:
+Product Overview: {{product_overview}}
+Market Analysis: {{market_analysis}}
+Product Description: {{product_description}}
+Tech Aspects: {{tech_aspects}}
+Development Roadmap: {{development_roadmap}}
+
+->>>>
+
+We have started our Product Development Plan with an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Now, conduct a detailed market analysis. Explain the situational context for this product, which includes an assessment of the overall market size, the potential target customer demographic, trends influencing demand, and the identification of direct and indirect competitors.
+
+->>>>
+
+Our Product Development Plan includes an executive summary and a market analysis:
+
+Executive Summary:
+{{step_1}}
+
+Market Analysis:
+{{step_2}}
+
+Next, define the product. Specify its uses, features, and proposed specifications, and make it clear how it fulfills a distinct need within the market.
+
+->>>>
+
+For our Product Development Plan, we have an executive summary, market analysis, and a detailed product definition:
+
+Executive Summary:
+{{step_1}}
+
+Market Analysis:
+{{step_2}}
+
+Product Definition:
+{{step_3}}
+
+Moving forward, write about the technology or innovation aspects of this product. Discuss the technological features of this product and how they address the industry's and customers' needs.
+
+->>>>
+
+In the Product Development Plan, we have defined the product and provided its technological aspects:
+
+Product Definition:
+{{step_3}}
+
+Technological Aspects:
+{{step_4}}
+
+Now, let's create a product development roadmap. Include all stages of development starting from concept generation to testing, launch, and post-launch improvements. Be sure to address key milestones, anticipate possible challenges, and come up with contingency plans.
+
+->>>>
+
+So far in the Product Development Plan, we have discussed the technological aspects of the product and laid out a development roadmap:
+
+Technological Aspects:
+{{step_4}}
+
+Development Roadmap:
+{{step_5}}
+
+Next, write in detail about your go-to-market strategy. This should include distribution, pricing, sales, marketing, and service strategies. The plan should be highly specific considering the competitive nature of the automotive product marketing industry.
+

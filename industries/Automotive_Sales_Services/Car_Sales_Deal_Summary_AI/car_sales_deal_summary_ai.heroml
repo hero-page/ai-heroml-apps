@@ -1,0 +1,70 @@
+Your task is to write a "Deal Summary" for the "Automotive Sales & Services" industry, specifically for a "Car Salesperson". 
+
+Let's start by crafting an introduction explaining the specific deal context: {{deal_context}}. This introduction will detail key information such as the make and model of the car, its unique features, what attracted the customer, and its selling points.
+
+Here's some more context about the Deal Summary:
+Deal Context: {{deal_context}}
+Customer Profile: {{customer_profile}}
+Deal Terms: {{deal_terms}}
+Deal Experience: {{deal_experience}}
+Sales Objectives: {{sales_objectives}}
+
+->>>>
+
+We now have an introduction to our deal:
+
+Introduction:
+{{step_1}}
+
+Next, let's elaborate on different aspects of the deal. 
+ 
+We'll start with creating a customer profile: {{customer_profile}}. Please include details on their car needs, budget, preferences, and unique requirements, if any.
+
+->>>>
+
+We now have an introduction and customer profile:
+
+Introduction:
+{{step_1}}
+
+Customer Profile:
+{{step_2}}
+
+Now, describe the negotiation process. Specifically provide details on how the car's features, price, dealer incentives, and financing options were discussed, aligned, and agreed upon. Ensure you focus on meeting {{customer_profile}}'s needs.
+
+->>>>
+
+We now have a customer profile and information on the negotiation process:
+
+Customer Profile:
+{{step_2}}
+
+Negotiation Process:
+{{step_3}}
+
+Let's now detail the final terms of the deal: {{deal_terms}}. Include information on the agreed price and any additional services or extras included in the deal. Also provide details on any post-sale obligations like scheduled servicing and warranty coverage.
+
+->>>>
+
+We have detailed information on the negotiation process and the final terms of the deal:
+
+Negotiation Process:
+{{step_3}}
+
+Final Deal Terms:
+{{step_4}}
+
+Now, let's portray the overall experience of the deal from both the customer and the car salesperson perspective. In this {{deal_experience}}, include customer's satisfaction level, the salesperson's learning, and the benefits to the company, if any.
+
+->>>>
+
+We have detailed information about the final terms of the deal and the complete deal experience:
+
+Final Deal Terms:
+{{step_4}}
+
+Deal Experience:
+{{step_5}}
+
+Finally, conclude by highlighting the positive aspects of the deal and sharing any valuable learnings that could be applied to future deals. The conclusion should also touch on how the deal allows the car salesperson to fulfil their sales objectives: {{sales_objectives}}.
+

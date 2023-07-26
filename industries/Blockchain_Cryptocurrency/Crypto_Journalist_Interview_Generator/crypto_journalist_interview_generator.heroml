@@ -1,0 +1,110 @@
+Your task is to write an "Interview" for the "Blockchain & Cryptocurrency" industry, specifically for a "Crypto Journalist". Let's kick off the process by crafting an engaging introduction that introduces the respondent and the overarching theme of the discussion.
+
+Here's some more context about the Interview:
+Respondent Intro: {{respondent_intro}}
+Interview Theme: {{interview_theme}}
+Background Questions: {{background_questions}}
+Industry Specific Questions: {{industry_specific_questions}}
+Company Specific Questions: {{company_specific_questions}}
+Future Oriented Questions: {{future_oriented_questions}}
+Closing Questions: {{closing_questions}}
+
+->>>>
+
+With an introduction in place, this is how the interview for the "Blockchain & Cryptocurrency" industry begins:
+
+Introduction:
+{{step_1}}
+
+Following the introduction, the next part is asking a series of questions probing into the respondent’s background, their involvement in the blockchain & cryptocurrency industry, and the roles they have held. Let's come up with these background questions.
+
+->>>>
+
+With an introduction and engaging background questions, this is what our interview looks like so far:
+
+Introduction:
+{{step_1}}
+
+Background Questions:
+{{step_2}}
+
+The next part of the interview will transition into industry-specific queries where we engage the respondent in discussions about specific blockchain and cryptocurrency issues, the current market state, trends, challenges, and their personal perspectives on these topics.
+
+->>>>
+
+Our interview now has an introduction, background questions and in-depth industry-specific questions:
+
+Introduction:
+{{step_1}}
+
+Background Questions:
+{{step_2}}
+
+Industry Specific Questions:
+{{step_3}}
+
+In the case that the interviewee represents a specific cryptocurrency company or project, the next part is centering on company-related inquiries. Let's create a few questions that revolve around the company's mission, unique value proposition, security measures, and user adoption strategies.
+
+->>>>
+
+With the introduction, background, industry-specific, and company-related questions, our bitcoin interview so far looks like:
+
+Introduction:
+{{step_1}}
+
+Background Questions:
+{{step_2}}
+
+Industry Specific Questions:
+{{step_3}}
+
+Company-related Questions:
+{{step_4}}
+
+We're almost finished. Let's now focus on the future and devise questions that explore the respondent's forecasts about the blockchain and cryptocurrency landscape, where they foresee the biggest changes, and the implications these may have on the industry.
+
+->>>>
+
+Our interview now has an introduction, background questions, industry-specific questions, company-related questions, and future-focused inquiries:
+
+Introduction:
+{{step_1}}
+
+Background Questions:
+{{step_2}}
+
+Industry Specific Questions:
+{{step_3}}
+
+Company-related Questions:
+{{step_4}}
+
+Future-oriented Questions:
+{{step_5}}
+
+As our interview draws to a close, let's pose some questions asking for final thoughts from the respondent, perhaps pertaining to advice they'd like to share or insights they'd like to underscore to crypto enthusiasts, investors, or industry figures reading this interview.
+
+->>>>
+
+The "Blockchain & Cryptocurrency" industry interview is now nearly complete and includes:
+
+Introduction:
+{{step_1}}
+
+Background Questions:
+{{step_2}}
+
+Industry Specific Questions:
+{{step_3}}
+
+Company-related Questions:
+{{step_4}}
+
+Future-oriented Questions:
+{{step_5}}
+
+Closing Questions:
+{{step_6}}
+
+To wrap up this interview, we need a conclusion that summarizes the main points discussed, incorporating the interview theme and adding a fitting end to the interaction.
+

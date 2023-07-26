@@ -1,0 +1,95 @@
+Your task is to write a "Customer Email" for the "Automotive Sales & Services" industry, specifically for an "Automotive Technician". 
+
+Let's start with composing a greeting that addresses the customer directly: "Dear {{customer_name}}".
+
+Here's some more context about the Customer Email:
+Customer Name: {{customer_name}}
+Technician Name: {{technician_name}}
+Company Name: {{company_name}}
+Vehicle Types: {{vehicle_types}}
+Vehicle Type: {{vehicle_type}}
+
+->>>>
+
+We're starting the Customer Email:
+
+Greetings:
+{{step_1}}
+
+Now, initiate the conversation by expressing gratitude and extending appreciation for considering your automotive services: "We appreciate your interest in our services...".
+
+->>>>
+
+So far we have the greeting and the conversation initiation:
+
+Greetings:
+{{step_1}}
+
+Initiating Conversation:
+{{step_2}}
+
+Next, provide a brief introduction about yourself, the company, and the unique automotive services you offer: "I am {{technician_name}}, a certified automotive technician at {{company_name}}...".
+
+->>>>
+
+Currently, our customer email has the greeting, initiation, and a brief introduction:
+
+Greetings:
+{{step_1}}
+
+Initiating Conversation:
+{{step_2}}
+
+Introduction:
+{{step_3}}
+
+Let's clearly describe how your services could meet the customer's needs. This should include the type of vehicles you service, special expertise, quality guarantees, and promotions: "At {{company_name}}, we service {{vehicle_types}}...".
+
+->>>>
+
+In our Customer Email, we now have a description of services added after the introduction:
+
+Introduction:
+{{step_3}}
+
+Service Description:
+{{step_4}}
+
+Next, incorporate industry-specific elements by discussing any upcoming advancements, challenges, or trends in the automotive industry which could impact their vehicle's performance or maintenance requirements: "There have been significant advancements in automotive technology...".
+
+->>>>
+
+Our email now also contains information about industry-specific elements:
+
+Service Description:
+{{step_4}}
+
+Industry-Specific Information:
+{{step_5}}
+
+Let's encourage the customer to book an appointment or service. Be specific about the process like online scheduling or calling the service center: "To schedule an appointment...".
+
+->>>>
+
+Now, our email contains the next step for the customer:
+
+Industry-Specific Information:
+{{step_5}}
+
+Appointment Invitation:
+{{step_6}}
+
+To end, reassure the customer of excellent service and look forward to their response: "We look forward to servicing your {{vehicle_type}}...". Also, provide an opportunity for the customer to ask any questions they may have: "Feel free to ask any queries...".
+
+->>>>
+
+The email now concludes with a reassurance of service:
+
+Appointment Invitation:
+{{step_6}}
+
+Service Reassurance:
+{{step_7}}
+
+Finally, close the email with professional ending salutations, your full name, position, and contact details: "Best Regards, {{technician_name}}".
+

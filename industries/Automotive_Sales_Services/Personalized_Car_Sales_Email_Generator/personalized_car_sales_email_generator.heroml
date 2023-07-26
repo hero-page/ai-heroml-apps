@@ -1,0 +1,126 @@
+Your task is to write a "Sales Email" for the "Automotive Sales & Services" industry, specifically for a "Car Salesperson".
+
+Let's start with Step 1: Initiate the Email
+
+We need to begin the sales email with a short, compelling subject line to encourage readers to open the email and discover more. 
+
+Here's some more context about the Sales Email:
+Subject Line: {{subject_line}}
+Recipient Name: {{recipient_name}}
+Car Details: {{car_details}}
+Value Proposition: {{value_proposition}}
+Offer Details: {{offer_details}}
+Call To Action: {{call_to_action}}
+Signature: {{signature}}
+
+->>>>
+
+For our "Sales email" we have a compelling subject line:
+
+Subject line:
+{{step_1}}
+
+For Step 2: Introduction
+
+We should open the body of the email with a warm greeting and an introduction, briefly explaining the purpose of the email. Within the introduction, address the recipient by their name.
+
+->>>>
+
+For our "Sales Email", we have a compelling subject line and introduction:
+
+Subject line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving to Step 3: Detailing the Product or Offer 
+
+We need to get into specifics about the vehicle in question: model, year, features, and condition. Emphasize any unique selling points of the car that might attract the buyer.
+
+->>>>
+
+For our "Sales Email", we have a compelling subject line, an introduction and detailed product specification:
+
+Subject line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Car Details:
+{{step_3}}
+
+Now to Step 4: Demonstrate Value
+
+We express why this specific vehicle suits the recipient's needs by alluding to their previously expressed preferences or requirements. Consider fuel efficiency, safety features or any other aspect of importance to the prospective buyer.
+
+->>>>
+
+For our "Sales Email", we have a compelling subject line, an introduction, product specification, and demonstrated value:
+
+Subject line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Car Details:
+{{step_3}}
+
+Value Proposition:
+{{step_4}}
+
+Moving on to Step 5: Sharing the Offer
+
+We inform the prospect about the price or financing offer for the vehicle, include any promotional deals or service packages that come with the purchase. Be careful to remain transparent about all costs.
+
+->>>>
+
+For our "Sales Email", we have a compelling subject line, an introduction, product specification, demonstrated value, and a presented offer:
+
+Subject line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Car Details:
+{{step_3}}
+
+Value Proposition:
+{{step_4}}
+
+Offer Details:
+{{step_5}}
+
+Now for Step 6: CTA (Call to Action)
+
+We conclude your sales email with a clear and direct call to action (CTA). This could be inviting the customer to a test drive, a phone call for more details, or a visit to your showroom.
+
+->>>>
+
+For our "Sales Email", we have a compelling subject line, an introduction, product specification, demonstrated value, a presented offer and a call to action:
+
+Subject line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Car Details:
+{{step_3}}
+
+Value Proposition:
+{{step_4}}
+
+Offer Details:
+{{step_5}}
+
+Call to Action:
+{{step_6}}
+
+Finally, for Step 7: Signature
+
+We have to sign off the email professionally including your full name, position, contact details, and dealership information.
+

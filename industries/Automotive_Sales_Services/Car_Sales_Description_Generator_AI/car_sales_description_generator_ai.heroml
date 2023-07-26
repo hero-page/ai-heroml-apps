@@ -1,0 +1,71 @@
+Let's write a "Vehicle Description" for the "Automotive Sales & Services" industry for a "Car Salesperson". 
+
+First, create a compelling and engaging headline for the vehicle description. Include the vehicle's model {{vehicle_model}}, its year of manufacture {{year_of_manufacture}}, and one key feature that could attract potential buyers.
+
+Here's some more context about the Vehicle Description:
+Vehicle Model: {{vehicle_model}}
+Year Of Manufacture: {{year_of_manufacture}}
+Exterior Color: {{exterior_color}}
+Interior Color: {{interior_color}}
+Engine Type: {{engine_type}}
+
+->>>>
+
+We have a captivating headline for our vehicle:
+
+Vehicle Headline:
+{{step_1}}
+
+Now, let's write an introduction for the description that provides a quick overview of the car. Mention the vehicle model, its year of manufacture, and its key selling point(s) to appeal to potential buyers.
+
+->>>>
+
+Now, we have a compelling headline and introduction for our vehicle:
+
+Vehicle Headline:
+{{step_1}}
+
+Vehicle Introduction:
+{{step_2}}
+
+Moving on, let's describe the vehicle's exterior in detail. Discuss or include the exterior color, condition, and any valuable exterior features.
+
+->>>>
+
+At this point, we have a headline, an introduction, and an exterior description for our car:
+
+Vehicle Headline:
+{{step_1}}
+
+Vehicle Introduction:
+{{step_2}}
+
+Exterior Description:
+{{step_3}}
+
+Let's go further and describe the interior of the vehicle. Discuss the interior by mentioning the color, condition, and any noteworthy features.
+
+->>>>
+
+Now, we have detailed descriptions for both the exterior and the interior of the vehicle:
+
+Exterior Description:
+{{step_3}}
+
+Interior Description:
+{{step_4}}
+
+Next up, detail the performance and specifications of the vehicle. Talk about the engine type, transmission, fuel economy, and any notable performance features.
+
+->>>>
+
+We have descriptions for both the interior of the car and its performance:
+
+Interior Description:
+{{step_4}}
+
+Performance and Specifications:
+{{step_5}}
+
+Now, let's highlight key technology and safety features that increase the vehicle's appeal.
+

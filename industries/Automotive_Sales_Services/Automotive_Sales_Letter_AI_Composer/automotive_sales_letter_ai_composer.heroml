@@ -1,0 +1,123 @@
+You are tasked with writing a "Customer Letter" for the "Automotive Sales & Services" industry, specifically for a "Dealership Manager". This is a breakdown, step by step, of the process to create this letter.
+
+Let's start off with creating a warm greeting and a brief personal introduction that can be used to connect with the customer on a personal level. Make it cordial but professional.
+
+Here's some more context about the Customer Letter:
+Personal Intro: {{personal_intro}}
+Appreciation Message: {{appreciation_message}}
+Vehicle Details: {{vehicle_details}}
+Financing Details: {{financing_details}}
+Dealership Benefits: {{dealership_benefits}}
+Next Steps: {{next_steps}}
+Follow Up Request: {{follow_up_request}}
+Thank You Note: {{thank_you_note}}
+Closing: {{closing}}
+
+->>>>
+
+With the warm greeting and personal introduction complete:
+
+Personal Introduction:
+{{step_1}}
+
+Move on to acknowledge and appreciate the client choosing to do business with your dealership. Show understanding of their needs and convey sincerity in wanting to meet these needs.
+
+->>>>
+
+We have started the letter with a brief personal introduction and a message of appreciation:
+
+Personal Introduction:
+{{step_1}}
+
+Appreciation Message:
+{{step_2}}
+
+Now, let's introduce the intended vehicle(s). Share important features, specifications, warranty details, and brand-specific selling points. Be sure to highlight aspects like safety features, maintenance schedules, and fuel efficiency.
+
+->>>>
+
+Our "Customer Letter" now has a vehicle introduction, including main features and specifications:
+
+Personal Introduction:
+{{step_1}}
+
+Appreciation Message:
+{{step_2}}
+
+Vehicle Details:
+{{step_3}}
+
+Next, include information about the various financing options available to the customer for purchasing the vehicle. This could cover affordable monthly payments, low down payments, or competitive interest rates.
+
+->>>>
+
+In our "Customer Letter" we now have covered vehicle details as well as financing options:
+
+Vehicle Details:
+{{step_3}}
+
+Financing Details:
+{{step_4}}
+
+Now, let's incorporate a section where we explain the unique benefits the customer would enjoy from purchasing from this dealership. This could be anything from exceptional customer service, attractive loyalty programs, to high-quality maintenance services. Also, promote any relevant seasonal offers or events happening at your dealership.
+
+->>>>
+
+Our "Customer Letter" is developing nicely with vehicle and financing details, and now additional benefits for purchasing from this dealership:
+
+Vehicle Details:
+{{step_3}}
+
+Financing Details:
+{{step_4}}
+
+Dealership Benefits:
+{{step_5}}
+
+Guide the customer on the processes related to their purchase, from finalizing the sale to vehicle delivery or pick-up, depending on the purchase agreement. Also, emphasize on the possible trade-in opportunities for existing vehicle owners.
+
+->>>>
+
+The "Customer Letter" now includes guidance on the purchasing process and trade-in opportunities:
+
+Financing Details:
+{{step_4}}
+
+Dealership Benefits:
+{{step_5}}
+
+Next Steps:
+{{step_6}}
+
+Politely request for a convenient time to arrange for a possible test drive or a follow-up discussion concerning the purchase. This should be respectful and offer flexibility to the customer.
+
+->>>>
+
+Our "Customer Letter" is nearly complete, we have requested for a follow-up or test drive:
+
+Dealership Benefits:
+{{step_5}}
+
+Next Steps:
+{{step_6}}
+
+Follow-up Request:
+{{step_7}}
+
+To conclude, it's time to write a heartfelt thank you note to the customer, showing appreciation for their consideration and trust in your dealership.
+
+->>>>
+
+We have added a thank you note to our nearly complete "Customer Letter":
+
+Next Steps:
+{{step_6}}
+
+Follow-up Request:
+{{step_7}}
+
+Thank You Note:
+{{step_8}}
+
+To formally close the letter, add your name and contact details where the customer can easily reach you. This should be professional, offering clear information about how and when they can contact you.
+

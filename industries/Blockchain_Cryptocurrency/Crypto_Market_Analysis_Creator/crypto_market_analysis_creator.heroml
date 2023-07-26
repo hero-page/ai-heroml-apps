@@ -1,0 +1,101 @@
+Your task is to write a "Market Analysis" for the "Blockchain & Cryptocurrency" industry, specifically for a "Crypto Trader". Let's start by creating an introduction that frames the current state of the "Blockchain & Cryptocurrency" industry.
+
+Here's some more context about the Market Analysis:
+Current State: {{current_state}}
+Recent Developments: {{recent_developments}}
+Top Cryptocurrencies: {{top_cryptocurrencies}}
+Future Occurrences: {{future_occurrences}}
+
+->>>>
+
+Now, you have an introduction that frames the current state of the "Blockchain & Cryptocurrency" industry:
+
+Introduction:
+{{step_1}}
+
+Next, provide a comprehensive discussion on recent key events or developments affecting the market.
+
+->>>>
+
+We are building a "Market Analysis", and so far, we have an introduction and a discussion on recent developments:
+
+Introduction:
+{{step_1}}
+
+Recent Developments:
+{{step_2}}
+
+Subsequently, interpret the implications that these developments are having on the market, focusing on key players and potential shift in market dynamics.
+
+->>>>
+
+In building our analysis, we have the implications of recent developments:
+
+Introduction:
+{{step_1}}
+
+Implications of Recent Developments:
+{{step_3}}
+
+Next, perform analysis of the top performing cryptocurrencies' past performance, with a focus on their trading volumes, price volatilities, market capitalizations, and competitor rankings.
+
+->>>>
+
+We have already conducted several steps in compiling our analysis. Now this is the analysis of the top performing cryptocurrencies:
+
+Implications of Recent Developments:
+{{step_3}}
+
+Analysis of Top Cryptocurrencies:
+{{step_4}}
+
+Now, let's evaluate the key drivers of performance for these top-performing cryptocurrencies. The focus should be on elements such as technological updates, partnerships, market trends, and regulatory changes.
+
+->>>>
+
+You have provided your evaluation of the key factors affecting the performance of the top-performing cryptocurrencies:
+
+Analysis of Top Cryptocurrencies:
+{{step_4}}
+
+Evaluation of Performance Drivers:
+{{step_5}}
+
+From the above evaluation, identify and highlight potential investment opportunities within these top cryptocurrencies. Don't forget to provide reasoning for each opportunity suggested.
+
+->>>>
+
+You have identified potential investment opportunities based on the earlier evaluations:
+
+Evaluation of Performance Drivers:
+{{step_5}}
+
+Potential Investment Opportunities:
+{{step_6}}
+
+Next, create a risk assessment that takes into account both macroeconomic and industry-specific variables. Give a detailed account of possible risk factors affecting these top cryptocurrencies and their potential impacts. Be sure to mention the risk-return tradeoff involved in these crypto investments.
+
+->>>>
+
+In your comprehensive market analysis for crypto traders, you have now included risk assessment:
+
+Potential Investment Opportunities:
+{{step_6}}
+
+Risk Assessment:
+{{step_7}}
+
+Subsequently, delve into notable future events or trends that could influence the market, such as the introduction of new blockchain technologies or regulatory policies.
+
+->>>>
+
+You have introduced potential future occurrences or trends into the Market Analysis:
+
+Risk Assessment:
+{{step_7}}
+
+Noteworthy Future Occurrences:
+{{step_8}}
+
+Next, sum up the main findings, investment opportunities, and risk factors that have surfaced from this analysis. Make sure to relate these elements back to the current state of the market.
+
