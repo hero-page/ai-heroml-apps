@@ -1,0 +1,91 @@
+Your task is to write a "Card Analysis" for the "Astrology & Tarot Reading" industry, specifically designed for a "Tarot Reader".
+
+The first thing we need to do is provide an introduction detailing the overall context of the reading, taking into account aspects such as the intention behind the reading, the reader’s persona, and the current cosmic alignments. Make use of the dynamic variable {{reading_context}} for this purpose.
+
+Here's some more context about the Card Analysis:
+Reading Context: {{reading_context}}
+Spread Description: {{spread_description}}
+Card Symbolism: {{card_symbolism}}
+Card Position: {{card_position}}
+Specific Card Context: {{specific_card_context}}
+Combined Card Meanings: {{combined_card_meanings}}
+Applicable Life Aspects: {{applicable_life_aspects}}
+
+->>>>
+
+Now, we have an introduction for our card analysis:
+
+Introduction:
+{{step_1}}
+
+Next, provide a description of the spread that was used during the reading. Remember to make use of the dynamic variable {{spread_description}} for this step.
+
+->>>>
+
+We have an introduction and a description of the spread used in the reading:
+
+Introduction:
+{{step_1}}
+
+Spread Description:
+{{step_2}}
+
+Next, we need to delve into the analysis of each card in its position within the spread. For each card, discuss the following:
+- The card symbolism, making use of the variable {{card_symbolism}}.
+- The implications of the card's upright or reversed position, using the variable {{card_position}}.
+- How the card's specific meaning is tied into the broader context of the reading, using the variable {{specific_card_context}}.
+
+->>>>
+
+Thus far in our card analysis, we have:
+
+Introduction:
+{{step_1}}
+
+Spread Description:
+{{step_2}}
+
+Individual Card Analysis:
+{{step_3}}
+
+Next, discuss how the cards interact within the spread and explain the combined meanings they form. Use the dynamic variable {{combined_card_meanings}} for this.
+
+->>>>
+
+So far, our card analysis has:
+
+Introduction:
+{{step_1}}
+
+Spread Description:
+{{step_2}}
+
+Individual Card Analysis:
+{{step_3}}
+
+Combined Card Meanings:
+{{step_4}}
+
+Now, we need to dedicate a portion of the analysis to the application of this Tarot reading to the querent's life or situation, taking into account the astrological correlations or metaphysical aspects of each card. Use the dynamic variable {{applicable_life_aspects}} for this.
+
+->>>>
+
+So far in the card analysis, we have:
+
+Introduction:
+{{step_1}}
+
+Spread Description:
+{{step_2}}
+
+Individual Card Analysis:
+{{step_3}}
+
+Combined Card Meanings:
+{{step_4}}
+
+Applicable Life Aspects:
+{{step_5}}
+
+Finally, conclude the analysis by recapping the overall message of the Tarot reading, keeping in mind the context in which the reading was done, which is detailed in the variable {{reading_context}} from step 1. Make sure to link the concluding message with all the aspects discussed in the previous steps.
+

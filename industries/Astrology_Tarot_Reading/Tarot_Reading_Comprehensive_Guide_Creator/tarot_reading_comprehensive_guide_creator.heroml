@@ -1,0 +1,91 @@
+Your task is to write a "Tarot Reading Guide" for the "Astrology & Tarot Reading" industry, specifically for a "Tarot Reader". 
+Let's begin by generating an overview that explains what tarot reading is and its relevance in contemporary society.
+
+Here's some more context about the Tarot Reading Guide:
+Tarot Overview: {{tarot_overview}}
+Guide Purpose: {{guide_purpose}}
+Card Meanings: {{card_meanings}}
+Reading Procedure: {{reading_procedure}}
+Quick Reference: {{quick_reference}}
+
+->>>>
+
+Our Tarot Reading Guide starts with an overview of what tarot reading is:
+
+Tarot Reading Overview:
+{{step_1}}
+
+Now, you need to write an introduction. In this introduction, discuss the purpose of your guide and indicate who it is intended for (e.g., beginners, intermediate, advanced tarot readers, etc.).
+
+->>>>
+
+For our Tarot Reading Guide, we have an overview, and an introduction:
+
+Tarot Reading Overview:
+{{step_1}}
+
+Guide Introduction:
+{{step_2}}
+
+Now that we've set the stage, let's include a brief historical background on tarot reading to establish its roots and significance in the Astrology & Tarot Reading industry.
+
+->>>>
+
+Our Tarot Reading Guide now has an introduction and a history of tarot reading:
+
+Guide Introduction:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Next, describe the structure of the Tarot deck. Highlight the elements of Major Arcana, Minor Arcana, and the suits (cups, swords, pentacles, and wands).
+
+->>>>
+
+For our Tarot Reading Guide, we have a history and a breakdown of the deck:
+
+Historical Background:
+{{step_3}}
+
+Deck Breakdown:
+{{step_4}}
+
+Now, for each card in the Tarot deck, provide its symbolic attributes, interpretations in both upright and reversed positions, and possible influences on a person's life based on the card's spiritual, emotional, mental, and physical indicators.
+
+->>>>
+
+Regarding our Tarot Reading Guide, we have a deck breakdown and detailed card meanings:
+
+Deck Breakdown:
+{{step_4}}
+
+Card Meanings:
+{{step_5}}
+
+Now let's discuss the importance and implication of different spread types used in Tarot reading (such as the three-card spread, Celtic Cross spread, etc.) and the significance of each position in the layout.
+
+->>>>
+
+Our Tarot Reading Guide contains detailed card meanings, as well as a discussion of spread types:
+
+Card Meanings:
+{{step_5}}
+
+Spread Types:
+{{step_6}}
+
+Next, provide a practical guide on how to perform a Tarot reading. This should include instructions on setting the environment, shuffling the cards, choosing the spread, laying out the cards, interpreting each card in its position, and synthesizing the reading as a whole.
+
+->>>>
+
+Concerning our Tarot Reading Guide, we have sections on spread types and a practical guide to reading:
+
+Spread Types:
+{{step_6}}
+
+Practical Guide to Reading:
+{{step_7}}
+
+Conclude the guide discussing the ethical considerations a Tarot reader needs to be aware of, including consent, confidentiality, and handling sensitive information.
+

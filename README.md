@@ -216,6 +216,9 @@ Explore these links to learn more about each app's functionality and to see thei
 * [Planetary Transit Astrology Advisor](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Numerology/Planetary_Transit_Astrology_Advisor)
 ## Astrology Tarot Reading
 
+* [Anonymized Tarot Reading Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Anonymized_Tarot_Reading_Generator)
 * [Astrologers Journey Content Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Astrologers_Journey_Content_Creator)
 * [Astrology Guide AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Astrology_Guide_AI_Creator)
 * [Horoscope Guide Wellness Advisor](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Horoscope_Guide_Wellness_Advisor)
+* [Tarot Analysis Personalized Insights AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Tarot_Analysis_Personalized_Insights_AI)
+* [Tarot Reading Comprehensive Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Tarot_Reading_Comprehensive_Guide_Creator)
