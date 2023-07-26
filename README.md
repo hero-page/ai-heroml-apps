@@ -227,6 +227,9 @@ Explore these links to learn more about each app's functionality and to see thei
 * [Tarot Reading Comprehensive Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Tarot_Reading_Comprehensive_Guide_Creator)
 ## Automotive Product Marketing
 
+* [AI Test Drive Experience Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/AI_Test_Drive_Experience_Creator)
 * [Automotive Marketing Competitive Analysis AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Marketing_Competitive_Analysis_AI)
 * [Automotive Product Email Campaign AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Product_Email_Campaign_AI)
+* [Automotive Social Post Strategizer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Social_Post_Strategizer)
 * [Automotive Specs AI for Marketers](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Specs_AI_for_Marketers)
+* [Vehicle Review Blog Post Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Vehicle_Review_Blog_Post_Creator)

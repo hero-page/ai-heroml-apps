@@ -1,0 +1,107 @@
+Your task is to write a "Test Drive Experience" for the "Automotive Product Marketing" industry, specifically for a "Content Creator". 
+
+Let's start by creating an informative introduction that introduces the car model: {{car_model}}. Discuss its market positioning, target audience, and key selling points.
+
+Here's some more context about the Test Drive Experience:
+Car Model: {{car_model}}
+Drive Setting: {{drive_setting}}
+
+->>>>
+
+Our "Test Drive Experience" opens with an informative introduction about the car model:
+
+Introduction:
+{{step_1}}
+
+Next, we need to describe the exterior design of the car model: {{car_model}}, focusing on its design philosophy, color options, and distinctive features.
+
+->>>>
+
+Now, we have a description of the exterior design of car model:
+
+Introduction:
+{{step_1}}
+
+Exterior Design:
+{{step_2}}
+
+Moving forward, let's describe the interior layout of the car model: {{car_model}}. This should include the seating and comfort levels, technology feature placements, and unique design elements.
+
+->>>>
+
+We have the exterior and interior descriptions ready for the car model:
+
+Exterior Design:
+{{step_2}}
+
+Interior Description:
+{{step_3}}
+
+Next, we need to set the stage for the test drive by presenting a drive setting scenario, such as urban, highway, or off-road.
+
+->>>>
+
+Our document now has a scenario for the test drive in the defined setting:
+
+Drive Setting:
+{{step_4}}
+
+Now, let's describe the performance of the car model: {{car_model}} during the test drive. Discuss the handling, acceleration, suspension, and braking performance.
+
+->>>>
+
+Our Test Drive Experience content now includes the performance details of car model during the test drive:
+
+Drive Setting:
+{{step_4}}
+
+Driving Performance:
+{{step_5}}
+
+Next, provide an overview explaining the safety features of the car model: {{car_model}}. Make sure to highlight any innovative technologies or industry leading safety measures.
+
+->>>>
+
+We have discussed the performance and safety details of the car model:
+
+Driving Performance:
+{{step_5}}
+
+Safety Features:
+{{step_6}}
+
+For our next step, let's present the fuel efficiency and sustainability features of the car model: {{car_model}}. Include details about mileage, CO2 emissions, and any eco-friendly particulars.
+
+->>>>
+
+We have analyzed the safety details and sustainability aspects of the car model:
+
+Safety Features:
+{{step_6}}
+
+Sustainability Features:
+{{step_7}}
+
+Now we need to discuss the pricing and warranty details of the car model: {{car_model}}. Emphasize the value proposition considering the features and driving experience.
+
+->>>>
+
+Our Test Drive Experience now has an evaluation of the price-value proposition for the car model:
+
+Sustainability Features:
+{{step_7}}
+
+Pricing and Warranty Details:
+{{step_8}}
+
+To conclude our Test Drive Experience, please provide a summary of how the car model: {{car_model}} performed in the driving setting: {{drive_setting}} and reiterate its key selling points.
+
+->>>>
+
+We have synthesized our observations into a conclusion for the Test Drive Experience:
+
+Conclusion:
+{{step_9}}
+
+To finish, we need to add a call-to-action, inviting prospective buyers to book their test drives for the car model: {{car_model}}.
+

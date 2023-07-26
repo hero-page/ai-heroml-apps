@@ -1,0 +1,99 @@
+Your task is to write a "Social Media Post" for the "Automotive Product Marketing" industry, specifically for a "Content Creator". Let's begin by creating a catchy opening line that grabs attention and hints at what the post is about, for the product: {{product}}.
+
+Here's some more context about the Social Media Post:
+Product: {{product}}
+Unique Selling Points: {{unique_selling_points}}
+Key Features: {{key_features}}
+Customer Reviews: {{customer_reviews}}
+Promotional Offers: {{promotional_offers}}
+Call To Action: {{call_to_action}}
+Upcoming Teaser: {{upcoming_teaser}}
+Dynamic Variables: {{dynamic_variables}}
+
+->>>>
+
+We're starting our post with a catchy opening line:
+
+Opening Line:
+{{step_1}}
+
+Next, write a concise introduction that showcases the unique selling point(s) of the product: {{unique_selling_points}}. Keep it engaging by bringing out the product's benefits in a conversational tone.
+
+->>>>
+
+Our "Social Media Post" will start with a catchy opening line and a compelling introduction:
+
+Opening Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, highlight key features of the product that make it stand out in the automotive industry: {{key_features}}. This should include technical details, performance characteristics, or any innovative aspects.
+
+->>>>
+
+In our "Social Media Post", we now have an engaging introduction and a highlight of the product's key features:
+
+Introduction:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Let's now add authenticity and trust around the product by incorporating customer testimonials or reviews if available: {{customer_reviews}}. Remember, real-world experiences with the product can highly influence the readers' perception.
+
+->>>>
+
+Our "Social Media Post" has an introduction, key features, and now customer reviews:
+
+Introduction:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Customer Reviews:
+{{step_4}}
+
+The next step is to share any ongoing promotions or special sales regarding the product that potential customers might want to know: {{promotional_offers}}.
+
+->>>>
+
+Our "Social Media Post" now has an introduction, key features, customer reviews, and promotional offers:
+
+Introduction:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Customer Reviews:
+{{step_4}}
+
+Promotional Offers:
+{{step_5}}
+
+Following that, engage the audience with a call-to-action: ask an engaging question or seek opinion, or direct them to the link for more info or to make a purchase: {{call_to_action}}.
+
+->>>>
+
+Our "Social Media Post" now includes an introduction, key features, customer reviews, promotional offers, and a call-to-action:
+
+Introduction:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Customer Reviews:
+{{step_4}}
+
+Promotional Offers:
+{{step_5}}
+
+Call-to-Action:
+{{step_6}}
+
+To conclude, let's finish up with a teaser for upcoming posts or products, keeping the audience curious and looking forward to more: {{upcoming_teaser}}.
+

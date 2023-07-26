@@ -1,0 +1,115 @@
+Your task is to write a "Vehicle Review Blog Post" for the "Automotive Product Marketing" industry, specifically for a "Content Creator". 
+
+First, let's craft an engaging introduction for the review, provide a brief overview of the vehicle, capturing the core essence of it and the purpose of the review.
+
+Here's some more context about the Vehicle Review Blog Post:
+Vehicle Brand: {{vehicle_brand}}
+Vehicle Type: {{vehicle_type}}
+Body Color: {{body_color}}
+Engine Spec: {{engine_spec}}
+Type Of Terrain: {{type_of_terrain}}
+Mpg: {{mpg}}
+Real World Mpg: {{real_world_mpg}}
+Price: {{price}}
+Similar Vehicle: {{similar_vehicle}}
+Price Difference Reasoning: {{price_difference_reasoning}}
+
+->>>>
+
+Now we have an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Next, provide a detailed description of the vehicle. This should encompass all key features like the body structure, engine specifications, interiors, safety features, technology, comfort, and more.
+
+->>>>
+
+We have both a captivating introduction and a detailed description of the vehicle: 
+
+Introduction:
+{{step_1}}
+
+Vehicle Description:
+{{step_2}}
+
+Now, give a thorough evaluation of the vehicle's performance. Include driving experience on different terrains, task performance for SUVs and trucks, or speed and acceleration data for sports cars.
+
+->>>>
+
+So far, we have an introduction, vehicle description, and a thorough performance evaluation:
+
+Introduction:
+{{step_1}}
+
+Vehicle Description:
+{{step_2}}
+
+Performance Evaluation:
+{{step_3}}
+
+Next, discuss the vehicle's fuel efficiency. Provide the manufacturer's declared mpg figures and real-life testing results (using the most relevant metrics in your market, such as miles per gallon (mpg), liters per 100km, etc.).
+
+->>>>
+
+We have an introduction, a detailed description, performance evaluation, and fuel efficiency details:
+
+Introduction:
+{{step_1}}
+
+Vehicle Description:
+{{step_2}}
+
+Performance Evaluation:
+{{step_3}}
+
+Fuel Efficiency:
+{{step_4}}
+
+Moving on, discuss the vehicle's pricing and value for money aspect. Compare its price with other vehicles in its class and discuss the reasoning behind the price differences.
+
+->>>>
+
+We now have an introduction, detailed description of the vehicle, performance evaluation, fuel efficiency details, and a pricing discussion:
+
+Introduction:
+{{step_1}}
+
+Vehicle Description:
+{{step_2}}
+
+Performance Evaluation:
+{{step_3}}
+
+Fuel Efficiency:
+{{step_4}}
+
+Price and Value Discussion:
+{{step_5}}
+
+Next, create a conclusive summary. Balance the strong and weak points of the vehicle, provide an overall impression, and mention whether you would recommend it and to whom it might be particularly advantageous.
+
+->>>>
+
+So far, we have an introduction, detailed description, performance evaluation, fuel efficiency details, a pricing discussion, and a conclusive summary:
+
+Introduction:
+{{step_1}}
+
+Vehicle Description:
+{{step_2}}
+
+Performance Evaluation:
+{{step_3}}
+
+Fuel Efficiency:
+{{step_4}}
+
+Price and Value Discussion:
+{{step_5}}
+
+Conclusive Summary:
+{{step_6}}
+
+Lastly, write a captivating conclusion where you remind the reader why this review is important and invite them to comment or share their thoughts on the vehicle. 
+
