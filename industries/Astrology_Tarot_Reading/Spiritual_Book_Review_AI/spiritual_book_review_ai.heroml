@@ -1,0 +1,154 @@
+Your task is to write a "Book Review" for the "Astrology & Tarot Reading" industry, specifically for a "Spiritual Blogger". 
+
+Start with an introduction providing some basic information about the book: 
+    - The title: {{book_title}}.
+    - The author: {{author_name}}.
+    - The genre: {{genre}}.
+
+Here's some more context about the Book Review:
+Book Title: {{book_title}}
+Author Name: {{author_name}}
+Genre: {{genre}}
+
+->>>>
+
+Now, you have introduced the book details:
+
+Book Details:
+{{step_1}}
+
+Next, give a brief overview of the plot of the book {{book_title}} without giving away any major spoilers.
+
+->>>>
+
+For a book review, you started with the book details:
+
+Book Details:
+{{step_1}}
+
+And further explained with a brief plot overview:
+
+Brief Plot Overview:
+{{step_2}}
+
+Next, discuss specific elements from the book that tie directly into astrology and tarot reading.
+
+->>>>
+
+In our book review, from:
+
+Book Details:
+{{step_1}}
+
+And a brief plot overview:
+
+Brief Plot Overview:
+{{step_2}}
+
+We now also have the elements that tie into astrology and tarot reading:
+
+Astrology & Tarot Connection:
+{{step_3}}
+
+The next step is to talk about the spiritual insights or lessons that can be derived from the book {{book_title}}. Discuss how the book explores or challenges spiritual beliefs and philosophies.
+
+->>>>
+
+The book review includes these already:
+
+Book Details:
+{{step_1}}
+
+Brief Plot Overview:
+{{step_2}}
+
+Astrology & Tarot Connection:
+{{step_3}}
+
+Now, add the spiritual insights from the book:
+
+Spiritual Insights:
+{{step_4}}
+
+Critically analyze the content next. Answer the following questions: 
+    - Did the author {{author_name}} present the topic in an understandable way?
+    - Did the book {{book_title}} provide any new insights or perspectives on astrology, tarot, or spirituality in general?
+
+->>>>
+
+We are analyzing the book based on:
+
+Book Details:
+{{step_1}}
+
+Brief Plot Overview:
+{{step_2}}
+
+Astrology & Tarot Connection:
+{{step_3}}
+
+Spiritual Insights:
+{{step_4}}
+
+The critical analysis is as follows:
+
+Critical Analysis:
+{{step_5}}
+
+Note the writing style of the author {{author_name}}, the structure of the book, the pacing, and the quality of the prose next.
+
+->>>>
+
+With all the basics outlined:
+
+Book Details:
+{{step_1}}
+
+Brief Plot Overview:
+{{step_2}}
+
+Astrology & Tarot Connection:
+{{step_3}}
+
+Spiritual Insights:
+{{step_4}}
+
+Critical Analysis:
+{{step_5}}
+
+We now have an analysis of the writing style, structure, pacing, and prose quality:
+
+Writing Analysis:
+{{step_6}}
+
+Explore how the book {{book_title}} could be interesting to your blog readers. What can they gain from reading this book?
+
+->>>>
+
+So far in the review:
+
+Book Details:
+{{step_1}}
+
+Brief Plot Overview:
+{{step_2}}
+
+Astrology & Tarot Connection:
+{{step_3}}
+
+Spiritual Insights:
+{{step_4}}
+
+Critical Analysis:
+{{step_5}}
+
+Writing Analysis:
+{{step_6}}
+
+We also have the relevance of this book to your blog readers:
+
+Relevance to Readers:
+{{step_7}}
+
+Conclude your review with a rating on a scale you typically use or a recommendation as to who might enjoy the book and why. You might also mention potential trigger warnings for sensitive content if necessary.
+

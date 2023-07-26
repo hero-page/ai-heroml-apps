@@ -1,0 +1,68 @@
+Your task is to write an "Email Campaign" for the "Automotive Product Marketing" industry, specifically for a "Product Marketer". 
+
+Let's start by crafting a compelling subject line that sparks curiosity about the automotive product: {{product_name}}.
+
+Here's some more context about the Email Campaign:
+Product Name: {{product_name}}
+Product Benefits And Features: {{product_benefits_and_features}}
+Relevant Promotion Or Incentive: {{relevant_promotion_or_incentive}}
+Customer Testimonials Or Case Studies: {{customer_testimonials_or_case_studies}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+We're developing an "Email Campaign" for a "Product Marketer" in the "Automotive Product Marketing" industry:
+
+Subject Line:
+{{step_1}}
+
+Next, let's write an introduction that creates excitement or interest around the {{product_name}}, detailing its unique benefits and features: {{product_benefits_and_features}}.
+
+->>>>
+
+Our email campaign for the "Product Marketer" now has a compelling subject line and introduction:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+The next task is to provide more detail about the {{product_name}}, including its specifications, and the problem it solves in the automotive industry. Make sure to highlight the links between the product and the needs of the automotive market.
+
+->>>>
+
+Building the "Email Campaign", we now have a detailed introduction and descriptions about the {{product_name}}:
+
+Introduction:
+{{step_2}}
+
+Product Description:
+{{step_3}}
+
+Up next, let's introduce a promotion or incentive (if applicable) that encourages potential customers to learn more about the {{product_name}}. Ensure to focus on industry-specific benefits such as fuel efficiency, enhanced performance, or sustainability.
+
+->>>>
+
+Our "Email Campaign", so far, consists of a product description and a promotion or incentive:
+
+Product Description:
+{{step_3}}
+
+Promotion/Incentive:
+{{step_4}}
+
+Now, it's time to highlight customer testimonials or case studies that showcase the positive experiences of other users with the {{product_name}} in the automotive industry.
+
+->>>>
+
+Our email campaign now has a compelling incentive and customer testimonials or case studies:
+
+Promotion/Incentive:
+{{step_4}}
+
+Testimonials/Case studies:
+{{step_5}}
+
+We're almost done. Let's conclude the email with a clear call-to-action, directing recipients to where they can inquire about, or purchase the {{product_name}}. 
+

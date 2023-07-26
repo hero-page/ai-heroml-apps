@@ -217,8 +217,16 @@ Explore these links to learn more about each app's functionality and to see thei
 ## Astrology Tarot Reading
 
 * [Anonymized Tarot Reading Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Anonymized_Tarot_Reading_Generator)
+* [AstroTarot Interview AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/AstroTarot_Interview_AI_Composer)
 * [Astrologers Journey Content Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Astrologers_Journey_Content_Creator)
 * [Astrology Guide AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Astrology_Guide_AI_Creator)
 * [Horoscope Guide Wellness Advisor](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Horoscope_Guide_Wellness_Advisor)
+* [Spiritual Book Review AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Spiritual_Book_Review_AI)
+* [Spiritual Journey TarotAstrology Blogger](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Spiritual_Journey_TarotAstrology_Blogger)
 * [Tarot Analysis Personalized Insights AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Tarot_Analysis_Personalized_Insights_AI)
 * [Tarot Reading Comprehensive Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Astrology_Tarot_Reading/Tarot_Reading_Comprehensive_Guide_Creator)
+## Automotive Product Marketing
+
+* [Automotive Marketing Competitive Analysis AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Marketing_Competitive_Analysis_AI)
+* [Automotive Product Email Campaign AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Product_Email_Campaign_AI)
+* [Automotive Specs AI for Marketers](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Automotive_Product_Marketing/Automotive_Specs_AI_for_Marketers)

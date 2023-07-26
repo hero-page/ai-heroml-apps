@@ -1,0 +1,49 @@
+name: Pull Request Check
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Check PR
+      run: |
+        # Get the list of added, modified, renamed, or deleted files
+        ADDED_FILES=$(git diff --name-only --diff-filter=A HEAD~1)
+        MODIFIED_FILES=$(git diff --name-only --diff-filter=M HEAD~1)
+        RENAMED_FILES=$(git diff --name-only --diff-filter=R HEAD~1)
+        DELETED_FILES=$(git diff --name-only --diff-filter=D HEAD~1)
+
+        # Concatenate all changes
+        ALL_CHANGES="$ADDED_FILES$MODIFIED_FILES$RENAMED_FILES$DELETED_FILES"
+
+        # Check that all changes are within the 'industries' directory
+        if echo "$ALL_CHANGES" | grep -qv "^industries/"; then
+          echo "Error: All changes should be within the 'industries' directory"
+          exit 1
+        fi
+
+        # Check that all changes are within the same app
+        APPS=$(echo "$ALL_CHANGES" | awk -F/ '{print $2"/"$3"/"$4}' | sort -u)
+        APP_COUNT=$(echo "$APPS" | wc -l)
+        if (( APP_COUNT > 1 )); then
+          echo "Error: More than one app has been changed"
+          exit 1
+        fi
+
+        # Check that config.json is not changed
+        if echo "$MODIFIED_FILES" | grep -q "config.json"; then
+          echo "Error: config.json should not be changed"
+          exit 1
+        fi
+
+        # Check that no files are added, deleted or renamed
+        if [[ -n "$ADDED_FILES" || -n "$DELETED_FILES" || -n "$RENAMED_FILES" ]]; then
+          echo "Error: No files should be added, deleted or renamed"
+          exit 1
+        fi

@@ -1,0 +1,204 @@
+Your task is to write a "Competitive Analysis" for the "Automotive Product Marketing" industry for a "Product Marketer". 
+
+Start with the creation of an executive summary, which provides a brief overview of the content that the report will include.
+
+Here's some more context about the Competitive Analysis:
+Executive Summary: {{executive_summary}}
+Product Background: {{product_background}}
+Marketer Requirements: {{marketer_requirements}}
+Purpose: {{purpose}}
+Competitor Products: {{competitor_products}}
+Competitor Marketing Strategies: {{competitor_marketing_strategies}}
+Product Vs Competitors: {{product_vs_competitors}}
+Recommendations: {{recommendations}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+With our executive summary at hand:
+
+Executive Summary:
+{{step_1}}
+
+It's time to write an introduction that explains the background of the automotive product to be marketed, the requirements of the product marketer, and the purpose of this report.
+
+->>>>
+
+Now our report has an executive summary and an introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, identify the key competitors and their products in the automotive industry. Provide an in-depth analysis of each competitor's product, focusing on factors such as price, performance, unique selling points, market share, customer base, and user reviews.
+
+->>>>
+
+We have an executive summary, introduction, and analysis of competitors' products for our report:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Competitor Products Analysis:
+{{step_3}}
+
+Let's proceed by analyzing the marketing strategies of the competitors' products. Consider aspects like distribution channels, advertising methods, brand positioning, pricing strategies, and customer relationship management practices.
+
+->>>>
+
+Moving forward in our report, we have analyzed the competitor's marketing strategies:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Competitor Products Analysis:
+{{step_3}}
+
+Competitor Marketing Strategies Analysis:
+{{step_4}}
+
+Now, examine the external environment of the market using a PESTEL analysis model, which covers the political, economic, social, technological, environmental, and legal factors impacting the automotive industry.
+
+->>>>
+
+We have further expanded our report with a PESTEL analysis:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Competitor Products Analysis:
+{{step_3}}
+
+Competitor Marketing Strategies Analysis:
+{{step_4}}
+
+PESTEL Analysis:
+{{step_5}}
+
+Next, evaluate the competitive positioning of the product marketer's product in relation to the competitors' products. Discuss strengths, weaknesses, opportunities, and threats (SWOT analysis).
+
+->>>>
+
+After our analysis, we now have a SWOT analysis:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Competitor Products Analysis:
+{{step_3}}
+
+Competitor Marketing Strategies Analysis:
+{{step_4}}
+
+PESTEL Analysis:
+{{step_5}}
+
+SWOT Analysis:
+{{step_6}}
+
+Further elaborate the analysis by suggesting industry-specific factors related to automotive product marketing such as technology trends, environmental regulations, fuel economy standards, or electric vehicle adoption rates.
+
+->>>>
+
+With the inclusion of industry-specific factors, our report is becoming increasingly comprehensive:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Competitor Products Analysis:
+{{step_3}}
+
+Competitor Marketing Strategies Analysis:
+{{step_4}}
+
+PESTEL Analysis:
+{{step_5}}
+
+SWOT Analysis:
+{{step_6}}
+
+Industry-Specific Factors:
+{{step_7}}
+
+Let's add a comparative discussion on how the product marketer's product stands against each competitor's product, considering its competitive advantages and areas for improvement.
+
+->>>>
+
+Now, our report includes a comparison of the product marketer's product against competitor products:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Competitor Products Analysis:
+{{step_3}}
+
+Competitor Marketing Strategies Analysis:
+{{step_4}}
+
+PESTEL Analysis:
+{{step_5}}
+
+SWOT Analysis:
+{{step_6}}
+
+Industry-Specific Factors:
+{{step_7}}
+
+Product Vs Competitor Products:
+{{step_8}}
+
+Let's build on this analysis and recommend action plans for the product marketing strategy based on the collected insights. These can be ways to exploit the competitors' weaknesses, buffer against threats, capitalize on opportunities, or improve the product's weaknesses.
+
+->>>>
+
+Incorporating our suggested actions, our competitive analysis now comprises:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Competitor Products Analysis:
+{{step_3}}
+
+Competitor Marketing Strategies Analysis:
+{{step_4}}
+
+PESTEL Analysis:
+{{step_5}}
+
+SWOT Analysis:
+{{step_6}}
+
+Industry-Specific Factors:
+{{step_7}}
+
+Product Vs Competitor Products:
+{{step_8}}
+
+Recommended Actions:
+{{step_9}}
+
+Finally, let's tie it all together with a conclusion that encapsulates the main points of the analysis, restates its purpose, and proves its relevance and utility for the product marketer.
+

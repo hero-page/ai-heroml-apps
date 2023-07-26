@@ -1,0 +1,69 @@
+Your task is to write a "Product Specifications" for the "Automotive Product Marketing" industry, specifically for a "Product Marketer".
+
+Let's start by creating an introductory section for the product specifications, where we explain the car model: {{car_model}}.
+
+Here's some more context about the Product Specifications:
+Car Model: {{car_model}}
+Physical Characteristics: {{physical_characteristics}}
+Technical Specifications: {{technical_specifications}}
+Interior Features: {{interior_features}}
+Warranty Service: {{warranty_service}}
+Unique Selling Points: {{unique_selling_points}}
+
+->>>>
+
+Our introductory section for the "Product Specifications" now provides an explanation for the car model:
+
+Introduction:
+{{step_1}}
+
+Next, outline the physical characteristics of the car, detailing elements such as size, weight, color options, and type (SUV, Sedan, sports, etc).
+
+->>>>
+
+The details about the car model are as follows:
+
+Introduction:
+{{step_1}}
+
+Physical Characteristics:
+{{step_2}}
+
+Continuing on, let's write a section covering the key technical aspects such as engine type, horsepower, fuel efficiency, type of transmission, and safety features.
+
+->>>>
+
+The physical and technical aspects of the car model are as follows:
+
+Physical Characteristics:
+{{step_2}}
+
+Technical Specifications:
+{{step_3}}
+
+Next, dedicate a section to interior and comfort features such as the seating material, infotainment system, air conditioning, passenger capacity, and cargo space.
+
+->>>>
+
+The technical specifications and interior features of the car model are:
+
+Technical Specifications:
+{{step_3}}
+
+Interior and Comfort Features:
+{{step_4}}
+
+Now, include a section on warranty information and after-sales service offers. Detail the warranty period, what it includes, and any extra benefits the buyer would receive.
+
+->>>>
+
+The interior features and warranty information of the car model are as follows:
+
+Interior and Comfort Features:
+{{step_4}}
+
+Warranty and Service Offers:
+{{step_5}}
+
+Lastly, wrap up the "Product Specifications" by highlighting the unique selling points that set the vehicle apart from its competitors in the market. These features could include groundbreaking technology, superior comfort, unrivaled performance, or cost-effectiveness. 
+
