@@ -1,0 +1,110 @@
+Your task is to write a game review for the Board Games & Tabletop RPGs industry, specifically for a board game blogger. We'll start with an introduction to entice the reader about the game, {{game_name}}.
+
+Here's some more context about the Game Review:
+Game Name: {{game_name}}
+
+->>>>
+
+Now we have a captivating introduction for our board game review:
+
+Introduction:
+{{step_1}}
+
+Next, we will provide basic information about {{game_name}}, such as the designer, publisher, number of players, game duration, and difficulty level.
+
+->>>>
+
+Basic information about {{game_name}} is provided:
+
+Introduction:
+{{step_1}}
+
+Game Information:
+{{step_2}}
+
+Now, let's create a section that elaborates on the game components and setup, depicting the quality of game pieces, ease of setup, and space requirement.
+
+->>>>
+
+We now have a description of the game components and setup:
+
+Game Information:
+{{step_2}}
+
+Game Components and Setup:
+{{step_3}}
+
+Next, we need to provide a summary of the gameplay. The focus will not be on step-by-step rules, but rather on giving an impression of the flow and dynamism of {{game_name}}.
+
+->>>>
+
+We now have a brief summary of the gameplay:
+
+Game Components and Setup:
+{{step_3}}
+
+Gameplay Summary:
+{{step_4}}
+
+Following this, analyze the game mechanics and the core elements of gameplay of {{game_name}}, discussing strategies, balancing, player interaction, randomness, and replayability.
+
+->>>>
+
+We have now analyzed the game mechanics of {{game_name}}:
+
+Gameplay Summary:
+{{step_4}}
+
+Game Mechanics Analysis:
+{{step_5}}
+
+Let's now incorporate a section on 'Gameplay Highlights', where we focus on memorable moments, clever maneuvers, or engaging situations encountered while playing {{game_name}}.
+
+->>>>
+
+We now have a section focusing on gameplay highlights:
+
+Game Mechanics Analysis:
+{{step_5}}
+
+Gameplay Highlights:
+{{step_6}}
+
+Next, assess the visual aesthetics and theme of {{game_name}}, addressing the artistic appeal, the coherence of design with the game's theme, and how well the theme is integrated into the gameplay.
+
+->>>>
+
+We have now assessed the visual aesthetics and theme of {{game_name}}:
+
+Gameplay Highlights:
+{{step_6}}
+
+Visual Aesthetics and Theme Assessment:
+{{step_7}}
+
+Moving on, we'll discuss comparable games to {{game_name}}, indicating how they are similar or different, and recommending {{game_name}} for the fans of these games.
+
+->>>>
+
+Here are comparable games to {{game_name}}:
+
+Visual Aesthetics and Theme Assessment:
+{{step_7}}
+
+Comparable Games:
+{{step_8}}
+
+Next, provide a clear evaluation and rating of {{game_name}}, taking into consideration all the aspects of the game we have discussed.
+
+->>>>
+
+Our evaluation and rating of {{game_name}} is here:
+
+Comparable Games:
+{{step_8}}
+
+Game Evaluation and Rating:
+{{step_9}}
+
+Finally, lets include a 'Verdict' section that summarizes your key observations and provides a final recommendation, addressing if {{game_name}} is worth adding to a reader's game collection. 
+

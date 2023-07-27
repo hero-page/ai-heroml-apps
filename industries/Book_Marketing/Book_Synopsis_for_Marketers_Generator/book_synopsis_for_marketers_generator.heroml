@@ -1,0 +1,59 @@
+Your task is to write a "Book Synopsis" for the "Book Marketing" industry, specifically for a "Product Marketer".
+Let's start by creating a compelling introduction that teases the key themes of the book: {{book_themes}}.
+
+Here's some more context about the Book Synopsis:
+Book Themes: {{book_themes}}
+Author Details: {{author_details}}
+Book Objective: {{book_objective}}
+Book Narrative: {{book_narrative}}
+Book Benefits: {{book_benefits}}
+Closing Statement: {{closing_statement}}
+
+->>>>
+
+We are creating a synopsis designed for a "Product Marketer" and we have crafted a compelling introduction that teases the key themes of the book:
+
+Introduction:
+{{step_1}}
+
+Next, introduce the author, including their credentials, and any previous works that may lend credibility: {{author_details}}.
+
+->>>>
+
+Our "Book Synopsis" so far includes anintroduction and information about the author:
+
+Introduction:
+{{step_1}}
+
+Author Information:
+{{step_2}}
+
+Moving on, we need to identify the book's primary objective or purpose that will resonate with the readers: {{book_objective}}.
+
+->>>>
+
+In our "Book Synopsis", we have the introduction, author information, and the book's primary objective:
+
+Introduction:
+{{step_1}}
+
+Author Information:
+{{step_2}}
+
+Book's Primary Objective:
+{{step_3}}
+
+Now, let's present a condensed narrative of the book, including key plot points or ideas, without revealing any major spoilers: {{book_narrative}}.
+
+->>>>
+
+In our synopsis, we have detailed the book's primary objective and a condensed narrative:
+
+Book's Primary Objective:
+{{step_3}}
+
+Book's Condensed Narrative:
+{{step_4}}
+
+Next, focus on the unique selling points of the book and its potential benefits for a product marketer, including specific insights, tools or strategies covered in the book, or key takeaways for the reader: {{book_benefits}}.
+

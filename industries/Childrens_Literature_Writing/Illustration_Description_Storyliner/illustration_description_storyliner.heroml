@@ -1,0 +1,63 @@
+Start by setting the scene. Describe the overall context and environment for the "Illustration Description" in the "Children's Literature Writing" industry. This description should specifically cater to a "Author". 
+
+Here's some more context about the Illustration Description:
+Setting: {{setting}}
+Character Description: {{character_description}}
+Action Description: {{action_description}}
+Object Description: {{object_description}}
+Relation To Plot: {{relation_to_plot}}
+
+->>>>
+
+With the following scene set:
+
+Scene Description: 
+{{step_1}}
+
+Now, elaborate on the characters present in this scene. Focus on their appearances, special features, or expressions.
+
+->>>>
+
+In our "Illustration Description", we now have a detailed scene and character descriptions:
+
+Scene Description: 
+{{step_1}}
+
+Character Description: 
+{{step_2}}
+
+Now, emphasize the action taking place in the scene. It could be a significant event, a character's movement, or anything of importance related to the plot of your story.
+
+->>>>
+
+In our "Illustration Description", we have a scene, character descriptions, and the action unfolding:
+
+Scene Description: 
+{{step_1}}
+
+Character Description: 
+{{step_2}}
+
+Action Description: 
+{{step_3}}
+
+Next, give a detailed description of any important objects or elements present in your scene. Explain their significance to the storyline.
+
+->>>>
+
+In our "Illustration Description", we have the scene, characters, actions and now, the important objects or elements:
+
+Scene Description: 
+{{step_1}}
+
+Character Description: 
+{{step_2}}
+
+Action Description: 
+{{step_3}}
+
+Object/Element Description:
+{{step_4}}
+
+Now, conclude the description by relating it back to the plot of the story. This helps give the illustration a sense of continuity and relevance.
+

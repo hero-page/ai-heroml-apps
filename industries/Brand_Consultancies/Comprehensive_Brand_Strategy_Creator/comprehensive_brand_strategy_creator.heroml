@@ -1,0 +1,80 @@
+Your task is to write a "Brand Strategy" for the "Brand Consultancies" industry, specifically for a "Brand Strategist". Let's begin by creating an executive summary that provides an overview of your brand strategy: {{brand_strategy_overview}}.
+
+Here's some more context about the Brand Strategy:
+Brand Strategy Overview: {{brand_strategy_overview}}
+Business Context: {{business_context}}
+Brand Identity: {{brand_identity}}
+Audience Traits: {{audience_traits}}
+Brand Communication Strategy: {{brand_communication_strategy}}
+Competitive Landscape: {{competitive_landscape}}
+Implementation Plan: {{implementation_plan}}
+
+->>>>
+
+The executive summary of our brand strategy is complete:
+
+Executive Summary:
+{{step_1}}
+
+Next, please craft an introduction that sets the {{business_context}} and clearly defines the brand objectives concerning the overall business goals.
+
+->>>>
+
+With the executive summary and introduction in place, we now have:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Following this, let's elaborate on our understanding of the brand identity. This should comprise of the brand promise, values, personality, and position, centering around the brand's unique selling proposition: {{brand_identity}}.
+
+->>>>
+
+So far, we have developed the following elements of the brand strategy:
+
+Introduction:
+{{step_2}}
+
+Brand Identity:
+{{step_3}}
+
+Now we need to outline the target audience or market segment the brand is aiming for, including specific demographic, psychographic, and behavioral traits: {{audience_traits}}.
+
+->>>>
+
+Having outlined the target audience, our brand strategy currently comprises of:
+
+Brand Identity:
+{{step_3}}
+
+Target Audience:
+{{step_4}}
+
+Next, please articulate a comprehensive plan about brand communication, growth, and engagement, detailing how the brand will communicate its values and promises to the audience, including preferred channels and tactics: {{brand_communication_strategy}}.
+
+->>>>
+
+So far, the pillars of our brand strategy are:
+
+Target Audience:
+{{step_4}}
+
+Brand Communication Strategy:
+{{step_5}}
+
+Now, it's time to analyze and describe the competitive landscape in detail, identifying the main competitors and differentiating factors that set our brand apart: {{competitive_landscape}}.
+
+->>>>
+
+After identifying the competition, our brand strategy is now comprised of:
+
+Brand Communication Strategy:
+{{step_5}}
+
+Competitive Landscape:
+{{step_6}}
+
+Next, let's propose specific key performance indicators (KPIs) that align with the brand objectives to measure the effectiveness of the brand strategy.
+

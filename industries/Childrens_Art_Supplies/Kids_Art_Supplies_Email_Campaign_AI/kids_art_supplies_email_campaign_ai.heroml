@@ -1,0 +1,91 @@
+Let's create an "Email Campaign" in the "Children's Art Supplies" industry for a "Product Marketer". 
+Firstly, draft a clear and concise subject line that hints at the main information and benefits your specified {{product_name}} offers.
+
+Here's some more context about the Email Campaign:
+Product Name: {{product_name}}
+Recipient Name: {{recipient_name}}
+Promotion Name: {{promotion_name}}
+Testimonial Segment: {{testimonial_segment}}
+CTA Link: {{CTA_link}}
+
+->>>>
+
+Great, now we have a compelling subject line for our "Email Campaign":
+
+Subject Line:
+{{step_1}}
+
+Next, let’s compose a warm and personal greeting, introducing the email to the recipient by addressing them directly with (Hello, {{recipient_name}}).
+
+->>>>
+
+With a warm greeting in place:
+
+Greeting:
+{{step_2}}
+
+Let's provide the background or the context in which your product is relevant. Now, introduce your {{product_name}}, highlighting its unique selling proposition in a manner both kid-friendly and approved by parents.
+
+->>>>
+
+We've established our product's relevance and highlighted its unique selling points:
+
+Context and Product Introduction:
+{{step_3}}
+
+Next, outline the individual features of the {{product_name}} and explain their respective benefits. Make sure to include industry-specific information regarding the product's safety aspects, creativity potential, and educational value.
+
+->>>>
+
+With the unique features and benefits of the product defined:
+
+Product Features and Benefits:
+{{step_4}}
+
+If there are any special offers or promotions tied to the {{product_name}}, let's briefly introduce them. This could include offering discounts, bundle deals, or referral benefits.
+
+->>>>
+
+We've laid out the special offers and promotions for our product:
+
+Special Offers and Promotions:
+{{step_5}}
+
+Next, include positive feedback or testimonials related to the {{product_name}} from customers to boost credibility.
+
+->>>>
+
+Our email campaign now includes testimonials that speak to our product's credibility:
+
+Testimonials and Feedback:
+{{step_6}}
+
+Let's conclude the email with a compelling call to action (CTA) encouraging recipients to either buy your product or learn more about it.
+
+->>>>
+
+We've ended the email with a convincing call to action (CTA):
+
+Call to Action (CTA):
+{{step_7}}
+
+Now, write a friendly closing thanking the reader for their time and consideration. Make sure to include your name and contact information.
+
+->>>>
+
+Our email now has a courteous closing:
+
+Closing:
+{{step_8}}
+
+If relevant, add a P.S. section to reiterate a key point like the urgency of a limited time promotion.
+
+->>>>
+
+We've reinforced a key point in the P.S. section:
+
+Postscript:
+{{step_9}}
+
+Lastly, include the necessary legal information and provide an option for the recipient to unsubscribe from future emails.
+

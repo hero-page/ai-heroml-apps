@@ -1,0 +1,88 @@
+Your task is to write a "Product Description" for the "Cannabis Industry" industry, specifically for a "Dispensary Manager". 
+
+Let's start by an engaging introduction that captures the unique selling point of the product: {{product_unique_selling_point}}.
+
+Here's some more context about the Product Description:
+Product Unique Selling Point: {{product_unique_selling_point}}
+Product Type: {{product_type}}
+Product Characteristics: {{product_characteristics}}
+Product Effects: {{product_effects}}
+Medical Benefits: {{medical_benefits}}
+Recommended Use: {{recommended_use}}
+Product Pricing: {{product_pricing}}
+
+->>>>
+
+With the introduction of our product description, we have outlined the unique selling point:
+
+Unique Selling Point:
+{{step_1}}
+
+Next, provide a brief overview about the strain or product type: {{product_type}}. This should be specific and detailed, covering the cannabis strain information or product function.
+
+->>>>
+
+With the unique selling point and a detailed strain or product information in place, we have:
+
+Unique Selling Point:
+{{step_1}}
+
+Strain or Product Type Information:
+{{step_2}}
+
+Now, describe the basic characteristics of the item in question, including the appearance, color, texture, and scent: {{product_characteristics}}.
+
+->>>>
+
+So far for the product description, we have gathered information about its unique selling point, strain or product type, and now its basic characteristics:
+
+Unique Selling Point:
+{{step_1}}
+
+Strain or Product Type Information:
+{{step_2}}
+
+Product Characteristics:
+{{step_3}}
+
+Proceed to describe the physical and mental effects to be expected from the product. This provides potential consumers with transparency and a clear outline of their potential experience: {{product_effects}}.
+
+->>>>
+
+For our product description, we have detailed the unique selling point, strain or product type, its characteristics, and now effects of usage:
+
+Unique Selling Point:
+{{step_1}}
+
+Product Characteristics:
+{{step_3}}
+
+Product Effects:
+{{step_4}}
+
+After detailing the product's effects, it'll be imperative to add any medicinal benefits, if any. This could include relief from ailments or symptoms: {{medical_benefits}}.
+
+->>>>
+
+In our product description, we have defined the product's effects and medicinal benefits:
+
+Product Effects:
+{{step_4}}
+
+Medicinal Benefits:
+{{step_5}}
+
+Let's include information on the recommended time of use (morning, afternoon, evening) and the right consumption method which enhances the product experience: {{recommended_use}}.
+
+->>>>
+
+So far in our product description, we have detailed the product's medicinal benefits along with recommended time of use and consumption method:
+
+Medicinal Benefits:
+{{step_5}}
+
+Recommended Use and Consumption Method:
+{{step_6}}
+
+Finally, conclude the product description by imparting the pricing information and the available quantity: {{product_pricing}}. Make sure all provided information is accurate and compliant with all regulations.
+

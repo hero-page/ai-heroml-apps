@@ -1,0 +1,111 @@
+Write a game review for the Board Games & Tabletop RPGs industry, specifically for a Game Designer. Let's start with an engaging introduction about the game being reviewed.
+
+Here's some more context about the Game Review:
+Game Description: {{game_description}}
+Game Design Details: {{game_design_details}}
+Artwork And Theme: {{artwork_and_theme}}
+Gameplay Mechanics: {{gameplay_mechanics}}
+Game Originality: {{game_originality}}
+Game Replayability: {{game_replayability}}
+Improvement Suggestions: {{improvement_suggestions}}
+Game Summary: {{game_summary}}
+
+->>>>
+
+This is the introduction for our game review:
+
+Introduction:
+{{step_1}}
+
+Next, let's elaborate on the game's design, focusing on elements that would intrigue a Game Designer.
+
+->>>>
+
+So far, we have an introduction and details on the game's design:
+
+Introduction:
+{{step_1}}
+
+Game's Design Details:
+{{step_2}}
+
+Now, we should delve into the artwork, theme, and aesthetics of the game, and how they influence the player's experience.
+
+->>>>
+
+At this point, we have information on the artwork, theme and aesthetics:
+
+Introduction:
+{{step_1}}
+
+Game's Design Details:
+{{step_2}}
+
+Artwork and Theme:
+{{step_3}}
+
+Next, talk about the gameplay mechanics. Explain how the game's rules, player interactions, and system complexity operate.
+
+->>>>
+
+It's time to look at what we have on gameplay mechanics:
+
+Introduction:
+{{step_1}}
+
+Game's Design Details:
+{{step_2}}
+
+Artwork and Theme:
+{{step_3}}
+
+Gameplay Mechanics:
+{{step_4}}
+
+Moving forward, let's analyze and discuss the game's originality. Compare it to other similar games in the industry and highlight what sets it apart.
+
+->>>>
+
+Now, let's see the game's originality:
+
+Introduction:
+{{step_1}}
+
+Gameplay Mechanics:
+{{step_4}}
+
+Game Originality:
+{{step_5}}
+
+Next on our list is to evaluate the game's replayability. Comment on the variety, depth, and enjoyment found in repeated plays.
+
+->>>>
+
+Here's what we have about the game's replayability:
+
+Introduction:
+{{step_1}}
+
+Game Originality:
+{{step_5}}
+
+Game Replayability:
+{{step_6}}
+
+To make this review beneficial for a Game Designer, let's highlight some ways to improve the game. Suggest tweaks that could enhance its appeal and gameplay.
+
+->>>>
+
+Now, let's look at the section that provides suggestions for improvement:
+
+Introduction:
+{{step_1}}
+
+Game Replayability:
+{{step_6}}
+
+Improvement Suggestions:
+{{step_7}}
+
+For our final step, let's summarize the review. Highlight the game's primary merits and drawbacks along with its relevance and impact on the industry.
+

@@ -1,0 +1,109 @@
+Let's start creating a Design Brief for a Graphic Designer in the Brand Consultancies industry. First, articulate the project's objective:
+
+- Define the purpose of the project: {{project_purpose}}.
+- Introduce the brand: {{brand_name}}.
+- Discuss the brand's visual identity history, if any.
+
+Here's some more context about the Design Brief:
+Project Purpose: {{project_purpose}}
+Brand Name: {{brand_name}}
+Brand Attributes: {{brand_attributes}}
+Target Audience: {{target_audience}}
+Design Tasks: {{design_tasks}}
+Brand Elements: {{brand_elements}}
+Industry Trends: {{industry_trends}}
+Competitor Brands: {{competitor_brands}}
+Project Timeline: {{project_timeline}}
+Contact Info: {{contact_info}}
+
+->>>>
+
+We initiated the Design Brief, and have determined the project's objective:
+
+Project Overview:
+{{step_1}}
+
+Now, let's elaborate on the brand's identity as follows:
+
+- Describe the brand's attributes: {{brand_attributes}}.
+- Discuss the target audience: {{target_audience}}.
+
+->>>>
+
+We're working towards the completion of our design brief. So far, we have:
+
+Project Overview:
+{{step_1}}
+
+Brand Identity:
+{{step_2}}
+
+Moving forward, outline the specific tasks that the graphic designer is expected to undertake:
+
+- What are the designer's tasks?
+- Specify any color schemes, typography or elements the brand desires: {{brand_elements}}.
+
+->>>>
+
+We are putting together a comprehensive Design Brief. Here's what we have so far:
+
+Project Overview:
+{{step_1}}
+
+Brand Identity:
+{{step_2}}
+
+Project Tasks:
+{{step_3}}
+
+Next, let's address the specifics of the 'Brand Consultancies' industry:
+
+- Discuss any trends, standards or norms specific to the industry: {{industry_trends}}.
+- Detail competitor brands' visual identities, if relevant: {{competitor_brands}}.
+
+->>>>
+
+Our design brief has advanced, and we have now included industry-specific details:
+
+Project Overview:
+{{step_1}}
+
+Brand Identity:
+{{step_2}}
+
+Project Tasks:
+{{step_3}}
+
+Industry Specifics:
+{{step_4}}
+
+Next, specify the logistics and deliverables for the project:
+
+- Detail the intended platforms or mediums of the designs.
+- Provide a timeline for project completion, with significant milestones: {{project_timeline}}.
+- Indicate if there are rounds of revisions and how many.
+
+->>>>
+
+We are almost done with the Design Brief. Here are our points to date:
+
+Project Overview:
+{{step_1}}
+
+Brand Identity:
+{{step_2}}
+
+Project Tasks:
+{{step_3}}
+
+Industry Specifics:
+{{step_4}}
+
+Logistics and Deliverables:
+{{step_5}}
+
+To conclude the brief, provide the contact and feedback mechanisms, which include:
+
+- The contact information of the person providing feedback between the designer and the brand: {{contact_info}}.
+- Preferred methods of receiving project status updates and prototype designs.
+

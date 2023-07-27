@@ -1,0 +1,112 @@
+Your task is to write a "Learning Material Description" for the "Children's Books & Learning Materials" industry, specifically for a "Product Marketer". 
+
+Start with drafting an engaging introduction that provides a brief overview of the learning material. This should highlight the unique qualities of the material and how it aligns with children's educational needs.
+
+Here's some more context about the Learning Material Description:
+Learning Material Overview: {{learning_material_overview}}
+Educational Objective: {{educational_objective}}
+Content Type: {{content_type}}
+Target Age Educational Level: {{target_age_educational_level}}
+Usage Information: {{usage_information}}
+Learning Benefits: {{learning_benefits}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+In the "Learning Material Description" we are creating, this is the engaging introduction:
+
+Introduction: 
+{{step_1}}
+
+Now, state the educational objective that the learning material aims to achieve. This objective should be clear and concise, defining what skills or knowledge the child reader is expected to acquire after using the material.
+
+->>>>
+
+This is the introduction and educational objective of the "Learning Material Description":
+
+Introduction: 
+{{step_1}}
+
+Educational Objective:
+{{step_2}}
+
+Next, describe the type of content included in the learning material. This could be story-based, riddle-filled, or activity-based, etc. This description will help potential customers understand the approach taken to facilitate learning.
+
+->>>>
+
+For the "Learning Material Description", we have an introduction, an educational objective, and a content type:
+
+Introduction: 
+{{step_1}}
+
+Educational Objective:
+{{step_2}}
+
+Content Type:
+{{step_3}}
+
+Proceed to discuss the age group or educational level that the learning material is most suitable for. Knowing this will help product marketers target the right audience.
+
+->>>>
+
+Our "Learning Material Description" now has an introduction, an educational objective, a content type, and a target audience:
+
+Introduction: 
+{{step_1}}
+
+Educational Objective:
+{{step_2}}
+
+Content Type:
+{{step_3}}
+
+Target Audience:
+{{step_4}}
+
+We need to indicate how the learning material can be used to enhance classroom learning, home-schooling, or personal enrichment. This usage information might include ideas on integrating the material into lesson plans or tips for parents to guide their children’s self-study.
+
+->>>>
+
+Our "Learning Material Description" now consists of an introduction, an educational objective, a content type, a target audience, and usage information:
+
+Introduction: 
+{{step_1}}
+
+Educational Objective:
+{{step_2}}
+
+Content Type:
+{{step_3}}
+
+Target Audience:
+{{step_4}}
+
+Usage Information:
+{{step_5}}
+
+Next, outline the benefits or learning outcomes that can be derived from the material. These benefits could range from better comprehension skills, improved logical thinking, to the enrichment of creative abilities.
+
+->>>>
+
+Our "Learning Material Description" is shaping up with an introduction, an educational objective, a content type, a target audience, usage information, and learning benefits:
+
+Introduction: 
+{{step_1}}
+
+Educational Objective:
+{{step_2}}
+
+Content Type:
+{{step_3}}
+
+Target Audience:
+{{step_4}}
+
+Usage Information:
+{{step_5}}
+
+Learning Benefits:
+{{step_6}}
+
+Finally, end the description with a compelling call-to-action that encourages potential customers to make a purchase and find out more about other products.
+

@@ -1,0 +1,93 @@
+Your task is to write an "Industry Trends Report" for the "Cannabis Industry" industry, specifically for an "Industry Consultant". Let's start by generating an executive summary that succinctly explains the overall trends in the cannabis industry: {{overall_trends}}.
+
+Here's some more context about the Industry Trends Report:
+Overall Trends: {{overall_trends}}
+Key Market Drivers: {{key_market_drivers}}
+Competitive Landscape: {{competitive_landscape}}
+Regulatory Changes: {{regulatory_changes}}
+Industry Segments Growth Opportunities: {{industry_segments_growth_opportunities}}
+Industry Challenges: {{industry_challenges}}
+Future Trajectories: {{future_trajectories}}
+Dynamic Variable: {{dynamic_variable}}
+
+->>>>
+
+We have an executive summary that explains the current trends:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's write a detailed introduction that provides a brief history and present state of the cannabis industry.
+
+->>>>
+
+By now we have an executive summary and a detailed introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Let's proceed to the first section of the report. In this section, identify and discuss key market-drivers in the cannabis industry: {{key_market_drivers}}.
+
+->>>>
+
+After explaining the history and present state of the cannabis industry, we now have a section on key market-drivers:
+
+Introduction:
+{{step_2}}
+
+Key Market-Drivers:
+{{step_3}}
+
+For the second section, let's analyze the competitive landscape in the cannabis industry: {{competitive_landscape}}.
+
+->>>>
+
+With a section on key market-drivers, we now have an analysis of the competitive landscape:
+
+Key Market-Drivers:
+{{step_3}}
+
+Competitive Landscape:
+{{step_4}}
+
+In the third section of the report, let's highlight significant regulatory changes and their potential impacts on the cannabis industry: {{regulatory_changes}}.
+
+->>>>
+
+While continuing with the trends report, after analyzing the competitive landscape, discuss the regulatory changes:
+
+Competitive Landscape:
+{{step_4}}
+
+Regulatory Changes:
+{{step_5}}
+
+The fourth section should explore growth opportunities specific to different industry segments: {{industry_segments_growth_opportunities}}.
+
+->>>>
+
+Having detailed the regulatory changes, we now have an exploration of the growth opportunities:
+
+Regulatory Changes:
+{{step_5}}
+
+Growth Opportunities:
+{{step_6}}
+
+Now, let's discuss the key challenges facing the cannabis industry: {{industry_challenges}}.
+
+->>>>
+
+After exploring growth opportunities, let's delve into the key challenges of the cannabis industry:
+
+Growth Opportunities:
+{{step_6}}
+
+Industry Challenges:
+{{step_7}}
+
+In the conclusion, let's summarize the major takeaways and present future trajectories for the cannabis industry based on the trends outlined in the report: {{future_trajectories}}.
+

@@ -1,0 +1,106 @@
+Your task is to write an "Email Newsletter" for the "Book Marketing" industry, specifically for a "Product Marketer". 
+
+Start with generating a catchy and engaging subject line for the email. 
+
+Here's some more context about the Email Newsletter:
+Subject Line: {{subject_line}}
+Newsletter Purpose: {{newsletter_purpose}}
+Trend Or Event: {{trend_or_event}}
+Product Value: {{product_value}}
+Problem Solution Implementation: {{problem_solution_implementation}}
+Industry Updates: {{industry_updates}}
+Cta: {{cta}}
+
+->>>>
+
+Now, we have a captivating subject line for our email newsletter:
+
+Subject Line:
+{{step_1}}
+
+Next, let's draft a warm welcome note for the newsletter, mentioning the purpose of this specific edition.
+
+->>>>
+
+With a subject line ready:
+
+Subject Line:
+{{step_1}}
+
+We have also created a warm welcome note for the newsletter:
+
+Welcome Note:
+{{step_2}}
+
+Now that we have our readers' attention, let's include a section that discusses a recent or upcoming book marketing trend or event.
+
+->>>>
+
+Our newsletter so far consists of:
+
+Welcome Note:
+{{step_2}}
+
+And now we have an insightful section:
+
+Insightful Section:
+{{step_3}}
+
+Next, highlight a featured product, focusing on how it can enhance the reader's book marketing efforts and alleviate their challenges. Back it with data or testimonials.
+
+->>>>
+
+The contents of the newsletter now consist of:
+
+Insightful Section:
+{{step_3}}
+
+In the product highlight, we've focused on its value for product marketers in the book marketing industry:
+
+Product Highlight:
+{{step_4}}
+
+Now, let's include some practical tips and advice related to book marketing that can aid our readers in their roles as product marketers.
+
+->>>>
+
+We've now highlighted our product:
+
+Product Highlight:
+{{step_4}}
+
+And also included some practical tips, advice, and best practices relevant to book marketing:
+
+Advice & Best Practices:
+{{step_5}}
+
+Moving forward, prepare a section sharing any industry-related news or updates relevant to our readers.
+
+->>>>
+
+The newsletter so far has a:
+
+Advice & Best Practices:
+{{step_5}}
+
+Together with a brief on industry-related news or updates:
+
+Industry Updates:
+{{step_6}}
+
+Next, draft a compelling call-to-action (CTA) that encourages further engagement with your product or service.
+
+->>>>
+
+Now along with the industry updates:
+
+Industry Updates:
+{{step_6}}
+
+We have a compelling call-to-action (CTA):
+
+Call to Action (CTA):
+{{step_7}}
+
+Finally, let's end the newsletter with a sincere sign off, thanking the reader for taking the time to read through our newsletter.
+

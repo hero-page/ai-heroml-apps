@@ -1,0 +1,65 @@
+Your task is to write a "Product Description" for the "Brand Consultancies" industry, specifically for the role of a "Copywriter". 
+
+Let's start with a compelling introduction for the brand consultancy service emphasizing its unique selling proposition. 
+
+Here's some more context about the Product Description:
+Service Unique Selling Proposition: {{service_unique_selling_proposition}}
+Product Features And Benefits: {{product_features_and_benefits}}
+Value Proposition In Copywriting: {{value_proposition_in_copywriting}}
+Brand Consultancy Success Stories: {{brand_consultancy_success_stories}}
+Industry Specific Terms And Methods: {{industry_specific_terms_and_methods}}
+
+->>>>
+
+We now have an introduction for the brand consultancy service:
+
+Introduction:
+{{step_1}}
+
+Next, let's elaborate on the specifics of the service. Include details concerning the product's uniqueness, advantages, features, and benefits.
+
+->>>>
+
+Our product description now includes an introduction and a detailed explanation of the brand consultancy service:
+
+Introduction:
+{{step_1}}
+
+Service Specifications:
+{{step_2}}
+
+Moving on, let's explain the service delivery process. Also, describe how a copywriter can leverage this service to enhance their work, emphasizing the distinctive value proposition.
+
+->>>>
+
+The product description now includes an introduction, service details, and explains the service delivery process:
+
+Introduction:
+{{step_1}}
+
+Service Specifications:
+{{step_2}}
+
+Service Delivery Process:
+{{step_3}}
+
+Next, let's include success stories or case studies. Highlight how these services have positively influenced other copywriters and share specific problem-solving experiences and success stories.
+
+->>>>
+
+The product description now includes an overview, service details, service delivery process, and success stories:
+
+Introduction:
+{{step_1}}
+
+Service Specifications:
+{{step_2}}
+
+Service Delivery Process:
+{{step_3}}
+
+Success Stories:
+{{step_4}}
+
+Now, let's integrate any industry-specific terminologies or methodologies that this service employs. Ensure they are both relevant and engaging for a copywriter.
+

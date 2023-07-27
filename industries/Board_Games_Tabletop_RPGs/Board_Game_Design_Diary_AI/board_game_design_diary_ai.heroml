@@ -1,0 +1,123 @@
+Your task is to write a "Design Process Diary" for the "Board Games & Tabletop RPGs" industry, specifically for a "Game Designer". Let's start with an introduction which will explain the purpose of the "Design Process Diary": {{design_goal}}.
+
+Here's some more context about the Design Process Diary:
+Design Goal: {{design_goal}}
+Game Concept: {{game_concept}}
+Game Mechanics: {{game_mechanics}}
+Playtesting Insights: {{playtesting_insights}}
+Design Iterations: {{design_iterations}}
+Future Design Projects: {{future_design_projects}}
+
+->>>>
+
+The purpose of our "Design Process Diary" is:
+
+Purpose:
+{{step_1}}
+
+Let's use this as a basis to describe the game concept: {{game_concept}}.
+
+->>>>
+
+With the defined purpose, we can now move forward:
+
+Purpose:
+{{step_1}}
+
+Our concept for the game:
+
+Game Concept:
+{{step_2}}
+
+Next, let's create a game concept development section. We will detail the brainstorming and research process that led to the creation of the game idea: {{game_concept}}.
+
+->>>>
+
+Our journey so far:
+
+Purpose:
+{{step_1}}
+
+Game Concept:
+{{step_2}}
+
+Brainstorming and Research Process:
+{{step_3}}
+
+Now, include a game mechanics development section. This section will discuss the different mechanics that were considered, discarded, and included in the game design: {{game_mechanics}}.
+
+->>>>
+
+This is what we've achieved so far:
+
+Brainstorming and Research Process:
+{{step_3}}
+
+Game Mechanics Development:
+{{step_4}}
+
+Next, let's create a game balance and playtesting section. This section will highlight the efforts made to ensure the game is balanced and enjoyable, and also provide insights obtained from playtesting: {{playtesting_insights}}.
+
+->>>>
+
+So far, we have these entries in our design process diary:
+
+Game Mechanics Development:
+{{step_4}}
+
+Game Balance and Playtesting:
+{{step_5}}
+
+Next, include an iteration and refinement section. This section will detail the changes made through various iterations: {{design_iterations}}, and how you refined the game based on playtesting and feedback.
+
+->>>>
+
+Following is what we have in our diary:
+
+Game Balance and Playtesting:
+{{step_5}}
+
+Iteration and Refinement:
+{{step_6}}
+
+Finally, let's create a conclusion section recapturing the core elements of the journey in turning the concept {{game_concept}} into a well-rounded and enjoyable game and summarizing the development and design process: {{design_goal}}.
+
+->>>>
+
+We're almost finished:
+
+Iteration and Refinement:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+We should inject industry-specific language throughout the diary to lend credibility and professionalism. Draft a revision of each section, ensuring to describe mechanics, theme, components, player interaction and game dynamics with industry terms.
+
+->>>>
+
+So far, we've added industry-specific language to our diary:
+
+Professional Diary:
+{{step_8}}
+
+Next, re-iterate throughout the diary, including the challenges faced at every step and how they were overcome to provide a comprehensive process diary.
+
+->>>>
+
+Following is our updated diary with information about all challenges:
+
+Updated & Comprehensive Diary:
+{{step_9}}
+
+Let's revise our diary yet again treating it as a narrative of our creative journey, highlighting important design decisions, breakthroughs, and turning points in the development process.
+
+->>>>
+
+Here's our narrative diary:
+
+Narrative Diary:
+{{step_10}}
+
+Lastly, conclude the diary with reflections on the lessons learned from the process and how these insights could be applied to future design projects: {{future_design_projects}}.
+

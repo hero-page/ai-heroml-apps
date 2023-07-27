@@ -1,0 +1,102 @@
+Your task is to write a "Book Launch Plan" for the "Book Marketing" industry, specifically for a "Publicist". 
+Let's begin by writing an introduction that determines the essential objectives and goals of the book launch: {{book_launch_goals}}.
+
+Here's some more context about the Book Launch Plan:
+Book Launch Goals: {{book_launch_goals}}
+Reader Demographics: {{reader_demographics}}
+Competitor Books: {{competitor_books}}
+PR Tactics: {{PR_Tactics}}
+Marketing Strategy: {{marketing_strategy}}
+Launch Timeline: {{launch_timeline}}
+Book Launch Budget: {{book_launch_budget}}
+
+->>>>
+
+The "Book Launch Plan" we are working on has these essential objectives and goals:
+
+Book Launch Goals:
+{{step_1}}
+
+With the goals defined, let's now develop a comprehensive understanding of the target readership, including market demographics and key interests.
+
+->>>>
+
+Our "Book Launch Plan" is shaping up with these goals and an identification of the target readership:
+
+Book Launch Goals:
+{{step_1}}
+
+Target Readership:
+{{step_2}}
+
+The next task is to identify and analyze main competitor books in the market. This will help in positioning the book and strategizing the launch.
+
+->>>>
+
+In developing our "Book Launch Plan", we now have:
+
+Book Launch Goals:
+{{step_1}}
+
+Target Readership:
+{{step_2}}
+
+Competitor Books Analysis:
+{{step_3}}
+
+Next, let's elaborate on public relations tactics and media engagement, detailing how you plan to promote the book.
+
+->>>>
+
+The "Book Launch Plan" now has these elements:
+
+Book Launch Goals:
+{{step_1}}
+
+Target Readership:
+{{step_2}}
+
+Competitor Books Analysis:
+{{step_3}}
+
+Public Relations Tactics:
+{{step_4}}
+
+Moving on, define the marketing strategy, detailing specific marketing channels, partnerships, and events that would be beneficial for the book launch.
+
+->>>>
+
+Our "Book Launch Plan" is shaping up along these lines:
+
+Book Launch Goals:
+{{step_1}}
+
+Target Readership:
+{{step_2}}
+
+Competitor Books Analysis:
+{{step_3}}
+
+Public Relations Tactics:
+{{step_4}}
+
+Marketing Strategy:
+{{step_5}}
+
+The next task is to establish a schedule or timeline for the launch campaign, outlining crucial milestones, media releases, author appearances, etc.
+
+->>>>
+
+We are developing a "Book Launch Plan" which includes:
+
+Book Launch Goals:
+{{step_1}}
+
+Marketing Strategy:
+{{step_5}}
+
+Launch Campaign Timeline:
+{{step_6}}
+
+Next, discuss budget estimations to execute all the aspects of the book launch plan.
+

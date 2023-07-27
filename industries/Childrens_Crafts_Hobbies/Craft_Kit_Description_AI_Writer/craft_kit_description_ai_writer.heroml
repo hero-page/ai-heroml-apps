@@ -1,0 +1,84 @@
+Your task is to write a "Craft Kit Description" for the "Children's Crafts & Hobbies" industry, specifically for a "Product Marketer". You should write this description in a playful, engaging style, ensuring it appeals to children and their parents. Let's start with creating an enticing headline.
+
+Here's some more context about the Craft Kit Description:
+Headline: {{headline}}
+Kit Overview: {{kit_overview}}
+Kit Contents: {{kit_contents}}
+Kit Benefits: {{kit_benefits}}
+Step By Step Instructions: {{step_by_step_instructions}}
+Suitable Age: {{suitable_age}}
+Safety Precautions: {{safety_precautions}}
+Purchase Information: {{purchase_information}}
+
+->>>>
+
+Now, we have a catchy, fun headline for the craft kit:
+
+Headline:
+{{step_1}}
+
+Next, let's write a short introduction that encapsulates the main elements and purpose of the craft kit.
+
+->>>>
+
+We have created an enticing headline and a brief introduction for the craft kit:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, let's describe each item included in this craft kit in a comprehensive and easy-to-digest manner.
+
+->>>>
+
+We have a catchy title, an engaging introduction, and a detailed list of the kit's contents:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Kit Contents:
+{{step_3}}
+
+Next, detail the benefits children will get from using this craft kit. Consider aspects like educational value, skill development, and creative exploration.
+
+->>>>
+
+We have listed the kit's contents and detailed the various benefits children will get from using this craft kit:
+
+Kit Contents:
+{{step_3}}
+
+Kit Benefits:
+{{step_4}}
+
+Next, let's write step-by-step instructions on how to use the craft kit, ensuring they are simple and easily comprehensible for children.
+
+->>>>
+
+Now, we have the kit's benefits and a clear set of instructions on how to use the craft kit:
+
+Kit Benefits:
+{{step_4}}
+
+Step-by-Step Instructions:
+{{step_5}}
+
+Next step is to clearly define the age suitability of the craft kit, in compliance with the manufacturer's guidelines.
+
+->>>>
+
+We have comprehensive instructions for using the craft kit, and a clearly defined the age suitability for the kit:
+
+Step-by-Step Instructions:
+{{step_5}}
+
+Suitable Age:
+{{step_6}}
+
+Now, highlight any safety precautions or warnings attached to the craft kit to ensure parents are aware of potential hazards.
+

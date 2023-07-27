@@ -1,0 +1,87 @@
+Your task is to write a "Art Supply Description" for the "Children's Art Supplies" industry, catering to a "Product Marketer". 
+Begin with an introduction that introduces the product: {{product_name}} and its primary purpose: {{product_purpose}}. 
+
+Here's some more context about the Art Supply Description:
+Product Name: {{product_name}}
+Product Purpose: {{product_purpose}}
+Product Components: {{product_components}}
+Product Features: {{product_features}}
+Age Group: {{age_group}}
+Safety Features: {{safety_features}}
+Ease Of Use: {{ease_of_use}}
+
+->>>>
+
+You have started the Art Supply Description for the product:
+
+Product Name & Purpose:
+{{step_1}}
+
+Next, delve deep into specific product details providing possible characteristics and elements. In this section, you should describe what is included in the package: {{product_components}} and highlight any unique aspects or value propositions: {{product_features}}.
+
+->>>>
+
+With that, you have unpacked the Art Supply's exceptional features and components:
+
+Product Name & Purpose:
+{{step_1}}
+
+Product Features & Components:
+{{step_2}}
+
+Proceed next to discuss how the product is specially designed for a certain age group: {{age_group}} and the advantages they could gain from using the product. Clarify whether the product is educational, sparks creativity or provides other developmental benefits.
+
+->>>>
+
+So far, you have developed a context for the intended age group and benefits of the art supply:
+
+Product Name & Purpose:
+{{step_1}}
+
+Product Features & Components:
+{{step_2}}
+
+Designed For & Benefits:
+{{step_3}}
+
+Next, outline the safety features of this product, ensuring the product marketer can communicate crucial safety details to potential purchasers. Address worries about small elements, toxins, or allergens: {{safety_features}}.
+
+->>>>
+
+Now you have a well-detailed description of the product's safety features:
+
+Product Name & Purpose:
+{{step_1}}
+
+Product Features & Components:
+{{step_2}}
+
+Designed For & Benefits:
+{{step_3}}
+
+Safety Features:
+{{step_4}}
+
+You can now proceed to illustrate the product's ease of use. This could involve highlighting straightforward instructions, maintenance details, or easy-to-clean features: {{ease_of_use}}.
+
+->>>>
+
+You have a comprehensive layout of the product's use and maintenance:
+
+Product Name & Purpose:
+{{step_1}}
+
+Product Features & Components:
+{{step_2}}
+
+Designed For & Benefits:
+{{step_3}}
+
+Safety Features:
+{{step_4}}
+
+Ease of Use:
+{{step_5}}
+
+Lastly, craft a conclusion for the description by re-emphasising the unique selling points of the product and inviting potential buyers to purchase for the nourishment of their child's artistic journey.
+

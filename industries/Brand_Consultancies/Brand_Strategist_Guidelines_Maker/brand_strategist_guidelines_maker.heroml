@@ -1,0 +1,109 @@
+Your task is to write a "Brand Guidelines" for the "Brand Consultancies" industry, specifically for a "Brand Strategist". 
+Begin by drafting an introduction that defines the scope, rationale, and importance of having clear "Brand Guidelines".
+
+Here's some more context about the Brand Guidelines:
+Reason For Brand Guidelines: {{reason_for_brand_guidelines}}
+Brand Identity: {{brand_identity}}
+Brand Ethos: {{brand_ethos}}
+Brand Voice: {{brand_voice}}
+Target Audience: {{target_audience}}
+Brand Positioning: {{brand_positioning}}
+Brand Usage: {{brand_usage}}
+Brand Representation: {{brand_representation}}
+
+->>>>
+
+The first part of our "Brand Guidelines" document is now ready:
+
+Introduction:
+{{step_1}}
+
+Next, elaborate on the brand identity, including features like the brand name, logo, typography, and color scheme that form the visual appearance of the brand.
+
+->>>>
+
+So far, we have developed the following sections for our "Brand Guidelines" document:
+
+Introduction:
+{{step_1}}
+
+Brand Identity:
+{{step_2}}
+
+Now go on to describe the brand ethos, which encapsulates the brand’s values, mission, vision and persona.
+
+->>>>
+
+We have now included the brand ethos in our "Brand Guidelines" document:
+
+Introduction:
+{{step_1}}
+
+Brand Identity:
+{{step_2}}
+
+Brand Ethos:
+{{step_3}}
+
+Next, draft a section dedicated to the brand voice, detailing the style, tone, and language to be used when communicating as the brand.
+
+->>>>
+
+Our "Brand Guidelines" document is shaping up well:
+
+Brand Identity:
+{{step_2}}
+
+Brand Ethos:
+{{step_3}}
+
+Brand Voice:
+{{step_4}}
+
+Now, discuss the target audience. Clearly define the demographic, psychographic, and behavioral traits of the consumers the brand aims to attract and retain.
+
+->>>>
+
+So far, the "Brand Guidelines" document includes:
+
+Brand Ethos:
+{{step_3}}
+
+Brand Voice:
+{{step_4}}
+
+Target Audience:
+{{step_5}}
+
+Next, outline the brand positioning strategy that differentiates this brand in the market against competing brands.
+
+->>>>
+
+Our "Brand Guidelines" document now includes a robust brand positioning strategy:
+
+Brand Voice:
+{{step_4}}
+
+Target Audience:
+{{step_5}}
+
+Brand Positioning:
+{{step_6}}
+
+Please provide a set of dos and don'ts that instruct both the internal team and external parties on how to use the brand elements.
+
+->>>>
+
+With the addition of the dos and don'ts for brand usage, our "Brand Guidelines" document now includes:
+
+Target Audience:
+{{step_5}}
+
+Brand Positioning:
+{{step_6}}
+
+Brand Usage:
+{{step_7}}
+
+Finally, write a brief on how the brand should be represented in various channels and circumstances. 
+

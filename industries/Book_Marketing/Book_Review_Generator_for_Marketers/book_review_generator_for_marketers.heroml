@@ -1,0 +1,87 @@
+Your task is to write a "Book Review" for the "Book Marketing" industry, specifically for a "Content Creator". Let's go through this task step by step to make it easier. 
+
+Start by presenting the book's key details: the title, the author's name, the publisher, and the year of publication.
+
+Here's some more context about the Book Review:
+Book Information: {{book_information}}
+Author Background And Purpose: {{author_background_and_purpose}}
+Main Points And Arrangement: {{main_points_and_arrangement}}
+Strengths And Weaknesses: {{strengths_and_weaknesses}}
+Relevance And Comparison: {{relevance_and_comparison}}
+Recommendation And Justification: {{recommendation_and_justification}}
+
+->>>>
+
+After generating the basic information for our book review, we have:
+
+Book Information:
+{{step_1}}
+
+Next, present the author’s credentials and qualifications in writing the book, giving context for its purpose and theme.
+
+->>>>
+
+Now, we have both the book information and author's background and purpose for our review:
+
+Book Information:
+{{step_1}}
+
+Author's Background and Purpose:
+{{step_2}}
+
+The next step is to focus on the primary arguments or themes, how they are presented, and how they are logically ordered within the book.
+
+->>>>
+
+At this stage, for the book review, we have the book information, author's background and purpose, and the main points and their arrangement:
+
+Book Information:
+{{step_1}}
+
+Author's Background and Purpose:
+{{step_2}}
+
+Main Points and Arrangement:
+{{step_3}}
+
+Moving on, let's examine the book's merits and demerits, its readability, the author’s viewpoint, factual accuracy, and any potential biases.
+
+->>>>
+
+So far, we have the book information, author's background and purpose, main points and their arrangement, and the examination of the book's strengths and weaknesses:
+
+Book Information:
+{{step_1}}
+
+Author's Background and Purpose:
+{{step_2}}
+
+Main Points and Arrangement:
+{{step_3}}
+
+Strengths and Weaknesses:
+{{step_4}}
+
+The next course of action involves comparing the book with other similar books in its genre, discussing its originality, and its contribution to the field.
+
+->>>>
+
+In our book review, we now have:
+
+Book Information:
+{{step_1}}
+
+Author's Background and Purpose:
+{{step_2}}
+
+Main Points and Arrangement:
+{{step_3}}
+
+Strengths and Weaknesses:
+{{step_4}}
+
+Relevance and Comparison:
+{{step_5}}
+
+The final action involves providing an overall assessment of the book and determining whether it is suggested for readers, with reasons supporting this conclusion.
+

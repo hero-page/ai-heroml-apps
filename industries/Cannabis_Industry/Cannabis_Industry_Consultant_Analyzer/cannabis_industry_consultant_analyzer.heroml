@@ -1,0 +1,196 @@
+Your task is to write a "Market Analysis" for the "Cannabis Industry", specifically for an "Industry Consultant". 
+
+Let's start with the first step and generate an introduction that describes the focus of your analysis: {{analysis_focus}}.
+
+Here's some more context about the Market Analysis:
+Analysis Focus: {{analysis_focus}}
+
+->>>>
+
+We now have an introduction for our "Market Analysis":
+
+Introduction:
+{{step_1}}
+
+Next, provide a general industry overview of the "Cannabis Industry", discussing current trends and major players. This should include businesses, legal, political, socio-cultural, and medical factors impacting this industry.
+
+->>>>
+
+After conducting our industry overview, we have:
+
+Introduction:
+{{step_1}}
+
+Industry Overview:
+{{step_2}}
+
+Now, expand on the market segments of interest in the cannabis industry. For instance, recreational users vs. medical users, demographics, lifestyle factors, consumption habits. Each segment should have a separate subsection.
+
+->>>>
+
+Our analysis now includes market segments:
+
+Introduction:
+{{step_1}}
+
+Industry Overview:
+{{step_2}}
+
+Market Segments:
+{{step_3}}
+
+Let's delve into key market trends within the {{analysis_focus}} of the cannabis industry. Discuss factors like growth propellers, market entry challenges, and consumer behavior trends.
+
+->>>>
+
+We now have a section detailing key market trends within the "Cannabis Industry":
+
+Introduction:
+{{step_1}}
+
+Industry Overview:
+{{step_2}}
+
+Market Segments:
+{{step_3}}
+
+Key Market Trends:
+{{step_4}}
+
+Next, conduct a competitive analysis detailing key players in the {{analysis_focus}}. Discuss their strategies, threats they pose, and the opportunities they present.
+
+->>>>
+
+Our "Market Analysis" now includes a competitive analysis:
+
+Introduction:
+{{step_1}}
+
+Industry Overview:
+{{step_2}}
+
+Market Segments:
+{{step_3}}
+
+Key Market Trends:
+{{step_4}}
+
+Competitive Analysis:
+{{step_5}}
+
+Analyze and present the regulatory and legal factors affecting the {{analysis_focus}} within the cannabis industry. Highlight how these could impact market growth and competitiveness.
+
+->>>>
+
+We've added an analysis of regulatory and legal factors:
+
+Introduction:
+{{step_1}}
+
+Industry Overview:
+{{step_2}}
+
+Market Segments:
+{{step_3}}
+
+Key Market Trends:
+{{step_4}}
+
+Competitive Analysis:
+{{step_5}}
+
+Regulatory and Legal Factors:
+{{step_6}}
+
+Now, conduct a SWOT analysis for a hypothetical business within your {{analysis_focus}}. Consider both internal and external factors.
+
+->>>>
+
+We've added a SWOT analysis to the report:
+
+Introduction:
+{{step_1}}
+
+Industry Overview:
+{{step_2}}
+
+Market Segments:
+{{step_3}}
+
+Key Market Trends:
+{{step_4}}
+
+Competitive Analysis:
+{{step_5}}
+
+Regulatory and Legal Factors:
+{{step_6}}
+
+SWOT Analysis:
+{{step_7}}
+
+Next, discuss the influence of societal norms and changes, including public opinion, media influence, and changing legislation on the {{analysis_focus}} sections of the cannabis industry.
+
+->>>>
+
+We have now added the impact of societal norms to the analysis:
+
+Introduction:
+{{step_1}}
+
+Industry Overview:
+{{step_2}}
+
+Market Segments:
+{{step_3}}
+
+Key Market Trends:
+{{step_4}}
+
+Competitive Analysis:
+{{step_5}}
+
+Regulatory and Legal Factors:
+{{step_6}}
+
+SWOT Analysis:
+{{step_7}}
+
+Societal Impact:
+{{step_8}}
+
+Discuss the potential growth and forecast for the {{analysis_focus}} within the cannabis industry. Talk about market size, future demand, and barriers or enablers for growth.
+
+->>>>
+
+Our report now includes a growth forecast:
+
+Introduction:
+{{step_1}}
+
+Industry Overview:
+{{step_2}}
+
+Market Segments:
+{{step_3}}
+
+Key Market Trends:
+{{step_4}}
+
+Competitive Analysis:
+{{step_5}}
+
+Regulatory and Legal Factors:
+{{step_6}}
+
+SWOT Analysis:
+{{step_7}}
+
+Societal Impact:
+{{step_8}}
+
+Growth Forecast:
+{{step_9}}
+
+To finish, write a conclusion that summarizes your key findings and links them back to your initial {{analysis_focus}}. Include the potential impact these findings may have on an Industry Consultant's future decision-making processes. 
+

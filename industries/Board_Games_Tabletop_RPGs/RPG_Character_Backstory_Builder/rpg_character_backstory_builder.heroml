@@ -1,0 +1,95 @@
+Your task is to write a "Character Backstory" for the "Board Games & Tabletop RPGs" industry, specifically for a "Dungeon Master". 
+
+Let's begin by establishing the basic information about the character: {{character_name}}, {{character_race}}, {{character_class}}, {{character_alignment}} and {{character_level}}. This forms the foundational information that would define who the character is within the game world.
+
+Here's some more context about the Character Backstory:
+Character Name: {{character_name}}
+Character Race: {{character_race}}
+Character Class: {{character_class}}
+Character Alignment: {{character_alignment}}
+Character Level: {{character_level}}
+Character Origin Location: {{character_origin_location}}
+Character Family And Early Life: {{character_family_and_early_life}}
+Character Catalyst: {{character_catalyst}}
+Character Goals: {{character_goals}}
+Character Traits: {{character_traits}}
+Character Profession: {{character_profession}}
+
+->>>>
+
+We now have the basic details of the character:
+
+Character Name:
+{{step_1}}
+
+Next, set the character's geographical origin within the game world. This should denote where their journey begins, their hometown or perhaps a significant location from their early life that would shape their personality and views. This location: {{character_origin_location}}, should align with the settings and world-building elements of the campaign.
+
+->>>>
+
+With a name for the character and their origin location, we have:
+
+Character Name:
+{{step_1}}
+
+Origin Location:
+{{step_2}}
+
+Now, detail the character's family and early life which shapes much of his/her worldview. It should include information relating to the character's upbringing, key members of their family, socio-economic status, and important early life events. This information forms {{character_family_and_early_life}}.
+
+->>>>
+
+Our character, with their name, origin, and their family & early life details, are as follows:
+
+Character Name:
+{{step_1}}
+
+Origin Location:
+{{step_2}}
+
+Family & Early Life:
+{{step_3}}
+
+Let's move on to describe the key event(s) or catalyst(s) that turned the character onto the path of adventure. This could be anything from a personal tragedy to the urge to seek out glory or even being chosen by a divine entity. These event(s) make up the {{{character_catalyst}}} and can be significant plot points in the character's development arc.
+
+->>>>
+
+For our character, these are the details we have so far:
+
+Character Name:
+{{step_1}}
+
+Family & Early Life:
+{{step_3}}
+
+Character Catalyst:
+{{step_4}}
+
+Next, let's explore the character's personal aspirations, goals, and motivations. These drives form the basis of {{character_goals}} and are vital to shaping the character's actions, decisions, and growth throughout the campaign.
+
+->>>>
+
+The details we've gathered about the character so far include their name, the key event that marks the start of their journey, and their motivations. They are as follows:
+
+Character Name:
+{{step_1}}
+
+Character Catalyst:
+{{step_4}}
+
+Character Goals:
+{{step_5}}
+
+Moving on, delve into the character's personality traits, strengths, and flaws. This could be determined using the personality aspects of the Dungeons and Dragons Character sheet or custom-created by the Dungeon Master to align with the character's backstory. Include these traits in {{character_traits}}.
+
+->>>>
+
+For our character, here's what we have:
+
+Character Goals:
+{{step_5}}
+
+Character Traits:
+{{step_6}}
+
+Following this, provide a detailed account of the Character's Professional life, detailing the knowledge, skills, and experiences gained in their chosen field or occupation, example being a rogue's time as a thief or a wizard's years spent studying arcane texts. This professional background will make up {{character_profession}}.
+

@@ -1,0 +1,61 @@
+Your task is to write a character dialogue for the children's literature writing industry, specifically for an author. 
+Let's begin by crafting an introduction that provides background information about the characters involved based on {{character_information}}. Remember to include age, personality traits, and any other relevant characteristics that will inform their dialogue.
+
+Here's some more context about the Character Dialogue:
+Character Information: {{character_information}}
+Story Progression: {{story_progression}}
+Childrens Literature Elements: {{childrens_literature_elements}}
+Target Age: {{target_age}}
+Dialogue End Goal: {{dialogue_end_goal}}
+
+->>>>
+
+Now that we have introduced our characters, we have:
+
+Character Information:
+{{step_1}}
+
+Next, to ensure the dialogue aligns with the general progression of the story: {{story_progression}}, describe the series of events that this dialogue will follow.
+
+->>>>
+
+Now we have the story progression and character information to guide our dialogue:
+
+Character Information:
+{{step_1}}
+
+Story Progression:
+{{step_2}}
+
+Based on these, now let's create the character's dialogue that reflects their personality, age, and characteristics you noted earlier: {{step_1}}. Align the content, tone, and vocabulary of character's speech accordingly.
+
+->>>>
+
+So far, we have created the story progression and a dialogue that reflects our character's attributes:
+
+Story Progression:
+{{step_2}}
+
+Character Dialogue:
+{{step_3}}
+
+Now, for each line of the dialogue crafted until now, make sure it serves a purpose related to the characters' development or the plot progression: {{step_2}}. Edit the dialogue as needed to avoid unnecessary exchanges.
+
+->>>>
+
+Now we have purposeful character dialogues as per the story progression:
+
+Character Dialogue:
+{{step_4}}
+
+Next, let's incorporate elements of humor, moral lessons, or curiosity based on {{childrens_literature_elements}}. Modify the dialogue to include these elements, as appropriate for children's literature.
+
+->>>>
+
+Our character dialogue is now enhanced with elements of children's literature:
+
+Character Dialogue:
+{{step_5}}
+
+It's time to check the dialogue for language appropriateness considering the targeted age group: {{target_age}}. Modify the dialogue to ensure the language complexity matches the reading ability of the target demographic.
+

@@ -1,0 +1,80 @@
+Your task is to write a "Campaign Recap" for the "Board Games & Tabletop RPGs" industry, specifically for a "Dungeon Master". 
+Start by writing an introduction to set the recap scene. This introduction should highlight the key location and theme of the last session: {{campaign_location}} and {{campaign_theme}}.
+
+Here's some more context about the Campaign Recap:
+Campaign Location: {{campaign_location}}
+Campaign Theme: {{campaign_theme}}
+Key Events: {{key_events}}
+
+->>>>
+
+Now that we have an introduction for our "Campaign Recap":
+
+Introduction:
+{{step_1}}
+
+Let's move on to enumerating the key events of the campaign. Compile the prioritized events that occurred in chronological order using the key event details: {{key_events}}.
+
+->>>>
+
+With our key events listed in chronological order:
+
+Key Events List:
+{{step_2}}
+
+Proceed to expand on these events, creating a logical sequence that describes the consequences and game world impacts of these actions. Use the established list of {{key_events}} for reference.
+
+->>>>
+
+Having detailed the key event sequence:
+
+Key Event Sequence and Impact:
+{{step_3}}
+
+Next, delve into characters' actions and decisions. Explain how the players' actions impacted the unfolding of the {{key_events}}.
+
+->>>>
+
+We've covered how the players' actions shaped the campaign:
+
+Player Actions and Their Impact:
+{{step_4}}
+
+Let's now dedicate a section to the non-player characters and significant entity interactions. Describe how these characters influenced the campaign's trajectory and added complexity to the {{campaign_theme}}.
+
+->>>>
+
+After addressing the non-player characters and their influence on the campaign:
+
+Non-Player Characters Influence:
+{{step_5}}
+
+Focus on the summary of key item discoveries, spells used or learned, and essential battles. Emphasize specific creatures defeated or tactics a player used that were instrumental in impacting the {{key_events}}.
+
+->>>>
+
+Having highlighted key item discoveries, spells and battles:
+
+Key Items, Spells and Battles:
+{{step_6}}
+
+Now, discuss any important plot revelations uncovered by the players or through storyline progression in the context of the {{campaign_theme}}.
+
+->>>>
+
+We've discussed important plot revelations relevant to the {{campaign_theme}}:
+
+Plot Revelations:
+{{step_7}}
+
+Highlight any unresolved events or cliffhangers that could play an essential role in the next campaign session.
+
+->>>>
+
+We now have a comprehensive list of unresolved events and cliffhangers:
+
+Unresolved Events or Cliffhangers:
+{{step_8}}
+
+Summarize the recap by outlining possible future implications under the {{campaign_theme}}, setting a tone for the forthcoming session.
+

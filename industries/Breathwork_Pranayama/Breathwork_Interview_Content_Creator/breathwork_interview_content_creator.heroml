@@ -1,0 +1,64 @@
+Your task is to write an "Interview with Breathwork Coach/Pranayama Instructor" for the "Breathwork & Pranayama" industry, specifically for a "Wellness Blogger". 
+
+Let's begin by creating an introduction that briefly describes the interviewer's background and expertise. Remember to include the interviewee's training, certifications, and experiences.
+
+Here's some more context about the Interview with Breathwork Coach/Pranayama Instructor:
+Coach Background: {{coach_background}}
+Insights: {{insights}}
+Journey: {{journey}}
+Methodologies: {{methodologies}}
+
+->>>>
+
+Now, we have the background and expertise of the Breathwork Coach/Pranayama Instructor:
+
+Interviewer's Background and Expertise:
+{{step_1}}
+
+Next, we're going to discuss why the practices of breathwork and pranayama are essential to wellness, and what unique insights the interviewee brings to these practices. Make sure you highlight what sets their approach apart within the breathwork and pranayama industry.
+
+->>>>
+
+So far our interview includes the interviewee's background and expertise, as well as an understanding of their unique contributions:
+
+Background and Expertise:
+{{step_1}}
+
+Unique Insights:
+{{step_2}}
+
+Moving forward, let's delve into the personal journey of the interviewee. Discuss their inspirations and the path they took to become a breathwork coach/pranayama instructor.
+
+->>>>
+
+In our interview, we have learned about the interviewee's background, insights, and personal journey:
+
+Background and Expertise:
+{{step_1}}
+
+Unique Insights:
+{{step_2}}
+
+Personal Journey:
+{{step_3}}
+
+Now, elaborate on the interviewee's methodologies and teachings. Discuss specific practices and benefits, and describe what a typical session or workshop with them would look like.
+
+->>>>
+
+Our interview now includes the interviewee's background, insights, personal journey, and detailed methodologies:
+
+Background and Expertise:
+{{step_1}}
+
+Unique Insights:
+{{step_2}}
+
+Personal Journey:
+{{step_3}}
+
+Methodologies:
+{{step_4}}
+
+Next, explore the experiences of clients who have trained with the interviewee. Include any testimonials that highlight the effectiveness of their methodologies and teachings.
+

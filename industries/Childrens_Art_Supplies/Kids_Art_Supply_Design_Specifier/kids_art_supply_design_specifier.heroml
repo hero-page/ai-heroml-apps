@@ -1,0 +1,78 @@
+Your task is to create a "Design Specification" for a product in the "Children's Art Supplies" industry aimed at a "Product Designer". 
+
+Let's begin by crafting a brief introduction that clearly defines the product, its primary function, as well as explaining why the specific children's art supply was chosen - named {{product_choice}}.
+
+Here's some more context about the Design Specification:
+Product Choice: {{product_choice}}
+Product Objectives: {{product_objectives}}
+Age Group: {{age_group}}
+Material Choice: {{material_choice}}
+Color Scheme: {{color_scheme}}
+Assembly Process: {{assembly_process}}
+Packaging Guidelines: {{packaging_guidelines}}
+
+->>>>
+
+We have an introduction for our design specification:
+
+Introduction:
+{{step_1}}
+
+Next, in the purpose section, identify the main objectives for the design of this product branded as {{product_choice}}. Make sure to include the intended impact on children's creativity and learning: {{product_objectives}}.
+
+->>>>
+
+The introduction for a design specification is:
+
+Introduction:
+{{step_1}}
+
+The objectives of designing the product and its potential impacts have been outlined:
+
+Objectives and Impact:
+{{step_2}}
+
+Moving forward, provide key design considerations for the product named as {{product_choice}}. Make sure to mention the safety features and ergonomic design suitable for the intended age group. Ensure the design adheres to all relevant safety standards for children's toys and products: {{age_group}}.
+
+->>>>
+
+The objectives of the product and its designed impacts are:
+
+Objectives and Impact:
+{{step_2}}
+
+Consideration for designing the product is as follows:
+
+Design Considerations:
+{{step_3}}
+
+Next, describe in detail the product features, including the materials that will be used, their qualities, and the reasons for their selection. Include color schemes, shapes, or patterns to make the product more attractive and interesting for users.
+
+->>>>
+
+For our product, we have identified the design considerations:
+
+Design considerations:
+{{step_3}}
+
+The detailed features of the product are:
+
+Product Features:
+{{step_4}}
+
+Now, provide a thorough usage guideline illustrating how children should use the product, which is governed by its design considerations safely and correctly. Make sure to leave room for the imagination and creativity the product may inspire in its usage.
+
+->>>>
+
+The product has these detailed features:
+
+Product Features:
+{{step_4}}
+
+The guidelines on how children might use the product are described:
+
+Usage Guidelines:
+{{step_5}}
+
+Moving forward, describe any relevant manufacturing and assembly processes the product will undergo. This should include the methods of production and necessary steps in assembling the product: {{assembly_process}}. 
+

@@ -1,0 +1,92 @@
+Your task is to write an "Author Interview Blog Post" for the "Book Marketing" industry, specifically for a "Content Creator". 
+
+Let's start by writing an engaging introduction that informs readers about {{author_name}}, their noteworthy accomplishments, the primary focus of the interview, and includes a catchy hook to keep readers interested.
+
+Here's some more context about the Author Interview Blog Post:
+Author Name: {{author_name}}
+Book Name: {{book_name}}
+
+->>>>
+
+We have the introduction to our "Author Interview Blog Post":
+
+Introduction:
+{{step_1}}
+
+Then, continue by writing a brief background on the author, detailing {{author_name}}'s upbringing, academic and professional life, as well as their journey into writing.
+
+->>>>
+
+With an introduction in place, we have also written a brief background about the author:
+
+Introduction:
+{{step_1}}
+
+Brief Background of Author:
+{{step_2}}
+
+Segue into the main part of your blog post - the interview. Ask relevant questions to {{author_name}} and present their answers in this part. Make sure to cover the following topics:
+
+- The author's writing process including how they generate ideas and go about creating a new book.
+  
+- Insights about their latest or most popular book - {{book_name}}, an explanation about the theme, characters, and the setting of the story.
+
+- The author's perspective on the book market and marketing strategies that have worked for them.
+
+- The author’s experience in the industry, including the challenges they've faced and their accomplishments.
+
+->>>>
+
+An introduction and background has been provided, and an interview has been conducted:
+
+Introduction:
+{{step_1}}
+
+Background of Author:
+{{step_2}}
+
+Interview:
+{{step_3}}
+
+Incorporate industry-specific elements into your blog post. These could be the current trends in the book marketing industry, strategies for selling books, or a comparison of traditional publishing versus self-publishing. Get {{author_name}}'s take on these topics as well.
+
+->>>>
+
+A full "Author Interview Blog Post" is coming along. So far, we have an interview and some industry context:
+
+Interview:
+{{step_3}}
+
+Industry Context:
+{{step_4}}
+
+After you’ve written the interview and added industry context, summarize the key points discussed with the author. This should restate the author's main insights about {{book_name}}, their writing process, and views on the book marketing industry.
+
+->>>>
+
+Substantial progress has been made on the "Author Interview Blog Post". We have key parts of the content and a summary of the main insights:
+
+Interview:
+{{step_3}}
+
+Industry Context:
+{{step_4}}
+
+Summary of the Main Insights:
+{{step_5}}
+
+
+Conclude the post with a clear, strong takeaway message that ties the entire content together. This could be a compelling quote from {{author_name}}, their unique perspective on writing, or their advice to budding authors and content creators.
+
+->>>>
+
+Almost complete now. We have the main points, summarized insights, and a strong concluding message:
+
+Summary of the Main Insights:
+{{step_5}}
+
+Concluding Message:
+{{step_6}}
+
+As the final step, write a call-to-action that prompts readers to check out {{author_name}}'s latest book, {{book_name}}, or provokes a discussion around the topics covered in the interview.
+

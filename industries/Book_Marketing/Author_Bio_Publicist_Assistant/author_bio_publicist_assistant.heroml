@@ -1,0 +1,87 @@
+Your task is to create an "Author Bio" in the "Book Marketing" industry for a "Publicist" for the author: {{author_name}}. 
+
+To start, write an engaging introduction that covers general details about the author. These details should include their full name, any pen name used, and a quirky or interesting fact to draw in the reader.
+
+Here's some more context about the Author Bio:
+Author Name: {{author_name}}
+Formative Experiences: {{formative_experiences}}
+Key Events: {{key_events}}
+Best Selling Books: {{best_selling_books}}
+Unique Writing Style: {{unique_writing_style}}
+Future Projects: {{future_projects}}
+
+->>>>
+
+Setting the context of an "Author Bio" for a publicist in the book marketing industry, this is the engaging introduction we have:
+
+Introduction:
+{{step_1}}
+
+Next, delve into some personal backstory about the author. Include relevant experiences from their early life such as {{formative_experiences}}, and any other events that add a touch of personal connection for the audience.
+
+->>>>
+
+In an "Author Bio" for a publicist in the book marketing industry, following the engaging introduction, we have added a personal backstory:
+
+Introduction:
+{{step_1}}
+
+Personal Backstory:
+{{step_2}}
+
+Continuing, describe the author’s professional journey in the literary field. Highlight key events: {{key_events}}, their milestones, challenges, successes, and any areas of specialization, such as genre, region, subject, etc.
+
+->>>>
+
+With an "Author Bio" intended for a publicist in the book marketing industry, we have added to the introduction and personal backstory with a description of the author's professional journey:
+
+Introduction:
+{{step_1}}
+
+Personal Backstory:
+{{step_2}}
+
+Professional Journey:
+{{step_3}}
+
+Next, emphasize on the author's achievements. Detail the titles, awards, and recognitions they have received, their significance, any best-selling books {{best_selling_books}}, and the impact these have had on the literary world.
+
+->>>>
+
+Continuing to construct the "Author Bio" for a publicist in the book marketing industry, we have the author's professional journey and a list of their achievements:
+
+Professional Journey:
+{{step_3}}
+
+Achievements:
+{{step_4}}
+
+Next, communicate the author's unique writing style and how it distinguishes them from others. Discuss some aspects of {{unique_writing_style}} that provide a more comprehensive profile of the author's writing career.
+
+->>>>
+
+In our ongoing "Author Bio" for a publicist in the book marketing industry, following the author's professional journey and achievements, we now have a discussion of the author's unique writing style:
+
+Professional Journey:
+{{step_3}}
+
+Achievements:
+{{step_4}}
+
+Writing Style:
+{{step_5}}
+
+With these elements in place, provide details on the author's current and future projects. Mention any upcoming work {{future_projects}} to generate anticipation amongst the readers.
+
+->>>>
+
+Adding to our "Author Bio" for a publicist in the book marketing industry, we now have information about the author's unique writing style and their current and upcoming projects:
+
+Writing Style:
+{{step_5}}
+
+Current and Future Projects:
+{{step_6}}
+
+Finally, to cater more specifically to the publicist audience, offer some insights on how the author engages with media, their views on publicity, and any other details that could aid in promoting their public image.
+

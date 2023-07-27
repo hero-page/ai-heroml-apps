@@ -1,0 +1,107 @@
+Your task is to write a "Children's Story" for the "Children's Literature Writing" industry, specifically for an "Author". Let's start by creating an engaging introduction for the story where we set up the scene or setting where {{main_character}} lives and a brief introduction about {{main_character}}.
+
+Here's some more context about the Children's Story:
+Main Character: {{main_character}}
+
+->>>>
+
+We have a story introduction that sets the stage and introduces our main character:
+
+Story Introduction:
+{{step_1}}
+
+Now, create a problem or conflict for the {{main_character}} that they need to resolve. This conflict is the basis for an engaging plot for children.
+
+->>>>
+
+Our story has an introduction and a central conflict for the main character:
+
+Story Introduction:
+{{step_1}}
+
+Central Conflict:
+{{step_2}}
+
+Next, introduce the other key characters in the story. They can be friends, family, an antagonist, or anyone who contributes significantly to the story plot.
+
+->>>>
+
+Our story's cast has now expanded, we have our main character, central conflict, and additional key characters:
+
+Central Conflict:
+{{step_2}}
+
+Additional Characters:
+{{step_3}}
+
+Moving on, develop the plot of the story detailing how the {{main_character}} encounters and begins dealing with their problem or conflict.
+
+->>>>
+
+We have a plot where our main character starts dealing with the problem:
+
+Additional Characters:
+{{step_3}}
+
+Plot:
+{{step_4}}
+
+Make sure to 'show' the story through the character's actions rather than merely 'telling' it. For example, if {{main_character}} is courageous, demonstrate their courage through their actions.
+
+->>>>
+
+The story is shaping up with clear plot points and its actions. Let's see what we have:
+
+Plot:
+{{step_4}}
+
+Actions 'Shown': 
+{{step_5}}
+
+Now, build the tension in the story up towards the climax. This is the point in the story where the {{main_character}} is closest to solving the problem but encounters a significant setback.
+
+->>>>
+
+Our story's tension is building up nicely towards a climax:
+
+Actions 'Shown': 
+{{step_5}}
+
+Climax:
+{{step_6}}
+
+At this stage, we need to have the {{main_character}} address their conflict and eventually solve it or learn something crucial. This is the resolution of the story.
+
+->>>>
+
+The story has a climax and a resolution, and the main character has learned something important:
+
+Climax:
+{{step_6}}
+
+Resolution:
+{{step_7}}
+
+Compose a conclusion for the story illustrating the aftermath of the problem's resolution and showing how the experience changed {{main_character}} or what they learned from it.
+
+->>>>
+
+Our story concludes with a meaningful reflection based on the story's resolution:
+
+Resolution:
+{{step_7}}
+
+Conclusion:
+{{step_8}}
+
+Perform a language check. Ensure the language used in the story is easy to understand and appropriate for children in terms of complexity and content.
+
+->>>>
+
+The language in our story is appropriate for children and readily understandable:
+
+Language Checked Story:
+{{step_9}}
+
+Now, finalise the story by including a moral or takeaway point. This needs to be relevant to the problem {{main_character}} encountered and how they managed to resolve or deal with it.
+

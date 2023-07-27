@@ -1,0 +1,91 @@
+To write a "Book Review" for the "Children's Literature Writing" industry, for a "Blogger", follow these instructions:
+
+Start by writing an engaging introduction that includes the title of the book, the name of the author, and a brief outline of what the book is about. Remember to mention {{book_title}}, {{author_name}}, and provide a brief {{book_summary}}.
+
+Here's some more context about the Book Review:
+Book Title: {{book_title}}
+Author Name: {{author_name}}
+Book Summary: {{book_summary}}
+Book Characters: {{book_characters}}
+Book Plot: {{book_plot}}
+Book Setting: {{book_setting}}
+Personal Opinion: {{personal_opinion}}
+Book Themes: {{book_themes}}
+Intended Audience: {{intended_audience}}
+Comparative Analysis: {{comparative_analysis}}
+
+->>>>
+
+For our book review, we now have an engaging introduction about:
+
+Book Title:
+{{step_1}}
+
+For the next step, let's focus on the book's main elements. Write an overview of the main characters, plot, and setting without revealing too much detail or any spoilers. Make sure you mention {{book_characters}}, {{book_plot}}, and {{book_setting}}.
+
+->>>>
+
+Our book review now has an introduction and an overview of the story:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Now, it's time to share your thoughts on the book. In the "Personal Opinion" section, comment on the language style, pacing, and the emotional connection you felt with the characters. Express what you liked or didn’t like about the book and include examples to back up your opinions. Please keep your {{personal_opinion}} professional and respectful.
+
+->>>>
+
+In our book review so far, we have:
+
+Introduction:
+{{step_1}}
+
+Story Overview:
+{{step_2}}
+
+Personal Opinion:
+{{step_3}}
+
+Next, let's delve into the book's core themes or messages and their relevance to children. Use examples from the book to emphasize these themes. Please provide your insight on {{book_themes}}.
+
+->>>>
+
+At this point, our book review has:
+
+Introduction:
+{{step_1}}
+
+Story Overview:
+{{step_2}}
+
+Personal Opinion:
+{{step_3}}
+
+Book Themes:
+{{step_4}}
+
+For the "Recommendation" section, discuss who you think would most enjoy the book and why. Mention age groups, interests, etc. in your recommendation. Your review can also compare how the book stacks up against other books of the same genre or by the same author. So please include, {{intended_audience}} and {{comparative_analysis}}.
+
+->>>>
+
+Our book review now includes:
+
+Introduction:
+{{step_1}}
+
+Story Overview:
+{{step_2}}
+
+Personal Opinion:
+{{step_3}}
+
+Book Themes:
+{{step_4}}
+
+Recommendation:
+{{step_5}}
+
+Next, put together a thought-provoking conclusion to wrap up the review. This conclusion should restate your personal opinion, the relevance of the themes, and reader recommendations.
+

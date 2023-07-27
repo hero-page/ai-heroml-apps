@@ -1,0 +1,84 @@
+Your task is to write a "Materials List" for the "Children's Art Supplies" industry, specifically for an "Art Educator". Let's start by creating an introduction that details the age group and artistic goals of the lesson plan: {{age_group_and_goal}}.
+
+Here's some more context about the Materials List:
+Age Group And Goal: {{age_group_and_goal}}
+Art Supply Type: {{art_supply_type}}
+Art Supply Item: {{art_supply_item}}
+Eco Friendly Items: {{eco_friendly_items}}
+Material Allergies Sensitivities: {{material_allergies_sensitivities}}
+
+->>>>
+
+We are partway through the "Materials List", with an introduction that details the age group and artistic goals of the lesson plan:
+
+Introduction:
+{{step_1}}
+
+Next, let's segregate the list into different sections based on the type or class of art supply; for instance, drawing materials, painting supplies, crafting items, and specialty supplies.
+
+->>>>
+
+In the "Materials List", we have the introduction, and the sections based on the type or class of art supply:
+
+Introduction:
+{{step_1}}
+
+Type/Class of Art Supply:
+{{step_2}}
+
+Now, within each section, we need to list individual items necessary for the project. Each entry on the list should include the item's name, the quantity needed, and a brief description of its use in the class.
+
+->>>>
+
+We have the introduction, the sections based on the type or class of art supply, and the individual items necessary for the project in our "Materials List":
+
+Introduction:
+{{step_1}}
+
+Type/Class of Art Supply:
+{{step_2}}
+
+Individual Art Supply Items for Project:
+{{step_3}}
+
+We need to add a section dedicated to safety materials and equipment, especially for situations where the items on the list might require extra safety precautions.
+
+->>>>
+
+In our "Materials List", along with the introduction, sections based on the type or class of art supply, and the individual items, we have introduced a section dedicated to safety materials and equipment:
+
+Introduction:
+{{step_1}}
+
+Type/Class of Art Supply:
+{{step_2}}
+
+Individual Art Supply Items for Project:
+{{step_3}}
+
+Safety Materials and Equipment:
+{{step_4}}
+
+Next, let's add an additional environment-friendly category that will provide information on eco-friendly alternatives to traditional supplies.
+
+->>>>
+
+Our "Materials List" has an introduction, sections based on the type or class of art supply, individual items, safety materials, and we have introduced an environment-friendly category:
+
+Introduction:
+{{step_1}}
+
+Type/Class of Art Supply:
+{{step_2}}
+
+Individual Art Supply Items for Project:
+{{step_3}}
+
+Safety Materials and Equipment:
+{{step_4}}
+
+Environment-Friendly Category:
+{{step_5}}
+
+Now, we need to conclude the list with a summary of the total number of unique items required, re-emphasizing the age group and artistic goal of the lesson plan.
+

@@ -1,0 +1,88 @@
+Your task is to write a "Study Guide" for the "Children's Books & Learning Materials" industry, specifically for an "Educational Author". 
+
+Let's start with an introduction that provides an overview of the subject matter: {{subject_matter}}. 
+
+Here's some more context about the Study Guide:
+Subject Matter: {{subject_matter}}
+
+->>>>
+
+Our "Study Guide" has begun with an introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's break down this {{subject_matter}} into Chapters or Units. Each chapter should correlate to a major concept or topic related to the {{subject_matter}}.
+
+->>>>
+
+For our "Study Guide", we have divided the {{subject_matter}} into chapters:
+
+Chapters/Units:
+{{step_2}}
+
+Next, for every chapter/unit, we will begin with a summary that highlights key points and ideas in simple, age-appropriate language.
+
+->>>>
+
+Our "Study Guide" has chapter summaries:
+
+Chapter Summaries:
+{{step_3}}
+
+Let's now generate a list of keywords or terms for each chapter/unit. This list should be directly related to the major concept of the chapter/unit from the {{subject_matter}}.
+
+->>>>
+
+We have the keywords or terms listed for each chapter/unit of {{subject_matter}}:
+
+Keywords/Terms:
+{{step_4}}
+
+It's time to include simplified definitions or explanations for the keywords/terms list.
+
+->>>>
+
+Our "Study Guide" now includes definitions of the listed terms: 
+
+Definitions:
+{{step_5}}
+
+Next, we need to create a series of questions related to each chapter or unit. The questions should measure the understanding of the child regarding the major concepts presented in the chapter/unit of the {{subject_matter}}.
+
+->>>>
+
+We now have sets of questions pertaining to each chapter/unit of our {{subject_matter}}:
+
+Questions:
+{{step_6}}
+
+With each question, let's provide detailed answers or solutions. The aim is to guide the child's understanding and reinforce the concepts of the {{subject_matter}}.
+
+->>>>
+
+We have now prepared answers to our questions, supporting comprehension of the {{subject_matter}}:
+
+Answers:
+{{step_7}}
+
+At this stage, we'll inject a section for 'Additional Resources or Recommended Reading.' This should include a list of books, websites or articles that further explain the {{subject_matter}}. Make sure these resources are age-appropriate and safe for children’s use.
+
+->>>>
+
+Our study guide now features Additional Resources that supplement understanding of the {{subject_matter}}:
+
+Additional Resources:
+{{step_8}}
+
+Next, conclude the study guide with a comprehensive review section that revisits the major concepts of all chapters/units of the {{subject_matter}}. Include some questions covering the entire subject to test overall understanding.
+
+->>>>
+
+We now have a comprehensive review section that ties together all the major concepts of our {{subject_matter}}:
+
+Comprehensive Review:
+{{step_9}}
+
+Lastly, we need to create an answer key for all the questions in the review section. This will enable students and parents to check answers and understanding of the entire {{subject_matter}}. 
+

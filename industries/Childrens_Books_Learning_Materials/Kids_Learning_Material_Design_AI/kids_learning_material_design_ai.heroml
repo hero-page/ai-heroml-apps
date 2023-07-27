@@ -1,0 +1,84 @@
+Your task is to write a "Design Specification" for the "Children's Books & Learning Materials" industry, specifically for a "Product Designer". Start by creating an introduction that clearly defines the product's purpose in aiding the learning process: {{product_purpose}}.
+
+Here's some more context about the Design Specification:
+Product Purpose: {{product_purpose}}
+Target Audience: {{target_audience}}
+Product Features: {{product_features}}
+Development Process: {{development_process}}
+Safety Considerations: {{safety_considerations}}
+
+->>>>
+
+With the product's purpose established: 
+
+Product Purpose:
+{{step_1}}
+
+Next, describe the intended target audience, detailing the age range of children and their possible educational level: {{target_audience}}.
+
+->>>>
+
+So far, we have defined a purpose for our product and identified the target audience: 
+
+Product Purpose:
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Our next task is to describe the product features. This section should entail detailed descriptions of the visual and functional features of the product that make it appealing and engaging to the target user: {{product_features}}.
+
+->>>>
+
+We have identified the product purpose, our target audience, and outlined the product's features:
+
+Product Purpose:
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Then, present the proposed development process which should detail specific steps for the product's creation and assembly: {{development_process}}.
+
+->>>>
+
+In our Design Specification, we have the product's purpose, target audience, features, and a detailed development process:
+
+Product Purpose:
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Development Process:
+{{step_4}}
+
+Now, discuss the safety considerations specific to the age group of the target audience. This should include choices of materials, paint, manufacturing processes, assembly, and packaging: {{safety_considerations}}.
+
+->>>>
+
+In our Design Specification, this is what we have thus far:
+
+Product Purpose:
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Development Process:
+{{step_4}}
+
+Safety Considerations:
+{{step_5}}
+
+Finally, we need to conclude the Design Specification with a summary that reinforces the product's purpose and includes a list of deliverables expected from the Product Designer.
+

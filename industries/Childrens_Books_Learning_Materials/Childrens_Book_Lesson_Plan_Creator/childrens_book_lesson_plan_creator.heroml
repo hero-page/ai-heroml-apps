@@ -1,0 +1,139 @@
+Your task is to write a "Lesson Plan" for the "Children's Books & Learning Materials" industry, specifically for an "Educational Author". 
+Let's start with writing an introduction to the lesson plan. It should introduce the central theme of the lesson along with the specific goals or outcomes expected of the students.
+
+Here's some more context about the Lesson Plan:
+Lesson Overview: {{lesson_overview}}
+Key Topics: {{key_topics}}
+Learning Objectives: {{learning_objectives}}
+Teaching Method: {{teaching_method}}
+Activities And Reading Materials: {{activities_and_reading_materials}}
+Assesment Strategy: {{assesment_strategy}}
+Lesson Summary: {{lesson_summary}}
+Further Study: {{further_study}}
+
+->>>>
+
+At this point we have an introduction for our lesson plan:
+
+Introduction:
+{{step_1}}
+
+Next, let's construct a detailed outline of the key topics in the lesson plan. This should be a list of the major points or concepts covered in the lesson related to the central theme. Each topic needs to be further divided into subtopics for easier understanding.
+
+->>>>
+
+We've got our lesson's introduction and the key topics list:
+ 
+Introduction:
+{{step_1}}
+
+Key Topics:
+{{step_2}}
+
+Following this, outline the learning objectives. Clearly state what students are expected to comprehend or do by the end of the lesson. Make sure these objectives are directly connected to the key topics we just outlined.
+
+->>>>
+
+Thus far, we have the introduction, the key topics, and the learning objectives for our lesson plan: 
+
+Introduction:
+{{step_1}}
+
+Key Topics:
+{{step_2}}
+
+Learning Objectives:
+{{step_3}}
+
+Next, outline the teaching methodology. Describe the activities, discussions, and strategies planned to present the topics and assist learning. These methods should ideally cater to various learning styles (visual, auditory, kinesthetic).
+
+->>>>
+
+Our lesson plan is coming along with an introduction, key topics, learning objectives, and teaching methodology now in place:
+
+Introduction:
+{{step_1}}
+
+Key Topics:
+{{step_2}}
+
+Learning Objectives:
+{{step_3}}
+
+Teaching Methodology:
+{{step_4}}
+
+Now, introduce engaging activities and reading materials. Provide a compact list of recommended readings and creative exercises that reinforce the lesson, keeping in consideration the age group and the key topics on hand.
+
+->>>>
+
+So far we have an introduction, key topics, learning objectives, teaching methodology, and a list of engaging activities and readings:
+
+Introduction:
+{{step_1}}
+
+Key Topics:
+{{step_2}}
+
+Learning Objectives:
+{{step_3}}
+
+Teaching Methodology:
+{{step_4}}
+
+Activities & Reading Materials:
+{{step_5}}
+
+Let's proceed with outlining the assessment strategy. Describe how the effectiveness of the lesson and the understanding of the learners will be measured, whether through quizzes, discussions, or assignments.
+
+->>>>
+
+We have an introduction, key topics, learning objectives, teaching methodology, engaging activities & reading materials, and an assessment plan outlined so far:
+
+Introduction:
+{{step_1}}
+
+Key Topics:
+{{step_2}}
+
+Learning Objectives:
+{{step_3}}
+
+Teaching Methodology:
+{{step_4}}
+
+Activities & Reading Materials:
+{{step_5}}
+
+Assessment Strategy:
+{{step_6}}
+
+Next, draft a summary of the lesson plan and provide an opportunity for reflection. It should include primary takeaways from the lesson and encourage students to reflect on what they learned. Be sure to refer back to the learning objectives outlined earlier.
+
+->>>>
+
+We have drafted the comprehensive parts of our lesson plan:
+
+Introduction:
+{{step_1}}
+
+Key Topics:
+{{step_2}}
+
+Learning Objectives:
+{{step_3}}
+
+Teaching Methodology:
+{{step_4}}
+
+Activities & Reading Materials:
+{{step_5}}
+
+Assessment Strategy:
+{{step_6}}
+
+Lesson Summary:
+{{step_7}}
+
+To complete the lesson plan, provide suggestions for further study or homework assignments. These should connect back to your objectives and provide provisions for students to expand their understanding of the material outside of lesson time.
+

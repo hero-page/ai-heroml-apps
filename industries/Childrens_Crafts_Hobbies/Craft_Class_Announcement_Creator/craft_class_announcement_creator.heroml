@@ -1,0 +1,112 @@
+Your task is to write a "Class Announcement" for the "Children's Crafts & Hobbies" industry, specifically for a "Hobby Instructor". 
+
+First, let's generate a captivating header that mentions the hobby class title: {{hobby_class_title}}. This will be our first way of engaging potential attendees.
+
+Here's some more context about the Class Announcement:
+Hobby Class Title: {{hobby_class_title}}
+Purpose Of Hobby Class: {{purpose_of_hobby_class}}
+Structure Of Class: {{structure_of_class}}
+Unique Aspects Of Class: {{unique_aspects_of_class}}
+Details: {{details}}
+Registration Info: {{registration_info}}
+Benefits Of Joining: {{benefits_of_joining}}
+
+->>>>
+
+With this class announcement on our hands, we have a captivating header:
+
+Header:
+{{step_1}}
+
+Now, compose an engaging introduction that outlines the purpose of the class, focusing on the outcomes potential attendees could achieve or create: {{purpose_of_hobby_class}}.
+
+->>>>
+
+In our "Class Announcement", we now have an engaging header and introduction:
+
+Header:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, detail the structure of the class, mention sequence of activities and the method of instruction. Also, highlight the key craft or hobby skills attendees will gain: {{structure_of_class}}.
+
+->>>>
+
+Our class announcement has a header, an introduction, and the structure of the class:
+
+Header:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Structure of class:
+{{step_3}}
+
+Now, integrate what makes your class unique: talk about your teaching method, your experience in the field, or any fun aspects of the class: {{unique_aspects_of_class}}.
+
+->>>>
+
+So far, we have a header, introduction, class structure, and unique selling points for our class announcement:
+
+Header:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Structure of Class:
+{{step_3}}
+
+Unique Aspects of Class:
+{{step_4}}
+
+Next, present practical information such as the class location, timing, targeted age group, and skill level required, if any: {{details}}.
+
+->>>>
+
+Our "Class Announcement" presently has a header, introduction, class structure, unique selling points and practical information:
+
+Header:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Structure of Class:
+{{step_3}}
+
+Unique Aspects of Class:
+{{step_4}}
+
+Details:
+{{step_5}}
+
+Onward, provide instructions for registration and payment processes, and don't forget to include the cut-off date: {{registration_info}}.
+
+->>>>
+
+Now, our "Class Announcement" has a header, introduction, class structure, unique selling points, practical information, and registration information:
+
+Header:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Structure of Class:
+{{step_3}}
+
+Unique Aspects of Class:
+{{step_4}}
+
+Details:
+{{step_5}}
+
+Registration Info:
+{{step_6}}
+
+Finally, convey your enthusiasm for the class and summarize the benefits of joining: {{benefits_of_joining}}. End on a motivating note to encourage sign-ups.
+

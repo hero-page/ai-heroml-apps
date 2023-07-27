@@ -1,0 +1,45 @@
+Let's create an 'Ad Copy' for the 'Children's Crafts & Hobbies' industry for a 'Product Marketer'. Start by crafting an engaging and resonating introduction that informs the reader what the ad copy is about and introduces the children's craft or hobby product: {{product_name}}.
+
+Here's some more context about the Ad Copy:
+Product Name: {{product_name}}
+Product Description: {{product_description}}
+Product USP: {{product_USP}}
+Product Benefits: {{product_benefits}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+For our 'Ad Copy', the introduction has been crafted:
+
+Introduction:
+{{step_1}}
+
+Let's move forward by providing an enticing and informative description of the product: {{product_description}} while considering children's safety & suitability, skill development, the fun factor, and the product's quality & durability.
+
+->>>>
+
+In our ad copy for a product in the 'Children's Crafts & Hobbies' industry, we have:
+
+Introduction:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Proceed with outlining the product's unique selling proposition, also known as its USP, to distinguish it from the competition: {{product_USP}}.
+
+->>>>
+
+In the 'Ad Copy' for our Children's Crafts & Hobbies product, we have:
+
+Introduction:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+USP:
+{{step_3}}
+
+Following this, list the main benefits of the product, emphasizing how it will positively impact children's craft or hobby routines: {{product_benefits}}.
+

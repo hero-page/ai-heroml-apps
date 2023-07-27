@@ -1,0 +1,116 @@
+Your task is to write a "Children's Literature Discussion" for the "Children's Literature Writing" industry, specifically for a "Blogger". Let's start by forming an introduction that sets the scope of the "Children's Literature Discussion": {{discussion_scope}}. The scope can be about the works of a specific author, a particular sub-genre, or a trending topic in children's literature.
+
+Here's some more context about the Children's Literature Discussion:
+Discussion Scope: {{discussion_scope}}
+Influences And Contexts: {{influences_and_contexts}}
+Controversies: {{controversies}}
+
+->>>>
+
+For the discussion on "Children's Literature", we start with an introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let’s create the first main section that gives an overview of the subject matter. Focus on main points about the {{discussion_scope}} such as its cultural relevance, impact on children's literature, and its continual evolution.
+
+->>>>
+
+The introduction for our discussion is:
+
+Introduction:
+{{step_1}}
+
+And we have an overview of the subject matter:
+
+Overview:
+{{step_2}}
+
+Moving on, let’s generate the second section, a deeper, critical analysis of the {{discussion_scope}}. This can explore themes, character developments, plot structures, or visual storytelling techniques.
+
+->>>>
+
+Our discussion, with an introduction and overview, is as follows:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+And now, a deeper analysis of the subject matter:
+
+Critical Analysis:
+{{step_3}}
+
+The next task is to discuss the significant influences and contexts: {{influences_and_contexts}} that have shaped the industry or the focus aspect. These can be educational trends, societal values, or key historical events.
+
+->>>>
+
+Our children's literature discussion has the following parts:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Critical Analysis:
+{{step_3}}
+
+We've also discussed the significant influences and contexts:
+
+Influences and Contexts:
+{{step_4}}
+
+Now, draft a section that discusses controversies or debates: {{controversies}} associated with the {{discussion_scope}}. This showcases your depth of knowledge, and encourages active participation from the readers.
+
+->>>>
+
+In the discussion on Children's Literature, we have:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Critical Analysis:
+{{step_3}}
+
+Influences and Contexts:
+{{step_4}}
+
+And a discussion on the related controversies:
+
+Controversies:
+{{step_5}}
+
+For the next section, discuss how the {{discussion_scope}} shapes and influences the children's literature industry. Discuss market trends, book publishing and production, audience reception, and literacy development in children.
+
+->>>>
+
+So far, our discussion includes:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Critical Analysis:
+{{step_3}}
+
+Influences and Contexts:
+{{step_4}}
+
+Controversies:
+{{step_5}}
+
+Now, we outline the industry implications:
+
+Industry Implications:
+{{step_6}}
+
+Finally, let's conclude the discussion by revisiting the main points and talking about the broader implications for the industry, readers, and future literature discourse.
+

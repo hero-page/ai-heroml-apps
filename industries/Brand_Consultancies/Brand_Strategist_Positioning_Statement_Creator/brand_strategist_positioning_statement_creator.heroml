@@ -1,0 +1,46 @@
+Your task is to write a "Product Positioning Statement" for the "Brand Consultancies" industry, specifically for a "Brand Strategist". 
+
+Let's start by creating an engaging, yet informative introduction about the product. The description should capture the essence of the product and its unique selling proposition.
+
+Here's some more context about the Product Positioning Statement:
+Product Description: {{product_description}}
+Target Market: {{target_market}}
+Value Proposition: {{value_proposition}}
+Competitive Difference: {{competitive_difference}}
+
+->>>>
+
+Let's move on to the next step with our introduction at hand:
+
+Introduction:
+{{step_1}}
+
+Now, identify and define the target market, highlighting its demographic and psychographic characteristics. This section will help match the product's unique features with the needs of the target market.
+
+->>>>
+
+Let's review what we have so far with the product introduction and market context:
+
+Introduction:
+{{step_1}}
+
+Target market:
+{{step_2}}
+
+Next, explain your product’s unique value with respect to how it solves the pain points or enhances the lives of the defined target market. Remember, the value proposition should not be generic, but contextually aligned to the Brand Consultancy industry.
+
+->>>>
+
+Let's progress further. We have the product introduction, market context, and its value proposition:
+
+Introduction:
+{{step_1}}
+
+Target market:
+{{step_2}}
+
+Value proposition:
+{{step_3}}
+
+Now, delve into a detailed comparison on how your product stands out from your competitors in the brand consultancy industry. This will help to define the unique space your product holds in the industry landscape.
+

@@ -1,0 +1,108 @@
+Your task is to write a "Strain Description" for the "Cannabis Industry", specifically for a "Cultivator". 
+
+Start by creating a catchy name and compelling introductory sentence echoing the distinctiveness of the strain: {{strain_name}}. 
+
+Here's some more context about the Strain Description:
+Strain Name: {{strain_name}}
+Strain Color: {{strain_color}}
+Bud Size: {{bud_size}}
+Leaf Shape: {{leaf_shape}}
+Aroma Flavor Description: {{aroma_flavor_description}}
+Grow Conditions: {{grow_conditions}}
+Difficulty Level: {{difficulty_level}}
+Effects Description: {{effects_description}}
+Medical Uses Description: {{medical_uses_description}}
+
+->>>>
+
+The initial step for a "Strain Description" includes a catchy name and a captivating introductory phrase:
+
+Strain Name and Introduction:
+{{step_1}}
+
+Now, generate an overview of the strain. Here, provide essential details such as the type of strain (Indica, Sativa, or hybrid), parent strains (if any), and the breeder or country of origin.
+
+->>>>
+
+For the "Strain Description" of {{strain_name}}, here's a comprehensive overview:
+
+Strain Name and Introduction:
+{{step_1}}
+
+Strain Overview:
+{{step_2}}
+
+For the next step, describe the strain's appearance. This description must include details like the color, size, and shape of the buds, the color of the trichomes, and any distinct features of leaves or pistils. Refer to {{strain_color}}, {{bud_size}}, and {{leaf_shape}}.
+
+->>>>
+
+Part of the "Strain Description" for {{strain_name}} includes an in-depth description of its appearance:
+
+Strain Overview:
+{{step_2}}
+
+Appearance Description:
+{{step_3}}
+
+Now, delve into the aroma and flavor profile of the strain using {{aroma_flavor_description}}. Detail the initial scent and taste, along with any changes that occur as the strain is consumed.
+
+->>>>
+
+For the cannabis strain, we have detailed its appearance and aroma/flavor characteristics:
+
+Appearance Description:
+{{step_3}}
+
+Aroma and Flavor Profile:
+{{step_4}}
+
+Subsequently, detail the strain's THC and CBD content, along with any other notable cannabinoids or terpenes. This information is invaluable for cultivators when selecting the strain for cultivation and sale.
+
+->>>>
+
+Based on the aroma/flavor characteristics, this strain's THC, CBD, and other cannabinoid content is presented as:
+
+Aroma and Flavor Profile:
+{{step_4}}
+
+Cannabinoid Profile:
+{{step_5}}
+
+Switch to a detailed explanation of the growing conditions and difficulty level for cultivation, using the {{grow_conditions}} and {{difficulty_level}} variables. Explore aspects such as light, temperature, and humidity preferences, resistances to pests and diseases, yield potential, flowering time, and preferred growing method (indoors/outdoors, soil/hydroponics).
+
+->>>>
+
+With the cannabinoids profile at hand, we provide insights into the strain's growing conditions and cultivation difficulty level:
+
+Cannabinoid Profile:
+{{step_5}}
+
+Cultivation Details:
+{{step_6}}
+
+Next, focus on the effects and medical uses with {{effects_description}} and {{medical_uses_description}}. Incorporate descriptions of the onset, intensity, duration of effects, along with potential benefits for medical consumers.
+
+->>>>
+
+For our strain, we've discussed its cultivation conditions and will now examine its effects and medical uses:
+
+Cultivation Details:
+{{step_6}}
+
+Effects and Medical Uses:
+{{step_7}}
+
+Wrap up the strain description with a summary highlighting the distinctive and lucrative aspects of the strain for a cultivator (factors such as quality, profit margin, customer preferences, novelty, etc.) and incorporating a call to action.
+
+->>>>
+
+Charting the effects and medical uses of the strain, we now wrap up with an enticing summary for cultivators:
+
+Effects and Medical Uses:
+{{step_7}}
+
+Strain Summary:
+{{step_8}}
+
+Last but not least, provide a section for consumer reviews or testimonies about the strain if available, however, this should be dependent on actual feedback and not contrived information.
+

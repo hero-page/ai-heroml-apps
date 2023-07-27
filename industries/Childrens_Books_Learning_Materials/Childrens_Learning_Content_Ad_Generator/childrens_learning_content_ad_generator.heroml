@@ -1,0 +1,140 @@
+Your task is to write a "Ad Copy" for the "Children's Books & Learning Materials" industry, specifically for a "Product Marketer". Let's begin by coming up with an engaging headline that sparks interest and focuses on the product's main selling point: {{product_main_selling_point}}.
+
+Here's some more context about the Ad Copy:
+Product Main Selling Point: {{product_main_selling_point}}
+Product Description: {{product_description}}
+Product Key Features: {{product_key_features}}
+Educational Benefits: {{educational_benefits}}
+Unique Selling Proposition: {{unique_selling_proposition}}
+Age Range: {{age_range}}
+Creator Information: {{creator_information}}
+Use Case Scenario: {{use_case_scenario}}
+Testimonials: {{testimonials}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+The following is the headline for our "Ad Copy":
+
+Headline:
+{{step_1}}
+
+Next, create an introduction that briefly explains the product: {{product_description}} and its key features: {{product_key_features}}.
+
+->>>>
+
+For our "Ad Copy", we now have a headline and an introduction:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, it's time to describe the benefits of using the product. Portray the educational value it can offer children, such as enhancing learning, making education fun, developing skills, and augmenting knowledge: {{educational_benefits}}.
+
+->>>>
+
+The "Ad Copy" for our product so far includes the headline, introduction, and the educational benefits:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Educational Benefits:
+{{step_3}}
+
+Next, elaborate on the unique selling proposition, stating what differentiates our product from competitors: {{unique_selling_proposition}}.
+
+->>>>
+
+The "Ad Copy" for our product advances with the addition of the unique selling proposition alongside the headline, introduction, and educational benefits:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Educational Benefits:
+{{step_3}}
+
+Unique Selling Proposition:
+{{step_4}}
+
+Now, let's clearly define the age range suitable for the product: {{age_range}}, keeping in mind its importance in the choice of children's books and learning materials.
+
+->>>>
+
+Here's what our "Ad Copy" looks like so far, with the addition of a defined age range:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Educational Benefits:
+{{step_3}}
+
+Unique Selling Proposition:
+{{step_4}}
+
+Suitable Age Range:
+{{step_5}}
+
+Following that, provide information about the author, illustrator, or manufacturer: {{creator_information}}, to augment product's credibility.
+
+->>>>
+
+So far, our "Ad Copy" includes the following:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Educational Benefits:
+{{step_3}}
+
+Unique Selling Proposition:
+{{step_4}}
+
+Suitable Age Range:
+{{step_5}}
+
+Creator Information:
+{{step_6}}
+
+Now, create a compelling story or scenario reflecting the beneficial usage of the product: {{use_case_scenario}}.
+
+->>>>
+
+Our product's "Ad Copy" continues to take shape:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Educational Benefits:
+{{step_3}}
+
+Unique Selling Proposition:
+{{step_4}}
+
+Suitable Age Range:
+{{step_5}}
+
+Creator Information:
+{{step_6}}
+
+Use Case Scenario:
+{{step_7}}
+
+We're almost there. Incorporate testimonials, if available, from satisfied customers, educators, or experts to validate the product's effectiveness: {{testimonials}}.
+

@@ -1,0 +1,86 @@
+Your task is to write a "Visual Identity Description" for the "Brand Consultancies" industry, specifically for a "Graphic Designer". 
+
+Let's start by writing an introduction that overviews the brand traits: {{brand_traits}}.
+
+Here's some more context about the Visual Identity Description:
+Brand Traits: {{brand_traits}}
+Visual Elements: {{visual_elements}}
+Color Palette: {{color_palette}}
+Typography Details: {{typography_details}}
+Imagery Standard: {{imagery_standard}}
+
+->>>>
+
+We have an introduction for our "Visual Identity Description":
+
+Introduction Overviewing Brand Traits:
+{{step_1}}
+
+Now, introduce the visual elements of the brand which includes the logo, color palette, typography, and imagery. Make sure each one is described uniquely: {{visual_elements}}.
+
+->>>>
+
+We have an introduction and unique descriptions for the visual elements of our brand:
+
+Introduction Overviewing Brand Traits:
+{{step_1}}
+
+Described Visual Elements:
+{{step_2}}
+
+Next, delve into a detailed description of the primary logo of the brand. Explain how it represents the brand traits: {{brand_traits}}.
+
+->>>>
+
+Our "Visual Identity Description" now includes an introduction, described visual elements, and a description of the primary logo:
+
+Introduction Overviewing Brand Traits:
+{{step_1}}
+
+Described Visual Elements:
+{{step_2}}
+
+Primary Logo Description representing Brand Traits:
+{{step_3}}
+
+Now, describe the color palette used in the brand's visuals. Highlight the chosen hues and any symbolism they carry in respect to the brand: {{color_palette}}.
+
+->>>>
+
+So far, the "Visual Identity Description" contains an introduction, described visual elements, a primary logo description, and a color palette description:
+
+Introduction Overviewing Brand Traits:
+{{step_1}}
+
+Described Visual Elements:
+{{step_2}}
+
+Primary Logo Description representing Brand Traits:
+{{step_3}}
+
+Color Palette Description:
+{{step_4}}
+
+Next, provide a detailed description of the typography used. This should include details about the font styles, sizes, and spacing, and also how these elements align with the brand's image: {{typography_details}}.
+
+->>>>
+
+The  "Visual Identity Description" we are creating has an introduction, described visual elements, a primary logo description, a color palette description, and a detailed description of typography:
+
+Introduction Overviewing Brand Traits:
+{{step_1}}
+
+Described Visual Elements:
+{{step_2}}
+
+Primary Logo Description Representing Brand Traits:
+{{step_3}}
+
+Color Palette Description:
+{{step_4}}
+
+Typography Description:
+{{step_5}}
+
+Now, discuss the imagery used in relation to the brand. Describe how it exemplifies the brand's visual standards and what it stands for: {{imagery_standard}}.
+

@@ -1,0 +1,87 @@
+Your task is to write an "Email Campaign" for the "Children's Books & Learning Materials" industry, specifically for a "Product Marketer". Let's bring this task to action.
+
+1. Begin by creating a warm, friendly introduction that teases the main content of the email, such as a new product release or a promotional sale.
+
+Here's some more context about the Email Campaign:
+Campaign Intro: {{campaign_intro}}
+Product Features: {{product_features}}
+Educational Value: {{educational_value}}
+Call To Action: {{call_to_action}}
+Additional Information: {{additional_information}}
+Closing Statement: {{closing_statement}}
+
+->>>>
+
+We have crafted an appealing introduction for the email campaign:
+
+Introduction:
+{{step_1}}
+
+2. Include a section that details the features and benefits of your products. Make sure to start with the most thrilling or unique aspect.
+
+->>>>
+
+We have come up with a section in our campaign detailing product features:
+
+Introduction:
+{{step_1}}
+
+Product Features:
+{{step_2}}
+
+3. Now, we have to incorporate data about the educational value and learning potential of the products. Highlight factors like age appropriateness, skill-level requirement, and possible learning outcomes.
+
+->>>>
+
+We have extracted suitable parts for the campaign, highlighting the educational value of our products:
+
+Introduction:
+{{step_1}}
+
+Product Features:
+{{step_2}}
+
+Educational Value:
+{{step_3}}
+
+4. Moving forward, make sure to include a section providing the recipient with a motivation to take action, whether it's a discount, exclusive offer, or a referral bonus.
+
+->>>>
+
+In addition to the previous sections, here's the part that motivates the recipient to take action:
+
+Introduction:
+{{step_1}}
+
+Product Features:
+{{step_2}}
+
+Educational Value:
+{{step_3}}
+
+Call to action:
+{{step_4}}
+
+5. Now, communicate any important information for the customer regarding shipping, returns, customer service, and safe usage of the product.
+
+->>>>
+
+On top of our previous steps, we should include a part on additional information for our email marketing campaign:
+
+Introduction:
+{{step_1}}
+
+Product Features:
+{{step_2}}
+
+Educational Value:
+{{step_3}}
+
+Call to action:
+{{step_4}}
+
+Additional Information:
+{{step_5}}
+
+6. Finally, write a closing statement that thanks the recipients for their time and interest and reinforces the call to action. Ensure that the content and language resonate with parents, educators, and others responsible for child development. Maintain a warm, personable, and trustworthy tone. 
+

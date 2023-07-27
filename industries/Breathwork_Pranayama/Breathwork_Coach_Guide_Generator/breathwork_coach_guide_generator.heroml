@@ -1,0 +1,163 @@
+Your task is to write a "Breathwork Exercise Guide" for the "Breathwork & Pranayama" industry, specifically for a "Breathwork Coach". 
+Let's start by creating an engaging introduction that highlights the relevance and benefits of the {{type_of_breathwork}} practices being presented in the guide.
+
+Here's some more context about the Breathwork Exercise Guide:
+Type Of Breathwork: {{type_of_breathwork}}
+User Experience Levels: {{user_experience_levels}}
+
+->>>>
+
+We have started our "Breathwork Exercise Guide" with an engaging introduction about {{type_of_breathwork}}:
+
+Introduction:
+{{step_1}}
+
+Now, we need to follow up with a brief history or background of the {{type_of_breathwork}} to bring more depth and context to the exercise guide.
+
+->>>>
+
+For our "Breathwork Exercise Guide", we have an introduction and a brief history of {{type_of_breathwork}}:
+
+Introduction:
+{{step_1}}
+
+History:
+{{step_2}}
+
+Next, provide a detailed description of the {{type_of_breathwork}} practices, covering the prerequisites, proper posture, and systematic instructions on how to perform them accurately.
+
+->>>>
+
+With the introduction and history in mind, for our guide, we have the following sections:
+
+Introduction:
+{{step_1}}
+
+History:
+{{step_2}}
+
+Detailed Description:
+{{step_3}}
+
+It's time to introduce a variety of exercises focusing on enhancing breathing, which align with the {{type_of_breathwork}}. Break down the exercises into clear steps, ensuring easy comprehension and execution by the readers.
+
+->>>>
+
+Our "Breathwork Exercise Guide" so far includes an introduction, history, detailed description, and now a variety of exercises:
+
+Introduction:
+{{step_1}}
+
+History:
+{{step_2}}
+
+Detailed Description:
+{{step_3}}
+
+Breathing Exercises:
+{{step_4}}
+
+Now, we need to explain any advanced tactics or modifications for the various exercises, taking into account different {{user_experience_levels}}.
+
+->>>>
+
+So far, we have the following for our "Breathwork Exercise Guide":
+
+Introduction:
+{{step_1}}
+
+History:
+{{step_2}}
+
+Detailed Description:
+{{step_3}}
+
+Breathing Exercises:
+{{step_4}}
+
+Advanced Tactics:
+{{step_5}}
+
+We can now allocate a section to discuss the expected physical and mental benefits that can be derived from each exercise within the {{type_of_breathwork}} tradition.
+
+->>>>
+
+At this point, our "Breathwork Exercise Guide" looks like this:
+
+Introduction:
+{{step_1}}
+
+History:
+{{step_2}}
+
+Detailed Description:
+{{step_3}}
+
+Breathing Exercises:
+{{step_4}}
+
+Advanced Tactics:
+{{step_5}}
+
+Benefits:
+{{step_6}}
+
+Next, let's integrate industry-specific terms and techniques wherever possible to ensure the guide is familiar to a "Breathwork Coach" and useful for their clientele.
+
+->>>>
+
+For our "Breathwork Exercise Guide", we now have the following:
+
+Introduction:
+{{step_1}}
+
+History:
+{{step_2}}
+
+Detailed Description:
+{{step_3}}
+
+Breathing Exercises:
+{{step_4}}
+
+Advanced Tactics:
+{{step_5}}
+
+Benefits:
+{{step_6}}
+
+Industry-specific Terms:
+{{step_7}}
+
+Next, discuss potential pitfalls, common mistakes and troubleshooting tips for the exercises, making sure to include content relevant to different {{user_experience_levels}}.
+
+->>>>
+
+For the "Breathwork Exercise Guide", we now have:
+
+Introduction:
+{{step_1}}
+
+History:
+{{step_2}}
+
+Detailed Description:
+{{step_3}}
+
+Breathing Exercises:
+{{step_4}}
+
+Advanced Tactics:
+{{step_5}}
+
+Benefits:
+{{step_6}}
+
+Industry-specific Terms:
+{{step_7}}
+
+Mistakes and Tips:
+{{step_8}}
+
+Let's conclude the guide with key takeaways, a summary of how the exercises can contribute to overall breathwork practice, and recommendations for further learning and practice.
+

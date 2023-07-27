@@ -1,0 +1,84 @@
+Let's create an "Ad Copy" for the "Children's Art Supplies" industry for a "Product Marketer".
+
+Firstly, generate a captivating headline for the ad copy about the art supplies. This headline should intrigue the reader and spark curiosity for further reading.
+
+Here's some more context about the Ad Copy:
+Headline: {{headline}}
+Product Range Overview: {{product_range_overview}}
+Product Features: {{product_features}}
+Unique Selling Proposition: {{unique_selling_proposition}}
+Call To Action: {{call_to_action}}
+Reassuring Statement: {{reassuring_statement}}
+
+->>>>
+
+We have a compelling headline for our ad copy:
+
+Headline:
+{{step_1}}
+
+Next, let's write a brief introduction that overviews the product range targeting children. This should outline the general attributes of the product(s) without delving into specifics.
+
+->>>>
+
+Now, we have both a compelling headline and a concise introduction for our ad copy:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Continuing, let's write a detailed product description to highlight the main features and benefits of the products. Ensure this description showcases the benefits from the perspective of children and their parents.
+
+->>>>
+
+So far for our ad copy, we have a headline, an introduction and now a detailed description of the product:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Product Description:
+{{step_3}}
+
+Let's now write a unique selling proposition. This should include the qualities that set these art supplies apart from competing products. The proposition should trigger desire and convince potential buyers about the value of the product for their children.
+
+->>>>
+
+In our ad copy, we have a headline, an overview, a detailed product description, and a unique selling proposition:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Product Description:
+{{step_3}}
+
+Unique Selling Proposition:
+{{step_4}}
+
+Next, let's include a call-to-action for the reader. This may be an invitation to purchase the product, subscribe to your newsletter or visit your website for further information.
+
+->>>>
+
+For our ad copy, we have an introduction, detailed product description, a unique selling proposition, and a call-to-action:
+
+Introduction:
+{{step_2}}
+
+Product Description:
+{{step_3}}
+
+Unique Selling Proposition:
+{{step_4}}
+
+Call to Action:
+{{step_5}}
+
+To finalize, let's write a reassuring statement or guarantee. This should essentially confirm the product's quality, safety, or educational value, helping to alleviate any concerns that parents might have.
+

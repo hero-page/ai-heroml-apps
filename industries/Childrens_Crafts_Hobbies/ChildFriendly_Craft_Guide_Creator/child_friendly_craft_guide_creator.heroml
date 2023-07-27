@@ -1,0 +1,88 @@
+Your task is to write a "Craft Project Description" for the "Children's Crafts & Hobbies" industry, specifically for a "Craft Author". 
+
+Let's start with a captivating title that succinctly describes the craft project. Remember, this is what readers will see first.
+
+Here's some more context about the Craft Project Description:
+Craft Project Title: {{craft_project_title}}
+Craft Project Overview: {{craft_project_overview}}
+Age Suitability: {{age_suitability}}
+Materials And Tools: {{materials_and_tools}}
+Step By Step Instructions: {{step_by_step_instructions}}
+Safety Notes: {{safety_notes}}
+Usage Ideas: {{usage_ideas}}
+
+->>>>
+
+This is our catchy title for our craft project:
+
+Craft Project Title:
+{{step_1}}
+
+Next, write a brief introduction that provides an overview of the craft project. This should be engaging, give a taste of what the project entails, and spark curiosity in the reader.
+
+->>>>
+
+So far, we have a title and an introduction for our craft project:
+
+Craft Project Title:
+{{step_1}}
+
+Craft Project Overview:
+{{step_2}}
+
+Now, include an age suitability section. Since the industry is "Children's Crafts & Hobbies", this section should clearly inform the reader of the age group the craft is most suitable for.
+
+->>>>
+
+For our craft project, we have a title, an overview, and an age suitability section:
+
+Craft Project Title:
+{{step_1}}
+
+Craft Project Overview:
+{{step_2}}
+
+Age Suitability:
+{{step_3}}
+
+Next, detail a materials and tools section. This list should contain all the necessary items needed for the completion of the craft project. Ensure to list everything in order of use.
+
+->>>>
+
+Our craft project so far has a title, an overview, an age suitability section and a materials and tools section:
+
+Craft Project Title:
+{{step_1}}
+
+Craft Project Overview:
+{{step_2}}
+
+Age Suitability:
+{{step_3}}
+
+Materials and Tools:
+{{step_4}}
+
+Now, write a step-by-step instructions section. This should break down the craft process into clear, simple, and easy-to-follow steps.
+
+->>>>
+
+Our craft project now has a title, an overview, an age suitability section, a materials and tools list, and a step-by-step instruction section:
+
+Craft Project Title:
+{{step_1}}
+
+Craft Project Overview:
+{{step_2}}
+
+Age Suitability:
+{{step_3}}
+
+Materials and Tools:
+{{step_4}}
+
+Step-by-Step Instructions:
+{{step_5}}
+
+Next, incorporate safety notes and an adult supervision advisory at the necessary steps of the instructions. These notes are crucial to help prevent accidents during the crafting process.
+

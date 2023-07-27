@@ -1,0 +1,112 @@
+Your task is to write an "Age-appropriate Feedback" for the "Children's Literature Writing" industry for an "Editor". 
+
+Begin by summarizing the overall quality of the author's work for {{overall_quality}}. Keep it brief while highlighting strengths and areas for improvement, but without detail. Maintain balance and objectivity in your feedback.
+
+Here's some more context about the Age-appropriate Feedback:
+Overall Quality: {{overall_quality}}
+Age Appropriate Language: {{age_appropriate_language}}
+Age Relevant Content: {{age_relevant_content}}
+Story Structure: {{story_structure}}
+Educational Value: {{educational_value}}
+Suggestions Overview: {{suggestions_overview}}
+Closing Remarks: {{closing_remarks}}
+
+->>>>
+
+The summary of the author's overall quality of work is as follows:
+
+Summary:
+{{step_1}}
+
+Then, move on to a detailed analysis focused on whether the language used is age-appropriate for {{age_appropriate_language}}. Give specific examples from the text and suggest alternatives where necessary.
+
+->>>>
+
+In our feedback, we have a summary of overall quality and an analysis of age-appropriateness of the language as follows:
+
+Summary:
+{{step_1}}
+
+Age-Appropriate Language analysis:
+{{step_2}}
+
+Now, discuss the relevancy of the content to the intended age demographic - {{age_relevant_content}}. Elaborate on whether the characters are relatable and the themes appropriate. This guide will aid the author to make their story more relatable and enticing to the target age group.
+
+->>>>
+
+Moving further in our feedback, we have the summary, language analysis, and content relevancy as follows:
+
+Summary:
+{{step_1}}
+
+Age-Appropriate Language Analysis:
+{{step_2}}
+
+Content Relevancy:
+{{step_3}}
+
+Now, provide feedback on the structure and progression of the story for {{story_structure}}. Consider the pace and complexity of the storyline. Discuss whether it is suitable for the intended age group, whether it is too simple, too convoluted, or just right.
+
+->>>>
+
+So far in our feedback, we have the summary, language analysis, content relevancy, and story structure as follows:
+
+Summary:
+{{step_1}}
+
+Age-Appropriate Language Analysis:
+{{step_2}}
+
+Content Relevancy:
+{{step_3}}
+
+Story Structure:
+{{step_4}}
+
+Next, consider the educational value of the story - {{educational_value}}. Remember, it is essential for children's literature to not only entertain but also teach the reader something. Guide the author on how to improve or emphasize the educational aspect of the story.
+
+->>>>
+
+At this point, our feedback includes sections on summary, language analysis, content relevancy, story structure, and educational value as follows:
+
+Summary:
+{{step_1}}
+
+Age-Appropriate Language Analysis:
+{{step_2}}
+
+Content Relevancy:
+{{step_3}}
+
+Story Structure:
+{{step_4}}
+
+Educational Value:
+{{step_5}}
+
+Now, compile a comprehensive overview of all the suggestions made - {{suggestions_overview}} - throughout the feedback process as a summary of actionable items for the author.
+
+->>>>
+
+Our feedback now includes a detailed summary, language analysis, content relevancy, story structure, educational value, and an overview of all the suggestions as follows:
+
+Summary:
+{{step_1}}
+
+Age-Appropriate Language Analysis:
+{{step_2}}
+
+Content Relevancy:
+{{step_3}}
+
+Story Structure:
+{{step_4}}
+
+Educational Value:
+{{step_5}}
+
+Suggestions Overview:
+{{step_6}}
+
+Finally, end with uplifting, encouraging words in your closing remarks, noting the potential of the story and the author's effort and giving motivation for revisions. Remember this closing remark, {{closing_remarks}}, is to encourage the author to continue improving their work while ensuring they understand the editor's role is to enhance their work. 
+

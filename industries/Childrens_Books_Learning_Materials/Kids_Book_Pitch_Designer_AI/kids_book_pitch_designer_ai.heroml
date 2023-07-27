@@ -1,0 +1,110 @@
+Your task is to write a "Product Pitch" for the "Children's Books & Learning Materials" industry, specifically for a "Product Designer". 
+
+Let's start by introducing the type of children's book and learning material. Convey the details about {{product_type}} focusing on the genre, theme, and content.
+
+Here's some more context about the Product Pitch:
+Product Type: {{product_type}}
+Unique Selling Point: {{unique_selling_point}}
+Design Principles: {{design_principles}}
+Educational Objectives: {{educational_objectives}}
+Target Demographics: {{target_demographics}}
+Additional Features: {{additional_features}}
+Product Value: {{product_value}}
+Expansion Potential: {{expansion_potential}}
+
+->>>>
+
+For your product pitch, we have initiated with an introduction of our product:
+
+Product Type:
+{{step_1}}
+
+Next, we need to highlight the unique selling point of {{product_type}}. Explain how this product stands out from the competition or how it fills a gap in the current market: {{unique_selling_point}}.
+
+->>>>
+
+For our pitch, we have detailed:
+
+Product Type:
+{{step_1}}
+
+Unique Selling Point:
+{{step_2}}
+
+Now, let's elaborate on the design aesthetics and principles that were used in creating the product. Discuss the look, feel, and usability of the product from a Product Designer's perspective.
+
+->>>>
+
+In our product pitch, we have:
+
+Product Type:
+{{step_1}}
+
+Unique Selling Point:
+{{step_2}}
+
+Design Aesthetics and Principles:
+{{step_3}}
+
+Moving forward, we need to present how the product benefits children. Discuss the specific educational objectives and learning outcomes to be achieved with this product.
+
+->>>>
+
+For our product, we have described:
+
+Unique Selling Point:
+{{step_2}}
+
+Design Aesthetics and Principles:
+{{step_3}}
+
+Educational Objectives:
+{{step_4}}
+
+Next, delve into the target demographics for the product. Describe the ideal age group and how the product caters to their specific learning styles or needs.
+
+->>>>
+
+So far, we have:
+
+Design Aesthetics and Principles:
+{{step_3}}
+
+Educational Objectives:
+{{step_4}}
+
+Target Demographics:
+{{step_5}}
+
+Now, let's describe any additional features of the product. This could include interactive elements, robustness for young children's handling, or ease of storing and transporting.
+
+->>>>
+
+In our product pitch, we have:
+
+Educational Objectives:
+{{step_4}}
+
+Target Demographics:
+{{step_5}}
+
+Additional Features:
+{{step_6}}
+
+Next, articulate how the product would be a valuable addition to bookshops, schools or homes. Utilize its unique features, design aspects and educational benefits in crafting this argument.
+
+->>>>
+
+The current status of our pitch includes:
+
+Target Demographics:
+{{step_5}}
+
+Additional Features:
+{{step_6}}
+
+Product Value:
+{{step_7}}
+
+Finally, discuss the product's potential for expansion. This could include possibilities for extending the product line like sequels, series, or variations based on a theme.
+

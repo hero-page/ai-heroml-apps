@@ -1,0 +1,82 @@
+Your task is to write a "Social Media Post" for the "Book Marketing" industry, specifically for a "Content Creator". Let's begin with crafting an engaging hook that captures attention, ideally referencing either the {{book_title}} or the {{author_name}}.
+
+Here's some more context about the Social Media Post:
+Book Title: {{book_title}}
+Author Name: {{author_name}}
+Target Reader Preferences: {{target_reader_preferences}}
+
+->>>>
+
+Now, we have an engaging hook for our social media post:
+
+Hook:
+{{step_1}}
+
+Next step is to connect with our audience by aligning the unique selling points of the {{book_title}} with the tastes and preferences of the target reader: {{target_reader_preferences}}.
+
+->>>>
+
+At this point, we have aligned the selling points of the {{book_title}} with our target readers:
+
+Hook:
+{{step_1}}
+
+Alignment of Selling Points and Target Readers:
+{{step_2}}
+
+Let's proceed to share an impactful quote or a compelling excerpt from the {{book_title}} that would intrigue our readers and compel them to learn more.
+
+->>>>
+
+We are crafting a social media post for the {{book_title}}. So far we have:
+
+Hook:
+{{step_1}}
+
+Alignment of Selling Points and Target Readers:
+{{step_2}}
+
+Impactful Quote or Excerpt:
+{{step_3}}
+
+Next, let's briefly highlight the author's credentials or accomplishments, if they are notable, to increase the perceived value and authority of the {{book_title}}.
+
+->>>>
+
+We have generated a hook, selling point alignment, and an impactful quote for our social media post in book marketing:
+
+Hook:
+{{step_1}}
+
+Alignment of Selling Points and Target Readers:
+{{step_2}}
+
+Impactful Quote or Excerpt:
+{{step_3}}
+
+Author's Credentials or Accomplishments:
+{{step_4}}
+
+Let's create a convincing call to action that encourages our readers to buy, read, or share the {{book_title}}.
+
+->>>>
+
+Our social media post has a hook, alignment of selling points, impactful quote, author's credentials and a call to action:
+
+Hook:
+{{step_1}}
+
+Alignment of Selling Points and Target Readers:
+{{step_2}}
+
+Impactful Quote or Excerpt:
+{{step_3}}
+
+Author's Credentials or Accomplishments:
+{{step_4}}
+
+Call to Action:
+{{step_5}}
+
+Finally, let's sign off the post with a direct or indirect reminder for readers to keep an eye out for more updates or content related to the {{book_title}} or {{author_name}}.
+

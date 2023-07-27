@@ -1,0 +1,85 @@
+Your task is to write an "Engagement Report" for the "Blogging & Online Publishing" industry, specifically for a "Social Media Coordinator". 
+
+Let's begin by drafting an executive summary that provides a snapshot of the company's engagement metrics.
+
+Here's some more context about the Engagement Report:
+Engagement Summary: {{engagement_summary}}
+Report Context: {{report_context}}
+Engagement Metrics: {{engagement_metrics}}
+Audience Demographics: {{audience_demographics}}
+Post Performance: {{post_performance}}
+Engagement Analysis: {{engagement_analysis}}
+Future Strategies: {{future_strategies}}
+
+->>>>
+
+After reviewing the engagement summary:
+
+Engagement Summary:
+{{step_1}}
+
+Let's proceed by describing the context of the report, detailing the time period covered and channels reviewed.
+
+->>>>
+
+With an understanding of the engagement metrics and the context of the report:
+
+Engagement Summary:
+{{step_1}}
+
+Report Context:
+{{step_2}}
+
+The next step is to assess the overall social media engagement by examining metrics such as likes, shares, comments, retweets, and other interactions on your blog or online posts.
+
+->>>>
+
+Now we have the metrics of the overall social media engagement:
+
+Engagement Summary:
+{{step_1}}
+
+Report Context:
+{{step_2}}
+
+Engagement Metrics:
+{{step_3}}
+
+Next, please provide details on the audience demographics by analyzing the age group, locations, and interests of the engaged audience to understand their preferences better.
+
+->>>>
+
+The report so far includes:
+
+Engagement Metrics:
+{{step_3}}
+
+Audience Demographics:
+{{step_4}}
+
+Now, evaluate the performance of individual posts. For each significant post, in terms of engagement, elaborate the post-objective, engagement statistics, and what made it resonate with the audience.
+
+->>>>
+
+The report so far includes:
+
+Audience Demographics:
+{{step_4}}
+
+Individual Post Performance:
+{{step_5}}
+
+Next, analyze and summarize the observed patterns or trends in the engagement data. Discuss variations in engagement across different times of the day or days of the week, types of content that garnered more engagement, and any notable upticks or downturns in engagement.
+
+->>>>
+
+As part of our report, we've completed the analysis:
+
+Individual Post Performance:
+{{step_5}}
+
+Engagement Analysis:
+{{step_6}}
+
+Finally, we need to conclude with a set of recommendations for future content strategy and responses to audience engagement based on the findings of this report.
+

@@ -1,0 +1,45 @@
+Your task is to write a "Brand Story" for the "Brand Consultancies" industry, specifically for a "Copywriter". Let's start by writing a solid introduction that clearly defines what your brand is and what it stands for in the industry. Use the dynamic variable {{brand_value}} to emphasize the unique value of your copywriting brand.
+
+Here's some more context about the Brand Story:
+Brand Value: {{brand_value}}
+Brand Origin: {{brand_origin}}
+Brand Mission And Values: {{brand_mission_and_values}}
+Success Case Studies: {{success_case_studies}}
+Brand Future: {{brand_future}}
+
+->>>>
+
+Our brand's story begins with this introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's delve into the origins of your brand. Share why the brand was created, what motivated its establishment, and the significant milestones that have shaped the brand's journey. Use the dynamic variable {{brand_origin}} to capture these aspects.
+
+->>>>
+
+The origins and evolution of our brand are as follows:
+
+Origin and Evolution:
+{{step_2}}
+
+Moving on, let's explain your brand's core mission, vision, and values. These largely define why you do what you do and how you operate. Use the dynamic variable {{brand_mission_and_values}} to describe these.
+
+->>>>
+
+The core mission, vision and values of our brand have been defined as:
+
+Mission, Vision and Values:
+{{step_3}}
+
+Now, let's highlight how you have delivered value to your clients through your copywriting skills. Discuss how you've overcome challenges and achieved success. You can capture this in the dynamic variable {{success_case_studies}}.
+
+->>>>
+
+The success we've had in delivering value to our clients is outlined as:
+
+Success Case Studies:
+{{step_4}}
+
+Lastly, we need to conclude the brand story by painting a picture of what the future holds for your brand. This section should highlight what clients can expect from engaging with your brand in the foreseeable future. Use the dynamic variable {{brand_future}} to share your vision for your brand.
+

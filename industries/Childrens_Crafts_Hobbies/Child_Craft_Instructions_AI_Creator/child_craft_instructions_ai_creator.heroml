@@ -1,0 +1,112 @@
+Your task is to write "Step-by-step Instructions" for the "Children's Crafts & Hobbies" industry for a "Craft Author". 
+
+Let's begin by crafting a catchy title that accurately describes the craft.
+
+Here's some more context about the Step-by-step Instructions:
+Craft Title: {{craft_title}}
+Craft Overview: {{craft_overview}}
+Difficulty Level: {{difficulty_level}}
+Materials Needed: {{materials_needed}}
+Step By Step Instructions: {{step_by_step_instructions}}
+Tips And Tricks: {{tips_and_tricks}}
+Craft Conclusion: {{craft_conclusion}}
+
+->>>>
+
+For your "Step-by-step Instructions", we have created a catchy title:
+
+Craft Title:
+{{step_1}}
+
+Next, write an introduction for the craft, briefly describing what it is and giving an overview of the process to stimulate the child's interest.
+
+->>>>
+
+For your instructions, we now have a catchy title and an interesting introduction:
+
+Craft Title:
+{{step_1}}
+
+Craft Introduction:
+{{step_2}}
+
+Let's go to the next step, where we identify the difficulty level of the craft. This will ensure that the child is aware of the complexity of the activity they are going to undertake.
+
+->>>>
+
+In addition to a catchy title and introductory brief, we now have an identified difficulty level:
+
+Craft Title:
+{{step_1}}
+
+Craft Introduction:
+{{step_2}}
+
+Difficulty Level:
+{{step_3}}
+
+Next, provide a detailed list of all the necessary materials and tools needed to complete the craft. If possible, specify the exact quantity.
+
+->>>>
+
+Now we have a catchy title, introductory brief, a difficulty level, and a list of required materials and tools for the craft:
+
+Craft Title:
+{{step_1}}
+
+Craft Introduction:
+{{step_2}}
+
+Difficulty Level:
+{{step_3}}
+
+Materials Needed:
+{{step_4}}
+
+For the next step, provide detailed step-by-step instructions on how to create the craft. Ensure each step logically progresses from the previous one, using clear and concise language.
+
+->>>>
+
+We have a catchy title, introduction, difficulty level, list of materials, and now step-by-step instructions:
+
+Craft Title:
+{{step_1}}
+
+Craft Introduction:
+{{step_2}}
+
+Difficulty Level:
+{{step_3}}
+
+Materials Needed:
+{{step_4}}
+
+Step-by-Step Instructions:
+{{step_5}}
+
+Next, give tips and tricks relevant to the craft. Highlight potential difficulty spots within the steps or suggest alternative methods or materials to improve the child's experience.
+
+->>>>
+
+With the catchy title, introduction, difficulty level, list of materials, step-by-step instructions, and tips and tricks, we're almost done:
+
+Craft Title:
+{{step_1}}
+
+Craft Introduction:
+{{step_2}}
+
+Difficulty Level:
+{{step_3}}
+
+Materials Needed:
+{{step_4}}
+
+Step-by-Step Instructions:
+{{step_5}}
+
+Tips and Tricks:
+{{step_6}}
+
+To complete your craft instructions, write a conclusion. This should summarize what the child has achieved, and propose additional ideas on how they can further use or customize the craft.
+

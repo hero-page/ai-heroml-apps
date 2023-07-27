@@ -1,0 +1,70 @@
+Your task is to write a "Game Mechanics Description" for the "Board Games & Tabletop RPGs" industry, specifically for a "Game Designer". Let's start by introducing the game title and providing some brief background or context to the game: {{game_title}} and {{game_background}}. This background should include what type of game it is, its thematic elements, and its inspiration.
+
+Here's some more context about the Game Mechanics Description:
+Game Title: {{game_title}}
+Game Background: {{game_background}}
+Game Objective: {{game_objective}}
+Basic Mechanics: {{basic_mechanics}}
+Unique Mechanics: {{unique_mechanics}}
+Player Interaction: {{player_interaction}}
+Game Progression: {{game_progression}}
+Game Skill Requirements: {{game_skill_requirements}}
+Game Summary: {{game_summary}}
+
+->>>>
+
+Now that we have our title and game background:
+
+Game Title:
+{{step_1}}
+
+Game Background:
+{{step_2}}
+
+Next, let's focus on presenting the principal objective of the game. This should provide a high-level understanding of the game's end goal, how players can win or lose, and what are the key driving elements of the gameplay.
+
+->>>>
+
+With the game objective in place:
+
+Game Objective:
+{{step_3}}
+
+Let's move on to describing the basic game mechanics. This step should involve information on how a player interacts with the game, such as moving, attacking, scoring points, etc. The mechanics should demonstrate how those actions are done, what tools or resources players need, and the outcomes of those actions.
+
+->>>>
+
+Next, we have a grasp on the basic game mechanics:
+
+Basic Game Mechanics:
+{{step_4}}
+
+Now let's detail the game's unique mechanics or features that set it apart. This step should focus on those elements that elevate the game above its competitors or make it distinctive in the market.
+
+->>>>
+
+We now have a clear understanding of the game's unique mechanics or features:
+
+Unique Game Mechanics:
+{{step_5}}
+
+After that, let's move on to describing player interaction in the game. This step involves discussing how players interact with game elements, in-game characters, other players, and the game environment. This description should explore both cooperative and competitive elements, as well as any single-player components.
+
+->>>>
+
+Now that we have described player interaction:
+
+Player Interaction:
+{{step_6}}
+
+We should move on to explaining the game's progression. This includes how the game rounds or turns are structured, how the game progresses towards its end, and defining situations that generate changes or disrupt the game flow.
+
+->>>>
+
+Having defined the game's progression:
+
+Game Progression:
+{{step_7}}
+
+We should now describe the game's skill requirements. This should touch on what skills or strategies players need to excel in the game, like strategic planning, bluffing, team collaboration, or quick reflexes.
+

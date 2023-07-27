@@ -1,0 +1,111 @@
+Your task is to write an "Author Interview" for the "Children's Literature Writing" industry, specifically for a "Blogger". Let's start by introducing the author. Provide some basic information about their background and their connection to children's literature: {{author_background}}.
+
+Here's some more context about the Author Interview:
+Author Background: {{author_background}}
+Latest Book Title: {{latest_book_title}}
+
+->>>>
+
+We've started our interview by introducing the author:
+
+Author Introduction:
+{{step_1}}
+
+Now, begin the interview by asking about the inspiration behind their latest work: {{latest_book_title}}. Ask about the book's themes and relevance to children.
+
+->>>>
+
+We've introduced the author and asked about their latest work:
+
+Author Introduction:
+{{step_1}}
+
+Interview Questions about Latest Book:
+{{step_2}}
+
+Let's proceed to inquire about the author's writing process, focusing on how they approach writing for children. Discuss what {{author_background}} keeps in mind while writing for young audiences.
+
+->>>>
+
+We've already asked about the author's latest book, and now we have their insights into the writing process:
+
+Interview Questions about Latest Book:
+{{step_2}}
+
+Insights into Author's Writing Process:
+{{step_3}}
+
+We should now understand their perception of children's literature. Ask the author to comment on the unique challenges and rewards of writing in this genre and lead a discussion on the importance of children's literature in shaping young minds.
+
+->>>>
+
+We've gained insight into the author's writing process and perceptions of children's literature:
+
+Insights into Author's Writing Process:
+{{step_3}}
+
+Author's Perception of Children's Literature:
+{{step_4}}
+
+Now, let's dive deeper into their body of work. Ask how {{author_background}}'s style or themes have evolved over the years, discussing a few fan-favorite books and the author's personal favorites.
+
+->>>>
+
+We've heard about the author's views on children's literature and explored their body of work:
+
+Author's Perception of Children's Literature:
+{{step_4}}
+
+Insights into Author's Body of Work:
+{{step_5}}
+
+Encourage the author to share some behind-the-scenes anecdotes or experiences. This could be about their research, interactions with young readers, or surprises during the writing process.
+
+->>>>
+
+We've gleaned intriguing details about the author's work and heard some behind-the-scenes stories:
+
+Insights into Author's Body of Work:
+{{step_5}}
+
+Behind-the-scenes Anecdotes:
+{{step_6}}
+
+Let's ask about their future projects, subtly providing our readers a hint of what to expect next.
+
+->>>>
+
+We've heard great backstage stories and have insights into future works:
+
+Behind-the-scenes Anecdotes:
+{{step_6}}
+
+Author's Future Projects:
+{{step_7}}
+
+Towards the end of the interview, let's set up a light-hearted and fun rapid-fire round with creative questions like "which character from your books would you want to be for a day?" or "what childhood story has influenced you the most?"
+
+->>>>
+
+We've discussed the author's future projects and completed a fun rapid-fire round:
+
+Author's Future Projects:
+{{step_7}}
+
+Rapid-fire Round:
+{{step_8}}
+
+Now, let's conclude the interview. Thank {{author_background}} for their time and contribution to children's literature, and express eagerness for their future works.
+
+->>>>
+
+We've wrapped up the rapid-fire round and thanked the author:
+
+Rapid-fire Round:
+{{step_8}}
+
+Closing Remarks:
+{{step_9}}
+
+It's time to summarize the interview. Draft a short summary highlighting key points that reinforces the author's love for children's literature and provides insight into their creative process.
+

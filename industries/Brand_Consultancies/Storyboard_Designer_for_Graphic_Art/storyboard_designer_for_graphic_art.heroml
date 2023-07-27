@@ -1,0 +1,97 @@
+Your task is to write a "Storyboard" for the "Brand Consultancies" industry, specifically for a "Graphic Designer". 
+
+Let's start by crafting an introduction that outlines the broad concept or theme of your project: {{project_concept}}. This is crucial for aligning the understanding and expectations within the team.
+
+Here's some more context about the Storyboard:
+Project Concept: {{project_concept}}
+Project Objectives Requirements: {{project_objectives_requirements}}
+Design Journey: {{design_journey}}
+Audience Profile: {{audience_profile}}
+Design Stages: {{design_stages}}
+Branding Elements: {{branding_elements}}
+Anticipated Outcome: {{anticipated_outcome}}
+
+->>>>
+
+At this point, we have an introduction for our storyboard:
+
+Introduction:
+{{step_1}}
+
+Moving forward, we should add a detailed project overview, highlighting the client's requirements, project objectives, and expected deliverables: {{project_objectives_requirements}}. This will provide a comprehensive scope for the storyboard.
+
+->>>>
+
+We now have a project overview and an introduction for our storyboard:
+
+Introduction:
+{{step_1}}
+
+Project Overview:
+{{step_2}}
+
+Next, weave a coherent narrative structure for the storyboard. It should logically detail the beginning, middle, and end of the design journey from the client's perspective: {{design_journey}}.
+
+->>>>
+
+Our Storyboard contains an introduction, a project overview, and a narrative structure:
+
+Introduction:
+{{step_1}}
+
+Project Overview:
+{{step_2}}
+
+Narrative Structure:
+{{step_3}}
+
+Now, introduce the characters. Specifically, flesh out the target audience, their profiles, and their roles in the project: {{audience_profile}}.
+
+->>>>
+
+To emphasize, we now have:
+
+Introduction:
+{{step_1}}
+
+Project Overview:
+{{step_2}}
+
+Narrative Structure:
+{{step_3}}
+
+Characters/Audience Profile:
+{{step_4}}
+
+After this, let's break the narrative structure into individual frames or scenes. These will represent the different stages of the design journey: {{design_stages}}. Ensure each stage conveys a specific action, decision, or aspect of the audience’s journey.
+
+->>>>
+
+Our detailed storyboard so far comprises:
+
+Introduction:
+{{step_1}}
+
+Project Overview:
+{{step_2}}
+
+Narrative Structure:
+{{step_3}}
+
+Characters/Audience Profile:
+{{step_4}}
+
+Design Journey Stages:
+{{step_5}}
+
+Now that we have the stages, for each stage listed in {{design_stages}}, write a brief textual description of the actions or scenarios taking place.
+
+->>>>
+
+We have now described the actions at each stage of the design journey:
+
+Design Journey Stages - Actions and Scenarios:
+{{step_6}}
+
+The next step is incorporating our brand specifics. Include proposed brand colors, fonts, styles, and any abstract or representative elements that would help define the aesthetic or mood of the project: {{branding_elements}}.
+

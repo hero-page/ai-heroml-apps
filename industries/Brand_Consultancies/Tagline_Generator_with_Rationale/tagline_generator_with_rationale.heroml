@@ -1,0 +1,62 @@
+Write a "Tagline Creation" for the "Brand Consultancies" industry, specifically for a "Copywriter". 
+Let's begin by writing a creative brief for a "Copywriter". The brief should include: The key message to be conveyed through the tagline ({{key_message}}), a description of the target audience ({{target_audience}}), and the unique selling proposition (USP) of the product or service ({{unique_selling_proposition}}).
+
+Here's some more context about the Tagline Creation:
+Key Message: {{key_message}}
+Target Audience: {{target_audience}}
+Unique Selling Proposition: {{unique_selling_proposition}}
+
+->>>>
+
+At this stage, we have a creative brief for the "Copywriter":
+
+Creative Brief:
+{{step_1}}
+
+Next, focus on the emotional response you want to elicit from your {{target_audience}} and how to encapsulate the {{unique_selling_proposition}} effectively, to develop a list of potential taglines that resonate with the brand's key message.
+
+->>>>
+
+We have a creative brief and a list of potential taglines for the "Copywriter":
+
+Creative Brief:
+{{step_1}}
+
+Potential Taglines:
+{{step_2}}
+
+Next, for each potential tagline, evaluate whether it aligns with the characteristics of a good tagline: It should be memorable, concise, give a strong message. Make sure it reflects the brand’s personality, keeping your {{target_audience}} and {{unique_selling_proposition}} in mind during this time.
+
+->>>>
+
+We have a set of evaluated taglines for the brand consultancies industry:
+
+Creative Brief:
+{{step_1}}
+
+Evaluated Taglines:
+{{step_3}}
+
+Now, select the top choices from your list and test them against the business values and the brand promise. This will ensure your tagline communicates the brand ethos and your {{unique_selling_proposition}} in a way that would appeal to the {{target_audience}}.
+
+->>>>
+
+For the brand consultancies industry, we have a shortlist of selected taglines:
+
+Creative Brief:
+{{step_1}}
+
+Selected Taglines:
+{{step_4}}
+
+Let's revise and polish the selected tagline for a "Copywriter". The final tagline should reflect the brand's tone and style. It should seamlessly incorporate the {{key_message}}, resonate with the {{target_audience}}, and reinforce the {{unique_selling_proposition}}.
+
+->>>>
+
+For the brand consultancies industry, we have a polished tagline:
+
+Polished Tagline:
+{{step_5}}
+
+Let's finish the tagline creation process by conducting an external review. This could be focus groups, surveys, or one-on-one interviews. Strive for feedback from a variety of people from your {{target_audience}} to gauge if the crafted tagline aligns with the {{key_message}} and the {{unique_selling_proposition}}.
+

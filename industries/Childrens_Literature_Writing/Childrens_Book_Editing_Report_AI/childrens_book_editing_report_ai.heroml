@@ -1,0 +1,64 @@
+Your task is to write an "Editing Report" for the "Children's Literature Writing" industry, as an "Editor". 
+Begin by addressing a brief background of the manuscript, highlight the manuscript's title: {{manuscript_title}}, the author's name: {{author_name}}, and its target age group.
+Also, explain the purpose of the editing report and what it hopes to achieve for the manuscript.
+
+Here's some more context about the Editing Report:
+Manuscript Title: {{manuscript_title}}
+Author Name: {{author_name}}
+Manuscript Overview: {{manuscript_overview}}
+Needed Revisions: {{needed_revisions}}
+Summary: {{summary}}
+
+->>>>
+
+For the editing report of the children's book:
+
+Manuscript Title:
+{{step_1}}
+
+Next, summarize your overall impressions of the manuscript. Discuss any observed strengths and weaknesses in the narrative, character development, and language usage:{{manuscript_overview}}. 
+Additionally, address the readability and engagement level of the manuscript for its intended group age.
+
+->>>>
+
+Now, we have the overall impression of the manuscript:
+
+Impression:
+{{step_2}}
+
+For the next part, provide an in-depth analysis of the plot, structure, characters: {{in-depth_analysis}}. 
+Assess the expositional detail, flow of story, and logic consistency specific to children's literature. 
+Also, note any areas that are confusing or unclear that could be challenging for the intended reader. 
+Plus, include language observations and suitability for the target audience such as use of vocabulary, sentence structure, and engagement factor.
+
+->>>>
+
+Now, we have generated an in-depth analysis of the book:
+
+In-depth Analysis:
+{{step_3}}
+
+Next, proceed to discuss the parts of the manuscript that need revisions or improvements: {{needed_revisions}}. 
+Offer constructive and specific suggestions on how to correct and improve these areas, ensuring these observations and suggestions are made in a respectful and helpful tone.
+
+->>>>
+
+The editing report now includes a section of suggested revisions:
+
+Suggested Revisions:
+{{step_4}}
+
+Then, share thoughts on how the manuscript fits into current children's literature trends. 
+State if the manuscript is ready for submission to a publisher, or if revisions are needed before it reaches that stage. 
+If applicable, present comparative titles that could guide the author in understanding their competition and potential positioning in the market.
+
+->>>>
+
+Now, we have generated the manuscript's marketability factors:
+
+Marketability Factors:
+{{step_5}}
+
+To conclude the editing report, summarize the primary points raised in the report: {{summary}}. 
+Finish with recommendations for the next steps, including possible deadlines for author revisions.
+

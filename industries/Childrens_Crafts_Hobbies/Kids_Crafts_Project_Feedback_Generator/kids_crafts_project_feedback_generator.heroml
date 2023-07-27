@@ -1,0 +1,64 @@
+Your task is to write a "Project Feedback" for the "Children's Crafts & Hobbies" industry, specifically for a "Hobby Instructor". Let's start with creating an introduction that gives a general overview of the project. This should include details about its scale, scope, duration, and objectives.
+
+Here's some more context about the Project Feedback:
+Project Overview: {{project_overview}}
+Objectives Execution: {{objectives_execution}}
+Individual Outputs: {{individual_outputs}}
+Project Strengths: {{project_strengths}}
+Areas For Improvement: {{areas_for_improvement}}
+Summary: {{summary}}
+
+->>>>
+
+We have the introduction for our "Project Feedback":
+
+Introduction:
+{{step_1}}
+
+Now, let's have a detailed review of the project's objectives and how well they have been met. This should explore the extent to which the project's goals were met, including what was done well and what could've been done differently.
+
+->>>>
+
+Now, in our "Project Feedback", we have an introduction and a review of the objectives execution:
+
+Introduction:
+{{step_1}}
+
+Objectives Execution Review:
+{{step_2}}
+
+Let's now address each output of the project individually, providing valuable feedback on them in accordance with the project criteria.
+
+->>>>
+
+We have reviewed the individual outputs of the project:
+
+Introduction:
+{{step_1}}
+
+Objectives Execution Review:
+{{step_2}}
+
+Individual Outputs Review:
+{{step_3}}
+
+Next, let's discuss the strengths of the project – what worked well and what were the key achievements.
+
+->>>>
+
+In our "Project Feedback", we're making progress:
+
+Introduction:
+{{step_1}}
+
+Objectives Execution Review:
+{{step_2}}
+
+Individual Outputs Review:
+{{step_3}}
+
+Project Strengths:
+{{step_4}}
+
+Moving forward, let's go ahead and highlight the areas for improvement. Offer constructive criticism and suggest ways that can make the project even more efficient or effective in the future.
+
