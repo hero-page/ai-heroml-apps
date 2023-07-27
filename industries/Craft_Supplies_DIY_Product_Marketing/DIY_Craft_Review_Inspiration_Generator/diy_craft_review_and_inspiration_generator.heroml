@@ -1,0 +1,76 @@
+Your task is to write a "Product Review" for the "Craft Supplies & DIY Product Marketing" industry, specifically for a "Content Creator". 
+Start with creating an engaging introduction that captures attention and outlines what product is being reviewed.
+
+Here's some more context about the Product Review:
+Product: {{product}}
+Product Features: {{product_features}}
+Product Utilization: {{product_utilization}}
+Product Performance: {{product_performance}}
+Product Limitations: {{product_limitations}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+We are writing a product review for a Content Creator. Here is the engaging introduction for the review:
+
+Engaging Introduction:
+{{step_1}}
+
+Next, provide a brief description of the product's key features and specifications. Make sure to highlight how they are relevant to the crafts/DIY sector, and any features that are unique or new to the market.
+
+->>>>
+
+With the engaging introduction:
+
+Engaging Introduction:
+{{step_1}}
+
+We have now described the product's key features and relevance to the crafts/DIY sector:
+
+Product Features:
+{{step_2}}
+
+Now, discuss how this product can be utilized in a typical crafting/DIY project. Consider the user's need for versatility, ease-of-use, quality, and the potential for creative expression.
+
+->>>>
+
+Along with the product's features:
+
+Product Features:
+{{step_2}}
+
+We have outlined how this product can be utilized in a typical crafting/DIY project:
+
+Product Utilization:
+{{step_3}}
+
+Moving on, speak to the overall performance of the product. This should involve aspects such as durability, efficiency, and value for money. Use language that resonates with DIY enthusiasts and content creators, who often value quality and sustainability.
+
+->>>>
+
+We have discussed the product's utilization:
+
+Product Utilization:
+{{step_3}}
+
+And have assessed the product's overall performance:
+
+Product Performance:
+{{step_4}}
+
+Now, delineate any drawbacks or limitations of the product. Remember that honesty is crucial in product reviews – potential buyers must have a full picture of what to expect from the product. Address issues relating to it's design, usage, or price.
+
+->>>>
+
+Following our assessment of the product's performance:
+
+Product Performance:
+{{step_4}}
+
+We have addressed the product's limitations:
+
+Product Limitations:
+{{step_5}}
+
+Finally, wrap up with a conclusion that synthesizes the review and provides a final opinion on the product's overall value to a content creator in the crafts/DIY sector.
+

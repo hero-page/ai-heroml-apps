@@ -499,9 +499,31 @@ Explore these links to learn more about each app's functionality and to see thei
 * [Specialized Baking Techniques App](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cooking_Techniques/Specialized_Baking_Techniques_App)
 ## Cosmetics Beauty Product Marketing
 
+* [AI Cosmetic Brand Strategy Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/AI_Cosmetic_Brand_Strategy_Creator)
+* [Beauty Industry Meeting Minutes AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/Beauty_Industry_Meeting_Minutes_AI)
 * [Beauty Marketing Email Campaign AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/Beauty_Marketing_Email_Campaign_AI)
 * [Beauty Persona AI Profiler](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/Beauty_Persona_AI_Profiler)
 * [Beauty Post Builder AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/Beauty_Post_Builder_AI)
 * [Beauty Product Features AI Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/Beauty_Product_Features_AI_Writer)
 * [Beauty Tutorial Product Promo AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/Beauty_Tutorial_Product_Promo_AI)
 * [Comprehensive Beauty Product Review AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/Comprehensive_Beauty_Product_Review_AI)
+* [Influencer Outreach Email Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Cosmetics_Beauty_Product_Marketing/Influencer_Outreach_Email_Builder)
+## Craft Beer Brewing
+
+* [Beer Tasting Recap AI Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Beer_Tasting_Recap_AI_Writer)
+* [Brewery Story Craft Brew Process AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Brewery_Story_Craft_Brew_Process_AI)
+* [Brewery Visit Content Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Brewery_Visit_Content_Creator)
+* [Brewing Guide for Bloggers AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Brewing_Guide_for_Bloggers_AI)
+* [Brewmasters Comprehensive Beer Guide AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Brewmasters_Comprehensive_Beer_Guide_AI)
+* [Craft Beer Review AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Craft_Beer_Review_AI_Composer)
+* [Craft Beer Sensory Review Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Craft_Beer_Sensory_Review_Generator)
+* [Home Brew Guide AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Home_Brew_Guide_AI_Creator)
+* [Personalized Home Brew Recipe Guide](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Personalized_Home_Brew_Recipe_Guide)
+## Craft Supplies DIY Product Marketing
+
+* [Craft Marketer Newsletter AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/Craft_Marketer_Newsletter_AI)
+* [Craft Trends Marketing Report AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/Craft_Trends_Marketing_Report_AI)
+* [DIY Blog Content Creator AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/DIY_Blog_Content_Creator_AI)
+* [DIY Craft Post Engagement Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/DIY_Craft_Post_Engagement_Generator)
+* [DIY Craft Review Inspiration Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/DIY_Craft_Review_Inspiration_Generator)
+* [DIY Product Usecases Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/DIY_Product_Usecases_Writer)

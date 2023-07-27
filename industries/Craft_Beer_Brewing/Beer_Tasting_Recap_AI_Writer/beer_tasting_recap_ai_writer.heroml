@@ -1,0 +1,135 @@
+Your task is to write a "Beer Tasting Event Recap" for the "Craft Beer & Brewing" industry specifically for a "Home Brewer". 
+
+Starting off, provide a detailed introduction that sets the scene for the tasting event {{event_description}}. Highlight the date, locale, the reason for the tasting event, the number of beers tasted, and the composition of the tasters (e.g., home brewers, beer enthusiasts, or industry professionals).
+
+Here's some more context about the Beer Tasting Event Recap:
+Event Description: {{event_description}}
+Beer Name: {{beer_name}}
+Future Event Theme: {{future_event_theme}}
+
+->>>>
+
+At this point, we have set the scene with a comprehensive introduction for our tasting event:
+
+Introduction:
+{{step_1}}
+
+Now, describe the line-up of beers that were tasted at the event. For each beer, include the {{beer_name}}, the brewery, the type of beer, and any specific characteristics (like special ingredients, brewing techniques, etc.).
+
+->>>>
+
+So far, we have detailed our event and the variety of beers that were tasted:
+
+Introduction:
+{{step_1}}
+
+Beer Line-up:
+{{step_2}}
+
+Next, let us focus on the main body of our recap. Center it around the tasting notes of each beer. For each {{beer_name}}, provide tasting notes covering aspects like appearance, aroma, taste, and mouthfeel. Ensure to include personal observations and sensory experiences.
+
+->>>>
+
+To date, we have an overview of the event, the line-up of beers, and an in-depth tasting note for each beer:
+
+Introduction:
+{{step_1}}
+
+Beer Line-up:
+{{step_2}}
+
+Tasting Notes:
+{{step_3}}
+
+Now, let's dedicate a section to discuss the unique brewing parameters or ingredient combinations discovered during the tasting. Highlight any unusual brewing methods or ingredients of each {{beer_name}} as these findings might be relevant for a "Home Brewer".
+
+->>>>
+
+Currently, we have provided a summary of the event, detailed each beer, the tasting notes, and discussed unique brewing parameters:
+
+Introduction:
+{{step_1}}
+
+Beer Line-up:
+{{step_2}}
+
+Tasting Notes:
+{{step_3}}
+
+Unique Brewing Parameters:
+{{step_4}}
+
+Following that, add a section recording the group discussions or interesting dialogues that arose during the tasting. Highlight any shared observations, disagreements, or surprising revelations regarding each {{beer_name}}.
+
+->>>>
+
+Up until now, we have put together a summary of the event, described each beer, analyzed the tasting notes, brewing parameters, and shared detailed group discussions:
+
+Introduction:
+{{step_1}}
+
+Beer Line-up:
+{{step_2}}
+
+Tasting Notes:
+{{step_3}}
+
+Unique Brewing Parameters:
+{{step_4}}
+
+Group Discussions:
+{{step_5}}
+
+In the concluding section, summarize the overall experience of the beer tasting event. Capture your final thoughts about each {{beer_name}}, the event as a whole, any lessons learned, and share your favourites.
+
+->>>>
+
+We have almost done with the recap. So far we have covered the event introduction, description of each beer, tasting notes, unique brewing parameters, and group discussions:
+
+Introduction:
+{{step_1}}
+
+Beer Line-up:
+{{step_2}}
+
+Tasting Notes:
+{{step_3}}
+
+Unique Brewing Parameters:
+{{step_4}}
+
+Group Discussions:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+To prepare your readers for the next event, add a teaser about the next tasting event theme {{future_event_theme}}. This will help build anticipation.
+
+->>>>
+
+The recap is almost ready. We have discussed the event, the beers, tasting notes, unique brewing parameters, group discussions, and provided a teaser for the next event:
+
+Introduction:
+{{step_1}}
+
+Beer Line-up:
+{{step_2}}
+
+Tasting Notes:
+{{step_3}}
+
+Unique Brewing Parameters:
+{{step_4}}
+
+Group Discussions:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+Future Event Teaser:
+{{step_7}}
+
+To conclude, incorporate a glossary section. Include brief summaries of industry-specific terms used in the recap for each {{beer_name}} as craft brewing is full of jargon. 
+

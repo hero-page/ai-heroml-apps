@@ -1,0 +1,105 @@
+Let's write a "Craft Trends Report" for the "Craft Supplies & DIY Product Marketing" industry from a "Product Marketer" perspective. Begin with a compelling introduction that sets the context of the report and briefly introduces the major craft trends to stir curiosity in the readers.
+
+Here's some more context about the Craft Trends Report:
+Craft Trends Context: {{craft_trends_context}}
+Current Trends: {{current_trends}}
+
+->>>>
+
+We have a compelling introduction for our "Craft Trends Report": 
+
+Introduction:
+{{step_1}}
+
+Next, in the 'Trends Overview' section, analyze the current craft trends in the market. Identify and explain each trend individually with their market influences.
+
+->>>>
+
+Our "Craft Trends Report" now has an introduction and an overview of current trends:
+
+Introduction:
+{{step_1}}
+
+Trends Overview:
+{{step_2}}
+
+Next, we will create a 'Market Analysis' section. Provide an in-depth analysis on how the current trends identified are influencing customer preferences and behavior, and how product marketers can benefit from them.
+
+->>>>
+
+We have a strong base for our "Craft Trends Report" with an introduction, overview of trends, and a market analysis:
+
+Introduction:
+{{step_1}}
+
+Trends Overview:
+{{step_2}}
+
+Market Analysis:
+{{step_3}}
+
+Now, dedicate a section to 'Competitive Analysis'. Discuss how competing brands are responding to the current trends. Analyze their approaches, and identify their successes and shortcomings for the benefit of the readers.
+
+->>>>
+
+Our "Craft Trends Report" has expanded to include a competitive analysis section:
+
+Introduction:
+{{step_1}}
+
+Trends Overview:
+{{step_2}}
+
+Market Analysis:
+{{step_3}}
+
+Competitive Analysis:
+{{step_4}}
+
+Subsequently, we should include a 'Customer Insight' section. This section should detail the purchasing behavior, preferences, and social media engagement of customers influenced by the current trends. This information will help product marketers better understand their customers and plan their campaigns accordingly.
+
+->>>>
+
+Our "Craft Trends Report" is looking comprehensive with an added 'Customer Insight' section:
+
+Introduction:
+{{step_1}}
+
+Trends Overview:
+{{step_2}}
+
+Market Analysis:
+{{step_3}}
+
+Competitive Analysis:
+{{step_4}}
+
+Customer Insight:
+{{step_5}}
+
+Next, let's delve into the implications of the current trends on product marketing strategies in our 'Impact on Product Marketing' section. Here, discuss how product marketers can align their strategies to these trends.
+
+->>>>
+
+The "Craft Trends Report" expands further with an 'Impact on Product Marketing' section:
+
+Introduction:
+{{step_1}}
+
+Trends Overview:
+{{step_2}}
+
+Market Analysis:
+{{step_3}}
+
+Competitive Analysis:
+{{step_4}}
+
+Customer Insight:
+{{step_5}}
+
+Impact on Product Marketing:
+{{step_6}}
+
+To round off the body of the report, write a 'Future Predictions' section. In this portion, discuss the longevity and potential impact of the current trends on the industry. Also, incorporate projections or predictions of what the next big trends could be.
+

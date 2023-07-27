@@ -1,0 +1,74 @@
+Your task is to write "Beer Tasting Notes" for the "Craft Beer & Brewing" industry, tailored for a "Brewmaster". For the first step, let's provide a short introduction for the beer: {{beer_name}}. Mention the brewery, its location, and a brief history.
+
+Here's some more context about the Beer Tasting Notes:
+Beer Name: {{beer_name}}
+Beer Type: {{beer_type}}
+Beer Aroma: {{beer_aroma}}
+Beer Taste: {{beer_taste}}
+Beer Mouthfeel: {{beer_mouthfeel}}
+Beer Metrics: {{beer_metrics}}
+Beer Recommendation: {{beer_recommendation}}
+
+->>>>
+
+We've got our introduction written for the beer "{{beer_name}}":
+
+Introduction:
+{{step_1}}
+
+Next, let's describe the beer's style: {{beer_type}}. Mention specifics if it's an IPA, stout, lager, or any other variety.
+
+->>>>
+
+Now, we have a description for the beer style:
+
+Beer Style:
+{{step_2}}
+
+Next, write about the beer's appearance. Comment specifically on its color, clarity, and head retention. Use precise and illustrative language.
+
+->>>>
+
+We have classified the beer's appearance as such:
+
+Beer Appearance:
+{{step_3}}
+
+Moving forward, let's discuss the beer's aroma: {{beer_aroma}}. Note any significant scents and their intensity. This could include traces of fruits, herbs, spices, malt, hops, etc.
+
+->>>>
+
+Now, we have documented the beer's aroma:
+
+Beer Aroma:
+{{step_4}}
+
+After noting the aroma, give a comprehensive analysis of the beer's taste: {{beer_taste}}. Discuss the balance between malt and hops, the sweetness or bitterness, and any flavors that stand out. Compare your tasting notes with the expectations based on the beer's style and aroma.
+
+->>>>
+
+We have analysed and noted the beer's taste:
+
+Beer Taste:
+{{step_5}}
+
+Next, comment on the mouthfeel of the beer: {{beer_mouthfeel}}. Include details such as how heavy or light it feels, its carbonation level, and any noticeable astringency.
+
+->>>>
+
+Now, we have recorded the beer's mouthfeel:
+
+Beer Mouthfeel:
+{{step_6}}
+
+Next, let's discuss the beer's overall impression and how well it aligns with its style: {{beer_type}}. Compare it with other similar beers and remark on its unique qualities.
+
+->>>>
+
+We have discussed the beer's overall impression and compatibility with its style:
+
+Overall Impression:
+{{step_7}}
+
+For the next step, make a note of the alcohol by volume (ABV) and International Bitterness Units (IBU) of the beer: {{beer_metrics}}. Discuss how these metrics contribute to the beer's taste and overall impression.
+

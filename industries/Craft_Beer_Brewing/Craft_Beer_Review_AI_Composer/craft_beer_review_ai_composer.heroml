@@ -1,0 +1,69 @@
+Your task is to write a "Craft Beer Review" for the "Craft Beer & Brewing" industry, specifically for a "Beer Blogger".
+Let's start by generating an entertaining and compelling introduction that highlights the unique selling proposition of the craft beer being reviewed: {{beer_personality}}. This introduction should engage the reader with an intriguing teaser, enticing them to read more into the review.
+
+Here's some more context about the Craft Beer Review:
+Beer Personality: {{beer_personality}}
+Beer Details: {{beer_details}}
+First Impressions: {{first_impressions}}
+Taste Profile: {{taste_profile}}
+Brewery Background: {{brewery_background}}
+Score: {{score}}
+Final Thoughts: {{final_thoughts}}
+
+->>>>
+
+For our craft beer review, here is an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's introduce the beer under review. Be clear about the beer's name, style, brewery, and location: {{beer_details}}. This information is essential as it introduces the beer we are examining.
+
+->>>>
+
+Now for our craft beer review, we have the introduction and the beer's details:
+
+Introduction:
+{{step_1}}
+
+Beer Details:
+{{step_2}}
+
+Moving on, describe your initial impressions of the beer, including its appearance, aroma, and packaging: {{first_impressions}}. The narrative of these initial impressions should excite the reader's senses and share an overview of the beer's aesthetic appeal.
+
+->>>>
+
+With the beer's details at hand and initial impressions, we have:
+
+Beer Details:
+{{step_2}}
+
+Initial Impressions:
+{{step_3}}
+
+Let's delve into describing the taste and mouthfeel experience of the beer. Break it down into different parts: the first sip, the evolution on the palate, the finish: {{taste_profile}}. Elaborating these elements will provide a comprehensive understanding of the beer's flavor profile to the readers.
+
+->>>>
+
+For our craft beer review, we have the initial impressions and a detailed description of the taste:
+
+Initial Impressions:
+{{step_3}}
+
+Taste Profile:
+{{step_4}}
+
+Now, introduce the brewery's story and its significance relating to the beer under review: {{brewery_background}}. The brewery's background will further connect the reader to the beer and will add insightful context to the review.
+
+->>>>
+
+After describing the taste, now we have a brewery background story:
+
+Taste Profile:
+{{step_4}}
+
+Brewery Background:
+{{step_5}}
+
+Next, evaluate the beer and give a score based on a pre-determined scale {{score}}. A score can provide readers with a reference point of your beer review. 
+

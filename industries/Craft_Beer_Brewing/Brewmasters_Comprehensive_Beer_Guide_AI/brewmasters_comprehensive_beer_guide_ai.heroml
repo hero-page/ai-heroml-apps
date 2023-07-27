@@ -1,0 +1,92 @@
+Your task is to write a "Brewing Process Description" for the "Craft Beer & Brewing" industry, specifically for a "Brewmaster". 
+
+We will start by creating an engaging introduction that piques a reader's interest and clearly states the type of beer to be brewed: {{beer_type}}.
+
+Here's some more context about the Brewing Process Description:
+Beer Type: {{beer_type}}
+Ingredients: {{ingredients}}
+Equipment: {{equipment}}
+Process Steps: {{process_steps}}
+Tasting Notes: {{tasting_notes}}
+
+->>>>
+
+For our "Craft Beer & Brewing" guide, we have a unique and engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Next, we will outline the list of ingredients needed for brewing the beer. This will include specifics on grains, hops, yeast, and any special ingredients unique to this type of beer: {{ingredients}}.
+
+->>>>
+
+As we are creating a "Brewing Process Description", we have an engaging introduction and a list of ingredients:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Now, let's detail the equipment that will be used in the brewing process, emphasizing any special equipment required for creating this specific type of beer: {{equipment}}.
+
+->>>>
+
+In our brewing guide, we have a list of ingredients and a description of the necessary equipment:
+
+Ingredients:
+{{step_2}}
+
+Equipment:
+{{step_3}}
+
+Next, let's provide a structured, step-by-step guide of the brewing process. Start with the initial stages such as mashing and lautering, then move onto boiling and adding hops, followed by cooling, fermentation, and finally bottling: {{process_steps}}.
+
+->>>>
+
+For our "Craft Beer & Brewing" guide, we have the necessary equipment and a step-by-step guide for the brewing process:
+
+Equipment:
+{{step_3}}
+
+Process Steps:
+{{step_4}}
+
+Next, we will discuss the fermentation period and conditions. Include information such as ideal temperature, duration, and any particular actions to be taken during fermentation.
+
+->>>>
+
+In our brewing guide, we have a detailed brewing process guide and a discussion on fermentation:
+
+Process Steps:
+{{step_4}}
+
+Fermentation:
+{{step_5}}
+
+Let's now add any specific caveats or tips unique to the brewing process of this beer type. Include key insights that would interest a Brewmaster.
+
+->>>>
+
+We have the process steps, fermentation details, and now, some brewing tips:
+
+Process Steps:
+{{step_4}}
+
+Brewing Tips:
+{{step_6}}
+
+To conclude the process description, let's provide some tasting notes or what the final expectation from the beer should be: {{tasting_notes}}.
+
+->>>>
+
+For our brewing guide, we have a few brewing tips and now a description of the expected taste:
+
+Brewing Tips:
+{{step_6}}
+
+Tasting Notes:
+{{step_7}}
+
+Finally, for our last step, provide the overall brewing time, including fermentation and conditioning times, and indicate if more time equals better quality. 
+

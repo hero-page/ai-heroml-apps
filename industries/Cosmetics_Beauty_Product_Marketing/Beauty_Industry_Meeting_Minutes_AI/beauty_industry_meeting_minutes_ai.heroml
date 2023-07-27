@@ -1,0 +1,113 @@
+Your task is to write a "Meeting Minutes" for the "Cosmetics & Beauty Product Marketing" industry, specifically for a "Brand Manager". 
+
+Let's start by creating a quick introduction that summarizes the purpose of the meeting: {{meeting_purpose}}. Make note of the date and time, participants, and the person preparing the minutes.
+
+Here's some more context about the Meeting Minutes:
+Meeting Purpose: {{meeting_purpose}}
+Market Trends: {{market_trends}}
+Consumer Behavior: {{consumer_behavior}}
+Product Development: {{product_development}}
+Competitor Positioning: {{competitor_positioning}}
+Marketing Strategy: {{marketing_strategy}}
+KPIs: {{KPIs}}
+Market Challenges: {{market_challenges}}
+
+->>>>
+
+For the "Meeting Minutes" for a "Brand Manager" in the "Cosmetics & Beauty Product Marketing" industry, we have our introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's clarify the meeting agenda. For each item on the agenda, label the item clearly, provide a summary of the discussion, and any decisions reached.
+
+->>>>
+
+So far, we have the introduction and meeting agenda for the "Meeting Minutes":
+
+Introduction:
+{{step_1}}
+
+Meeting Agenda:
+{{step_2}}
+
+Now, let's create a section detailing the market trends and consumer behaviors impacting the Cosmetics & Beauty Product Marketing industry.
+
+->>>>
+
+Till now, we have an introduction, the meeting agenda, and market trends and consumer behaviors for our "Meeting Minutes":
+
+Introduction:
+{{step_1}}
+
+Meeting Agenda:
+{{step_2}}
+
+Market Trends and Consumer Behavior:
+{{step_3}}
+
+Next, let's dive into the brand-specific discussions. These should cover new product developments or adjustments to existing products, the brand’s positioning compared to its competitors, and the marketing strategies being used or considered.
+
+->>>>
+
+We have our introduction, the meeting agenda, market trends and consumer behaviors and now brand-specific discussions for our "Meeting Minutes":
+
+Introduction:
+{{step_1}}
+
+Meeting Agenda:
+{{step_2}}
+
+Market Trends and Consumer Behavior:
+{{step_3}}
+
+Brand-specific Discussions:
+{{step_4}}
+
+Let's create a section dedicated to the analysis of key performance indicators (KPIs). Detail specific sales numbers, social media engagement rates, or any other KPIs pertinent to the brand management.
+
+->>>>
+
+We now have the Introduction, Meeting Agenda, Market Trends and Consumer Behavior, Brand-specific Discussions, and an Analysis of KPIs for our "Meeting Minutes":
+
+Introduction:
+{{step_1}}
+
+Meeting Agenda:
+{{step_2}}
+
+Market Trends and Consumer Behavior:
+{{step_3}}
+
+Brand-specific Discussions:
+{{step_4}}
+
+Analysis of KPIs:
+{{step_5}}
+
+Next, we need to cover the action items resulting from the meeting. For each action item, mention the task, who it has been assigned to, and the target completion date, as well as any resources or support required.
+
+->>>>
+
+So far, we have the Introduction, Meeting Agenda, Market Trends and Consumer Behavior, Brand-specific Discussions, Analysis of KPIs, and Action Items for our "Meeting Minutes":
+
+Introduction:
+{{step_1}}
+
+Meeting Agenda:
+{{step_2}}
+
+Market Trends and Consumer Behavior:
+{{step_3}}
+
+Brand-specific Discussions:
+{{step_4}}
+
+Analysis of KPIs:
+{{step_5}}
+
+Action Items:
+{{step_6}}
+
+Now, conclude with a synopsis of the significant points, summarizing key decisions made, and noting any hurdles or challenges facing the brand in the marketplace.
+

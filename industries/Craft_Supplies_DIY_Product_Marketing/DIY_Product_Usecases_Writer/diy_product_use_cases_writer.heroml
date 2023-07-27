@@ -1,0 +1,69 @@
+Your task is to write a "Product Use-cases" for the "Craft Supplies & DIY Product Marketing" industry, especially for a "Product Marketer". 
+Start with creating an engaging introduction that highlights the features of the craft supply or DIY product: {{product}}.
+
+Here's some more context about the Product Use-cases:
+Product: {{product}}
+
+->>>>
+
+For our product use-case, we have an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Next, generate a real-world scenario where the potential customers might use this craft supply or DIY product. The scenario should show the necessity and utility of the {{product}}.
+
+->>>>
+
+We have an introduction and a real-world scenario:
+
+Introduction:
+{{step_1}}
+
+Scenario:
+{{step_2}}
+
+Now, describe a problem or challenge your target audience typically encounters and which the {{product}} can resolve.
+
+->>>>
+
+In addition to our scenario and problem:
+
+Scenario:
+{{step_2}}
+
+Problem:
+{{step_3}}
+
+Explain how the {{product}} can be used to address the highlighted problem in a step-wise, easy-to-understand demonstration.
+
+->>>>
+
+Now, we have a scenario, problem, and the solution.
+
+Scenario:
+{{step_2}}
+
+Problem:
+{{step_3}}
+
+Solution:
+{{step_4}}
+
+Next, detail the unique benefit that arises from using {{product}}. Describe how it enhances the user experience and has a positive impact on consumer life and hobby.
+
+->>>>
+
+We have an understanding of the problem, and the proposed solution, now let's look at the beneficial change it brings.
+
+Problem:
+{{step_3}}
+
+Solution:
+{{step_4}}
+
+Beneficial Change:
+{{step_5}}
+
+Now, conclude this sequence with a summary that emphasizes on the {{product}}'s ability to address a need, its value proposition, and what differentiates it from rival products. 
+

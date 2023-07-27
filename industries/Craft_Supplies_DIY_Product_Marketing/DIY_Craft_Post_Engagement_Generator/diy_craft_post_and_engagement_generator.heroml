@@ -1,0 +1,86 @@
+Your task is to write a "Social Media Post" for the "Craft Supplies & DIY Product Marketing" industry, specifically for a "Content Creator". 
+
+- Let's start crafting your post with a catchy opening sentence or question. This should grab the attention of your audience and lay the foundation for the theme of your post or the DIY craft item you'll be discussing.
+
+Here's some more context about the Social Media Post:
+Opening Sentence: {{opening_sentence}}
+Craft Item Description: {{craft_item_description}}
+Materials List: {{materials_list}}
+Customization Tips: {{customization_tips}}
+Engagement Invitation: {{engagement_invitation}}
+
+->>>>
+
+As a result, we now have a compelling opening for the social media post:
+
+Opening Sentence:
+{{step_1}}
+
+Next, let's detail the craft item or project you will be discussing in your post. This should include its complexity, how long it might take to complete, or the occasion it might be suitable for.
+
+->>>>
+
+Upon describing the craft item, we have:
+
+Opening Sentence:
+{{step_1}}
+
+Craft Item Description:
+{{step_2}}
+
+Now, let's detail the key materials required for the DIY project. Your followers need to know what they'll need, so be specific about the types and amounts of material necessary.
+
+->>>>
+
+Now we have the materials list for our DIY project. Here's what our social media post consists of so far:
+
+Opening Sentence:
+{{step_1}}
+
+Craft Item Description:
+{{step_2}}
+
+Materials Required:
+{{step_3}}
+
+Next, explain how to make the craft. Break down the process into stages to make it digestible and easy enough to follow for your followers.
+
+->>>>
+
+We have outlined the crafting process so far. Let's review our social media post:
+
+Opening Sentence:
+{{step_1}}
+
+Craft Item Description:
+{{step_2}}
+
+Materials Required:
+{{step_3}}
+
+Craft-Making Process:
+{{step_4}}
+
+Now, let's offer some tips for customization. Think about how your followers can add their personal touches to the craft, and give suggestions around changes in material, color, or design.
+
+->>>>
+
+We've provided customization tips. Here's how our social media post is shaping up:
+
+Opening Sentence:
+{{step_1}}
+
+Craft Item Description:
+{{step_2}}
+
+Materials Required:
+{{step_3}}
+
+Craft-Making Process:
+{{step_4}}
+
+Customization Tips:
+{{step_5}}
+
+Lastly, conclude your post with an invitation for engagement. This could be asking your followers about their own experience with the craft, inviting them to share pictures of their finished projects, or suggesting they tag friends who might also enjoy the craft.
+
