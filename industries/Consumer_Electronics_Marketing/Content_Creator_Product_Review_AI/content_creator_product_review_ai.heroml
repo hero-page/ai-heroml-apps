@@ -1,0 +1,57 @@
+Your task is to write a "Product Review" for the "Consumer Electronics Marketing" industry, specifically for a "Content Creator". Let's break down the process into a series of steps:
+
+Let's start by generating an introduction that provides an overview of the product we are going to review: {{product}}.
+
+Here's some more context about the Product Review:
+Product: {{product}}
+First Impression Experience: {{first_impression_experience}}
+Detailed Product Review: {{detailed_product_review}}
+Product Tech Specs: {{product_tech_specs}}
+Product Price Evaluation: {{product_price_evaluation}}
+Final Verdict: {{final_verdict}}
+
+->>>>
+
+Great, we have an introduction for our product review:
+
+Introduction:
+{{step_1}}
+
+Now, share your first-hand experience with the product. This may include elements such as unboxing, first impressions, and how it felt to hold or use the device: {{first_impression_experience}}.
+
+->>>>
+
+This is our first-hand experience with the product:
+
+Introduction:
+{{step_1}}
+
+First-hand Experience:
+{{step_2}}
+
+Next, write a comprehensive review of the product's key features and functionalities. Consider practical tests, comparison against specifications, and your personal evaluation of its performance: {{detailed_product_review}}.
+
+->>>>
+
+So far, we have an introduction, a firsthand experience report, and a detailed product review:
+
+First-hand Experience:
+{{step_2}}
+
+Detailed Product Review:
+{{step_3}}
+
+Let's move on to discuss the technical specifications of the product. Make sure to include details such as the type of processor it uses, its battery life, and relate these features to its actual performance and practicality for content creators: {{product_tech_specs}}.
+
+->>>>
+
+Here's what we've covered so far in our product review:
+
+Detailed Product Review:
+{{step_3}}
+
+Product Tech Specs:
+{{step_4}}
+
+The next step is to evaluate the price of the product. Make sure to relate the cost of the product to its value, considering its features, specifications, and performance. Contrast it with the pricing of similar products in the market: {{product_price_evaluation}}.
+

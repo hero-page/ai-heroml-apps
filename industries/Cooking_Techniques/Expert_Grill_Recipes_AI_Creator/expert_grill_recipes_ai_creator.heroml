@@ -1,0 +1,87 @@
+Your task is to write a "BBQ Sauce Recipes" for the "Cooking Techniques" industry, specifically for a "Grilling Expert". 
+Let's start with an engaging introduction that describes the unique qualities of the "BBQ Sauce" recipe.
+
+Here's some more context about the BBQ Sauce Recipes:
+Sauce Intro: {{sauce_intro}}
+Sauce Ingredients: {{sauce_ingredients}}
+Sauce Preparation: {{sauce_preparation}}
+Sauce Variation: {{sauce_variation}}
+Sauce Usage: {{sauce_usage}}
+Time Details: {{time_details}}
+
+->>>>
+
+We are creating a "BBQ Sauce Recipe" suitable for a "Grilling Expert". 
+We have an engaging introduction for our recipe:
+
+BBQ Sauce Introduction:
+{{step_1}}
+
+Now, let's introduce the ingredients with precise measurement details, categorized based on their roles in the making of the BBQ sauce.
+
+->>>>
+
+We are creating a "BBQ Sauce Recipe", and we have an engaging introduction and a detailed list of ingredients:
+
+BBQ Sauce Introduction:
+{{step_1}}
+
+BBQ Sauce Ingredients:
+{{step_2}}
+
+Next, provide a comprehensive, step-by-step preparation method for the BBQ sauce.
+
+->>>>
+
+We are making a "BBQ Sauce Recipe", and we have our introduction, ingredients, and a step-by-step preparation method:
+
+BBQ Sauce Introduction:
+{{step_1}}
+
+BBQ Sauce Ingredients:
+{{step_2}}
+
+BBQ Sauce Preparation Method:
+{{step_3}}
+
+Next, let's provide a section for variation and customization in the BBQ sauce recipe.
+
+->>>>
+
+We are creating a "BBQ Sauce Recipe", and we have our introduction, ingredients, preparation method, and recipe variations:
+
+BBQ Sauce Introduction:
+{{step_1}}
+
+BBQ Sauce Ingredients:
+{{step_2}}
+
+BBQ Sauce Preparation Method:
+{{step_3}}
+
+BBQ Sauce Variation:
+{{step_4}}
+
+Now, include tips on how to properly store and use the BBQ sauce on various meats, vegetables, and other food items suitable for grilling.
+
+->>>>
+
+For the "BBQ Sauce Recipe", we have our introduction, ingredients, preparation method, recipe variations, and usage tips:
+
+BBQ Sauce Introduction:
+{{step_1}}
+
+BBQ Sauce Ingredients:
+{{step_2}}
+
+BBQ Sauce Preparation Method:
+{{step_3}}
+
+BBQ Sauce Variation:
+{{step_4}}
+
+BBQ Sauce Usage Tips:
+{{step_5}}
+
+Finally, conclude with the time details required for each step of the BBQ Sauce Recipe: preparation time and cooking time.
+

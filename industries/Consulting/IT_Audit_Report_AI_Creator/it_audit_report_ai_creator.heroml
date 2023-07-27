@@ -1,0 +1,108 @@
+Your task is to write an "IT Audit Report" for the "Consulting" industry, specifically for an "IT Consultant". 
+
+Let's begin by drafting an executive summary that overviews the outcome of the IT audit: {{audit_outcome}}.
+
+Here's some more context about the IT Audit Report:
+Audit Outcome: {{audit_outcome}}
+Business Operations: {{business_operations}}
+Audit Procedures: {{audit_procedures}}
+Documentation: {{documentation}}
+Business Risk: {{business_risk}}
+Key Findings: {{key_findings}}
+
+->>>>
+
+Our IT Audit Report starts with the executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, in the introduction, provide a brief description of the client's business operations: {{business_operations}}, their IT environment, and the purpose and scope of the audit.
+
+->>>>
+
+Our IT Audit Report now consists of an executive summary and an introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, let's outline in detail the methodology used, describing the processes, and procedures for conducting the audit: {{audit_procedures}}.
+
+->>>>
+
+Our IT Audit Report has an Executive Summary, an Introduction, and a description of the Audit Methodology:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Methodology:
+{{step_3}}
+
+Next, delve into the Findings and Analysis, detailing the results of the audit. Include issues concerning compliance, risk management, data protection, and IT governance based on reviewed {{documentation}}, systems, and policies.
+
+->>>>
+
+Our IT Audit Report comprises the Executive Summary, Introduction, Methodology, and Findings and Analysis:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Methodology:
+{{step_3}}
+
+Findings and Analysis:
+{{step_4}}
+
+Let's draft the Recommendations. Provide suggestions for improving the client's IT operations, security, and governance systems based on the IT standards, frameworks, and best practices.
+
+->>>>
+
+Our IT Audit Report includes the Executive Summary, Introduction, Methodology, Findings and Analysis, and now Recommendations:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Methodology:
+{{step_3}}
+
+Findings and Analysis:
+{{step_4}}
+
+Recommendations:
+{{step_5}}
+
+Now, for each issue identified and recommendation made, include a clear description, the risk it poses to the business: {{business_risk}}, and the suggested course of action.
+
+->>>>
+
+So far, the IT audit report follows this structure: 
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Methodology:
+{{step_3}}
+
+Findings and Analysis:
+{{step_4}}
+
+Recommendations and Risk Analysis:
+{{step_6}}
+
+Finally, write a conclusion that summarizes the key findings: {{key_findings}} and recommendations. Close by encouraging the client to consider the proffered advice in order to enhance their business operations and minimize potential IT risks. 
+

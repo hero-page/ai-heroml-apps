@@ -1,0 +1,122 @@
+To create a product description in the "Consumer Electronics Marketing" industry for a "Product Marketer", follow these steps:
+
+Firstly, let's generate a compelling and catchy title that highlights the unique selling point of the product: {{product_name}}.
+
+Here's some more context about the Product Description:
+Product Name: {{product_name}}
+Product Overview: {{product_overview}}
+Product Features: {{product_features}}
+Technical Specs: {{technical_specs}}
+Unique Features: {{unique_features}}
+Customer Reviews: {{customer_reviews}}
+Warranty And Support: {{warranty_and_support}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+We have a title for this product:
+
+Product Title:
+{{step_1}}
+
+Next, brief a clear and concise overview of what the product is, its model number, and its primary function: {{product_overview}}.
+
+->>>>
+
+For our product, we have a title and introduction:
+
+Product Title:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Now, please present the main features of the product in bulleted form and for each feature, explain what it does and how it benefits the user: {{product_features}}.
+
+->>>>
+
+For our product, we have developed the main features and their benefits:
+
+Product Features:
+{{step_3}}
+
+Subsequently, we need to discuss the technical specifications of the product in detail, including its size, weight, performance attributes, compatibility, and battery life: {{technical_specs}}.
+
+->>>>
+
+For our product, we have developed an introduction, main features, and its technical specifications:
+
+Product Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Technical Specifications:
+{{step_4}}
+
+Next, let's elaborate on the special features of the product that set it apart from the competitors: {{unique_features}}.
+
+->>>>
+
+We have developed the unique features of our product, along with its introduction, main features, and technical specifications:
+
+Product Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Technical Specifications:
+{{step_4}}
+
+Unique Features:
+{{step_5}}
+
+Then, highlight positive reviews and testimonials from existing users of the product to build trust: {{customer_reviews}}.
+
+->>>>
+
+For our product, we have developed the main features, technical specifications, unique features, and customer reviews:
+
+Product Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Technical Specifications:
+{{step_4}}
+
+Unique Features:
+{{step_5}}
+
+Customer Reviews:
+{{step_6}}
+
+Now, close the description with warranty or product support details: {{warranty_and_support}}.
+
+->>>>
+
+For our product, we have developed the main features, unique features, customer reviews, and warranty or product support details:
+
+Product Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Technical Specifications:
+{{step_4}}
+
+Unique Features:
+{{step_5}}
+
+Customer Reviews:
+{{step_6}}
+
+Warranty and Support:
+{{step_7}}
+
+Lastly, write a call-to-action guiding the customer on how they can purchase the product or attain more information: {{call_to_action}}.
+

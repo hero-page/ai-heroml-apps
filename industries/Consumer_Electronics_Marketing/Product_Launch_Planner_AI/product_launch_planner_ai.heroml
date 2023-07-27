@@ -1,0 +1,134 @@
+Your task is to write a "Product Launch Plan" for the "Consumer Electronics Marketing" industry, specifically designed for a "Product Manager". 
+
+Let's start by crafting an executive summary that briefly describes the product and its major selling points.
+
+Here's some more context about the Product Launch Plan:
+Product Description: {{product_description}}
+Product Features And Benefits: {{product_features_and_benefits}}
+Product Development: {{product_development}}
+Target Market Demographics: {{target_market_demographics}}
+Competitor Analysis: {{competitor_analysis}}
+Marketing Strategy: {{marketing_strategy}}
+Sales Strategy: {{sales_strategy}}
+Measurement And Optimization Strategy: {{measurement_and_optimization_strategy}}
+
+->>>>
+
+We are creating a Product Launch Plan, and we now have an executive summary for the product:
+
+Executive Summary:
+{{step_1}}
+
+Following this, write an introduction detailing the product's features, benefits, the targeted user group, and the problem it solves for them.
+
+->>>>
+
+Our Product Launch Plan currently includes the following information:
+
+Executive Summary:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Proceed to comprehensibly discuss the product development phase, including the product's research, design and testing stages.
+
+->>>>
+
+The following components are now part of our Product Launch Plan:
+
+Executive Summary:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Product development:
+{{step_3}}
+
+Now let's analyze the market by detailing the target market demographics. Mention specific consumer traits, behaviors, lifestyle, and the expected market response to the product.
+
+->>>>
+
+In our Product Launch Plan, we have provided details about the product development and market analysis:
+
+Product Development:
+{{step_3}}
+
+Market Analysis:
+{{step_4}}
+
+Next, dedicate a section to competitor analysis. Discuss major competitors, their strengths, weaknesses, and how your product provides a better alternative.
+
+->>>>
+
+Now, our Product Launch Plan details market analysis and competitor analysis:
+
+Market Analysis:
+{{step_4}}
+
+Competitor Analysis:
+{{step_5}}
+
+Proceed to describe the product positioning strategy. This should include how the product will be perceived, priced, and presented against competitors in its category.
+
+->>>>
+
+Within our Product Launch Plan, we have information on competitor analysis and product positioning:
+
+Competitor Analysis:
+{{step_5}}
+
+Product Positioning:
+{{step_6}}
+
+Now, let's write a comprehensive marketing strategy. Discuss promotional activities, channels to be used, the strategy for reaching out, and how these efforts will resonate with the target market.
+
+->>>>
+
+The latest entries in the Product Launch Plan are:
+
+Product Positioning:
+{{step_6}}
+
+Marketing Strategy:
+{{step_7}}
+
+Proceed to provide an insightful sales strategy. Discuss distribution channels, pricing strategy, and sales targets.
+
+->>>>
+
+Our Product Launch Plan now details marketing strategy and sales strategy:
+
+Marketing Strategy:
+{{step_7}}
+
+Sales Strategy:
+{{step_8}}
+
+In the following section, let's plan the launch event. Describe the event date, location, invitees, launch theme and how it ties into the overall product launch plan.
+
+->>>>
+
+In the Product Launch Plan, we now have the sales strategy and launch event details:
+
+Sales Strategy:
+{{step_8}}
+
+Launch Event Planning:
+{{step_9}}
+
+Next, convey a detailed strategy for measurement, analysis, and optimization. Address how to measure the success of the launch, key performance indicators and contingencies for any potential barriers.
+
+->>>>
+
+Provided in the Product Launch Plan now are details on the launch event and the strategy for measurement, analysis, and optimization:
+
+Launch Event Planning:
+{{step_9}}
+
+Measurement, Analysis, Optimization Strategy:
+{{step_10}}
+
+To conclude, state the overall goals and objectives for the product launch. Summarize the key points, tying them back to the product described in step_1 for clarity and emphasis.
+

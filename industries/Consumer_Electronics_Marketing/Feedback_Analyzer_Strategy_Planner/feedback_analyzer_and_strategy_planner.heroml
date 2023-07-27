@@ -1,0 +1,82 @@
+Your task is to write a "Customer Feedback Analysis" for the "Consumer Electronics Marketing" industry, specifically for a "Product Manager". We'll start with:
+
+- Creating an executive summary that provides an overview of the feedback: {{overview_of_feedback}}. This overview should identify and summarize the most important themes from the customer feedback.
+
+Here's some more context about the Customer Feedback Analysis:
+Overview Of Feedback: {{overview_of_feedback}}
+Feedback Context: {{feedback_context}}
+Feedback Points: {{feedback_points}}
+Product Improvements: {{product_improvements}}
+Industry Trends: {{industry_trends}}
+Impact Of Feedback: {{impact_of_feedback}}
+Follow Up Plan: {{follow_up_plan}}
+
+->>>>
+
+Our customer feedback analysis begins with the Executive Summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, we'll provide a comprehensive introduction that details the context for the feedback: {{feedback_context}}. This context should include details about the specific product or product line the feedback pertains to, as well as any relevant market conditions.
+
+->>>>
+
+Our Customer Feedback Analysis now includes an Introduction that provides context:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, let's analyze each salient point of the feedback individually: {{feedback_points}}. Each analysis should detail the customers' opinions, their causes, and potential effects on the product, quantifying the feedback where possible.
+
+->>>>
+
+The Customer Feedback Analysis includes an Introduction and an analysis of the feedback points:
+
+Introduction:
+{{step_2}}
+
+Feedback Points Analysis:
+{{step_3}}
+
+After each analysis, let's propose potential product improvements or marketing strategy amendments to address these feedback points: {{product_improvements}}. Ensure that each proposal is directly related to its corresponding piece of feedback and aligns with the overall business and product strategy.
+
+->>>>
+
+The Customer Feedback Analysis now includes the Feedback Points Analysis and proposed Product Improvements:
+
+Feedback Points Analysis:
+{{step_3}}
+
+Product Improvements:
+{{step_4}}
+
+Next, let's identify and elaborate on industry-specific trends with a section that focuses on {{industry_trends}}. This could include insights about the product's performance relative to competitors in the Consumer Electronics industry, or unique user behavior related to the product, as revealed by customer feedback.
+
+->>>>
+
+The Customer Feedback Analysis includes the proposed Product Improvements and a section on Industry Trends:
+
+Product Improvements:
+{{step_4}}
+
+Industry Trends:
+{{step_5}}
+
+Now, let's conclude the report with a summarization of the feedback, the proposed solutions, and their expected impact on the product and the company: {{impact_of_feedback}}.
+
+->>>>
+
+The Customer Feedback Analysis includes sections on Industry Trends and the Summary/Impact of Feedback:
+
+Industry Trends:
+{{step_5}}
+
+Summary/Impact of Feedback:
+{{step_6}}
+
+Lastly, let's create a next steps section detailing how you plan to follow up on the feedback: {{follow_up_plan}}. This section should outline immediate actions and plans for longer-term monitoring of the feedback points.
+

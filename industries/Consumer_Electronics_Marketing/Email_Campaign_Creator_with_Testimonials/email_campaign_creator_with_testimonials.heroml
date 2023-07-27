@@ -1,0 +1,93 @@
+Your task is to write an "Email Campaign" for the "Consumer Electronics Marketing" industry, specifically for a "Product Marketer". 
+Let's start by creating an enticing subject line that speaks directly to the core benefit of the consumer electronic product being promoted: {{product_benefit}}.
+
+Here's some more context about the Email Campaign:
+Product Benefit: {{product_benefit}}
+Unique Selling Proposition: {{unique_selling_proposition}}
+Product Description: {{product_description}}
+Product Advantage: {{product_advantage}}
+Product Testimonial: {{product_testimonial}}
+Special Offer: {{special_offer}}
+Customer Support: {{customer_support}}
+
+->>>>
+
+For our email campaign, we have a subject line that speaks to the core benefit of our product:
+
+Subject:
+{{step_1}}
+
+Next, write an introduction that highlights the unique selling proposition of the product: {{unique_selling_proposition}}.
+
+->>>>
+
+For our email campaign, we have the product's core benefit in the subject line, and an introduction that highlights the unique selling point:
+
+Subject:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, in the body of the email, provide a detailed description of the product, highlighting its features, benefits and potential uses: {{product_description}}.
+
+->>>>
+
+In our email campaign, we have the product's unique selling point, and a detailed product description:
+
+Introduction:
+{{step_2}}
+
+Product Description:
+{{step_3}}
+
+Now, explain how this product outperforms other similar products in the market: {{product_advantage}}. This should showcase its relevance to the customer and why it’s a preferred choice in its category.
+
+->>>>
+
+In our email campaign, we have a detailed product description, and a showcase of the product advantage:
+
+Product Description:
+{{step_3}}
+
+Product Advantage:
+{{step_4}}
+
+Include an industry-specific case study or testimonial that proves the efficacy of the product: {{product_testimonial}}. This evidence can reassure consumers and provide validation for the product’s functionality and benefits.
+
+->>>>
+
+In our email campaign, we have discussed the product's unique advantage and now have a case study or testimonial to reinforce that advantage:
+
+Product Advantage:
+{{step_4}}
+
+Case Study/Testimonial:
+{{step_5}}
+
+Next, discuss a limited-time special offer or discount to encourage immediate purchase: {{special_offer}}. This can incentivize the lead to become a customer and also introduces urgency to the email campaign.
+
+->>>>
+
+For our email campaign, we've reinforced the product's advantage with a case study/testimonial, and now have a special offer to incentivize immediate purchase:
+
+Case Study/Testimonial:
+{{step_5}}
+
+Special Offer:
+{{step_6}}
+
+Now, the task is to conclude the email with a strong call-to-action (CTA) that encourages the recipient to acquire the product. This could be to direct them to the official product page or a retail partner's site.
+
+->>>>
+
+For our email campaign, we have a special offer and a persuasive CTA:
+
+Special Offer:
+{{step_6}}
+
+Call to Action:
+{{step_7}}
+
+Finally, end this email with a note of customer support availability, letting the readers know where they could get additional help about the product or the offer: {{customer_support}}. 
+

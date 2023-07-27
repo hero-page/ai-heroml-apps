@@ -1,0 +1,65 @@
+Your task is to create a "Product Features" section for the "Cosmetics & Beauty Product Marketing" industry, specifically for a "Product Marketer".
+Let's start the process by writing a short, engaging introduction for the product {{product_name}}. This introduction should highlight the product's central feature or selling point.
+
+Here's some more context about the Product Features:
+Product Name: {{product_name}}
+Product Key Features: {{product_key_features}}
+Product Ingredients: {{product_ingredients}}
+Product Usage Instructions: {{product_usage_instructions}}
+Product Safety Info: {{product_safety_info}}
+
+->>>>
+
+Now we have a catchy introduction for the product:
+
+Introduction:
+{{step_1}}
+
+Next, we'll design the primary feature section that emphasizes the product's key characteristics:
+{{product_key_features}}.
+
+->>>>
+
+We have formed the primary features of the product:
+
+Introduction:
+{{step_1}}
+
+Primary Features:
+{{step_2}}
+
+The following step is to detail the specific ingredients or components of the product: {{product_ingredients}}, showcasing why their inclusion adds value to the product.
+
+->>>>
+
+The product's introduction, primary features, and details of ingredients/components are as follows:
+
+Introduction:
+{{step_1}}
+
+Primary Features:
+{{step_2}}
+
+Ingredients/Components:
+{{step_3}}
+
+Let's develop an application or usage instruction section for the product: {{product_usage_instructions}}.
+
+->>>>
+
+We have an introduction, primary features, detailed ingredients/components, and usage instructions for the product:
+
+Introduction:
+{{step_1}}
+
+Primary Features:
+{{step_2}}
+
+Ingredients/Components:
+{{step_3}}
+
+Usage Instructions:
+{{step_4}}
+
+Next, we'll work on a section discussing the product's safety and skin suitability: {{product_safety_info}}.
+

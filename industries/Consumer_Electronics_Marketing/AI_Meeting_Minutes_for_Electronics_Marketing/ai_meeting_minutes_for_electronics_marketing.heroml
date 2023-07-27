@@ -1,0 +1,93 @@
+Your task is to write "Meeting Minutes" for the "Consumer Electronics Marketing" industry for a "Product Manager". 
+
+Start by documenting the basic details of the meeting which includes the date, time, and location, and the names of participating team members.
+
+Here's some more context about the Meeting Minutes:
+Date Time Location: {{date_time_location}}
+Team Members: {{team_members}}
+Meeting Purpose: {{meeting_purpose}}
+Discussion Details: {{discussion_details}}
+Industry Specific Discussions: {{industry_specific_discussions}}
+Decisions And Action Items: {{decisions_and_action_items}}
+Future Plans: {{future_plans}}
+Follow Up And Next Meeting: {{follow_up_and_next_meeting}}
+
+->>>>
+
+These are the basic details of our Product Marketing meeting:
+
+Meeting Details:
+{{step_1}}
+
+Next, create a section for "Meeting Agenda". Begin this section by writing a brief introduction on why the meeting was held.
+
+->>>>
+
+The Product Marketing meeting details have been listed:
+
+Meeting Details:
+{{step_1}}
+
+We have now created an introduction for the "Meeting Agenda":
+
+Meeting Agenda Introduction:
+{{step_2}}
+
+The next step is to address the detailed discussions that took place during the meeting. Break down each topic or issue deliberated in the meeting, starting with the problem statement, followed by various views, arguments, and counter-arguments presented.
+
+->>>>
+
+In our Product Marketing meeting agenda:
+
+Meeting Agenda Introduction:
+{{step_2}}
+
+We have detailed the discussions that took place:
+
+Meeting Discussions:
+{{step_3}}
+
+Now, let's focus on industry-specific elements. This could include discussions on the latest tech trends in consumer electronics, updates on market shares, competition analysis, or feedback on recently launched products.
+
+->>>>
+
+In our Product Marketing meeting:
+
+Meeting Discussions:
+{{step_3}}
+
+We have covered industry-specific discussions:
+
+Industry-Specific Discussions:
+{{step_4}}
+
+It's now time to detail the decisions made during the meeting. This should include final resolutions arrived at, assigned tasks or action items, and the person responsible for executing those tasks.
+
+->>>>
+
+For the Product Marketing meeting:
+
+Industry-Specific Discussions:
+{{step_4}}
+
+Here are the final decisions, actions and responsible persons:
+
+Decisions and Actions:
+{{step_5}}
+
+Next, include in your meeting minutes a brief about the upcoming plans or strategies in the pipeline that were discussed.
+
+->>>>
+
+After detailing the decisions made during the Product Marketing meeting:
+
+Decisions and Actions:
+{{step_5}}
+
+Here are the upcoming plans and strategies discussed:
+
+Upcoming Plans and Strategies:
+{{step_6}}
+
+Finally, compile the follow-up actions, if any and the schedule for the next meeting.
+

@@ -1,0 +1,57 @@
+Your task is to write a "Competitive Analysis" for the "Consumer Electronics Marketing" industry, specifically for a "Product Marketer". 
+
+Let's start with crafting an introduction that sets the scene for the "Competitive Analysis". This should specify the product category: {{product_category}} and define your product's position in this category.
+
+Here's some more context about the Competitive Analysis:
+Product Category: {{product_category}}
+Product Unique Points: {{product_unique_points}}
+Competitor Product: {{competitor_product}}
+Differentiating Points: {{differentiating_points}}
+Product Opportunities: {{product_opportunities}}
+Improvement Areas: {{improvement_areas}}
+
+->>>>
+
+Now, we have an introduction for the "Competitive Analysis" that provides a clear context:
+
+Introduction:
+{{step_1}}
+
+The next step is identifying the key competitors in the {{product_category}}. Please describe their market presence, product features, pricing, and overall customer perception to establish who we're up against.
+
+->>>>
+
+We've identified and described the key competitors in our market:
+
+Key Competitors:
+{{step_2}}
+
+Moving forward, please describe your product marketing objectives reflecting what you're hoping to achieve from this "Competitive Analysis". Be sure to mention the unique points of your product: {{product_unique_points}}.
+
+->>>>
+
+With the knowledge of our competition, we've outlined our objectives:
+
+Product Marketing Objectives:
+{{step_3}}
+
+Now, perform an in-depth competitor analysis. Enhance our understanding of each key competitor with a SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis. In your analysis, include details like what consumer electronics product they are competing with: {{competitor_product}}, and how our product differentiates from theirs: {{differentiating_points}}.
+
+->>>>
+
+We've thoroughly evaluated our competition via SWOT analysis:
+
+In-depth Competitor Analysis:
+{{step_4}}
+
+The next task is to analyze the marketing strategies of our key competitors. You should include their approach to advertising, digital marketing, distribution channels, and other relevant tactics. Make sure to incorporate any unique tactics that are specific to the consumer electronics industry.
+
+->>>>
+
+We understand our competition's marketing strategies:
+
+Competitor's Marketing Strategies:
+{{step_5}}
+
+Moving on, use all the information we've gathered to conclude with an opportunities and improvements section. Based on the analysis, what opportunities exist for our product: {{product_opportunities}} and how could our marketing tactics be improved: {{improvement_areas}}.
+

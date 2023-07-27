@@ -1,0 +1,214 @@
+Your task is to write a "Sous-vide Chicken Recipe" for the "Cooking Techniques" industry, specifically for a "Sous-vide Expert". 
+To begin, write an enticing introduction centered around the benefits and finesse of cooking chicken through Sous-vide technique: {{sous_vide_benefits}}. The tone must be appealing and instill curiosity in the reader.
+
+Here's some more context about the Sous-vide Chicken Recipe:
+Sous Vide Benefits: {{sous_vide_benefits}}
+Chicken Cut: {{chicken_cut}}
+Marinade Recipe: {{marinade_recipe}}
+Cook Duration: {{cook_duration}}
+
+->>>>
+
+So far we have an engaging introduction inclining around Sous-vide benefits:
+
+Introduction:
+{{step_1}}
+
+Next, create a list of necessary tools and ingredients for this recipe. Ensure you specify which chicken cut to use with this variable: {{chicken_cut}} and align it with the marinade recipe {{marinade_recipe}} and the cooking time {{cook_duration}}. Tools must include Sous-vide cooker, vacuum sealer, and a suitable bag for sealing.
+
+->>>>
+
+Now that we have set the stage with an attractive introduction, 
+
+Introduction:
+{{step_1}}
+
+We also have a robust list of needed ingredients and tools:
+
+Ingredients and Tools:
+{{step_2}}
+
+Proceed to write a step-by-step procedure on how to prepare the chicken for cooking, emphasizing on how to season or marinade according to the given recipe: {{marinade_recipe}}.
+
+->>>>
+
+We have progressed from introduction and ingredients:
+
+Introduction:
+{{step_1}}
+
+Ingredients and Tools:
+{{step_2}}
+
+To the preparation procedure:
+
+Preparation Procedure:
+{{step_3}}
+
+The next step is to precisely explain the process of sealing the chicken in the bag and preparing the Sous-vide cooker. Highlight any noteworthy techniques or cautionary steps to enlighten the reader who's a Sous-Vide expert.
+
+->>>>
+
+We have a comprehensive understanding of the steps including preparation,
+
+Introduction:
+{{step_1}}
+
+Ingredients and Tools:
+{{step_2}}
+
+Preparation Procedure:
+{{step_3}}
+
+And now the process of sealing and setting up the cooker:
+
+Sealing and Setup Process:
+{{step_4}}
+
+Proceed to outline the process of cooking the chicken in the Sous-vide cooker. Include specifics such as the precise temperature setting that aligns with the {{chicken_cut}} and cooking time given by {{cook_duration}}. Also, incorporate expert tips on maintaining even cooking.
+
+->>>>
+
+Having outlined the preceding steps, such as:
+
+Introduction:
+{{step_1}}
+
+Ingredients and Tools:
+{{step_2}}
+
+Preparation Procedure:
+{{step_3}}
+
+Sealing and Setup Process:
+{{step_4}}
+
+We now have a detailed cooking process:
+
+Cooking Process:
+{{step_5}}
+
+Continue to provide an elaborative description on how to finish the chicken post-cooking, whether it be searing, grilling, or broiling, which must align with the type of cut {{chicken_cut}} being used.
+
+->>>>
+
+So far we have developed steps including,
+
+Introduction:
+{{step_1}}
+
+Ingredients and Tools:
+{{step_2}}
+
+Preparation Procedure:
+{{step_3}}
+
+Sealing and Setup Process:
+{{step_4}}
+
+Cooking Process:
+{{step_5}}
+
+And we have ways to finish the chicken:
+
+Finishing the Chicken:
+{{step_6}}
+
+Next, guide on how and when to check the temperature of the cooked chicken with specifics.
+
+->>>>
+
+From the start, we have the following sections:
+
+Introduction:
+{{step_1}}
+
+Ingredients and Tools:
+{{step_2}}
+
+Preparation Procedure:
+{{step_3}}
+
+Sealing and Setup Process:
+{{step_4}}
+
+Cooking Process:
+{{step_5}}
+
+Finishing the Chicken:
+{{step_6}}
+
+And instructions on checking the temperature:
+
+Temperature Verification:
+{{step_7}}
+
+Wrap up the recipe with instructions on plating and serving that could enhance the diner's experience. Use directives that provide suggestions for side dishes or sauces that complement the chicken.
+
+->>>>
+
+Building on the previous steps:
+
+Introduction:
+{{step_1}}
+
+Ingredients and Tools:
+{{step_2}}
+
+Preparation Procedure:
+{{step_3}}
+
+Sealing and Setup Process:
+{{step_4}}
+
+Cooking Process:
+{{step_5}}
+
+Finishing the Chicken:
+{{step_6}}
+
+Temperature Verification:
+{{step_7}}
+
+Now, include the final meal presentation:
+
+Plating and Serving Suggestions:
+{{step_8}}
+
+Moreover, in the recipe, add industry-specific notes or expert tips. Emphasize points on perfecting the cooking temperature, balancing the marinade flavors, achieving the perfect finishing sear, advising on achieving the perfect texture, and tips on maintaining safety and hygiene.
+
+->>>>
+
+So far our recipe encompasses:
+
+Introduction:
+{{step_1}}
+
+Ingredients and Tools:
+{{step_2}}
+
+Preparation Procedure:
+{{step_3}}
+
+Sealing and Setup Process:
+{{step_4}}
+
+Cooking Process:
+{{step_5}}
+
+Finishing the Chicken:
+{{step_6}}
+
+Temperature Verification:
+{{step_7}}
+
+Plating and Serving Suggestions:
+{{step_8}}
+
+In addition, we have expert tips:
+
+Expert Tips:
+{{step_9}}
+
+To wrap things up, summarize the unique advantages of cooking using the Sous-vide technique, along with a brief summary of steps leading to serving and enjoying perfectly cooked Sous-vide chicken.
+

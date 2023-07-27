@@ -1,0 +1,63 @@
+Start to write a "Safety Tips for Deep Frying" guide targeted at "Frying Specialists" in the "Cooking Techniques" industry. First, let's develop an engaging "Introduction". This should introduce the importance of safety in the deep frying process and state the objective of the guide. Use the variable {{importance_of_safety_in_frying}} to customize the introduction according to the user's needs.
+
+Here's some more context about the Safety Tips for Deep Frying:
+Importance Of Safety In Frying: {{importance_of_safety_in_frying}}
+During Frying Safety Measures: {{during_frying_safety_measures}}
+Post Frying Safety Measures: {{post_frying_safety_measures}}
+Summary Of Safety Measures: {{summary_of_safety_measures}}
+Industry Specific Cases: {{industry_specific_cases}}
+
+->>>>
+
+Great, we have an "Introduction" for our deep frying safety guide:
+
+Introduction:
+{{step_1}}
+
+Next, outline the "Pre-frying Safety Measures" which should discuss precautions to be taken before starting the frying process. Key points include the correct choice of oil and fryer, the importance of checking oil temperature, ensuring the fryer is in good condition, and the necessity of keeping water away from hot oil.
+
+->>>>
+
+We've developed the "Introduction" and "Pre-frying Safety Measures" sections:
+
+Introduction:
+{{step_1}}
+
+Pre-frying Safety Measures:
+{{step_2}}
+
+Now, compose the "During Frying Safety Measures". This should discuss safety procedures while cooking, including appropriate utensil use, proper food handling, maintaining a safe distance from the fryer, and controlling oil temperature. Use {{during_frying_safety_measures}} to cater these measures according to specific practices of frying specialists.
+
+->>>>
+
+So far, the deep frying safety guide has the following elements:
+
+Introduction:
+{{step_1}}
+
+Pre-frying Safety Measures:
+{{step_2}}
+
+During Frying Safety Measures:
+{{step_3}}
+
+For the next part, write on "Post-frying Safety Measures". This should cover implications of correct disposal or storage of used frying oil, along with the appropriate cleaning process of the fryer. Use {{post_frying_safety_measures}} to customize this section based on different user requirements.
+
+->>>>
+
+At this stage, our deep frying safety guide looks like this:
+
+Introduction:
+{{step_1}}
+
+Pre-frying Safety Measures:
+{{step_2}}
+
+During Frying Safety Measures:
+{{step_3}}
+
+Post-frying Safety Measures:
+{{step_4}}
+
+Finally, wrap up the guide with a "Conclusion" that summarizes the key points and reemphasizes the importance of following these safety measures. Utilize {{summary_of_safety_measures}} for a customized conclusion.
+

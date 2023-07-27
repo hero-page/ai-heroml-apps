@@ -1,0 +1,164 @@
+Your task is to write an "Email Campaign" for the "Cosmetics & Beauty Product Marketing" industry, specifically for a "Product Marketer". Let's start by drafting a warm welcome in the campaign, which also introduces the brand and conveys the intention of the email.
+
+Here's some more context about the Email Campaign:
+Brand Introduction: {{brand_introduction}}
+Email Intent: {{email_intent}}
+Product Categories: {{product_categories}}
+Product USPs: {{product_USPs}}
+Customer Problems: {{customer_problems}}
+Special Promotions: {{special_promotions}}
+CTA: {{CTA}}
+
+->>>>
+
+We now have a warm welcome for our email campaign:
+
+Welcome:
+{{step_1}}
+
+Next, let's categorize this "Email Campaign" into subsections, each discussing a distinct category of products.
+
+->>>>
+
+We have our brand introduction and our product categories for the email campaign:
+
+Welcome:
+{{step_1}}
+
+Product categories:
+{{step_2}}
+
+Now, let's discuss the unique selling propositions (USPs) and benefits of each product category mentioned in the previous step.
+
+->>>>
+
+In our email campaign, we have our product categories and their respective USPs:
+
+Product categories:
+{{step_2}}
+
+Product USPs:
+{{step_3}}
+
+Moving forward, address the problem(s) that these product categories solve, using industry-specific language and focusing on customer needs.
+
+->>>>
+
+In our email, we have product benefits and the customer problems they solve:
+
+Product USPs:
+{{step_3}}
+
+Customer problems and solutions:
+{{step_4}}
+
+Next, introduce special promotions, limited-time offers, or discounts for these products, using beauty and cosmetics industry terminologies.
+
+->>>>
+
+In our email, we address customer problems and offer special promotions:
+
+Customer problems and solutions:
+{{step_4}}
+
+Special Promotions:
+{{step_5}}
+
+To conclude the email campaign, let's provide a clear call-to-action (CTA) for readers, specifying what they should do next to take advantage of these offers.
+
+->>>>
+
+In the email, we have our special promotions and a concise CTA:
+
+Special Promotions:
+{{step_5}}
+
+CTA:
+{{step_6}}
+
+Next, let's expand the engagement of our email by adding the details about the quality of your products, how they are produced, and why they are superior to similar ones in the market.
+
+->>>>
+
+In the email, we have a CTA and details about product quality:
+
+CTA:
+{{step_6}}
+
+Product quality details:
+{{step_7}}
+
+Let's add testimonials from satisfied customers or influencers in the beauty and cosmetics industry, to reinforce trust and credibility.
+
+->>>>
+
+Our email now includes product quality details and customer testimonials:
+
+Product quality details:
+{{step_7}}
+
+Customer testimonials:
+{{step_8}}
+
+If applicable, include information about sustainability or ethical production methods as these are selling points for many consumers in the cosmetics industry.
+
+->>>>
+
+In our email we have the customer testimonials and sustainability practices:
+
+Customer testimonials:
+{{step_8}}
+
+Sustainability practices:
+{{step_9}}
+
+Mention any upcoming product launches or events, if available, to create anticipation and excitement.
+
+->>>>
+
+Our email now includes sustainability practices and upcoming events:
+
+Sustainability practices:
+{{step_9}}
+
+Upcoming events:
+{{step_10}}
+
+Now, to make our "Email Campaign" more industry-specific, include vocabulary and terminology specific to the cosmetics industry.
+
+->>>>
+
+Our email now includes upcoming events and industry-specific language:
+
+Upcoming events:
+{{step_10}}
+
+Industry-specific language use:
+{{step_11}}
+
+Let's focus on adding a sense of individuality, self-expression, and confidence, aligning our message with the values and ideals of the beauty industry.
+
+->>>>
+
+The email now includes industry language and emphasizes self-expression and confidence:
+
+Industry-specific language use:
+{{step_11}}
+
+Self-expression and confidence:
+{{step_12}}
+
+Focus on how your products cater to different skin types, personal styles, and beauty goals, to ensure potential customers feel inclusivity.
+
+->>>>
+
+Our email emphasizes self-expression and caters to diverse skin types and beauty goals:
+
+Self-expression and confidence:
+{{step_12}}
+
+Diversity and inclusivity:
+{{step_13}}
+
+Mention the latest beauty trends that your products adhere to, keeping the campaign current and appealing.
+

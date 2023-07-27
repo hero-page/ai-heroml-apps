@@ -1,0 +1,94 @@
+Your task is to write a "Crispy Fried Chicken Recipe" for the "Cooking Techniques" industry, specifically for a "Frying Specialist". Let's start with a short introduction to this recipe. This introduction should tease the end result of the recipe and establish the fundamental frying technique that will be applied.
+
+Here's some more context about the Crispy Fried Chicken Recipe:
+Frying Technique: {{frying_technique}}
+Recipe Ingredients: {{recipe_ingredients}}
+Chicken Preparation: {{chicken_preparation}}
+Frying Process: {{frying_process}}
+Serving Suggestions: {{serving_suggestions}}
+Frying Specific Tips: {{frying_specific_tips}}
+
+->>>>
+
+To create a "Crispy Fried Chicken Recipe", we have started with an enticing introduction which also introduces the basic frying technique:
+
+Introduction:
+{{step_1}}
+
+Now, list the necessary ingredients for the recipe: {{recipe_ingredients}}. Don't forget to mention their specific quantities and qualities such as their freshness, specific variety, or origin.
+
+->>>>
+
+Here are the ingredients for our "Crispy Fried Chicken Recipe":
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Next, let's provide a chronological guide on preparing the chicken: {{chicken_preparation}}. This should cover all steps from handling the raw chicken to breading it, resting times, and seasoning.
+
+->>>>
+
+We now have a detailed guide on preparing the chicken for frying:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Chicken Preparation:
+{{step_3}}
+
+We can now move to the frying process. Describe in detail how to heat the oil to the required temperature: {{frying_process}}. This process should explain how to know when the oil is at the right temperature, how to carefully place the chicken into the oil, fry time for each piece, and how to ensure a crispy and golden brown exterior.
+
+->>>>
+
+For our "Crispy Fried Chicken Recipe", we now have step-by-step instructions for the frying process:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Chicken Preparation:
+{{step_3}}
+
+Frying Process:
+{{step_4}}
+
+Now that the fried chicken is ready, let's discuss plating and serving suggestions: {{serving_suggestions}}. Share some ideas for pairing and presenting the chicken to make it more appealing.
+
+->>>>
+
+For our crispy fried chicken, we now have a method of presentation:
+
+Chicken Preparation:
+{{step_3}}
+
+Frying Process:
+{{step_4}}
+
+Serving Suggestions:
+{{step_5}}
+
+Now, outline some tips and tricks for frying: {{frying_specific_tips}} that will show your authority as a Frying Specialist and make the recipe's instructions even more valuable.
+
+->>>>
+
+This is the tip section for our "Crispy Fried Chicken Recipe":
+
+Frying Process:
+{{step_4}}
+
+Serving Suggestions:
+{{step_5}}
+
+Frying Tips and Tricks:
+{{step_6}}
+
+Finally, let's end the guide with a sharp conclusion. Reiterate the unique attributes of the recipe and the importance of the frying technique.
+

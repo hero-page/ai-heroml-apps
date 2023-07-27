@@ -1,0 +1,92 @@
+Let's create a "System Proposal" in the "Consulting" industry for an "IT Consultant". 
+
+First, we need to write an executive summary for the proposal. Provide an outline of the proposal's purpose and your intended objectives.
+
+Here's some more context about the System Proposal:
+Proposal Objective: {{proposal_objective}}
+Current System: {{current_system}}
+System Needs: {{system_needs}}
+Proposed Solution: {{proposed_solution}}
+Implementation Plan: {{implementation_plan}}
+Budget Estimate: {{budget_estimate}}
+
+->>>>
+
+We have our executive summary for this proposal:
+
+Executive Summary:
+{{step_1}}
+
+
+The next task is to provide an introduction that offers an overview of the existing IT system requiring improvement or modernization.
+
+->>>>
+
+The introduction to our proposal includes a comprehensive overview of the current system:
+
+Introduction:
+{{step_2}}
+
+
+For our next step, we will incorporate a "Needs Assessment" section in our proposal. Describe the identified issues, inefficiencies, or unmet needs within the client's current IT system.
+
+->>>>
+
+Our "Needs Assessment" section helps to understand the current shortcomings in the system:
+
+Needs Assessment:
+{{step_3}}
+
+
+Now, let's create a "Recommended Solution" section in which you describe your proposed IT solution. Explain how this solution addresses the identified needs and include the anticipated benefits and its alignment with the client's strategy or mission.
+
+->>>>
+
+Our "Recommended Solution" section should provide a clear pathway for improvement:
+
+Recommended Solution:
+{{step_4}}
+
+
+In the further section, we need a "Technical Specifications" area detailing technical prerequisites for implementing our proposed IT solution.
+
+->>>>
+
+Here are the required technical specifications for our plan:
+
+Technical Specifications:
+{{step_5}}
+
+
+The following task is to provide an "Implementation Plan". Give a step-by-step plan on how the new system will be deployed, interconnected, tested, and rolled out.
+
+->>>>
+
+This is the "Implementation Plan" for our system proposal:
+
+Implementation Plan:
+{{step_6}}
+
+
+Let's transition into a "Budget Estimate". Offer a detailed projected cost breakdown of the proposed IT solution.
+
+->>>>
+
+Our "Budget Estimate" section provides a comprehensive financial breakdown of the project:
+
+Budget Estimate:
+{{step_7}}
+
+
+Subsequently, we should write a conclusion for the proposal, summarizing your approach, emphasizing the key benefits of the proposed system, and reaffirming your objective.
+
+->>>>
+
+The conclusion for our proposal successfully articulates why our proposed solution is beneficial:
+
+Conclusion:
+{{step_8}}
+
+
+Lastly, incorporate a section for references or supporting case studies if applicable. This will help to gain the trust of readers and validate your claims.
+

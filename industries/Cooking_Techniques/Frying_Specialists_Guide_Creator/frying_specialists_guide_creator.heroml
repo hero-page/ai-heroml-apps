@@ -1,0 +1,69 @@
+Your task is to write a "Guide to Oils for Frying" specifically for a "Frying Specialist" in the "Cooking Techniques" industry. 
+To start, craft an engaging introduction that emphasizes the importance of oils in frying and their relevance to "Frying Specialists".
+
+Here's some more context about the Guide to Oils for Frying:
+Importance Of Oils In Frying: {{importance_of_oils_in_frying}}
+Types Of Frying Oils: {{types_of_frying_oils}}
+Specific Frying Requirements: {{specific_frying_requirements}}
+Health Concerns Of Fried Foods: {{health_concerns_of_fried_foods}}
+
+->>>>
+
+We have an introduction for our guide:
+
+Introduction:
+{{step_1}}
+
+Next, you need to generate an outline to ensure the guide is well-structured. Make sure to include sections like general principles of frying oils, a deep dive into different types of oils, their smoke points and pros and cons.
+
+->>>>
+
+We've generated an outline for the guide in the "Cooking Techniques" industry:
+
+Introduction:
+{{step_1}}
+
+Outline:
+{{step_2}}
+
+Now, elaborate on each section of the outline, making sure the information provided is detailed yet easily digestible.
+
+->>>>
+
+We have an introduction and a detailed outline:
+
+Introduction:
+{{step_1}}
+
+Detailed Outline:
+{{step_3}}
+
+In the section detailing different types of oils, ensure to include essential factors such as their origin, smoke point, flavor profiles, health benefits, drawbacks, and ideal uses.
+
+->>>>
+
+We have a detailed section discussing different types of oils:
+
+Types of Oils:
+{{step_4}}
+
+For the practical tips and tricks section, offer specific advice tailored to the frying specialist's specific needs and preferences.
+
+->>>>
+
+We've created practical tips based on the frying specialist's needs:
+
+Practical Tips:
+{{step_5}}
+
+As for the section discussing health implications, provide insight into the health effects of consuming different fried foods depending on the oil used.
+
+->>>>
+
+We have a detailed section discussing the health implications:
+
+Health Implications:
+{{step_6}}
+
+Finally, conclude the guide by summarizing the key takeaways and linking back to the themes highlighted in the introduction.
+

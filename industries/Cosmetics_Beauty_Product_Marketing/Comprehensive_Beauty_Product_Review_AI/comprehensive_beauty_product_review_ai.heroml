@@ -1,0 +1,113 @@
+Your task is to write a "Product Review" for the "Cosmetics & Beauty Product Marketing" industry, specifically for a "Content Creator". 
+
+Firstly, let's create an introduction, stating the product name: {{product_name}}, and a brief background about the brand, sharing any iconic or popular products: {{brand_history}}.
+
+Here's some more context about the Product Review:
+Product Name: {{product_name}}
+Brand History: {{brand_history}}
+Product Packaging: {{product_packaging}}
+Product Details: {{product_details}}
+Product Benefits: {{product_benefits}}
+Product Experience: {{product_experience}}
+Product Price Value: {{product_price_value}}
+Product Verdict: {{product_verdict}}
+
+->>>>
+
+Now, we have our introduction for the review:
+
+Introduction:
+{{step_1}}
+
+Next, describe the overall product presentation and packaging: {{product_packaging}}. Discuss elements such as color schemes, graphics, dispensing mechanisms (if any), and the quality of materials used in the packaging.
+
+->>>>
+
+We have described the product presentation for the review:
+
+Introduction:
+{{step_1}}
+
+Product Presentation:
+{{step_2}}
+
+Now, outline the product details. Discuss its texture, color schemes (if applicable): {{product_details}}. Be sure to touch on the scent, if it's a distinctly noticeable aspect of the product.
+
+->>>>
+
+For the "Product Review", we have given detailed attention to its presentation:
+
+Introduction:
+{{step_1}}
+
+Product Presentation:
+{{step_2}}
+
+Product Details:
+{{step_3}}
+
+Now, discuss the intended use and benefits of the product: {{product_benefits}}. Detail whom the product suits best, its primary ingredients and their benefits, and any special features of the product (like cruelty-free, vegan, paraben-free, etc.).
+
+->>>>
+
+So far, we have shared the product details for the review:
+
+Product Presentation:
+{{step_2}}
+
+Product Details:
+{{step_3}}
+
+Product Benefits:
+{{step_4}}
+
+Now, share your personal experience using the product: {{product_experience}}. Discuss how you felt before, during, and after using the product and how it was integrated into your beauty routine.
+
+->>>>
+
+Our "Product Review" includes the benefits and our user experience:
+
+Product Benefits:
+{{step_4}}
+
+Product Experience:
+{{step_5}}
+
+Next, analyze the product's price point and value for money: {{product_price_value}}. Discuss whether the results justify the cost, considering its longevity, performance, and quality.
+
+->>>>
+
+In our "Product Review", we have detailed the personal experience with the product and assessed its price value:
+
+Product Experience:
+{{step_5}}
+
+Product Price Value:
+{{step_6}}
+
+Conclude the review with a final verdict: {{product_verdict}}. Summarize your thoughts, mention any negatives, and confirm whether you'd recommend it to your audience or repurchase it yourself.
+
+->>>>
+
+Our "Product Review" so far includes an assessment of the product's price value and a final verdict:
+
+Product Price Value:
+{{step_6}}
+
+Product Verdict:
+{{step_7}}
+
+Now incorporate an industry-specific element to your review: If the product claims to deal with specific skin problems, compare the results with those claims. Always take into account ethical and sustainability standards in the industry too.
+
+->>>>
+
+We have our final verdict and an analysis of the product based on industry-specific standards:
+
+Product Verdict:
+{{step_7}}
+
+Industry Standards:
+{{step_8}}
+
+Finally, add another industry-specific element to your review: Mention other similar products in the market and conclude how the product in the review stands against them.
+

@@ -1,0 +1,75 @@
+Let's write a "Social Media Post" for the "Consumer Electronics Marketing" industry, specifically for a "Content Creator". We will start by generating a catchy introduction about the consumer electronics product/topic: {{product_topic}}. The introduction should grab attention and provide accurate information about the topic, setting the stage for the rest of the post.
+
+Here's some more context about the Social Media Post:
+Product Topic: {{product_topic}}
+Product Specs Features: {{product_specs_features}}
+Product Applications: {{product_applications}}
+Product Ease Of Use: {{product_ease_of_use}}
+Product Pros Cons: {{product_pros_cons}}
+Product Verdict: {{product_verdict}}
+
+->>>>
+
+We have now generated a catchy introduction for our "Social Media Post":
+
+Introduction:
+{{step_1}}
+
+Our next task is to outline the specifications and features of the product: {{product_specs_features}}. This should be detailed yet concise, and the explanation should be understandable to the target audience.
+
+->>>>
+
+Having written an attention-grabbing introduction for our Social Media Post:
+
+Introduction:
+{{step_1}}
+
+We have now outlined the specifications and features of the product:
+
+Product Specifications and Features:
+{{step_2}}
+
+Next, we'll discuss the practical applications or uses of the product: {{product_applications}}. Ensure this section is relatable to the audience and describes how the product can be used in various everyday scenarios.
+
+->>>>
+
+We've outlined the specifications and features of the product:
+
+Product Specifications and Features:
+{{step_2}}
+
+Now, we have also detailed the product's practical applications or uses:
+
+Product Applications:
+{{step_3}}
+
+Our upcoming task is to assess the product's ease of use and user interface, if relevant: {{product_ease_of_use}}. Focus on aspects like the intuitiveness, convenience, and accessibility of the product's interface, as well as any potential difficulties in using it.
+
+->>>>
+
+The product's specifications, features, and practical applications have been detailed:
+
+Product Applications:
+{{step_3}}
+
+Now, we have done an assessment of the product's ease of use and user interface:
+
+Product's Ease of Use and User Interface:
+{{step_4}}
+
+Next on our agenda is to provide a balanced review of the product's pros and cons: {{product_pros_cons}}. Particularly, make a comparison with other products in the market. Focus on fair pricing, specs, and performance comparisons for the benefit of the audience.
+
+->>>>
+
+Here is the assessment of the product's ease of use and user interface:
+
+Product's Ease of Use and User Interface:
+{{step_4}}
+
+We have also crafted a balanced review of the product's pros and cons:
+
+Product's Pros and Cons:
+{{step_5}}
+
+Lastly, create a concluding paragraph that summarizes the review or provides a verdict about the product: {{product_verdict}}. The conclusion should resonate with your introduction and offer a final thought on the product without introducing any new information not previously discussed.
+

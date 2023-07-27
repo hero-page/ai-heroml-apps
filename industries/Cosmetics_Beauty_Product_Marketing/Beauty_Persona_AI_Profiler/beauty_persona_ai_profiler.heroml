@@ -1,0 +1,62 @@
+Your task is to write a "Customer Persona" for the "Cosmetics & Beauty Product Marketing" industry, specifically for a "Product Marketer". Follow the steps below:
+
+Let's start with defining your ideal customer's basic information:
+
+Here's some more context about the Customer Persona:
+Customer Basic Info: {{customer_basic_info}}
+Customer Lifestyle: {{customer_lifestyle}}
+Beauty Habits Preferences: {{beauty_habits_preferences}}
+Beauty Challenges: {{beauty_challenges}}
+Solution To Beauty Challenges: {{solution_to_beauty_challenges}}
+
+->>>>
+
+Now we have defined our ideal customer's basic information:
+
+Basic info:
+{{step_1}}
+
+Next, let's detail the ideal customer's background and lifestyle.
+
+->>>>
+
+We have determined our ideal customer's basic information and their background:
+
+Basic info:
+{{step_1}}
+
+Background and lifestyle:
+{{step_2}}
+
+Let's move on to the next part: describing our ideal customer's beauty habits and preferences.
+
+->>>>
+
+With the basic info, background and lifestyle, and now the beauty habits and preferences, we are developing a detailed persona:
+
+Basic info:
+{{step_1}}
+
+Background and lifestyle:
+{{step_2}}
+
+Beauty habits and preferences:
+{{step_3}}
+
+We'll now identify and outline the challenges or problems that our ideal customer is facing in their beauty journey.
+
+->>>>
+
+We've identified the beauty challenges that our ideal customer faces. Now, we have this info:
+
+Basic info:
+{{step_1}}
+
+Beauty habits and preferences:
+{{step_3}}
+
+Beauty challenges:
+{{step_4}}
+
+To fully complete our persona, let's demonstrate how our beauty products can solve the ideal customer's issues.
+
