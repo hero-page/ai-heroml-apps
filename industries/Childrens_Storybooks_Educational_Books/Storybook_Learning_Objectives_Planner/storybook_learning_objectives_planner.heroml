@@ -1,0 +1,71 @@
+Your task is to write a "Learning Objectives" for the "Children's Storybooks - Educational Books" industry, specifically for an "Educational Consultant". 
+
+Starting off, let's provide an engaging, comprehensive introduction that explains what the educational consultant aims to achieve - in terms of knowledge, skills, and values - within the context of the "Children's Storybooks - Educational Books" industry. Use the variable {{learning_aims}} to detail these objectives.
+
+Here's some more context about the Learning Objectives:
+Learning Aims: {{learning_aims}}
+Key Areas: {{key_areas}}
+Learning Progression: {{learning_progression}}
+Application Scenarios: {{application_scenarios}}
+Feedback Reinforcement Methods: {{feedback_reinforcement_methods}}
+
+->>>>
+
+We have set out the foundational introduction to our Learning Objectives:
+
+Introduction and Context:
+{{step_1}}
+
+Now, let's move on to detailing the specific learning objectives focused on in the key areas of the storybook. Use the variable {{key_areas}} to discuss these objectives.
+
+->>>>
+
+We now have a clear introduction and a detailed set of specific learning objectives for our book:
+
+Introduction and Context:
+{{step_1}}
+
+Specific Learning Objectives:
+{{step_2}}
+
+Next, it's time to outline the structured progression of learning that can guide children from their current understanding toward the listed objectives. Use the variable {{learning_progression}} to map out this progression.
+
+->>>>
+
+At this point in our Learning Objectives, we have a clear introduction, specific objectives, and a well-structured learning progression:
+
+Introduction and Context:
+{{step_1}}
+
+Specific Learning Objectives:
+{{step_2}}
+
+Learning Progression:
+{{step_3}}
+
+Let's now discuss how the storybook could assist children in applying the acquired skills and knowledge to real-life scenarios. Use the variable {{application_scenarios}} to detail these instances.
+
+->>>>
+
+We now have solid learning objectives in place, including a learning progression and ways to apply the acquired skills:
+
+Learning Progression:
+{{step_3}}
+
+Skills and Knowledge Application:
+{{step_4}}
+
+Now, we should describe the methods through which the educational consultant can use the storybook to provide feedback to the learners and adequately reinforce the learning objectives. Use the variable {{feedback_reinforcement_methods}} to explain these methods.
+
+->>>>
+
+We have established comprehensive learning objectives, including a segment on how the knowledge can be applied, and methods for feedback and reinforcement:
+
+Skills and Knowledge Application:
+{{step_4}}
+
+Feedback and Reinforcement:
+{{step_5}}
+
+Finally, it's time to round off our Learning Objectives by summarising the aims of the educational consultant utilising the storybook. This should reiterate the key areas and application scenarios, making use of the {{learning_aims}}, {{key_areas}}, and {{application_scenarios}} variables. It should explain how achieving these objectives will benefit the learner.
+

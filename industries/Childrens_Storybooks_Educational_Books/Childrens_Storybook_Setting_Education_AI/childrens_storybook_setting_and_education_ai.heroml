@@ -1,0 +1,73 @@
+Your task is to write a "Real-life Setting Description" for the "Children's Storybooks - Educational Books" industry, specifically for an "Author". 
+
+Begin your description by crafting a sensory-rich introduction that describes the larger environment: {{environment}}. 
+Make sure to engage the reader's senses by describing what can be seen, heard, smelled, and touched in this setting.
+
+Here's some more context about the Real-life Setting Description:
+Environment: {{environment}}
+Specific Location: {{specific_location}}
+Time Or Season: {{time_or_season}}
+Emotional Tone: {{emotional_tone}}
+Story Relation: {{story_relation}}
+
+->>>>
+
+We have started with a sensory-rich description of the larger environment:
+
+Sensory-rich Introduction:
+{{step_1}}
+
+Now, introduce a specific location within the environment: {{specific_location}}. 
+Give a detailed description of its features and its significance in relation to the larger setting. 
+For a children's book author, this could be a landmark, a building, or even a particular room.
+
+->>>>
+
+We have a sensory-rich description of the environment and a detailed introduction to a specific location within it:
+
+Sensory-rich Introduction:
+{{step_1}}
+
+Specific Location:
+{{step_2}}
+
+Next, write about the time period or season: {{time_or_season}}. 
+Include details like the daily routine, the weather, or signs of the time of year. 
+This will help children learn about different times and seasons.
+
+->>>>
+
+Our real-life setting description so far includes the larger environment, specified location, and the time period or season:
+
+Sensory-rich Introduction:
+{{step_1}}
+
+Specific Location:
+{{step_2}}
+
+Time Period or Season:
+{{step_3}}
+
+In this setting, introduce any significant non-human characters: {{non-human_characters}}. 
+These could be animals, magical creatures, or animated objects. 
+Describe their habits, locations and how they interact with the environment.
+
+->>>>
+
+Our setting description now includes the larger environment, specified location, time period or season, as well as the significant non-human characters:
+
+Sensory-rich Introduction:
+{{step_1}}
+
+Specific Location:
+{{step_2}}
+
+Time Period or Season:
+{{step_3}}
+
+Non-Human Characters:
+{{step_4}}
+
+To further enhance the setting, elaborate on the emotional or atmospheric tone: {{emotional_tone}}. 
+Is it serene, bustling, gloomy, joyful? This helps children engage emotionally with the story.
+

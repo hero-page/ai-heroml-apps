@@ -1,0 +1,65 @@
+Your task is to write a "Lesson Plan" for the "Children's Storybooks - Educational Books" industry, specifically for an "Educational Consultant". 
+
+Let's start by providing a broad overview of the lesson plan. The first section should help the educational consultant understand the overall aim of the lesson. Here, introduce and define the main topic: {{main_topic}}, the age group of children it is designed for: {{target_age_group}}, and the learning objectives: {{learning_objectives}}.
+
+Here's some more context about the Lesson Plan:
+Main Topic: {{main_topic}}
+Target Age Group: {{target_age_group}}
+Learning Objectives: {{learning_objectives}}
+Teaching Methods: {{teaching_methods}}
+Assessment Method: {{assessment_method}}
+
+->>>>
+
+We have created an initial overview of our lesson plan:
+
+Lesson Plan Overview:
+{{step_1}}
+
+Next, let's proceed to describe the pedagogical model. Explain the methodologies and strategies that you intend to use to achieve the learning objectives: {{teaching_methods}}. Be sure to include a variety of teaching methods to cater to children's different learning styles and to make the sessions engaging.
+
+->>>>
+
+Here is the pedagogical model that we will use in our lesson plan:
+
+Pedagogical Model:
+{{step_2}}
+
+Moving on, we need to outline the specific lesson details in a sequential manner. Start from the introduction of the topic, then the core lesson and finally, the conclusion. Each lesson detail should progress in a way that aids comprehension and retention of knowledge. For each lesson detail, provide a description of the activity, and the associated learning objective.
+
+->>>>
+
+So far, we have a pedagogical model and the outlined lesson details for our plan:
+
+Pedagogical Model:
+{{step_2}}
+
+Lesson Details:
+{{step_3}}
+
+Next up, detail the assessment method: {{assessment_method}}. Outline the strategies for testing the children's acquired knowledge, skills, and abilities. This could be through quizzes, assignments, class participation, or other techniques relevant to the lesson context.
+
+->>>>
+
+In our lesson plan, we now have an assessment method:
+
+Lesson Details:
+{{step_3}}
+
+Assessment Method:
+{{step_4}}
+
+Let's now discuss the inclusion of literacy and numeracy skills, which are essential parts of early childhood education. Describe how these components are intertwined in your lesson plan to enhance its holistic value.
+
+->>>>
+
+Our lesson plan now incorporates literacy and numeracy skills:
+
+Assessment Method:
+{{step_4}}
+
+Literacy and Numeracy Skills:
+{{step_5}}
+
+Let's highlight industry-specific elements in the "Lesson Plan". For instance, describe how certain activities can help children develop fundamental skills useful in the early childhood education industry, like empathy, teamwork, and problem-solving.
+

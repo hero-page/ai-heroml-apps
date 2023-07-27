@@ -1,0 +1,65 @@
+Your task is to write a "Comic Scene Illustration Description" for the "Children's Storybooks - Comics & Graphic Novels" industry, specifically for an "Illustrator".
+Let's begin by providing a detailed description of the environment where the scene is set: {{setting}}. 
+
+Here's some more context about the Comic Scene Illustration Description:
+Setting: {{setting}}
+Characters: {{characters}}
+Central Action: {{central_action}}
+Emotional Tone: {{emotional_tone}}
+Speech Thought Bubbles Content: {{speech_thought_bubbles_content}}
+Panel Layout: {{panel_layout}}
+
+->>>>
+
+We've got a setting for our comic scene:
+
+Setting description:
+{{step_1}}
+
+Now, let's introduce the characters that will be showcased in this setting. Detail their appearance, poses, and actions.
+
+->>>>
+
+We have our setting and now we have introduced our characters:
+
+Setting description:
+{{step_1}}
+
+Characters introduction:
+{{step_2}}
+
+Next, describe the main action taking place in this setting, involving the introduced characters.
+
+->>>>
+
+We have a setting, characters and now a detailed description of the central action:
+
+Setting description:
+{{step_1}}
+
+Characters introduction:
+{{step_2}}
+
+Central action:
+{{step_3}}
+
+Now, let's set the mood of this scene by detailing the emotional tone.
+
+->>>>
+
+For our comic scene, we have a setting, characters, a central action and an emotional tone:
+
+Setting description:
+{{step_1}}
+
+Characters introduction:
+{{step_2}}
+
+Central action:
+{{step_3}}
+
+Emotional tone:
+{{step_4}}
+
+Next, incorporate speech and thought bubbles. Provide content for these bubbles and how they should be placed in relation to the characters. 
+

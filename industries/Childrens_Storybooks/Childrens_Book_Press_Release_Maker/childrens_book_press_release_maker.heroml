@@ -1,0 +1,118 @@
+Your task is to create a "Press Release" for the "Children's Storybooks" industry, specifically for a "Publisher". 
+
+Start with an attention-grabbing headline that encapsulates the unique selling proposition of the book, {{book_title}}. This needs to reflect the content, tone, and style of the book.
+
+Here's some more context about the Press Release:
+Book Title: {{book_title}}
+Book Character Name: {{book_character_name}}
+Book Theme: {{book_theme}}
+Book Illustrator: {{book_illustrator}}
+Author Name: {{author_name}}
+Illustrator Name: {{illustrator_name}}
+Book Launch Event: {{book_launch_event}}
+
+->>>>
+
+For the press release, we have a headline:
+
+Headline:
+{{step_1}}
+
+Next, write an introduction that introduces the book {{book_title}}, what makes it special, and briefly highlights its relevance to the target audience. If this is a new book, mention the release or official publishing date.
+
+->>>>
+
+So far, this is what we have for the press release:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+The next section of the press release should provide a brief synopsis of the book. Be keen not to give away the entire story or key plot twists, instead provide enough information to pique the interest of potential readers. Include details like {{book_character_name}}, {{book_theme}}, and {{book_illustrator}}.
+
+->>>>
+
+In the press release, we now have the introduction and a brief synopsis of the book:
+
+Introduction:
+{{step_2}}
+
+Brief Synopsis:
+{{step_3}}
+
+Next, discuss the author and illustrator's background, experience, and other works. This can boost credibility and familiarity to potential buyers. Include {{author_name}} and {{illustrator_name}}.
+
+->>>>
+
+In the press release, we now have a brief synopsis of the book and author/illustrator section:
+
+Brief Synopsis:
+{{step_3}}
+
+Author/Illustrator Section:
+{{step_4}}
+
+In the following section, incorporate quotes from the author, illustrator, or initial reviewers that highlight the book's special features, its message, or relevance to its target demographic.
+
+->>>>
+
+So far, we have generated a brief synopsis, the author/illustrator section, and included some quotes as well for our press release:
+
+Brief Synopsis:
+{{step_3}}
+
+Author/Illustrator Section:
+{{step_4}}
+
+Highlighted Quotes:
+{{step_5}}
+
+List down the technical details of the book such as dimensions, the number of pages, retail price, and the appropriate age group. These details are crucial for retail and library buyers.
+
+->>>>
+
+This is the material we have for the press release:
+
+Author/Illustrator Section:
+{{step_4}}
+
+Highlighted Quotes:
+{{step_5}}
+
+Book technical details:
+{{step_6}}
+
+Include a section that outlines any special events, book signing sessions, or reading events related to the book's launch, {{book_launch_event}} if any.
+
+->>>>
+
+Our press release now includes material about the author and illustrator, highlighted quotes, book technical details and information about events related to the book launch:
+
+Highlighted Quotes:
+{{step_5}}
+
+Book Technical Details:
+{{step_6}}
+
+Book Launch Event Details:
+{{step_7}}
+
+Conclude the press release by giving contact information for press inquiries, details about where to buy the book, as well as the publisher's name and brief company profile.
+
+->>>>
+
+Here's what we have now for our press release:
+
+Book Technical Details:
+{{step_6}}
+
+Book Launch Event Details:
+{{step_7}}
+
+Publisher's Contact Information and Profile:
+{{step_8}}
+
+Lastly, integrate a clear call to action, urging readers to purchase or pre-order the book, attend the launch event, or register their kids for a reading session.
+

@@ -1,0 +1,68 @@
+Your task is to write a "Toy Concept" for the "Children's Toys & Games" industry, specifically for a "Toy Designer". 
+
+Let's start with a brief introduction describing the basic idea of the toy: {{toy_idea}}.
+
+Here's some more context about the Toy Concept:
+Toy Idea: {{toy_idea}}
+Target Age Group: {{target_age_group}}
+Educational Value: {{educational_value}}
+Play Experience: {{play_experience}}
+Safety Features: {{safety_features}}
+
+->>>>
+
+Now, we have a basic idea for the toy:
+
+Toy Idea:
+{{step_1}}
+
+Following that, describe the intended target age group for the toy and explain why the toy is appealing and engaging for this demographic: {{target_age_group}}.
+
+->>>>
+
+We now have a target audience for our toy:
+
+Toy Idea:
+{{step_1}}
+
+Target Age Group:
+{{step_2}}
+
+Next, discuss the educational value of the toy, outlining the skills it can enhance and develop while children are playing with it: {{educational_value}}.
+
+->>>>
+
+We now understand the educational value of our toy:
+
+Toy Idea:
+{{step_1}}
+
+Educational Value:
+{{step_3}}
+
+Let's proceed to outline the play experience provided by the toy, highlighting how it promotes imaginative play and unique interaction features: {{play_experience}}.
+
+->>>>
+
+Now, we have a clear conception of the play experience:
+
+Toy Idea:
+{{step_1}}
+
+Play Experience:
+{{step_4}}
+
+Moving ahead, let's detail the safety measures designed into the toy, ensuring its suitability and safety for the target age group: {{safety_features}}.
+
+->>>>
+
+Now, we have understand the safety measures of the toy:
+
+Toy Idea:
+{{step_1}}
+
+Safety Features:
+{{step_5}}
+
+Next, let's conclude with a succinct summary of the overall concept of the toy and outline its benefits for the consumers and on the market: {{toy_idea}}.
+

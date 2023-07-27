@@ -1,0 +1,47 @@
+Your task is to write a "Sound Effect Description" for the "Children's Storybooks - Comics & Graphic Novels" industry, specifically for a "Letterer". 
+
+Let's start by creating a context for the sound effect: {{sound_context}}. This will set up for the sound that's being described, explaining what is happening in the story or illustration that prompts the sound. Remember to be clear and concise, providing necessary details without overwhelming the reader.
+
+Here's some more context about the Sound Effect Description:
+Sound Context: {{sound_context}}
+Sound Type: {{sound_type}}
+Sound Details: {{sound_details}}
+Character Reactions: {{character_reactions}}
+Sound Variations: {{sound_variations}}
+
+->>>>
+
+We have set the context for the sound effect:
+
+Sound Context:
+{{step_1}}
+
+Next, define the "Sound Type": {{sound_type}}. This could be a natural sound like a crash or a boom, or a more abstract sound, like the sound of magic happening. Remember, being specific provides a more vivid and accurate depiction of what sound is needed.
+
+->>>>
+
+We have a context and a suitable type for our sound effect:
+
+Sound Context:
+{{step_1}}
+
+Sound Type:
+{{step_2}}
+
+Now, we need to detail the sound effectively in "Sound Details": {{sound_details}} section. This should incorporate additional characteristics that further describe the sound - is it loud or quiet? High-pitched or low-pitched? Short or long? The accuracy of these aspects will help the letterer immerse the reader in the story.
+
+->>>>
+
+We have a context for the sound effect, a type, and now detailed description:
+
+Sound Context:
+{{step_1}}
+
+Sound Type:
+{{step_2}}
+
+Sound Details:
+{{step_3}}
+
+Next, in the "Character Reactions": {{character_reactions}} section, describe how characters in the scene react to the sound, as these reactions could influence the depiction of the sound effect. Are they surprised, scared, indifferent? This information will help to further visualize how the sound should be communicated.
+

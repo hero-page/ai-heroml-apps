@@ -1,0 +1,55 @@
+Your task is to write a "Character Illustration Description" for the "Children's Storybooks - Picture Books" industry, specifically for an Illustrator. 
+Firstly, generate an overview that explains the character's role and significance in the story: {{character_role_in_story}}.
+
+Here's some more context about the Character Illustration Description:
+Character Role In Story: {{character_role_in_story}}
+Character Appearance: {{character_appearance}}
+Character Expressions: {{character_expressions}}
+Character Actions Interactions: {{character_actions_interactions}}
+Character Evolution: {{character_evolution}}
+
+->>>>
+
+We have established the character's significance and role in the story:
+
+Character's Role and Significance:
+{{step_1}}
+
+Taking this information into consideration, introduce the character's physical appearance, including defining characteristics, color palette and clothing or accessories: {{character_appearance}}.
+
+->>>>
+
+Having detailed the character's role and significance, here is the physical description of the character:
+
+Role and Significance:
+{{step_1}}
+
+Physical Appearance:
+{{step_2}}
+
+Next, provide a thorough description of the character's emotions and expressions. This includes ways these expressions can be depicted through the face and body language: {{character_expressions}}.
+
+->>>>
+
+So far, we have established the character's role, physical appearance, and now their emotional expression:
+
+Physical Appearance:
+{{step_2}}
+
+Emotions and Expressions:
+{{step_3}}
+
+Moving forward, describe in detail the character's actions and interactions with other characters, objects or the environment. This will help the illustrator envision dynamic compositions: {{character_actions_interactions}}.
+
+->>>>
+
+At this point, here is how the character interacts and behaves:
+
+Emotions and Expressions:
+{{step_3}}
+
+Actions and Interactions:
+{{step_4}}
+
+Finally, discuss the character's evolution through the story, specifying any major changes in their appearance, mood, or behavior: {{character_evolution}}. Remember to include industry-specific elements like references to classic children's picture books illustrative styles, age appropriateness of the visuals, aspects of diversity and inclusivity in character design, the tone and mood of the story, the importance of plot-specific details in character design, and the use of colors and textures to highlight character traits and emotions.
+

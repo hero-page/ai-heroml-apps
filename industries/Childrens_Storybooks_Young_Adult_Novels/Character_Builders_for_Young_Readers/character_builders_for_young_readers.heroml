@@ -1,0 +1,55 @@
+Your task is to create a "Character Development Description" for a character in the "Children's Storybooks - Young Adult Novels" industry, for an author. Let's start by writing an introduction that highlights the role of the character in the story: {{character_role}}. 
+
+Here's some more context about the Character Development Description:
+Character Role: {{character_role}}
+Character Traits: {{character_traits}}
+Character Backstory: {{character_backstory}}
+Character Desire: {{character_desire}}
+Character Evolution: {{character_evolution}}
+Character Impact: {{character_impact}}
+
+->>>>
+
+We have the introduction for our character development:
+
+Character Role:
+{{step_1}}
+
+Next, we should delve into outlining the character's main traits. These traits may include physical attributes and personality traits: {{character_traits}}. For simplicity and engagement in children's storybooks, we should keep this description understandable and captivating.
+
+->>>>
+
+Now that we have identified the character's traits:
+
+Character Traits:
+{{step_2}}
+
+Let's set the stage for the background or backstory of the character: {{character_backstory}}. We should do this in a way that provides depth to the character, making them appear more relatable for the readers.
+
+->>>>
+
+Having background information for our character,
+
+Character Backstory:
+{{step_3}}
+
+It's time to detail the character's desires or motivation in the story: {{character_desire}}. Remember, these desires motivate their actions and drive the narrative of the story.
+
+->>>>
+
+Now that we have identified the character's desires,
+
+Character's Desires:
+{{step_4}}
+
+We should discuss the character's evolution throughout the story: {{character_evolution}}. This should demonstrate how the character grows, changes, learns, or fails throughout the narrative.
+
+->>>>
+
+With an understanding of the character's evolution,
+
+Character's Evolution:
+{{step_5}}
+
+Finally, we should describe the character's impact on other characters and the overall story: {{character_impact}}. This summary should tie back to the character's initial role, reinforcing their importance to the narrative.
+

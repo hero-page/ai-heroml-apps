@@ -1,0 +1,131 @@
+Your task involves creating a "Narrative Description" for the "Children's Storybooks - Picture Books" industry tailored to an "Author". 
+
+Begin by writing an introduction of the key characters and their relationships. Remember to make it engaging to captivate young readers: {{characters}}.
+
+Here's some more context about the Narrative Description:
+Characters: {{characters}}
+Setting: {{setting}}
+Main Conflict: {{main_conflict}}
+Characters Journey: {{characters_journey}}
+Climax: {{climax}}
+Resolution: {{resolution}}
+Ending: {{ending}}
+Moral Of The Story: {{moral_of_the_story}}
+
+->>>>
+
+Your narrative description has started with an engaging introduction to the key characters in the story:
+
+Character Introduction:
+{{step_1}}
+
+The next step is to create the setting for the story. Provide vivid descriptions to develop a graphic image in a child reader's mind: {{setting}}.
+
+->>>>
+
+We now have the setting for the story, complementing the characters we've already introduced:
+
+Character Introduction:
+{{step_1}}
+
+Setting Description:
+{{step_2}}
+
+Next, identify the main conflict that the key characters will face - something that's relatable and interesting to the young readers: {{main_conflict}}.
+
+->>>>
+
+We now have a story with a defined setting and a central conflict:
+
+Setting Description:
+{{step_2}}
+
+Main Conflict:
+{{step_3}}
+
+Now, describe the journey the characters undertake to resolve this conflict. Use expressive and vivid language to keep the narrative engaging: {{characters_journey}}.
+
+->>>>
+
+For our story, here is an engaging account of the characters' journey through the main conflict:
+
+Main Conflict:
+{{step_3}}
+
+Characters' Journey:
+{{step_4}}
+
+We are now ready to develop the key events of the story, logically sequencing them to build suspense and keep young readers engaged.
+
+->>>>
+
+The core elements of our story now include the characters' journey through the central conflict along with the key events:
+
+Characters' Journey:
+{{step_4}}
+
+Key Events:
+{{step_5}}
+
+Moving on, portray the climax of the story - a gripping point where the main conflict reaches its peak: {{climax}}.
+
+->>>>
+
+We now have the climax of the story, enriching the series of key events we've developed:
+
+Key Events:
+{{step_5}}
+
+Climax:
+{{step_6}}
+
+Following the climax, describe how the characters are affected by the events, and any lessons they learn from these experiences.
+
+->>>>
+
+After reaching the climax, our narrative now includes a description of the characters' experiences and lessons following the key events:
+
+Climax:
+{{step_6}}
+
+Post-climax Character Transformations and Lessons:
+{{step_7}}
+
+Now, provide a resolution showing how the characters resolve the conflict and any growth they undergo: {{resolution}}.
+
+->>>>
+
+Our narrative now includes resolution and character growth in addition to the climactic events:
+
+Resolution:
+{{step_8}}
+
+Climax:
+{{step_6}}
+
+Create an enticing ending to tie up any loose ends and leave the young reader satisfied: {{ending}}.
+
+->>>>
+
+We now have a satisfactory ending to our narrative to wrap up the character growth and resolution:
+
+Resolution and Character Growth:
+{{step_8}}
+
+Ending:
+{{step_9}}
+
+Next, develop a distinctive voice for the narrative that suits the tone of the story and resonates with the young readers.
+
+->>>>
+
+Our complete narrative now has a distinctive voice and satisfying ending:
+
+Narrative Voice:
+{{step_10}}
+
+Ending:
+{{step_9}}
+
+Finally, as it's for a children's storybook, ensure your narrative contains an underlying moral or value to foster learning: {{moral_of_the_story}}.
+

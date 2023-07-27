@@ -1,0 +1,111 @@
+Your task is to write a "Magical Creature Description" for the "Children's Storybooks - Fantasy Genre" industry, specifically for an "Author". 
+
+To start off, let's establish the creature's name in a captivating manner.
+
+Here's some more context about the Magical Creature Description:
+Creature Name: {{creature_name}}
+Creature Appearance: {{creature_appearance}}
+Creature Origin: {{creature_origin}}
+Creature Abilities: {{creature_abilities}}
+Creature Behavior: {{creature_behavior}}
+Creature Role: {{creature_role}}
+
+->>>>
+
+We now have a name for the magical creature:
+
+Creature's Name:
+{{step_1}}
+
+Next, let's provide a detailed description of the creature's physical appearance, it’s size, color, and distinguishing features.
+
+->>>>
+
+We have the name of the creature and its physical appearance:
+
+Creature's Name:
+{{step_1}}
+
+Creature's Appearance:
+{{step_2}}
+
+Now, let's explain the creature's origin, this could be where it originates from or its historical or mythological origins.
+
+->>>>
+
+We now have a name, physical description, and origin for the creature:
+
+Creature's Name:
+{{step_1}}
+
+Creature's Appearance:
+{{step_2}}
+
+Creature's Origin:
+{{step_3}}
+
+For the next task, detail the creature's abilities, special powers, or unique characteristics.
+
+->>>>
+
+At this point, we have the creature's name, physical description, origin, and its special abilities:
+
+Creature's Name:
+{{step_1}}
+
+Creature's Appearance:
+{{step_2}}
+
+Creature's Origin:
+{{step_3}}
+
+Creature's Abilities:
+{{step_4}}
+
+Next, let's discuss the behavior of the creature, its general demeanor, and any notable habits or activities it performs.
+
+->>>>
+
+So far we have detailed the creature's name, appearance, origin, abilities, and behavior:
+
+Creature's Name:
+{{step_1}}
+
+Creature's Appearance:
+{{step_2}}
+
+Creature's Origin:
+{{step_3}}
+
+Creature's Abilities:
+{{step_4}}
+
+Creature's Behavior:
+{{step_5}}
+
+Next, let's outline the role of the creature in the story, whether it's a friend or villain, how it helps or hinders the protagonist.
+
+->>>>
+
+With the creature's name, appearance, origin, abilities, behavior and role in the story detailed, we've covered a lot of ground:
+
+Creature's Name:
+{{step_1}}
+
+Creature's Appearance:
+{{step_2}}
+
+Creature's Origin:
+{{step_3}}
+
+Creature's Abilities:
+{{step_4}}
+
+Creature's Behavior:
+{{step_5}}
+
+Creature's Role:
+{{step_6}}
+
+To conclude this description, let's summarize its overall impact on the story and its characters.
+

@@ -1,0 +1,95 @@
+Your task is to generate a Book Layout Plan in the Children's Storybooks - Picture Books industry for an Art Director. 
+Let's start by defining the main concept and theme of the book: {{book_theme}}. This should portray a brief description of the story along with the tone of the narrative.
+
+Here's some more context about the Book Layout Plan:
+Book Theme: {{book_theme}}
+Plot Summary: {{plot_summary}}
+Key Events: {{key_events}}
+Character Interactions: {{character_interactions}}
+Illustrative Style: {{illustrative_style}}
+Page Description: {{page_description}}
+Art Alignment: {{art_alignment}}
+Color Scheme: {{color_scheme}}
+Typography: {{typography}}
+Cover Art Direction: {{cover_art_direction}}
+Title Prominence: {{title_prominence}}
+Back Cover Content: {{back_cover_content}}
+Print Format: {{print_format}}
+Dimensions: {{dimensions}}
+Additional Inclusions: {{additional_inclusions}}
+
+->>>>
+
+We have a topic and description for our book layout plan:
+
+Book Theme:
+{{step_1}}
+
+Now, let's provide an outline of the story structure, including the plot layout, key events, and character interactions.
+
+->>>>
+
+We have defined the book theme and story structure:
+
+Book Theme:
+{{step_1}}
+
+Story Structure:
+{{step_2}}
+
+Let's move on and discuss the art style and visual narrative of the book: {{illustrative_style}}. The style should capture the spirit of the story and enrich the narrative for the intended young readers.
+
+->>>>
+
+So far, for our Children's Storybook, we have the book theme, story structure, and art style:
+
+Book Theme:
+{{step_1}}
+
+Story Structure:
+{{step_2}}
+
+Art Style:
+{{step_3}}
+
+Let's continue and work on detailed descriptions of every page in the Book Layout Plan. We are looking at text placement, art alignment, color schemes, and elements interaction.
+
+->>>>
+
+For our Children's Storybook, we have established the book theme, story structure, art style, and layout of each page:
+
+Book Theme:
+{{step_1}}
+
+Story Structure:
+{{step_2}}
+
+Art Style:
+{{step_3}}
+
+Page Layout:
+{{step_4}}
+
+Next, let's specify the typography and font size appropriate for the target age group: {{typography}}. The font chosen should be clear, attractive, and readable for kids.
+
+->>>>
+
+We are progressing well with our Book Layout Plan. We have the book theme, story structure, art style, page layout, and now typography:
+
+Book Theme:
+{{step_1}}
+
+Story Structure:
+{{step_2}}
+
+Art Style:
+{{step_3}}
+
+Page Layout:
+{{step_4}}
+
+Typography:
+{{step_5}}
+
+Let's allocate a part of the plan for the cover and back design layout, specifying the direction for the cover art, main title prominence, and back cover content.
+

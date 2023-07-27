@@ -1,0 +1,70 @@
+Your task is to write a "Cover Design Description" for the "Children's Storybooks - Young Adult Novels" industry, targeted to a "Cover Designer". 
+
+Let's start by creating a catchy headline for the cover design that encapsulates the general vibe or mood of the story: {{cover_mood_headline}}.
+
+Here's some more context about the Cover Design Description:
+Cover Mood Headline: {{cover_mood_headline}}
+Initial Visualization Description: {{initial_visualization_description}}
+Key Elements Description: {{key_elements_description}}
+Color Scheme And Significance: {{color_scheme_and_significance}}
+Typography Description: {{typography_description}}
+Layout Description: {{layout_description}}
+Cover Design Goal: {{cover_design_goal}}
+
+->>>>
+
+For creating a cover design in the "Children's Storybooks - Young Adult Novels" industry, we have a catchy headline reflecting the mood/vibe:
+
+Cover Mood Headline:
+{{step_1}}
+
+Next, let's write a vivid, sensorial paragraph that connects to the headline and helps readers visualize the cover design: {{initial_visualization_description}}.
+
+->>>>
+
+Now we have a cover mood headline and a vivid paragraph description for the cover design:
+
+Cover Mood Headline:
+{{step_1}}
+
+Initial Visualization Description:
+{{step_2}}
+
+The next step is to describe the key elements that will feature prominently on the cover. These could be characters, items, or scenery typical of the genre or story: {{key_elements_description}}.
+
+->>>>
+
+We have a initial vivid paragraph and key elements description for the cover design of the story:
+
+Initial Visualization Description:
+{{step_2}}
+
+Key Elements Description:
+{{step_3}}
+
+Now, discuss the color scheme of the cover and what the color palette signifies in relation to the story or the emotions it evokes: {{color_scheme_and_significance}}.
+
+->>>>
+
+We have key elements and color scheme for the cover design of the story:
+
+Key Elements Description:
+{{step_3}}
+
+Color Scheme and Significance:
+{{step_4}}
+
+Now, let's describe the typography or the font styles to be used on the cover for the title, author’s name, and any other text elements. Also, explain how they match the artwork and the mood of the book: {{typography_description}}.
+
+->>>>
+
+At this point in creating the cover design, we have the color scheme and the typography:
+
+Color Scheme and Significance:
+{{step_4}}
+
+Typography Description:
+{{step_5}}
+
+Let's proceed to describe the layout of the artwork, text elements, and other components on the cover, indicating their positional relationship to each other on the cover: {{layout_description}}.
+

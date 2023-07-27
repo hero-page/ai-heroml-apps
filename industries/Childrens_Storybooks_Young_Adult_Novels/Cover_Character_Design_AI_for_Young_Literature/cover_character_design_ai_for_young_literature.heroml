@@ -1,0 +1,55 @@
+Your task is to write a "Character Design Description" for the "Children's Storybooks - Young Adult Novels" industry, specifically for a "Cover Designer". 
+Let's start by writing a captivating introduction that describes the overall look and feel of the character, inclusive of the character's role in the story and its significance.
+
+Here's some more context about the Character Design Description:
+Character Overview: {{character_overview}}
+Physical Appearance: {{physical_appearance}}
+Attire Description: {{attire_description}}
+Expressions Body Language: {{expressions_body_language}}
+Contextual Setting: {{contextual_setting}}
+
+->>>>
+
+For our "Character Design Description", we have created a captivating introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's provide an in-depth description of the character's physical appearance. This description should include details like age, height, eye and hair color, body type, and other distinguishing features.
+
+->>>>
+
+In our "Character Design Description", we have a captivating introduction and the physical appearance:
+
+Introduction:
+{{step_1}}
+
+Physical Appearance:
+{{step_2}}
+
+Moving on, let's describe the character's attire. Detail the type of clothing they wear, accessories, and any changes of outfit throughout the story.
+
+->>>>
+
+For our "Character Design Description", we have described the character's physical appearance and attire:
+
+Physical Appearance:
+{{step_2}}
+
+Attire:
+{{step_3}}
+
+Next, let's add a section about the character's expressions and body language. Include common facial expressions, posture, and gestures which express their personality.
+
+->>>>
+
+Now, the "Character Design Description" includes the character's attire and expressions & body language:
+
+Attire:
+{{step_3}}
+
+Expressions & Body Language:
+{{step_4}}
+
+Finally, let's conclude with the character's contextual setting. Describe the environments in which the character typically spends time, and if their design changes in different settings or situations.
+

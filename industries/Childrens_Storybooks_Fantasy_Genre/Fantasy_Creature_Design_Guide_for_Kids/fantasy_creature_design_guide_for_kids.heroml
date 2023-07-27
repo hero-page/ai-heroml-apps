@@ -1,0 +1,85 @@
+Your task is to write a "Magical Creature Design Description" for the "Children's Storybooks - Fantasy Genre" industry, specifically for an "Illustrator". 
+
+Start by creating a captivating introduction that provides a brief backstory or origin of the magical creature. Make sure the backstory is engaging and fits well within the fantasy genre.
+
+Here's some more context about the Magical Creature Design Description:
+Creature Backstory: {{creature_backstory}}
+Physical Features: {{physical_features}}
+Magical Abilities: {{magical_abilities}}
+Creature Behavior: {{creature_behavior}}
+Creature Story Role: {{creature_story_role}}
+
+->>>>
+
+This is the captivating backstory for our magical creature:
+
+Backstory:
+{{step_1}}
+
+Next, let's describe the magical creature's physical characteristics. This includes its size, color, and distinguishing features. Keep the description simple, imaginative, and suitable for a children's storybook.
+
+->>>>
+
+So far, we have a backstory and physical description for our magical creature:
+
+Backstory:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Now, analyze the magical creature's powers or abilities. Describe what makes these abilities special and what effects they have on the creature's body or others in their environment. The magical abilities should be striking yet simple, exciting but not too terrifying for children.
+
+->>>>
+
+In our magical creature description, we have provided:
+
+Physical Description:
+{{step_2}}
+
+Magical Abilities:
+{{step_3}}
+
+Time to describe the creature's behavior, habits, and its interaction with other entities or the environment. Be sure to give a sense of how this creature acts and behaves in the context of its magic-infused world.
+
+->>>>
+
+Now, we've described the magical creature physically and in terms of behaviors:
+
+Physical Description:
+{{step_2}}
+
+Creature's Behavior:
+{{step_4}}
+
+Next, explain the magical creature's role in the story and how its characteristics and abilities impact the story progression. This should be engaging and should help children better relate to the magical creature.
+
+->>>>
+
+Our magical creature is shaping up nicely. So far we've got:
+
+Creature's Behavior:
+{{step_4}}
+
+Creature's Role in Story:
+{{step_5}}
+
+Lastly, summarize the unique aspects and key details of the magical creature's design that the illustrator must highlight in their illustrations. This summary should beautifully round off the magical creature by pulling together all the elements discussed in a coherent and compelling manner.
+
+->>>>
+
+Having the magical creature's behaviors and story role defined:
+
+Creature's Behavior:
+{{step_4}}
+
+Creature's Role in Story:
+{{step_5}}
+
+We can conclude with a summary:
+
+Summary:
+{{step_6}}
+
+Finally, subtly imbue morals, values, or educational elements within the creature's design or abilities, ensuring it serves a dual purpose - entertainment and learning.
+

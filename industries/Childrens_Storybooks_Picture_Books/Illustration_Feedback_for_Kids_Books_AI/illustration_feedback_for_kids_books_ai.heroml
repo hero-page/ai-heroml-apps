@@ -1,0 +1,80 @@
+Your task is to write an "Illustration Feedback" for the "Children's Storybooks - Picture Books" industry, targeting an "Art Director". 
+
+Begin by giving a general overview of the illustration evaluation in the context of the book's themes and intended audience. 
+Start your feedback with the phrase: "With reference to the illustration for {{book_title}} targeting {{target_age_group}}..."
+
+Here's some more context about the Illustration Feedback:
+Book Title: {{book_title}}
+Target Age Group: {{target_age_group}}
+Specific Illustration: {{specific_illustration}}
+Color Scheme: {{color_scheme}}
+
+->>>>
+
+Now we have a general overview of the illustration evaluation and a few points on the areas of improvement:
+
+General overview and points of improvement:
+{{step_1}}
+
+Secondly, provide a detailed critique on the aesthetics, emotional resonance, and appropriateness of the illustrations. Describe each element with reference to specific illustrations.
+
+->>>>
+
+Here is a detailed critique based on the aesthetics, emotional resonance, and appropriateness of the illustration:
+
+Detailed Critique:
+{{step_2}}
+
+Next, touch on industry-specific elements unique to "Children's Storybooks - Picture Books". Comment on the use of color, imagery & symbolism, and text-illustration interaction using specific illustrations as examples.
+
+->>>>
+
+We have discussed aesthetics, emotional resonance, and appropriateness in:
+
+Detailed Critique:
+{{step_2}}
+
+Now we have also addressed the industry-specific elements:
+
+Industry-Specific Elements:
+{{step_3}}
+
+Then, provide constructive criticism with actionable suggestions on how the illustrator can improve their work. Make these suggestions specific to parts of the illustration.
+
+->>>>
+
+We have created a detailed critique and addressed industry-specific elements:
+
+Detailed Critique:
+{{step_2}}
+
+Industry-Specific Elements:
+{{step_3}}
+
+Now we also provide constructive criticism:
+
+Constructive Criticism:
+{{step_4}}
+
+Next, provide a note of encouragement for the illustrator, acknowledging their unique style and abilities despite any areas needing improvement.
+
+->>>>
+
+We have given detailed feedback, addressed industry-specific elements, and provided constructive criticism:
+
+Detailed Critique:
+{{step_2}}
+
+Industry-Specific Elements:
+{{step_3}}
+
+Constructive Criticism:
+{{step_4}}
+
+Now we also have a note of encouragement:
+
+Encouraging Note:
+{{step_5}}
+
+Finally, conclude the illustration feedback by summarizing the importance of the feedback in relation to the success of the illustrated book. Be sure to do so professionally and courteously.
+

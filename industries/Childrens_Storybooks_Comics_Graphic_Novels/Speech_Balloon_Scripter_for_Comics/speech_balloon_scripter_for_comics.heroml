@@ -1,0 +1,65 @@
+Your task is to write a "Speech Balloon Description" for the "Children's Storybooks - Comics & Graphic Novels" industry, specifically for a "Letterer". 
+Let's start by crafting an inspiring introduction, grounding the "Speech Balloon Description" in the storytelling process of {{storytelling_objective}}.
+
+Here's some more context about the Speech Balloon Description:
+Storytelling Objective: {{storytelling_objective}}
+Character Description: {{character_description}}
+Dialogue Context: {{dialogue_context}}
+Emotional Tone: {{emotional_tone}}
+Key Messages: {{key_messages}}
+Balloon Placement: {{balloon_placement}}
+
+->>>>
+
+We are crafting a "Speech Balloon Description", and we have begun by grounding it in the storytelling process:
+
+Introduction:
+{{step_1}}
+
+Next, you need to describe the character whose dialogue will be encapsulated within the speech balloon. Take into consideration the character's description: {{character_description}}.
+
+->>>>
+
+So far, we have an introduction and a well-defined character for the "Speech Balloon Description":
+
+Introduction:
+{{step_1}}
+
+Character Description:
+{{step_2}}
+
+Moving forward, describe the circumstances around the dialogue to provide context to the letterer: {{dialogue_context}}.
+
+->>>>
+
+We are making progress on our "Speech Balloon Description". We now have an introduction, a character description, and a dialogue context:
+
+Introduction:
+{{step_1}}
+
+Character Description:
+{{step_2}}
+
+Dialogue Context:
+{{step_3}}
+
+Now, paint the emotional landscape by stating the emotions or tones conveyed by the character's dialogue: {{emotional_tone}}.
+
+->>>>
+
+We have an introduction, a character description, dialogue context, and we've painted the emotional landscape for the "Speech Balloon Description":
+
+Introduction:
+{{step_1}}
+
+Character Description:
+{{step_2}}
+
+Dialogue Context:
+{{step_3}}
+
+Emotional Tone:
+{{step_4}}
+
+As we move towards the conclusion, outline the key messages or information to be encapsulated in the "Speech Balloon Description": {{key_messages}}.
+

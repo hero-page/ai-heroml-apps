@@ -1,0 +1,71 @@
+Your task is to Write a "Educational Illustration Description" for the "Children's Storybooks - Educational Books" industry, specifically for a "Illustrator".
+
+Let's start with the first step:
+
+Step 1: Begin by creating a detailed introduction that sets the scene for the illustration. This part should specify the key elements in the illustration such as main characters, background, objects/props etc., in an engaging manner. Your context is: {{scene_context}}.
+
+Here's some more context about the Educational Illustration Description:
+Scene Context: {{scene_context}}
+Character Traits: {{character_traits}}
+Scene Components: {{scene_components}}
+Main Action: {{main_action}}
+Educational Components: {{educational_components}}
+Illustration Summary: {{illustration_summary}}
+
+->>>>
+
+The scene for our educational illustration has been set:
+
+Scene:
+{{step_1}}
+
+Moving on to step 2: Describe the characteristics of the main characters in the illustration. This could include appearance, expressions, clothing, and actions that are essential within the context of the scene: {{character_traits}}.
+
+->>>>
+
+We have set up the scene and depicted the main characters for our educational illustration:
+
+Scene:
+{{step_1}}
+
+Character Depiction:
+{{step_2}}
+
+Proceeding to step 3: Provide a detailed description of the background and props visually present in the illustration. This would encompass items such as landscapes, vegetation, structures, interior/exterior settings, and objects that substantially contribute to the scene’s narrative: {{scene_components}}.
+
+->>>>
+
+For our educational illustration, we have described the main characters and the background/props:
+
+Character Depiction:
+{{step_2}}
+
+Background & Props:
+{{step_3}}
+
+We move to step 4: Provide a step-by-step explanation of the main action captured in the illustration, tailoring it in such a way that aligns with its educational value. This action may involve the characters or a sequence of events that are the focal point of the illustration: {{main_action}}.
+
+->>>>
+
+The characters, background, and main action of our educational illustration have been defined:
+
+Background & Props:
+{{step_3}}
+
+Main Action:
+{{step_4}}
+
+Going to step 5: Clearly indicate the educational elements of the illustration. Identify the learning objectives that the illustration aims to accomplish. This may include specific concepts, values, or lessons that the illustration exhibits: {{educational_components}}.
+
+->>>>
+
+For the educational illustration, we have the main action scored out and the educational elements highlighted:
+
+Main Action:
+{{step_4}}
+
+Educational Components:
+{{step_5}}
+
+Lastly, for step 6: Conclude the description by summarizing the scene, main characters, plot of action, and the illustration’s educational value in a compelling and succinct manner. Reinforce the educational takeaway that ties the scene, characters, and actions together: {{illustration_summary}}. 
+

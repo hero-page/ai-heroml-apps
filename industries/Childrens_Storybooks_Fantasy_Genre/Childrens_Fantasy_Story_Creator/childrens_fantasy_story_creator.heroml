@@ -1,0 +1,147 @@
+You are tasked to write a "Fantasy Story" for the "Children's Storybooks - Fantasy Genre" industry, specifically for an "Author". Your aim is to strike a balance between imagination and simplicity to keep young readers engaged. Here are the steps to guide you in creating the exemplary story:
+
+Start by crafting an introduction that presents the fantasy world setting: {{fantasy_world}}. Give enough detail to make it colorful and exciting, while maintaining simplicity for children's comprehension and immersion.
+
+Here's some more context about the Fantasy Story:
+Fantasy World: {{fantasy_world}}
+Main Character: {{main_character}}
+Conflict: {{conflict}}
+
+->>>>
+
+Let's preview your fantasy story thus far:
+
+Fantasy World Introduction:
+{{step_1}}
+
+Next, let's introduce the main character: {{main_character}}. Make sure to detail their physical features, personality traits, abilities or magical powers, and their motivation in a way that children can easily relate to.
+
+->>>>
+
+Great! Now we have a main character for our story. 
+
+Fantasy World Introduction:
+{{step_1}}
+
+Main Character Introduction:
+{{step_2}}
+
+The next step is to craft the conflict or problem that arises in the story: {{conflict}}. Develop a scenario that challenges your main character and sets the stage for a thrilling adventure.
+
+->>>>
+
+We are progressing well with our story:
+
+Fantasy World Introduction:
+{{step_1}}
+
+Main Character Introduction:
+{{step_2}}
+
+Conflict:
+{{step_3}}
+
+Now, let's design a sequence of events that details how the {{main_character}} attempts to overcome the {{conflict}}. Ensure that each event moves the plot further and is straightforward for children to understand.
+
+->>>>
+
+So far, we have established the following:
+
+Fantasy World Introduction:
+{{step_1}}
+
+Main Character Introduction:
+{{step_2}}
+
+Conflict:
+{{step_3}}
+
+Sequence of Events:
+{{step_4}}
+
+Next, add magical elements or fantastical creatures unique to the {{fantasy_world}}. They should enrich the storyline, and interfere or passively affect the plot's progression.
+
+->>>>
+
+Here's what your story looks like so far:
+
+Fantasy World Introduction:
+{{step_1}}
+
+Main Character Introduction:
+{{step_2}}
+
+Conflict:
+{{step_3}}
+
+Sequence of Events:
+{{step_4}}
+
+Magical Elements or Creatures:
+{{step_5}}
+
+Now, plan the climax of the story where the {{main_character}} faces the {{conflict}} directly. This should be the most suspenseful and thrilling part of your tale.
+
+->>>>
+
+Here are the major plot points in your story:
+
+Fantasy World Introduction:
+{{step_1}}
+
+Main Character Introduction:
+{{step_2}}
+
+Sequence of Events:
+{{step_4}}
+
+Climax:
+{{step_6}}
+
+Next, write a resolution where the {{main_character}} resolves the {{conflict}}. It should draw the adventure to a satisfying close and convey a meaningful lesson to the reader.
+
+->>>>
+
+This is the resolution of your story:
+
+Sequence of Events:
+{{step_4}}
+
+Climax:
+{{step_6}}
+
+Resolution:
+{{step_7}}
+
+Write a concluding epilogue that shows what happens to the {{main_character}} and the {{fantasy_world}} after resolving the conflict. It should hint at another adventure or convey a final message to the reader.
+
+->>>>
+
+Your story's progression is:
+
+Climax:
+{{step_6}}
+
+Resolution:
+{{step_7}}
+
+Epilogue:
+{{step_8}}
+
+Throughout the narrative, infuse dialogues and descriptions in a simple language. Energize your narrative with action verbs and sensory words to captivate and engage the young readers.
+
+->>>>
+
+Here's how your story reads:
+
+Resolution:
+{{step_7}}
+
+Epilogue:
+{{step_8}}
+
+Narrative Style and Language:
+{{step_9}}
+
+Finish that off by subtly incorporating positive messages or morals relevant to the children's audience through the actions and interactions of the {{main_character}}.
+

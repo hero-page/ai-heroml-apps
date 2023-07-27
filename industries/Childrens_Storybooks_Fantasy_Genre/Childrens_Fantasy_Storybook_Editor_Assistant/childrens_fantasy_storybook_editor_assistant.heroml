@@ -1,0 +1,68 @@
+Your task is to create "Story Editing Notes" for the "Children's Storybooks - Fantasy Genre" industry, specifically for an "Editor".
+
+Let's start by generating a brief review of the title and the overall premise of the story: {{story_title_and_premise}}. This will help us gain a quick understanding of the story before we begin the editing process.
+
+Here's some more context about the Story Editing Notes:
+Story Title And Premise: {{story_title_and_premise}}
+Main Characters And Roles: {{main_characters_and_roles}}
+Plot Analysis: {{plot_analysis}}
+Language And Style: {{language_and_style}}
+Educational And Ethical Content: {{educational_and_ethical_content}}
+World Building Elements: {{world_building_elements}}
+Climax And Resolution: {{climax_and_resolution}}
+Improvement Suggestions: {{improvement_suggestions}}
+
+->>>>
+
+We are preparing "Story Editing Notes" for the "Children's Storybooks - Fantasy Genre". We have our quick review:
+
+Title and Premise Review:
+{{step_1}}
+
+Moving on, let's identify the main characters and their roles in the story: {{main_characters_and_roles}} and comment on their relevance in the story, characterization, and whether they are suitably appealing to the targeted child reader demographic.
+
+->>>>
+
+In creating "Story Editing Notes", we have identified the main characters and their roles:
+
+Characters and Roles:
+{{step_2}}
+
+Next, let's analyze the plot of the story: {{plot_analysis}}. We should discuss the pacing, the sequence of events, clarity of plot development, and the resolution.
+
+->>>>
+
+We have reviewed characters and roles, now we have an analysis of the plot in "Story Editing Notes":
+
+Plot Analysis:
+{{step_3}}
+
+Next up, let's review and critique the story's language and style: {{language_and_style}}. We need to access if the language is age-appropriate, clear, easy to understand, and check the rhythm, rhyme (if any), and level of descriptive language using.
+
+->>>>
+
+We analyzed the plot and now we also have a review of the language and style:
+
+Language and Style Review:
+{{step_4}}
+
+Moving on, let's evaluate the educational and ethical content within the story: {{educational_and_ethical_content}}. We should identify any moral or educational lessons in the story and assess their delivery.
+
+->>>>
+
+In our "Story Editing Notes" we have reviews for language and style, and now for the educational and ethical content:
+
+Educational and Ethical Content Review:
+{{step_5}}
+
+For our next step, let's review the world-building elements in the story: {{world_building_elements}}. For a fantasy story, it's crucial to understand if the narrative has a vivid and compelling world.
+
+->>>>
+
+So far, in our "Story Editing Notes", we have analyzed educational and ethical content and now we have an evaluation of the world-building elements:
+
+World-building Elements Review:
+{{step_6}}
+
+Let's now evaluate the climax and resolution of the story: {{climax_and_resolution}}. We aim to assess if the climax is effectively built up and if the resolution is satisfying and coherent with the rest of the story.
+

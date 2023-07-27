@@ -1,0 +1,82 @@
+You are to write a "Character Design Description" for the "Children's Storybooks - Comics & Graphic Novels" industry, specifically for an "Illustrator". 
+
+Let's start with developing a brief summary of the character's role in the story: {{character_role}}. This will provide a high-level outlook of the character and their importance in the narrative.
+
+Here's some more context about the Character Design Description:
+Character Role: {{character_role}}
+Physical Characteristics: {{physical_characteristics}}
+Personality Traits: {{personality_traits}}
+Expressive Features: {{expressive_features}}
+Character Wardrobe: {{character_wardrobe}}
+Character Skills: {{character_skills}}
+Character Background: {{character_background}}
+
+->>>>
+
+Now, we have an overview of the character's role in the story:
+
+Character Role:
+{{step_1}}
+
+Next, describe the character's physical attributes in a way that can easily be translated to a visual representation for the illustrator, including details like age, size, color, and other noteworthy traits: {{physical_characteristics}}.
+
+->>>>
+
+For our character, we have the role they play in the narrative and their physical attributes:
+
+Character Role:
+{{step_1}}
+
+Physical Attributes:
+{{step_2}}
+
+Next, develop a set of relevant personality traits for the character that are likely to be visually expressed by the illustrator: {{personality_traits}}.
+
+->>>>
+
+By now, for our character, we have defined the physical attributes and the personality traits:
+
+Physical Attributes:
+{{step_2}}
+
+Personality Traits:
+{{step_3}}
+
+Now, focus on the expressive features of the character, which include facial expressions, postures, and body language that signal their feelings and moods: {{expressive_features}}.
+
+->>>>
+
+For our character, so far, we have descriptions of their personality traits and expressive features:
+
+Personality Traits:
+{{step_3}}
+
+Expressive Features:
+{{step_4}}
+
+Next, provide a detailed description of the character's attire and accessories, taking into consideration the plot, setting, and personality traits of the character: {{character_wardrobe}}.
+
+->>>>
+
+Our character's details so far include expressive features and their wardrobe:
+
+Expressive Features:
+{{step_4}}
+
+Wardrobe:
+{{step_5}}
+
+If relevant, detail any special abilities or skills the character has, including how they are visually demonstrated: {{character_skills}}.
+
+->>>>
+
+For our character, we now have a description of their wardrobe and any special abilities or skills they possess:
+
+Wardrobe:
+{{step_5}}
+
+Abilities/Skills:
+{{step_6}}
+
+Final step, provide a brief summary of the character's backstory, which might include their origin and how their past has influenced their behavior and appearance: {{character_background}}.
+

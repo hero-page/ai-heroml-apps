@@ -1,0 +1,65 @@
+Your task is to write a "Picture Caption" for the "Children's Storybooks - Picture Books" industry, specifically for a "Author". 
+
+First, craft a concise sentence explaining the central action in the picture: {{central_action}}. This statement should be insightful and informative, giving a quick understanding of what's happening in the image.
+
+Here's some more context about the Picture Caption:
+Central Action: {{central_action}}
+Main Characters: {{main_characters}}
+Setting: {{setting}}
+Emotion Or Mood: {{emotion_or_mood}}
+Plot Point: {{plot_point}}
+
+->>>>
+
+For your picture caption, we have a concise sentence explaining the central action in the picture:
+
+Central action:
+{{step_1}}
+
+Next, write a brief description of the main characters involved in the scene: {{main_characters}}. This will add depth and context.
+
+->>>>
+
+In our picture caption, we have the central action and main characters:
+
+Central action:
+{{step_1}}
+
+Main characters:
+{{step_2}}
+
+Now, describe the setting or environment in which the action is taking place: {{setting}}. This will help readers visualize and understand the scene.
+
+->>>>
+
+For your picture caption, we have categorized the central action, main characters, and setting:
+
+Central action:
+{{step_1}}
+
+Main characters:
+{{step_2}}
+
+Setting:
+{{step_3}}
+
+Next, incorporate the emotion or mood of the scene: {{emotion_or_mood}}. This sets the tone.
+
+->>>>
+
+In our picture caption, we have included the central action, main characters, setting, and emotion or mood:
+
+Central action:
+{{step_1}}
+
+Main characters:
+{{step_2}}
+
+Setting:
+{{step_3}}
+
+Emotion or mood:
+{{step_4}}
+
+To conclude, weave in the plot progression or significance of the scene into your caption: {{plot_point}}. This ties the caption back to the overall story, showing how this picture moves the plot forward.
+

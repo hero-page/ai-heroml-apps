@@ -1,0 +1,48 @@
+Let's write a "Narrative Box Description" for the "Children's Storybooks - Comics & Graphic Novels" industry, specifically for a "Letterer". 
+
+First, start by providing a brief introduction. This should include some details about the story's setting, the characters, and the overall mood of the story.
+
+Here's some more context about the Narrative Box Description:
+Story Setting: {{story_setting}}
+Characters: {{characters}}
+Story Mood: {{story_mood}}
+Current Actions: {{current_actions}}
+Characters Emotions: {{characters_emotions}}
+Story Arc: {{story_arc}}
+Lettering Details: {{lettering_details}}
+Sound Effects: {{sound_effects}}
+Upcoming Event: {{upcoming_event}}
+
+->>>>
+
+For our "Narrative Box Description", we have a brief introduction:
+
+Introduction:
+{{step_1}}
+
+Now, add the narrative inside the box, which includes details about the ongoing events in the story, the characters' responses to these events, and how these events connect to the larger arc of the story.
+
+->>>>
+
+At this point, we have an introductory passage and a narrative for our "Narrative Box Description":
+
+Introduction:
+{{step_1}}
+
+Narrative:
+{{step_2}}
+
+Next, incorporate industry-specific components such as the formatting of the lettering and any necessary sound effects. Remember to align these elements with the mood and setting of the story.
+
+->>>>
+
+We now have a narrative and industry-specific details for the "Narrative Box Description":
+
+Narrative:
+{{step_2}}
+
+Industry-Specific Elements:
+{{step_3}}
+
+Now, conclude the "Narrative Box Description" with a teaser or cliffhanger that will engage the readers and make them want to continue reading. Ensure that this teaser or cliffhanger is relevant to the current events in the story.
+

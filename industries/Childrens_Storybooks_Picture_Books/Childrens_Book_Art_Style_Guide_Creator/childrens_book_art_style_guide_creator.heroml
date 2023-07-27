@@ -1,0 +1,112 @@
+Let's create an "Art Style Guide" in the "Children's Storybooks - Picture Books" industry for an "Art Director".
+
+Begin with an introduction that describes the chosen art style: {{art_style_description}} and highlights the purpose of the guide.
+
+Here's some more context about the Art Style Guide:
+Art Style Description: {{art_style_description}}
+Core Visual Elements: {{core_visual_elements}}
+Character Design Approach: {{character_design_approach}}
+Environment Design Elements: {{environment_design_elements}}
+Lighting And Shading Instructions: {{lighting_and_shading_instructions}}
+Text Formatting Options: {{text_formatting_options}}
+Common Mistakes: {{common_mistakes}}
+
+->>>>
+
+We have created an introduction for our guide:
+
+Introduction:
+{{step_1}}
+
+Next, in-depth explanation of the core visual elements in the selected art style: {{core_visual_elements}} is needed. This can include color palettes, shapes, line types, level of detail, and key motifs or themes to be used.
+
+->>>>
+
+The art style guide now has an introduction and a detailed section on core visual elements:
+
+Introduction:
+{{step_1}}
+
+Core Visual Elements:
+{{step_2}}
+
+Now, we need to detail the character design approach. This should include instructions for designing main and secondary characters using the chosen art style: {{character_design_approach}}.
+
+->>>>
+
+The art style guide has an introduction, core visual elements and now character design approach:
+
+Introduction:
+{{step_1}}
+
+Core Visual Elements:
+{{step_2}}
+
+Character Design Approach:
+{{step_3}}
+
+Following this, describe the environment design, highlighting the integral elements to consider under the chosen art style: {{environment_design_elements}}. Aspects such as scale, perspective, and level of detail to be maintained throughout the storybook should be discussed.
+
+->>>>
+
+At this point, the art style guide includes information about the introduction, core visual elements, character design and now environment design:
+
+Introduction:
+{{step_1}}
+
+Core Visual Elements:
+{{step_2}}
+
+Character Design Approach:
+{{step_3}}
+
+Environment Design:
+{{step_4}}
+
+Next up, provide instructions about lighting and shading. Detail how these elements should align to the chosen style: {{lighting_and_shading_instructions}}
+
+->>>>
+
+The Art Style Guide now includes details on introduction, core visual elements, character design, environment design and instructions on lighting and shading:
+
+Introduction:
+{{step_1}}
+
+Core Visual Elements:
+{{step_2}}
+
+Character Design Approach:
+{{step_3}}
+
+Environment Design:
+{{step_4}}
+
+Lighting and Shading:
+{{step_5}}
+
+The following step is to discuss stylistic text formatting options that align with the overall art style. This should include guidance on font choice, size, color, and placement: {{text_formatting_options}}
+
+->>>>
+
+The Art Style Guide inculcates details about the introduction, core visual elements, character design, environment design, lighting and shading and now the text formatting options:
+
+Introduction:
+{{step_1}}
+
+Core Visual Elements:
+{{step_2}}
+
+Character Design Approach:
+{{step_3}}
+
+Environment Design:
+{{step_4}}
+
+Lighting and Shading:
+{{step_5}}
+
+Text Formatting Options:
+{{step_6}}
+
+Include a section that details common mistakes to avoid while implementing the chosen art style: {{common_mistakes}}.
+

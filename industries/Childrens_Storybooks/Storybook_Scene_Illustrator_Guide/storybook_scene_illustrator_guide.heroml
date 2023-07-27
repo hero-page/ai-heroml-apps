@@ -1,0 +1,114 @@
+Your task is to write a "Scene Description" for the "Children's Storybooks" industry, specifically for an "Illustrator". Let's start by providing a brief overview of the purpose of the described scene within the larger narrative of the storybook.
+    
+Here's some more context about the Scene Description:
+Scene Purpose: {{scene_purpose}}
+Characters Details: {{characters_details}}
+Physical Setting Description: {{physical_setting_description}}
+Time Of Scene: {{time_of_scene}}
+Visual Elements: {{visual_elements}}
+Scene Action: {{scene_action}}
+Symbolic Or Thematic Elements: {{symbolic_or_thematic_elements}}
+Scene Contribution To Story: {{scene_contribution_to_story}}
+
+->>>>
+
+This is a beginning overview of the purpose of the scene in the larger narrative:
+
+Scene Purpose:
+{{step_1}}
+
+Next, describe in detail the primary characters present in the scene, specifying their appearance, actions and emotional states.
+
+->>>>
+
+With the purpose of the scene outlined:
+
+Scene Purpose:
+{{step_1}}
+
+We have detailed the primary characters present in the scene:
+
+Character Details:
+{{step_2}}
+
+Now, provide a description of the physical setting of the scene including specific environmental elements and their arrangement.
+
+->>>>
+
+We have a scene purpose and the details of the characters in the scene:
+
+Scene Purpose:
+{{step_1}}
+
+Character Details:
+{{step_2}}
+
+Now, we need to describe the physical setting of the scene:
+
+Physical Setting Description:
+{{step_3}}
+
+Next, highlight the time of the scene (day or night, or a specific season, era) according to the requirement of the story.
+
+->>>>
+
+In our story scene, we have detailed the characters and their physical setting:
+
+Character Details:
+{{step_2}}
+
+Physical Setting Description:
+{{step_3}}
+
+Now, we've also highlighted the time of the scene:
+
+Time of Scene:
+{{step_4}}
+
+We move on to visual specifics now. Please include vivid sensory details for visual elements that need to be illustrated, like colours, shapes, textures, and any special visual effects.
+
+->>>>
+
+Our story scene contains the following details:
+
+Physical Setting Description:
+{{step_3}}
+
+Time of Scene:
+{{step_4}}
+
+Now, we've also specified sensory details for visual elements:
+
+Visual Elements:
+{{step_5}}
+
+Next, we need to convey any movement or interaction happening within the scene to the illustrator, so they can represent it visually.
+
+->>>>
+
+In our children's story scene:
+
+Visual Elements:
+{{step_5}}
+
+We have also detailed movements or interactions within the scene:
+
+Scene Action:
+{{step_6}}
+
+Now, discuss any symbolic or thematic elements that should be conveyed visually in the scene, like symbols signifying emotions or specific themes related to the story.
+
+->>>>
+
+With the scene action defined:
+
+Scene Action:
+{{step_6}}
+
+Now we also have listed any symbolic or thematic elements:
+
+Symbolic or Thematic Elements:
+{{step_7}}
+
+Conclude by summarising how this visual depiction contributes to the overall mood, theme or narrative of the story. Make sure to explain in general how all the described elements of the scene conjoin to form a complete image of the story.
+

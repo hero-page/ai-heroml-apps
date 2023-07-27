@@ -1,0 +1,93 @@
+Your task is to write a "Design Specification" for the "Children's Toys & Games" industry, specifically for a "Toy Designer". Let's start by introducing the conceived toy concept: {{toy_concept}}. This concept should summarize the overall vision of the toy/game and the specific media or type of play it pertains to, such as traditional games, electronic toys, or outdoor play gear.
+
+Here's some more context about the Design Specification:
+Toy Concept: {{toy_concept}}
+Toy Objective: {{toy_objective}}
+Age Group: {{age_group}}
+Toy Features: {{toy_features}}
+Play Method: {{play_method}}
+Packaging Presentation: {{packaging_presentation}}
+
+->>>>
+
+Now, we have the conceived toy concept:
+
+Toy Concept:
+{{step_1}}
+
+Next, outline the primary objective of the toy: {{toy_objective}}. Here you will articulate the key benefits the toy should offer to its user, like enhancing creativity, promoting physical activity, or developing certain skills.
+
+->>>>
+
+For our toy design, we have specified the concept:
+
+Toy Concept:
+{{step_1}}
+
+We also have the primary objective of the toy:
+
+Toy Objective:
+{{step_2}}
+
+Now, specify the toy's intended age group: {{age_group}}. Clearly communicate the suitable age range for the toy, ensuring the features and complexity of the toy align with the cognitive level and safety requirements of the specified age group.
+
+->>>>
+
+We have our toy concept and objective:
+
+Toy Concept:
+{{step_1}}
+
+Toy Objective:
+{{step_2}}
+
+Now, we have defined the toy's intended age group:
+
+Age Group:
+{{step_3}}
+
+Next, delve into a comprehensive description of the toy's design features and functions: {{toy_features}}. This part should elucidate the core elements of the toy, particularly its look, form, materials, working mechanism, and interactive elements, all in a manner that complies with safety norms for the mentioned age group.
+
+->>>>
+
+For our toy design, we have the toy concept, objective, and age group:
+
+Toy Concept:
+{{step_1}}
+
+Toy Objective:
+{{step_2}}
+
+Age Group:
+{{step_3}}
+
+Now, we also have an elaborate description of the toy's design features and functions:
+
+Toy's Design Features and Functions:
+{{step_4}}
+
+Moving on, describe the method and process of play: {{play_method}}. Explain how a child is intended to interact with and use the toy/game for fun and to achieve the stated toy objective.
+
+->>>>
+
+In our toy design, we have specified the toy's concept, objective, targeted age group, and design features:
+
+Toy Concept:
+{{step_1}}
+
+Toy Objective:
+{{step_2}}
+
+Age Group:
+{{step_3}}
+
+Design Features and Functions:
+{{step_4}}
+
+We also defined how a child is meant to play with the toy:
+
+Method and Process of Play:
+{{step_5}}
+
+Now, approach the packaging and presentation: {{packaging_presentation}}. Outline the considerations for packaging such as design, unboxing experience, instructions manual, safety warnings, etc. Also articulate how the product will be presented in marketing or point of sale scenarios. 
+

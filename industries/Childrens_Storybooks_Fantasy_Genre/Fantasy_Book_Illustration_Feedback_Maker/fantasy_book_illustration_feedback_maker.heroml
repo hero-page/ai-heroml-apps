@@ -1,0 +1,170 @@
+Your task is to write an "Illustration Feedback" for the "Children's Storybooks - Fantasy Genre" industry, specifically for an "Editor".  
+
+Start by writing a brief explanatory introduction about the purpose of the feedback and what it aims to achieve in the context of the "Fantasy Genre" in "Children's Storybooks". 
+
+Here's some more context about the Illustration Feedback:
+Feedback Purpose: {{feedback_purpose}}
+General Impression: {{general_impression}}
+Illustration Identifier: {{illustration_identifier}}
+Narrative Complement: {{narrative_complement}}
+Artwork Quality: {{artwork_quality}}
+Narrative Deviation: {{narrative_deviation}}
+Character Environment Consistency: {{character_environment_consistency}}
+Summary Points: {{summary_points}}
+
+->>>>
+
+Now you have composed an introduction about the purpose of the feedback:
+
+Introduction:
+{{step_1}}
+
+Next, share your general impression of the illustrations. Make sure to include an overall assessment of how well the illustrations capture the essence of the story.
+
+->>>>
+
+You have an introduction and a general impression of the illustrations:
+
+Introduction:
+{{step_1}}
+
+General impression of the illustrations:
+{{step_2}}
+
+For each individual illustration that follows, ordered sequentially, create a comment specifying which illustration you are addressing.
+
+->>>>
+
+Now you have an introduction, general impression, and comments on individual illustrations:
+
+Introduction:
+{{step_1}}
+
+General impression of the illustrations:
+{{step_2}}
+
+Comments on individual illustrations:
+{{step_3}}
+
+For each illustration, examine how well it complements the story narrative. Make sure to discuss whether it captures the intended mood, enhances the reader's understanding, and contributes to the "Fantasy" genre tone.
+
+->>>>
+
+Currently, you have established an introduction, general impression, comments on individual illustrations, and observations about how these illustrations complement the narrative:
+
+Introduction:
+{{step_1}}
+
+General impression of the illustrations:
+{{step_2}}
+
+Comments on individual illustrations:
+{{step_3}}
+
+How illustrations complement the narrative:
+{{step_4}}
+
+Next, provide feedback on the quality of the artwork. This should include the effectiveness of the color choices, line work, character expressions, and scene layout.
+
+->>>>
+
+Now, you have an introduction, general impression, detailed comments on individual illustrations, narrative complement observations, and feedback on the artwork quality:
+
+Introduction:
+{{step_1}}
+
+General impression of the illustrations:
+{{step_2}}
+
+Comments on individual illustrations:
+{{step_3}}
+
+How illustrations complement the narrative:
+{{step_4}}
+
+Artwork quality:
+{{step_5}}
+
+Highlight instances where any illustrations deviate from the written description or are adding unnecessary details to the narrative. Suggest changes that would help maintain the integrity of the story.
+
+->>>>
+
+So far, you have an introduction, general impression, comments on the illustrations, narrative complement observations, artwork feedback, and suggestions where deviations occur:
+
+Introduction:
+{{step_1}}
+
+General impression of the illustrations:
+{{step_2}}
+
+Comments on individual illustrations:
+{{step_3}}
+
+How illustrations complement the narrative:
+{{step_4}}
+
+Artwork quality:
+{{step_5}}
+
+Feedback on narrative deviations:
+{{step_6}}
+
+Now, discuss whether characters' portrayals and their environments are consistent throughout the illustrations. Also, comment on any inconsistencies and suggest areas for improvement.
+
+->>>>
+
+You have an introduction, a general impression, comments on illustrations, narrative complement assessments, artwork feedback, deviation suggestions, and comments on character-environment consistency:
+
+Introduction:
+{{step_1}}
+
+General impression of the illustrations:
+{{step_2}}
+
+Comments on individual illustrations:
+{{step_3}}
+
+How illustrations complement the narrative:
+{{step_4}}
+
+Artwork quality:
+{{step_5}}
+
+Feedback on narrative deviations:
+{{step_6}}
+
+Character-Environment Consistency:
+{{step_7}}
+
+Conclude the feedback by summarizing the main points covered. Include crucial areas for improvement and aspects that work particularly well.
+
+->>>>
+
+You have covered all the necessary elements for the feedback. Here's what you have so far:
+
+Introduction:
+{{step_1}}
+
+General impression of the illustrations:
+{{step_2}}
+
+Comments on individual illustrations:
+{{step_3}}
+
+How illustrations complement the narrative:
+{{step_4}}
+
+Artwork quality:
+{{step_5}}
+
+Feedback on narrative deviations:
+{{step_6}}
+
+Character-Environment Consistency:
+{{step_7}}
+
+Feedback Summary:
+{{step_8}}
+
+Lastly, reinforce that the purpose of the feedback is to ensure the illustrations marry well with the narrative, enhance the fantasy element of the story, and engage the young readers effectively.
+

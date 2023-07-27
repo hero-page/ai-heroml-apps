@@ -1,0 +1,91 @@
+Your task is to write a "Character Design Description" for the "Children's Storybooks - Educational Books" industry, specifically for an "Illustrator". 
+
+Let's start by creating an overview of the character, capturing their essence: {{character_essence}}. This should include their name (if applicable), role in the story, and primary purpose.
+
+Here's some more context about the Character Design Description:
+Character Essence: {{character_essence}}
+Physical Attributes: {{physical_attributes}}
+Character Personality: {{character_personality}}
+Visualized Traits: {{visualized_traits}}
+Environment Interaction: {{environment_interaction}}
+Character Transformation: {{character_transformation}}
+Story Impact: {{story_impact}}
+
+->>>>
+
+We have the character's essence captured in our character overview:
+
+Character Overview:
+{{step_1}}
+
+Now, let's describe the physical attributes of the character in detail: {{physical_attributes}}. We should focus on the character's appearance, including size, shape, color, and any distinguishing features.
+
+->>>>
+
+So far, we have an overview and physical description of our character:
+
+Character Overview:
+{{step_1}}
+
+Physical Attributes:
+{{step_2}}
+
+Moving forward, we need to elaborate on the character's personality: {{character_personality}}. This includes defining their traits, emotions, likes, dislikes, fears, and motivations.
+
+->>>>
+
+Our character description so far, including the character's personality:
+
+Character Overview:
+{{step_1}}
+
+Physical Attributes:
+{{step_2}}
+
+Character Personality:
+{{step_3}}
+
+Next, let's outline the personality traits of the character that should be visualized: {{visualized_traits}}. These are specific behavior or gestures that should be visible in the illustrations.
+
+->>>>
+
+So far, we have the following details about our character:
+
+Character Overview:
+{{step_1}}
+
+Character Personality:
+{{step_3}}
+
+Visualized Traits:
+{{step_4}}
+
+Now, we need to describe the character's interactions with the story environment: {{environment_interaction}}. Show how they move, interact with objects, respond to other characters, and situations.
+
+->>>>
+
+Up until now, we have the character's personality, visualized traits, and environment interactions:
+
+Character Personality:
+{{step_3}}
+
+Visualized Traits:
+{{step_4}}
+
+Environment Interaction:
+{{step_5}}
+
+Let's narrate any important transformations or evolutions the character undergoes: {{character_transformation}}. This could be a change in their appearance, emotional state, or role in the story.
+
+->>>>
+
+So far, we have characterized the following about our character:
+
+Character Transformation:
+{{step_6}}
+
+Environment Interaction:
+{{step_5}}
+
+Now, let's talk about the character's impact on the story: {{story_impact}}. Summarize in what ways the character's design contributes to the overall plot or theme of the story.
+

@@ -1,0 +1,65 @@
+Your task is to write a "Fantasy Scene Illustration Description" for the "Children's Storybooks - Fantasy Genre" industry, specifically for an "Illustrator". 
+Let's begin by drafting a brief introduction that captures the overall ambiance of the scene. Recall that the setting should be described in brief terms: {{scene_setting}}.
+
+Here's some more context about the Fantasy Scene Illustration Description:
+Scene Setting: {{scene_setting}}
+Main Elements: {{main_elements}}
+Secondary Elements: {{secondary_elements}}
+Scene Action: {{scene_action}}
+Fantasy Elements: {{fantasy_elements}}
+Scene Summary: {{scene_summary}}
+
+->>>>
+
+Now our "Fantasy Scene Illustration Description" is underway with this initial ambiance setting:
+
+Scene Setting:
+{{step_1}}
+
+Next, let's go into detail about the main elements in the scene. These can include characters, buildings, landscapes etc. Pay close attention to color, size, and other specific features: {{main_elements}}.
+
+->>>>
+
+Based on our scene settings and following our detailed description of the main elements, we have:
+
+Scene Setting:
+{{step_1}}
+
+Main Elements:
+{{step_2}}
+
+Moving forward, we need to describe the secondary elements present in the scene. These could be additional characters, props, smaller landscape details. Be sure to indicate their relationship to the main elements of the scene: {{secondary_elements}}.
+
+->>>>
+
+Now, we have a scene setting, main elements, and secondary elements for our fantasy scene:
+
+Scene Setting:
+{{step_1}}
+
+Main Elements:
+{{step_2}}
+
+Secondary Elements: 
+{{step_3}}
+
+Include a segment now that highlights the action in the scene or what is happening, if applicable. Describe the action being portrayed and how it ties together all the elements we have so far: {{scene_action}}.
+
+->>>>
+
+Our illustration description is shaping up. So far, we have a scene setting, main and secondary elements, and also the scene's action:
+
+Scene Setting:
+{{step_1}}
+
+Main Elements:
+{{step_2}}
+
+Secondary Elements: 
+{{step_3}}
+
+Scene Action: 
+{{step_4}}
+
+Now, let's spice up our scene by adding specific fantasy elements tied to the genre. Consider magic, mythical creatures, unique weather conditions etc. that should enhance the narrative scene: {{fantasy_elements}}. 
+

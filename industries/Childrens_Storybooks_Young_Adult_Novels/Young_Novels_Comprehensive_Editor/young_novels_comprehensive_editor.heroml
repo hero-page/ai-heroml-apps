@@ -1,0 +1,120 @@
+Your task is to provide in-depth Story Editing Notes for the "Children's Storybooks - Young Adult Novels" industry, particularly for an "Editor". We'll evaluate various elements such as the plot structure, characters, story setting, language content, narrative style, age appropriateness, educational thematic content and illustrative potential of a book. Let's kick-start this by creating an introduction that encapsulates the overall scope of the story: {{story_overview}}.
+
+Here's some more context about the Story Editing Notes:
+Story Overview: {{story_overview}}
+Plot Structure: {{plot_structure}}
+Characters: {{characters}}
+Story Setting: {{story_setting}}
+Content Language: {{content_language}}
+Narrative Style: {{narrative_style}}
+Educational Thematic Content: {{educational_thematic_content}}
+Age Appropriateness: {{age_appropriateness}}
+Illustrative Potential: {{illustrative_potential}}
+Story Summary And Potential: {{story_summary_and_potential}}
+
+->>>>
+
+At this point, we have an overview of our story:
+
+Story Overview:
+{{step_1}}
+
+Now, let's categorize different elements to be evaluated in the book like plot structure, characters, story setting, language content, and narrative style.
+
+->>>>
+
+The initial step of classifying the elements for evaluation is complete:
+
+Story Overview:
+{{step_1}}
+
+Evaluation Components:
+{{step_2}}
+
+Now, let's dive into detailed notes for each category based on the given breakdown:
+Start with {{plot_structure}}, evaluate the construction of the story's beginning, middle, and end, including any surprises or plot twists.
+
+->>>>
+
+So far, we have analyzed the plot structure:
+
+Story Overview:
+{{step_1}}
+
+Plot Structure Analysis:
+{{step_3}}
+
+Following the plot structure, let's evaluate the depth, consistency, and relatability of {{characters}}, focusing on their effect on the story.
+
+->>>>
+
+Up until now, we have examined the plot structure and characters:
+
+Plot Structure Analysis:
+{{step_3}}
+
+Character Analysis:
+{{step_4}}
+
+Proceeding ahead, critically evaluate how much the {{story_setting}} lends itself to the overall narrative.
+
+->>>>
+
+We evaluated the story setting after having reviewed the characters:
+
+Character Analysis:
+{{step_4}}
+
+Story Setting Evaluation:
+{{step_5}}
+
+Next, analyze the {{content_language}} used in the book, assessing its suitability for the target readership.
+
+->>>>
+
+With the evaluation of the language content done, we now have:
+
+Story Setting Evaluation:
+{{step_5}}
+
+Language Content Analysis:
+{{step_6}}
+
+Moving forward, consider {{narrative_style}}, examining the effect of point of view, pacing, and balance of showing versus telling.
+
+->>>>
+
+We have evaluated the narrative style, as follows:
+
+Language Content Analysis:
+{{step_6}}
+
+Narrative Style Evaluation:
+{{step_7}}
+
+Now, address aspects particular to children's and young adult novels by comparing {{educational_thematic_content}} in the book, ensuring it's engaging and pedagogically valuable.
+
+->>>>
+
+We analyzed the educational thematic content:
+
+Narrative Style Evaluation:
+{{step_7}}
+
+Educational Thematic Content Review:
+{{step_8}}
+
+Following that, devote a section to {{age_appropriateness}}, evaluating if the character portrayals, dialogues, conflicts and messages are apt for the intended reader age group.
+
+->>>>
+
+We've completed an age appropriateness assessment:
+
+Educational Thematic Content Review:
+{{step_8}}
+
+Age Appropriateness Evaluation:
+{{step_9}}
+
+Then, proceed to evaluate {{illustrative_potential}} keeping in mind that a substantial part of children's and young adult books comprises visuals.
+

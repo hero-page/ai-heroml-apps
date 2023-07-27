@@ -1,0 +1,91 @@
+Let's write a "Cover Design Feedback" for the "Children's Storybooks - Young Adult Novels" industry, specially for an "Editor". 
+
+Start by crafting an introduction that provides a general overview of the cover design. 
+
+Here's some more context about the Cover Design Feedback:
+Cover Design Overview: {{cover_design_overview}}
+First Impact Feedback: {{first_impact_feedback}}
+Element Analysis Feedback: {{element_analysis_feedback}}
+Color And Style Feedback: {{color_and_style_feedback}}
+Design Issues: {{design_issues}}
+Improvement Suggestions: {{improvement_suggestions}}
+
+->>>>
+
+Now we've got an introduction to our cover design feedback:
+
+Introduction to Cover Design Feedback:
+{{step_1}}
+
+Then, give feedback on the cover's first impression. Discuss if it immediately grabs attention and conveys the book's genre.
+
+->>>>
+
+With an introduction in hand:
+
+Introduction to Cover Design Feedback:
+{{step_1}}
+
+Now we have the first impact feedback:
+
+First Impact Feedback of Cover Design:
+{{step_2}}
+
+Continue onto an analysis of the key elements of the cover, such as the title, author name, and graphics. Discuss if they suggest the content and tone of the book, and if they're clear and appealing to the target audience.
+
+->>>>
+
+With the context of the first impression:
+
+First Impact Feedback of Cover Design:
+{{step_2}}
+
+Now, consider the analysis of the key elements:
+
+Key Elements Analysis:
+{{step_3}}
+
+Evaluate the color scheme and the style in relation to the target audience. Does it appeal to children and young adults? Does it mirror the themes, atmosphere, or characters within the book?
+
+->>>>
+
+Following the key elements analysis:
+
+Key Elements Analysis:
+{{step_3}}
+
+Here's an evaluation of the color scheme and style:
+
+Color Scheme and Style Evaluation:
+{{step_4}}
+
+Next, identify any specific issues or concerns with the current cover design and list them.
+
+->>>>
+
+In light of the color scheme and style review:
+
+Color Scheme and Style Evaluation:
+{{step_4}}
+
+We now have a list of design concerns:
+
+Design Concerns:
+{{step_5}}
+
+Summarize the feedback, emphasizing the strengths of the design and the areas that need improvements.
+
+->>>>
+
+After identifying potential design concerns:
+
+Design Concerns:
+{{step_5}}
+
+We have summarized the feedback:
+
+Feedback Summary:
+{{step_6}}
+
+Finally, end the feedback with practical recommendations for improvements, if there are any.
+

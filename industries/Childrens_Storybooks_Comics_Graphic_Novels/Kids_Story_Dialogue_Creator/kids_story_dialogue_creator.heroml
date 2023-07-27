@@ -1,0 +1,93 @@
+Your task is to write a "Character Dialogue" for the "Children's Storybooks - Comics & Graphic Novels" industry, specifically for an "Author". 
+Let's start by introducing the characters that will participate in the dialogue. Detail their personality traits, mannerisms, and voice to lay a foundation for their dialogues.
+
+Here's some more context about the Character Dialogue:
+Character Introduction: {{character_introduction}}
+Dialogue Context: {{dialogue_context}}
+Dialogue Structure: {{dialogue_structure}}
+Age Appropriate Content: {{age_appropriate_content}}
+Character Development: {{character_development}}
+Story Advancement: {{story_advancement}}
+Humor Usage: {{humor_usage}}
+Dialogue Resolution: {{dialogue_resolution}}
+
+->>>>
+
+Now, we have introductions for our characters:
+
+Character Introductions:
+{{step_1}}
+
+Next, determine the context or theme of the dialogue. This will be the narrative thread guiding the conversation.
+
+->>>>
+
+We have the character introductions and dialogue context:
+
+Character Introductions:
+{{step_1}}
+
+Dialogue Context:
+{{step_2}}
+
+Moving on, design the structure of the dialogue, incorporating the exchange of thoughts, emotions, and reactions between the characters.
+
+->>>>
+
+With the character introductions and dialogue context:
+
+Character Introductions:
+{{step_1}}
+
+Dialogue Context:
+{{step_2}}
+
+We have formed a structure for the dialogue:
+
+Dialogue Structure:
+{{step_3}}
+
+Now, let's weave age-appropriate language and concepts into the dialogue, ensuring it's relatable and understandable to young readers.
+
+->>>>
+
+For our dialogue, we have age-appropriate content along with the following information:
+
+Character Introductions:
+{{step_1}}
+
+Dialogue Context and Structure:
+{{step_2}}
+{{step_3}}
+
+Now, let's make sure the dialogue contributes to character development and advances the story.
+
+->>>>
+
+For our dialogue, we have considered character development and storyline advancements:
+
+Previous Information:
+{{step_1}}
+{{step_2}}
+{{step_3}}
+
+Character Development and Story Advancement:
+{{step_5}}
+
+In the children's literature realm, humor is an excellent tool for engaging young readers. So, let's incorporate humor, puns, or idioms where appropriate.
+
+->>>>
+
+For our dialogue, we have included elements of humor alongside the following information:
+
+Previous Information:
+{{step_1}}
+{{step_2}}
+{{step_3}}
+{{step_5}}
+
+Humor Usage:
+{{step_6}}
+
+Finally, let's wrap up the dialogue with a resolution, signifying what the characters learned or how they changed due to the conversation.
+

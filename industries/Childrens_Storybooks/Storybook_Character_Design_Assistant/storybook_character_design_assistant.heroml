@@ -1,0 +1,106 @@
+Your task is to write a "Character Design Description" for the "Children's Storybooks" industry, specifically for an "Illustrator". 
+
+The first step is to introduce {{character_name}}, showcasing its unique place in the plot or relation to other characters.
+
+Here's some more context about the Character Design Description:
+Character Name: {{character_name}}
+
+->>>>
+
+We're creating a "Character Design Description" for the "Children's Storybooks" industry, specifically for an illustrator, and we begin with an introduction of our character:
+
+Introduction:
+{{step_1}}
+
+Next, provide a clear, detailed physical description of {{character_name}}, including color, physical features, size, and clothing. The description should be detailed enough to enable an illustrator to draw the character without ambiguity.
+
+->>>>
+
+In our "Character Design Description" we now have an introduction and a physical description:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+The third step is to address the age and gender of {{character_name}}, detailing traits relevant to their appearance and how they should be portrayed in illustrations.
+
+->>>>
+
+Our "Character Design Description" for an Illustrator includes an introduction, a physical description, and details about the character's age and gender:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Age and Gender:
+{{step_3}}
+
+In the fourth step, describe the personality traits of {{character_name}}, including any unique quirks, habits, or mannerisms that can help the illustrator capture the character's expressions and body language.
+
+->>>>
+
+So far, our "Character Design Description" consists of an introduction, a physical description, details about age and gender, and an analysis of the character's personality:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Age and Gender:
+{{step_3}}
+
+Personality Traits:
+{{step_4}}
+
+In the fifth step, discuss where {{character_name}} lives or spends most of its time. The character's surroundings can significantly influence their design and clothing.
+
+->>>>
+
+At this stage, in our "Character Design Description", we have provided an introduction, physical attributes, age and gender details, personality traits, and the character's typical surroundings:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Age and Gender:
+{{step_3}}
+
+Personality Traits:
+{{step_4}}
+
+Character's Surroundings:
+{{step_5}}
+
+Moving to the sixth step, outline the role of {{character_name}} in the story – whether they are a protagonist, antagonist, supporting character, etc. and explain their relationship to other central characters.
+
+->>>>
+
+In our "Character Design Description", we have provided details about the character's introduction, physical characteristics, age and gender, personality traits, typical surroundings, and their role within the story:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Age and Gender:
+{{step_3}}
+
+Personality Traits:
+{{step_4}}
+
+Character's Surroundings:
+{{step_5}}
+
+Role in the Story:
+{{step_6}}
+
+In the final step, provide a summary highlighting key explanatory points about the character's design, motivation, and context within the story. This gives the illustrator a full understanding of how to portray the character.
+

@@ -1,0 +1,107 @@
+Your task is to write an "Educational Content Feedback" for the "Children's Storybooks - Educational Books" industry, specifically for an "Educational Consultant". Let's start by generating a brief overview of the book you will be giving feedback on: {{book_title}}. This will set the context for which the feedback will be made.
+
+Here's some more context about the Educational Content Feedback:
+Book Title: {{book_title}}
+Age Group Assessment: {{age_group_assessment}}
+Curriculum Relevance: {{curriculum_relevance}}
+Educational Themes: {{educational_themes}}
+Pace And Structure: {{pace_and_structure}}
+Creative And Interactive Elements: {{creative_and_interactive_elements}}
+Accuracy And Quality: {{accuracy_and_quality}}
+Alignment With Educational Standards: {{alignment_with_educational_standards}}
+Suggestions For Improvement: {{suggestions_for_improvement}}
+Feedback Summary: {{feedback_summary}}
+
+->>>>
+
+Now, we have a brief overview of the book:
+
+Book overview:
+{{step_1}}
+
+Next, we should provide general insights about the educational qualities of the book. Assess its suitability for the intended age group and its relevance to a school curriculum.
+
+->>>>
+
+We now have a general assessment of the book:
+
+Book overview:
+{{step_1}}
+
+General assessment:
+{{step_2}}
+
+Let's identify key educational themes and elements explicitly mentioned in the book. Discuss how these themes are addressed and the clarity of the content provided.
+
+->>>>
+
+We have a general assessment and key educational themes for the children's book:
+
+General assessment:
+{{step_2}}
+
+Key educational themes identification:
+{{step_3}}
+
+Next, let's offer an analysis of the book's pace and structure. Discuss whether the content is layered and built-up properly in a manner that facilitates a child's learning.
+
+->>>>
+
+After identifying the educational themes, we evaluated the book's pace and structure:
+
+Key educational themes identification:
+{{step_3}}
+
+Pace and structure analysis:
+{{step_4}}
+
+Now, let's discuss the incorporation of creative and interactive elements in the book that may support learning. Write in detail about the plot, characters, or interactive elements aimed at promoting engagement and educational learning.
+
+->>>>
+
+Based on the book's pace and structure, we described creative and interactive elements of the book:
+
+Pace and structure analysis:
+{{step_4}}
+
+Creative and interactive elements description:
+{{step_5}}
+
+Next, let's deliver critical insights on the content's accuracy and quality. Give feedback on factual accuracy, language use, grammar, and punctuation.
+
+->>>>
+
+We have described creative elements and analyzed the content's accuracy and quality:
+
+Creative and interactive elements description:
+{{step_5}}
+
+Accuracy and quality analysis:
+{{step_6}}
+
+Now, let's discuss the book's alignment with educational standards or frameworks. Detail how well the book meets these criteria.
+
+->>>>
+
+We have commented on the content's accuracy and quality, next we discussed the book's alignment with educational standards:
+
+Accuracy and quality analysis:
+{{step_6}}
+
+Alignment with educational standards discussion:
+{{step_7}}
+
+To conclude, let's make cogent suggestions for improvement. Highlight any areas where the book could be made more engaging or informative for children.
+
+->>>>
+
+After discussing the book's alignment with educational standards, we suggested improvements for the book:
+
+Alignment with educational standards discussion:
+{{step_7}}
+
+Suggestions for improvement:
+{{step_8}}
+
+Lastly, let's summarize our feedback for easy reference on the previously generated points.
+

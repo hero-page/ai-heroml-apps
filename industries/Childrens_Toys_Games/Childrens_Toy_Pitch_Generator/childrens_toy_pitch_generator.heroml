@@ -1,0 +1,119 @@
+Your task is to write a "Product Pitch" for the "Children's Toys & Games" industry, specifically for a "Toy Designer". Let's start by creating a captivating introduction that introduces the toy or game: {{toy_name}}. This should include a catchy phrase or slogan that encapsulates its unique selling proposition.
+
+Here's some more context about the Product Pitch:
+Toy Name: {{toy_name}}
+Key Features: {{key_features}}
+Toy Benefits: {{toy_benefits}}
+Toy Price: {{toy_price}}
+
+->>>>
+
+We have begun our product pitch for the {{toy_name}} with a catchy introduction and slogan:
+
+Introduction and Slogan:
+{{step_1}}
+
+Next, we need to provide a detailed description of the toy or game. The description should cover its unique features, intended age group, dimensions, colors, and materials used in a way that the listener can visualize the toy even without a physical presence.
+
+->>>>
+
+We have an introduction and a detailed product description for the {{toy_name}}:
+
+Introduction and Slogan:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Now, let's discuss its key features: {{key_features}}. Highlight its educational benefits, entertainment value, safety features, and any innovative aspects that set it apart from the competition.
+
+->>>>
+
+We have compiled the key features for our toy, {{toy_name}}:
+
+Introduction and Slogan:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Let's move on to illustrate the problems or needs this toy addresses for children and parents: {{toy_benefits}}. For example, include aspects such as cognitive development assistance, skill learning, or extended captivity.
+
+->>>>
+
+For {{toy_name}}, these are the problems or needs our toy addresses:
+
+Product Description:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Toy Benefits:
+{{step_4}}
+
+Next, we should introduce the design and manufacturing process to highlight the care put into ensuring the product is attractive, safe, durable, and engaging for children. Incorporate information about safety tests performed, quality materials used, and recognition from respected toy or children's product organizations.
+
+->>>>
+
+So far we have discussed the {{toy_name}} as follows:
+
+Key Features:
+{{step_3}}
+
+Toy Benefits:
+{{step_4}}
+
+Design and Manufacturing Process:
+{{step_5}}
+
+Now, it's time to outline the price of the product: {{toy_price}}. Remember to emphasize how the product's benefits, joy, and quality justify its cost.
+
+->>>>
+
+We have presented the following information for the {{toy_name}}:
+
+Toy Benefits:
+{{step_4}}
+
+Design and Manufacturing Process:
+{{step_5}}
+
+Product Price and Value:
+{{step_6}}
+
+Next, we need to address any potential concerns. Including information about product safety, maintenance, warranty, and customer support for the product.
+
+->>>>
+
+We've addressed potential concerns for the {{toy_name}} as follows:
+
+Design and Manufacturing Process:
+{{step_5}}
+
+Product Price and Value:
+{{step_6}}
+
+Potential Concerns and Support:
+{{step_7}}
+
+For the conclusion, we will reiterate the unique selling points of the toy and articulate its value to a child's development and entertainment.
+
+->>>>
+
+For the {{toy_name}}, we have summarized the unique selling points and value:
+
+Product Price and Value:
+{{step_6}}
+
+Potential Concerns and Support:
+{{step_7}}
+
+Conclusion:
+{{step_8}}
+
+As the final step, we will create an invitation for questions or feedback, to encourage a beneficial dialogue and mutual understanding with the client.
+

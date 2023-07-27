@@ -1,0 +1,114 @@
+You have been tasked with writing a "Young Adult Story" for the "Children's Storybooks - Young Adult Novels" industry, specifically as an "Author". Let's start by crafting a captivating description for the main location, setting, or world: {{main_setting}} of our story.
+
+Here's some more context about the Young Adult Story:
+Main Setting: {{main_setting}}
+Main Character Traits: {{main_character_traits}}
+Central Challenge: {{central_challenge}}
+
+->>>>
+
+With our story set in:
+
+Story Setting:
+{{step_1}}
+
+Now, we need to introduce the main character highlighting their primary characteristics, motivations, and initial struggles: {{main_character_traits}}.
+
+->>>>
+
+Our story is set:
+
+Story Setting:
+{{step_1}}
+
+We have introduced our main character:
+
+Main Character:
+{{step_2}}
+
+Next, we need to define a major challenge, task, or mystery: {{central_challenge}} that our main character will have to solve or overcome throughout the story.
+
+->>>>
+
+Our main character:
+
+Main Character:
+{{step_2}}
+
+Is faced with the following challenge:
+
+Central Challenge:
+{{step_3}}
+
+Now, create supporting characters that will interact with the main character in a way that aids their development and emphasizes their traits.
+
+->>>>
+
+With our central challenge defined:
+
+Central Challenge:
+{{step_3}}
+
+We have defined our supporting characters:
+
+Supporting Characters:
+{{step_4}}
+
+Our next step is to incorporate potential conflicts that can create tension and advance the plot. These conflicts should be relevant to the {{central_challenge}}.
+
+->>>>
+
+Our supporting characters:
+
+Supporting Characters:
+{{step_4}}
+
+Are involved in the following conflicts:
+
+Conflicts:
+{{step_5}}
+
+Next, we need to illustrate a significant transformation or growth in our main character. This change should be influenced by a significant event related to the {{central_challenge}}.
+
+->>>>
+
+Our main character and their conflicts:
+
+Conflicts:
+{{step_5}}
+
+Undergo this transformation:
+
+Character Transformation:
+{{step_6}}
+
+Following this, detail the climax of the story where the main character confronts the central challenge: {{central_challenge}}, demonstrating their personal growth and showcasing how they have evolved.
+
+->>>>
+
+Our main character, after the transformation:
+
+Character Transformation:
+{{step_6}}
+
+Faces the challenge at:
+
+Story Climax:
+{{step_7}}
+
+Now, let's conclude the plot with a resolution to the {{central_challenge}}, where all characters find closure.
+
+->>>>
+
+After the climax of our story:
+
+Story Climax:
+{{step_7}}
+
+We find resolution at:
+
+Resolution:
+{{step_8}}
+
+Lastly, let's write an epilogue showing how the characters' lives have changed after the resolution of the {{central_challenge}}.
+
