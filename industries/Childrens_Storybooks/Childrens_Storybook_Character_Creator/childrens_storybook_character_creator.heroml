@@ -1,0 +1,84 @@
+Your task is to write a "Character Description" for the "Children's Storybooks" industry, specifically for an "Author". Let's start this by crafting a captivating introduction about the character. This should spark immediate interest and reveal their name and one unique trait.
+
+Here's some more context about the Character Description:
+Character Name: {{character_name}}
+Character Appearance: {{character_appearance}}
+Character Personality: {{character_personality}}
+Character Background: {{character_background}}
+Character Problem: {{character_problem}}
+
+->>>>
+
+For our "Character Description", we now have a captivating introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's focus on writing an engaging physical description of the character. This should include their overall appearance details like hair color, eye color, height, and clothing style.
+
+->>>>
+
+We have a character introduction and a general physical description:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Moving on, let's describe the character's personality. Make sure the traits are easily understandable for the target age group and capture the essence of the character.
+
+->>>>
+
+Our character now has an introduction, physical description and a personality:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Personality:
+{{step_3}}
+
+Now, it's time to share some details about the character's background, including their family and past, keeping it simple for younger readers to understand.
+
+->>>>
+
+The character for our children's storybook currently has:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Personality:
+{{step_3}}
+
+Background:
+{{step_4}}
+
+Next, let's focus on the character's plight or problem. This is the obstacle they need to overcome, and will serve to drive the plot of the story and enhance character growth.
+
+->>>>
+
+For our character, we've formed an introduction, physical description, personality, background, and their central conflict:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+Personality:
+{{step_3}}
+
+Background:
+{{step_4}}
+
+Plight/Problem:
+{{step_5}}
+
+Finally, let's wrap up this character description by subtly restating the crucial characteristics and keeping the tone light and engaging.
+

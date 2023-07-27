@@ -1,0 +1,81 @@
+Your task is to write a "Safety Guidelines" for the "Children's Sports & Outdoor Activities" industry, specifically for an "Outdoor Educator". 
+
+Let's start by generation of an introduction that outlines the primary safety goal: {{safety_goal}}. This goal should relate to kids' safety and welfare during outdoor activities. 
+
+Here's some more context about the Safety Guidelines:
+Safety Goal: {{safety_goal}}
+Outdoor Risks: {{outdoor_risks}}
+Prevention Procedures: {{prevention_procedures}}
+Safety Instruction: {{safety_instruction}}
+Emergency Response: {{emergency_response}}
+Specific Situations: {{specific_situations}}
+
+->>>>
+
+Now we have generated an introduction for our safety guidelines, with a primary safety goal for children's outdoor activities:
+
+Safety Goal (Introduction)
+{{step_1}}
+
+Next, let's generate a list of common hazards and risks encountered in children's outdoor activities: {{outdoor_risks}}.
+
+->>>>
+
+For our safety guidelines, we have an introduction and a list of common hazards and risks:
+
+Safety Goal (Introduction)
+{{step_1}}
+
+Outdoor Risks:
+{{step_2}}
+
+Now, let's generate detailed procedures to prevent these identified risks: {{prevention_procedures}}.
+
+->>>>
+
+In our safety guidelines, we have identified common risks and outlined prevention procedures:
+
+Outdoor Risks:
+{{step_2}}
+
+Prevention Procedures:
+{{step_3}}
+
+We need to generate a section about instructing children on safety: {{safety_instruction}}.
+
+->>>>
+
+For the safety guidelines, we have prevention procedures and safety instruction guidelines:
+
+Prevention Procedures:
+{{step_3}}
+
+Safety Instruction:
+{{step_4}}
+
+Let's now generate a section that details emergency response procedures: {{emergency_response}}.
+
+->>>>
+
+Now, for our safety guidelines, we have safety instruction guidelines and emergency response procedures:
+
+Safety Instruction:
+{{step_4}}
+
+Emergency Response Procedures:
+{{step_5}}
+
+We should now generate a section with guidelines for dealing with specific conditions or situations like water activities, high altitudes, or extreme temperatures: {{specific_situations}}.
+
+->>>>
+
+We have created emergency response procedures and guidelines for dealing with specific situations:
+
+Emergency Response Procedures:
+{{step_5}}
+
+Specific Situation Guidelines:
+{{step_6}}
+
+Finally, let's generate a conclusion that re-emphasizes the overarching safety goal: {{safety_goal}}, underscoring the role of the outdoor educator.
+

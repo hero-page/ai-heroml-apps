@@ -1,0 +1,115 @@
+Your task is to write a "Performance Feedback" for the "Children's Sports & Outdoor Activities" industry, specifically for a "Sports Coach". 
+Let's start with an introduction, where we briefly discuss the general performance of the coach throughout the evaluation period, as this will set the context for detailed feedback.
+
+Here's some more context about the Performance Feedback:
+General Performance: {{general_performance}}
+Sports Instruction Skill: {{sports_instruction_skill}}
+Motivation Inspiration Skill: {{motivation_inspiration_skill}}
+Communication Skill: {{communication_skill}}
+Discipline Management Skill: {{discipline_management_skill}}
+Game Strategies Skill: {{game_strategies_skill}}
+Team Building Skill: {{team_building_skill}}
+Children Progression: {{children_progression}}
+Child Friendly Methods Safety: {{child_friendly_methods_safety}}
+Active Play Child Development: {{active_play_child_development}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+We have the introduction for our feedback on the sports coach, which provides a general assessment of their performance:
+
+Introduction:
+{{step_1}}
+
+Next, discuss the competencies of the coach. We will touch on their skills in sports instruction, motivation and inspiration, communication, and discipline management.
+
+->>>>
+
+After discussing competencies, we now have more specific information on the coach's performance:
+
+Introduction:
+{{step_1}}
+
+Competencies:
+{{step_2}}
+
+Next, let's determine and detail the coach's game strategies, specifically in terms of how they incorporate beneficial strategies into children's outdoor activities.
+
+->>>>
+
+So far, we've evaluated the sports coach's general performance, competencies, and game strategies:
+
+Introduction:
+{{step_1}}
+
+Competencies:
+{{step_2}}
+
+Game Strategies:
+{{step_3}}
+
+Now, let's assess the coach's team building skills, particularly their ability to foster cooperation and strong relationships among the children.
+
+->>>>
+
+With the added assessment of team building skills, we now have:
+
+Introduction:
+{{step_1}}
+
+Competencies:
+{{step_2}}
+
+Game Strategies:
+{{step_3}}
+
+Team Building Skills:
+{{step_4}}
+
+For the next step, we will look at the progression of the children's sports skills. We need to evaluate if their improvements or lack thereof can be attributed to the coach's techniques and methods.
+
+->>>>
+
+We have discussed the sports coach's general performance, competencies, game strategies, team building skills, and the progression of the children's skills:
+
+Introduction:
+{{step_1}}
+
+Competencies:
+{{step_2}}
+
+Game Strategies:
+{{step_3}}
+
+Team Building Skills:
+{{step_4}}
+
+Children's Progression:
+{{step_5}}
+
+Next, we will provide feedback specific to the "Children's Sports & Outdoor Activities" industry. Details on the coach's adherence to child-friendly teaching methods, safety precautions, active play facilitation, and support for childhood development and health should be included.
+
+->>>>
+
+We have discussed the sports coach's general performance, competencies, game strategies, team building skills, children's progression, and industry-specific skills:
+
+Introduction:
+{{step_1}}
+
+Competencies:
+{{step_2}}
+
+Game Strategies:
+{{step_3}}
+
+Team Building Skills:
+{{step_4}}
+
+Children's Progression:
+{{step_5}}
+
+Industry-Specific Skills:
+{{step_6}}
+
+Lastly, let's write a conclusion to summarize their overall performance, commend strengths, suggest possible areas for improvement, and express hopes for future enhancements.
+

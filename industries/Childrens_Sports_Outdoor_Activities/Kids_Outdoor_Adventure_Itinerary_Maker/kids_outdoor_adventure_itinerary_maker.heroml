@@ -1,0 +1,99 @@
+Your task is to write a "Trip Itinerary" for the "Children's Sports & Outdoor Activities" industry, specifically for an "Outdoor Educator". 
+
+Let's first begin by crafting a brief introduction that provides contextual background: {{context}}. It should explain the purpose of the trip, highlight the unique selling proposition of the experience, and attract the attention of the reader.
+
+Here's some more context about the Trip Itinerary:
+Context: {{context}}
+Main Activities: {{main_activities}}
+Supplemental Activities: {{supplemental_activities}}
+Meal Information: {{meal_information}}
+Rest Information: {{rest_information}}
+Travel Information: {{travel_information}}
+Required Gear: {{required_gear}}
+Safety Precautions: {{safety_precautions}}
+Child Safety And Education: {{child_safety_and_education}}
+Educator Qualifications: {{educator_qualifications}}
+Contact Information: {{contact_information}}
+
+->>>>
+
+We have a brief introduction for our "Trip Itinerary":
+
+Introduction:
+{{step_1}}
+
+Next, let's provide a detailed schedule for the trip, breaking it down day by day. Each day should include:
+- The day's main activity or activities: {{main_activities}},
+- Any supplemental activities: {{supplemental_activities}},
+- Planned meal times and options: {{meal_information}},
+- Anticipated downtime and sleep schedules: {{rest_information}}.
+
+->>>>
+
+Our "Trip Itinerary" now has a detailed daily schedule:
+
+Introduction:
+{{step_1}}
+
+Daily Schedule:
+{{step_2}}
+
+Now, let's add essential trip information, such as:
+- Travel arrangements (departure/arrival times, transportation methods): {{travel_information}},
+- Potentially required gear or sports equipment: {{required_gear}},
+- Safety precautions: {{safety_precautions}}.
+
+->>>>
+
+Our "Trip Itinerary" now includes detailed essential trip information:
+
+Introduction:
+{{step_1}}
+
+Daily Schedule:
+{{step_2}}
+
+Essential Trip Information:
+{{step_3}}
+
+In this next step, let's address the child-friendly and educational aspects of the trip. Discuss how the activities are tailored to children's physical capabilities and how the trip ensures they will engage, learn, and have fun in a safe environment: {{child_safety_and_education}}.
+
+->>>>
+
+Our "Trip Itinerary" now addresses the child-friendly and educational aspects of the trip:
+
+Introduction:
+{{step_1}}
+
+Daily Schedule:
+{{step_2}}
+
+Essential Trip Information:
+{{step_3}}
+
+Child Safety and Education:
+{{step_4}}
+
+Move on to discuss the qualifications of the outdoor educator and other adult supervisors. Highlight their experience, certifications, and commitment to children's safety and education: {{educator_qualifications}}.
+
+->>>>
+
+Our "Trip Itinerary" now covers the qualifications and commitments of outdoor educators and adult supervisors:
+
+Introduction:
+{{step_1}}
+
+Daily Schedule:
+{{step_2}}
+
+Essential Trip Information:
+{{step_3}}
+
+Child Safety and Education:
+{{step_4}}
+
+Educator Qualifications:
+{{step_5}}
+
+Lastly, provide the contact information for educators and trip organisers for parents or guardians who may have additional questions or concerns about the trip: {{contact_information}}.
+

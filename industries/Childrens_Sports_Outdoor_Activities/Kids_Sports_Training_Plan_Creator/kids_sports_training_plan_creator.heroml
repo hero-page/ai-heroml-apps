@@ -1,0 +1,85 @@
+Your task is to write a "Training Plan" specifically for a "Sports Coach" operating in the "Children's Sports & Outdoor Activities" industry. 
+
+Let's start by crafting a compelling introduction about the significance of sports training for children. Be sure to underscore the {{desired_outcome}}, which represents the specific skills or growth areas the training plan will concentrate on.
+
+Here's some more context about the Training Plan:
+Desired Outcome: {{desired_outcome}}
+Target Group: {{target_group}}
+Core Activities: {{core_activities}}
+Engagement Techniques: {{engagement_techniques}}
+
+->>>>
+
+Now, we have a captivating introduction detailing the importance of sports training:
+
+Introduction:
+{{step_1}}
+
+Next, delve into a comprehensive description of the {{target_group}}. This refers mainly to the age group and ability level of the participating children. Keep in mind parameters such as age-appropriate skills, physical development limitations, and experience levels.
+
+->>>>
+
+In our "Training Plan", we have an introduction and a detailed description of our target group:
+
+Introduction:
+{{step_1}}
+
+Target Group Description:
+{{step_2}}
+
+Now, let's outline the main training activities. The {{core_activities}} are the base exercises or sports activities to be performed in order to attain your desired outcome. Layout these activities in a systematic order, explaining how to execute them, the safety guidelines, and the projected benefits for each activity.
+
+->>>>
+
+In our "Training Plan", we have:
+
+Introduction:
+{{step_1}}
+
+Target Group Description:
+{{step_2}}
+
+Core Activities:
+{{step_3}}
+
+Next, include a "Feedback & Progress Tracking" section that outlines an organized approach for monitoring each child's progress. Illustrate how the sports coach can customize the {{core_activities}} based on individual needs, track progress, and sustain an open dialogue with parents.
+
+->>>>
+
+Our "Training Plan" now consists of these sections:
+
+Introduction:
+{{step_1}}
+
+Target Group Description:
+{{step_2}}
+
+Core Activities:
+{{step_3}}
+
+Feedback & Progress Tracking:
+{{step_4}}
+
+Moving forward, discuss additional techniques focused on increasing children's engagement. The variable {{engagement_techniques}} can encompass strategies such as enjoyable competition, teamwork-focused exercises, reward systems, or integrating educational elements in a lively manner.
+
+->>>>
+
+For our "Training Plan", we have these segments:
+
+Introduction:
+{{step_1}}
+
+Target Group Description:
+{{step_2}}
+
+Core Activities:
+{{step_3}}
+
+Feedback & Progress Tracking:
+{{step_4}}
+
+Engagement Techniques:
+{{step_5}}
+
+Finally, write a conclusion that summarizes the core components of the training plan. Echo the {{desired_outcome}}, its impact on children's development, and the key strategies implemented to achieve this outcome.
+

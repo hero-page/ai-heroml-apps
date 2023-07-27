@@ -1,0 +1,70 @@
+Your task is to write a "Story" for the "Children's Storybooks" industry specifically for an "Author". Let's start with an introduction that presents the setting and the main characters of the story: {{setting_and_main_characters}}.
+
+Here's some more context about the Story:
+Setting And Main Characters: {{setting_and_main_characters}}
+Problem Or Quest: {{problem_or_quest}}
+Learning Moments: {{learning_moments}}
+Resolution: {{resolution}}
+
+->>>>
+
+We are writing a story for children and have set the scene with our main characters as follows:
+
+Setting and Characters:
+{{step_1}}
+
+Next, let's begin the story with an event that triggers a quest or problem for the main characters: {{problem_or_quest}}.
+
+->>>>
+
+We are crafting our children's story. We've set the scene and defined the problem or quest that has been triggered for our main characters:
+
+Setting and Characters:
+{{step_1}}
+
+Problem or Quest:
+{{step_2}}
+
+Now, we need to develop the plot around the main characters' attempts to address the problem or quest: {{problem-solving_journey}}. Make sure to introduce challenges and obstacles that make this journey difficult and interesting.
+
+->>>>
+
+We have a setting, characters, and a problem or quest for our children's story:
+
+Setting and Characters:
+{{step_1}}
+
+Problem or Quest:
+{{step_2}}
+
+We have also developed the plot around the protagonist’s journey attempting to solve the problem:
+
+Problem solving journey and Challenges:
+{{step_3}}
+
+Moving on, we need to periodically incorporate learning moments, where characters learn valuable lessons related to morals, values, or knowledge beneficial for children: {{learning_moments}}.
+
+->>>>
+
+We are well on our way in weaving a compelling children's story. We have the setup, a problem, the problem-solving journey and we have introduced some learning moments:
+
+Problem solving journey and Challenges:
+{{step_3}}
+
+Learning Moments:
+{{step_4}}
+
+Next, let's resolve the problem or quest, demonstrating how the journey and the challenges faced by the characters lead to the resolution: {{resolution}}. This should also highlight the learning moments, reinforcing the lessons they learned.
+
+->>>>
+
+Our children's story is taking shape. We have the learning moments and we now have the resolution to the problem or quest:
+
+Learning Moments:
+{{step_4}}
+
+Resolution:
+{{step_5}}
+
+We now need to conclude the story with a wrap-up. show how the characters are changed by their experiences and touched by the lessons they learned: {{characters_post-resolution}}. This should create a sense of closure and satisfaction. 
+

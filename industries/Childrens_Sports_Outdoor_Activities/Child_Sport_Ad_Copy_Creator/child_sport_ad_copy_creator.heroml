@@ -1,0 +1,80 @@
+Your task is to write an "Ad Copy" for the "Children's Sports & Outdoor Activities" industry, specifically for a "Product Marketer". We will start with the headline. 
+
+Here's some more context about the Ad Copy:
+Product Name: {{product_name}}
+
+->>>>
+
+Now, the captivating headline for the ad of {{product_name}} is ready:
+
+Headline:
+{{step_1}}
+
+Next, let's write an engaging introduction, stating the main benefits of {{product_name}} that will attract our potential customers.
+
+->>>>
+
+Our "Ad Copy"'s headline is now followed by an engaging introduction:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+The next action we need to take is to delineate the key features of {{product_name}} which make it suitable for children’s sports and outdoor activities. We should ensure to use child-friendly and encouraging language.
+
+->>>>
+
+Now, we have a description of {{product_name}}'s key features suitable for children’s activities:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Next, let's highlight the safety measures incorporated into {{product_name}} to ensure parents about their children's safety when using the product.
+
+->>>>
+
+At this point of "Ad Copy", you have compelling information about {{product_name}}:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Safety Measures:
+{{step_4}}
+
+A great way to spark immediate interest in potential customers is to create a sense of urgency. Let's write a section focusing on the limited stock of {{product_name}}, or other promotional offers like any substantial discounts.
+
+->>>>
+
+We have created a sense of urgency in our "Ad Copy" with a call-to-action section:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Safety Measures:
+{{step_4}}
+
+Call to Action:
+{{step_5}}
+
+Finally, let's conclude our "Ad Copy" with an invitation for the customers to imagine the joy and physical benefits their children will receive from the {{product_name}}. Also, include the details on where and how to purchase it.
+

@@ -1,0 +1,73 @@
+Your task is to write an "Activity Description" for the "Children's Sports & Outdoor Activities" industry, specifically for an "Outdoor Educator". 
+
+- Start by crafting an engaging introduction of the activity: {{activity_name}}. The introduction should encapsulate the essence and purpose of the activity. Also, mention which age group is the activity suited for.
+
+Here's some more context about the Activity Description:
+Activity Name: {{activity_name}}
+
+->>>>
+
+We're creating an "Activity Description" for the "Children's Sports & Outdoor Activities" industry, for an "Outdoor Educator". Here is the captivating introduction for our activity:
+
+Activity:
+{{activity_name}}
+
+Introduction:
+{{step_1}}
+
+- Next, let's detail a comprehensive list of learning outcomes and benefits related to {{activity_name}}. What skills will the children develop, how will it benefit them physically and mentally, and what values or knowledge would they gain.
+
+->>>>
+
+For {{activity_name}}, we've developed an engaging introduction and detailed learning outcomes:
+
+Introduction:
+{{step_1}}
+
+Learning Outcomes:
+{{step_2}}
+
+- Now, illustrate a step-by-step walkthrough of the activity. From the starting point, through necessary progressions, to its eventual culmination. Make sure it's simple and clear enough for children to understand.
+
+->>>>
+
+For {{activity_name}}, we have the introduction, learning outcomes, and a detailed list of steps on how to do the activity:
+
+Introduction:
+{{step_1}}
+
+Learning Outcomes:
+{{step_2}}
+
+Activity Walkthrough:
+{{step_3}}
+
+- With the core of the activity described, let's now list any equipment or materials required. Make sure all items are safe and easy for children or educators to procure.
+
+->>>>
+
+For {{activity_name}}, we have the core activity description and the list of required materials:
+
+Introduction:
+{{step_1}}
+
+Activity Walkthrough:
+{{step_3}}
+
+Required Materials:
+{{step_4}}
+
+- Next, outline the safety guidelines concerning {{activity_name}}. Address suitable attire, supervision protocol, safe ways to use equipment and any other safety considerations for this activity.
+
+->>>>
+
+For {{activity_name}}, the list of required materials and safety guidelines are as follows:
+
+Required Materials:
+{{step_4}}
+
+Safety Guidelines:
+{{step_5}}
+
+- Now, delve into the optimal environments to conduct {{activity_name}}. Consider different locations and weather conditions.
+

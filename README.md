@@ -376,3 +376,19 @@ Explore these links to learn more about each app's functionality and to see thei
 * [Childrens Story Creator AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Literature_Writing/Childrens_Story_Creator_AI)
 * [Childrens Story Dialogue Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Literature_Writing/Childrens_Story_Dialogue_Creator)
 * [Illustration Description Storyliner](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Literature_Writing/Illustration_Description_Storyliner)
+## Childrens Sports Outdoor Activities
+
+* [Child Sport Ad Copy Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Child_Sport_Ad_Copy_Creator)
+* [Child Sports Gear Description Maker](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Child_Sports_Gear_Description_Maker)
+* [Childrens Outdoor Activity Planner AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Childrens_Outdoor_Activity_Planner_AI)
+* [Coach Performance AI Evaluator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Coach_Performance_AI_Evaluator)
+* [Kids Outdoor Adventure Itinerary Maker](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Kids_Outdoor_Adventure_Itinerary_Maker)
+* [Kids Sports Coach Strategy Maker](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Kids_Sports_Coach_Strategy_Maker)
+* [Kids Sports Email Campaign Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Kids_Sports_Email_Campaign_Creator)
+* [Kids Sports Training Plan Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Kids_Sports_Training_Plan_Creator)
+* [Outdoor Kids Safety Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Sports_Outdoor_Activities/Outdoor_Kids_Safety_Guide_Creator)
+## Childrens Storybooks
+
+* [Childrens Storybook Character Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Storybooks/Childrens_Storybook_Character_Creator)
+* [Childrens Storybook Creation AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Storybooks/Childrens_Storybook_Creation_AI)
+* [Childrens Storybook Setting Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Storybooks/Childrens_Storybook_Setting_Creator)

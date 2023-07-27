@@ -1,0 +1,45 @@
+Start with an introductory section that provides an overview of the sport: {{sport_name}}. Begin by explaining the basic rules of the sport and its objective.
+
+Here's some more context about the Game Strategy:
+Sport Name: {{sport_name}}
+Player Roles: {{player_roles}}
+Game Tactics: {{game_tactics}}
+Contingency Triggers: {{contingency_triggers}}
+Training Regimes: {{training_regimes}}
+
+->>>>
+
+We have prepared an introductory section:
+
+Introduction:
+{{step_1}}
+
+Now, assign roles to every player: {{player_roles}}. Consider the strengths and weaknesses of each player. Be sure to provide a rationale for your choices as these will be integrated into the main strategy.
+
+->>>>
+
+We have designated player roles based on their strengths and weaknesses:
+
+Player Roles Assignment:
+{{step_2}}
+
+After assigning player roles, focus on planning the game strategy in detail. We will outline specific maneuvers and tactics to employ: {{game_tactics}}. To do so, divide the strategy into several phases such as initial, mid, and end-game strategy.
+
+->>>>
+
+We have prepared the game strategy. It includes an initial, mid-game, and end-game strategy:
+
+Game Strategy:
+{{step_3}}
+
+Next, we need to develop a contingency plan where we discuss alternate strategies for unpredictable scenarios such as an unexpected performance of the opposing team, unfavorable weather conditions, and injury of a key player. Consider these challenging scenarios and identify the trigger points for these contingency plans: {{contingency_triggers}}.
+
+->>>>
+
+We have addressed various challenges and created contingency plans for them:
+
+Contingency Plan:
+{{step_4}}
+
+After addressing potential issues, let's focus on 'Physical Conditioning and Skills Development'. Talk about specific training regimes that will prepare the team physically and mentally for executing the game strategy: {{training_regimes}}.
+

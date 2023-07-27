@@ -1,0 +1,88 @@
+Your task is to write an "Email Campaign" for the "Children's Sports & Outdoor Activities" industry as a "Product Marketer". Let's start with creating a captivating subject line that highlights the main point of the email: {{product_feature}}.
+
+Here's some more context about the Email Campaign:
+Product Feature: {{product_feature}}
+Product Benefits: {{product_benefits}}
+Product Features: {{product_features}}
+Product Testimonials: {{product_testimonials}}
+Product Deal: {{product_deal}}
+Product Link: {{product_link}}
+
+->>>>
+
+The start of your email campaign with subject line is laid out:
+
+Subject Line:
+{{step_1}}
+
+Now, let's begin the body of the email by writing a brief introduction, explaining the purpose of the email and how the product can benefit the recipient's child: {{product_benefits}}.
+
+->>>>
+
+The initial elements of your "Email Campaign" are set:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Let's proceed by detailing the unique qualities of your product or service that enrich children's physical health and development through engaging activities: {{product_features}}.
+
+->>>>
+
+The beginning of the email campaign is detailed as:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Next, we need to provide examples of success stories or testimonials from satisfied parents and children who have used your product: {{product_testimonials}}. This will help us establish credibility.
+
+->>>>
+
+The email campaign is taking shape with:
+
+Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Testimonials:
+{{step_4}}
+
+Now, introduce a limited-time offer or an exclusive deal for your product to push immediate action from the readers, and vividly highlight the savings: {{product_deal}}.
+
+->>>>
+
+The email campaign now has:
+
+Product Features:
+{{step_3}}
+
+Testimonials:
+{{step_4}}
+
+Product Deal:
+{{step_5}}
+
+To wrap up, let's give clear instructions on how they can purchase or sign up for the product/service, including any direct links to the product page: {{product_link}}.
+
+->>>>
+
+The email campaign is almost complete with:
+
+Product Deal:
+{{step_5}}
+
+Product Link and Instructions:
+{{step_6}}
+
+Finally, close the email with a 'thank you' note for readers for their consideration, and provide your contact information in case they may have queries about the product.
+
