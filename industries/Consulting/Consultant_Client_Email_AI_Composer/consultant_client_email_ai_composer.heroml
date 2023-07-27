@@ -1,0 +1,66 @@
+Your task is to write a 'Client Email' for the 'Consulting' industry, specifically for a 'Management Consultant'. Let's begin with a personalized greeting that addresses the client directly: {{client_name}}.
+
+Here's some more context about the Client Email:
+Client Name: {{client_name}}
+Email Purpose: {{email_purpose}}
+Consultancy Service Details Or Forum Points: {{consultancy_service_details_or_forum_points}}
+Strategy Outcomes And Implications: {{strategy_outcomes_and_implications}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+We start our email with a personalized greeting:
+
+Greeting:
+{{step_1}}
+
+Next, state the purpose of the email in a clear and concise manner: {{email_purpose}}. This can range from an introduction, proposing a solution or providing updates on a project.
+
+->>>>
+
+With a personalized greeting, we have defined the purpose of the email:
+
+Greeting:
+{{step_1}}
+
+Email Purpose:
+{{step_2}}
+
+Now, depending on this purpose, provide the necessary details. These could be an introduction of the consultancy services provided by the Management Consultant or a review of points discussed in previous interactions: {{consultancy_service_details_or_forum_points}}. Remember to break down complex solutions into digestible points to make sure the client understands the proposed strategies or solutions.
+
+->>>>
+
+We have a clear purpose and necessary details for our email:
+
+Email Purpose:
+{{step_2}}
+
+Necessary Details:
+{{step_3}}
+
+Next, let's delve into detail about the expected outcomes, timeline, and possible implications of the proposed strategies: {{strategy_outcomes_and_implications}}. This demonstrates expertise and builds client confidence.
+
+->>>>
+
+With the purpose of the email and necessary details, we have provided insights on the expected outcomes and implications:
+
+Necessary Details:
+{{step_3}}
+
+Expected Outcomes and Implications:
+{{step_4}}
+
+Now, sign off with an invitation for further discussion or a call to action: {{call_to_action}}. This could be scheduling another meeting, awaiting the client's comments, or reading over attached documents.
+
+->>>>
+
+We have detailed the expected outcomes and proposed a call to action:
+
+Expected Outcomes and Implications:
+{{step_4}}
+
+Call to Action:
+{{step_5}}
+
+Finally, conclude the email with a professional sign-off, including your name, position, and contact information. This should be tailored to the sender’s role in the consulting firm.
+

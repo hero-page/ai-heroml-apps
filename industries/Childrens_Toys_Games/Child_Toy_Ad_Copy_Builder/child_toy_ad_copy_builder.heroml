@@ -1,0 +1,88 @@
+Your task is to write an "Ad Copy" for the "Children's Toys & Games" industry, specifically for a "Product Marketer".
+
+Let's start the Ad Copy with an engaging headline that captures the essence of the toy or game: {{toy_or_game}}.
+
+Here's some more context about the Ad Copy:
+Toy Or Game: {{toy_or_game}}
+Unique Selling Point: {{unique_selling_point}}
+Product Features: {{product_features}}
+Playing Experience: {{playing_experience}}
+Educational Benefits: {{educational_benefits}}
+Offers Deals: {{offers_deals}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+We now have a captivating headline for our Ad:
+
+Headline:
+{{step_1}}
+
+Next, write an introduction articulating the unique selling point of the toy or game: {{unique_selling_point}}. The introduction should establish the key benefits of the product.
+
+->>>>
+
+Now we have both a headline and an introduction for the Ad.
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving forward, let's discuss the intricacies of the product, including any notable features or specifications such as age range, safety standards, educational benefits, etc.: {{product_features}}.
+
+->>>>
+
+Now, for the Ad, we have a headline, introduction, and product features:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Next, let's include some fun and exciting product descriptions that will stimulate a child's imagination. These descriptions should elaborate on the overall playing experience: {{playing_experience}}.
+
+->>>>
+
+So far, we have the headline, introduction, product features, and the playing experience for the Ad:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Playing Experience:
+{{step_4}}
+
+Now, let's emphasize how the product can aid in the educational and overall development of a child. We can link the toy or game to skill acquisition or educational benefits where applicable: {{educational_benefits}}.
+
+->>>>
+
+Until now, for the Ad, we have generated the headline, introduction, product features, playing experience, and the educational benefits:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Playing Experience:
+{{step_4}}
+
+Educational Benefits:
+{{step_5}}
+
+Next, highlight any exciting offers, discounts, or deals if any are available: {{offers_deals}}.
+

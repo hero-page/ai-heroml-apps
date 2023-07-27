@@ -1,0 +1,85 @@
+Your task is to write a "Final Presentation" for the "Consulting" industry, specifically for a "Management Consultant". Let's start with an engaging introduction that succinctly overviews the purpose of the presentation: the scope of review, the tasks accomplished ({{scope_and_tasks}}), and the key objectives addressed.
+
+Here's some more context about the Final Presentation:
+Scope And Tasks: {{scope_and_tasks}}
+Organization Review: {{organization_review}}
+Key Insights: {{key_insights}}
+Findings Implications: {{findings_implications}}
+Recommendations: {{recommendations}}
+Implementation And Outcomes: {{implementation_and_outcomes}}
+
+->>>>
+
+We are building a "Final Presentation" and we have an engaging introduction that overviews the purpose of the presentation:
+
+Introduction:
+{{step_1}}
+
+Next, introduce any data or materials that present an in-depth review of the organization's current situation by describing its structure, processes or products: {{organization_review}}.
+
+->>>>
+
+Include these important pieces for our "Final Presentation":
+
+Introduction:
+{{step_1}}
+
+Organization Review:
+{{step_2}}
+
+Moving on, let's transition into the core of your presentation: presenting key findings and insights. Organize information thematically according to the major findings from your analysis: {{key_insights}}.
+
+->>>>
+
+At this point, we have:
+
+Introduction:
+{{step_1}}
+
+Organization Review:
+{{step_2}}
+
+Key Insights:
+{{step_3}}
+
+Next, discuss the implications of your findings: how do these findings impact the organization and how can they be leverage for improvement or transformation? Use the variable {{findings_implications}} as a guide.
+
+->>>>
+
+These are the main components of our presentation so far:
+
+Introduction:
+{{step_1}}
+
+Organization Review:
+{{step_2}}
+
+Key Insights:
+{{step_3}}
+
+Findings Implications:
+{{step_4}}
+
+The next element for this presentation should be focused on your recommendations. These need to be specific, actionable steps for improvement based on your findings. Reference the {{recommendations}} variable to outline this section.
+
+->>>>
+
+Our "Final Presentation" for a Management Consultant's role includes:
+
+Introduction:
+{{step_1}}
+
+Organization Review:
+{{step_2}}
+
+Key Insights:
+{{step_3}}
+
+Findings Implications:
+{{step_4}}
+
+Recommendations:
+{{step_5}}
+
+To conclude, let's draft a strategic plan that outlines how to implement your recommendations, and potential outcomes that are expected ({{implementation_and_outcomes}}).
+

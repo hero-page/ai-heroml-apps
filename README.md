@@ -449,6 +449,20 @@ Explore these links to learn more about each app's functionality and to see thei
 * [Young Readers StoryCraft AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Storybooks_Young_Adult_Novels/Young_Readers_StoryCraft_AI)
 ## Childrens Toys Games
 
+* [Child Toy Ad Copy Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Child_Toy_Ad_Copy_Builder)
+* [Childrens Toy Description Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Childrens_Toy_Description_Generator)
 * [Childrens Toy Pitch Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Childrens_Toy_Pitch_Generator)
+* [Email Campaign AI for Kids Products](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Email_Campaign_AI_for_Kids_Products)
+* [Game Manual AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Game_Manual_AI_Creator)
+* [Kids Toy Assembly Instructions AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Kids_Toy_Assembly_Instructions_AI)
 * [Toy Concept Industry AI Planner](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Toy_Concept_Industry_AI_Planner)
 * [Toy Design Spec Creator Safety Guide](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Toy_Design_Spec_Creator_Safety_Guide)
+* [Toy Safety Guidelines Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Childrens_Toys_Games/Toy_Safety_Guidelines_Creator)
+## Consulting
+
+* [AI Project Proposal Customizer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Consulting/AI_Project_Proposal_Customizer)
+* [Consultant Client Email AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Consulting/Consultant_Client_Email_AI_Composer)
+* [Consultant Presentation Planner AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Consulting/Consultant_Presentation_Planner_AI)
+* [Consultation Updates AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Consulting/Consultation_Updates_AI_Composer)
+* [Strategy Consult Market Analysis Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Consulting/Strategy_Consult_Market_Analysis_Creator)
+* [Strategy Document Creator with Roadmap](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Consulting/Strategy_Document_Creator_with_Roadmap)

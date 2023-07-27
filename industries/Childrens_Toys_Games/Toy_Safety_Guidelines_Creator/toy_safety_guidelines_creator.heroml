@@ -1,0 +1,113 @@
+Your task is to write "Safety Guidelines" for the "Children's Toys & Games" industry, specifically for an "Instruction Manual Writer". Let's begin your "Safety Guidelines" with a brief introduction that explains the purpose and importance of safety in the context of the specific toy or game: {{toy_or_game}}.
+
+Here's some more context about the Safety Guidelines:
+Toy Or Game: {{toy_or_game}}
+
+->>>>
+
+We have a brief introduction for our safety guidelines:
+
+Introduction:
+{{step_1}}
+
+Now, segue into general safety instructions which apply broadly to all toys and games. This should include reminders about adult supervision, appropriate age usage, safe environments for play, and precautions against swallowing small parts.
+
+->>>>
+
+We have an introduction and general safety instructions for our safety guidelines:
+
+Introduction:
+{{step_1}}
+
+General Safety Instructions:
+{{step_2}}
+
+Proceed to provide guidelines that are specific to the toy or game: {{toy_or_game}}. This section should cover any unique risks or potential dangers associated with the toy or game, and how users should address them.
+
+->>>>
+
+Our safety guidelines now include an introduction, general safety instructions and specific safety guidelines for the toy or game:
+
+Introduction:
+{{step_1}}
+
+General Safety Instructions:
+{{step_2}}
+
+Specific Safety Guidelines - {{toy_or_game}}:
+{{step_3}}
+
+Now, please devise a set of guidelines to cover proper maintenance and regular checks for the toy or game. This could include cleaning instructions, inspections for wear and tear, and when/how to dispose of it if it becomes unsafe.
+
+->>>>
+
+With the addition of maintenance and regular checks, our safety guidelines now include:
+
+General Safety Instructions:
+{{step_2}}
+
+Specific Safety Guidelines - {{toy_or_game}}:
+{{step_3}}
+
+Maintenance and Regular Checks:
+{{step_4}}
+
+Make sure to include a section about emergency procedures. Explain how to respond if the toy or game: {{toy_or_game}}, causes an injury or if a part is accidentally ingested.
+
+->>>>
+
+We have our general safety Instructions, specific guidelines for the toy or game, maintenance and regular checks, and now we also have emergency procedures:
+
+General Safety Instructions:
+{{step_2}}
+
+Specific Safety Guidelines - {{toy_or_game}}:
+{{step_3}}
+
+Maintenance and Regular Checks:
+{{step_4}}
+
+Emergency Procedures:
+{{step_5}}
+
+We now need to encourage communication. Stress the importance of adults discussing these safety guidelines with children who will use the toy or game: {{toy_or_game}}, and recommend that adults reinforce these rules regularly.
+
+->>>>
+
+Our safety guidelines now also include communication encouragement:
+
+Specific Safety Guidelines - {{toy_or_game}}:
+{{step_3}}
+
+Maintenance and Regular Checks:
+{{step_4}}
+
+Emergency Procedures:
+{{step_5}}
+
+Communication Encouragement:
+{{step_6}}
+
+The language and terminology should suit the industry. Remember, this guide will be read by parents and caregivers, so keep it easily understandable for a non-expert audience.
+
+->>>>
+
+Our safety guidelines now have a proper professional tone:
+
+General Safety Instructions:
+{{step_2}}
+
+Specific Safety Guidelines - {{toy_or_game}}:
+{{step_7}}
+
+Maintenance and Regular Checks:
+{{step_4}}
+
+Emergency Procedures:
+{{step_5}}
+
+Communication Encouragement:
+{{step_6}}
+
+Finally, wrap up the guidelines with a conclusive paragraph restating the importance of toy and game safety, particularly focusing on the toy or game: {{toy_or_game}}. 
+

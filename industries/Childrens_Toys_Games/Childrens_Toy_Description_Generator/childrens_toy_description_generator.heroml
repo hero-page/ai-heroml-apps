@@ -1,0 +1,110 @@
+Your task is to write a "Product Description" for the "Children's Toys & Games" industry, specifically for a "Product Marketer". 
+Let's start by creating a catchy and engaging headline that describes the product in a fun and succinct way: {{product_name}}.
+
+Here's some more context about the Product Description:
+Product Name: {{product_name}}
+Product Overview: {{product_overview}}
+Product Features: {{product_features}}
+Age And Safety: {{age_and_safety}}
+Educational Benefits: {{educational_benefits}}
+Whats In The Box: {{whats_in_the_box}}
+
+->>>>
+
+We have the headline for our product: 
+
+Product Name:
+{{step_1}}
+
+Next, write an introduction that gives a brief overview of the product, touching on its main features, uses, and unique selling points.
+
+->>>>
+
+Here is the headline and the introduction for our product:
+
+Product Name:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Now, let's delve deeper into the product's description and elaborate on each of the product's features, their user benefits, and how the product differs from others on the market.
+
+->>>>
+
+Let's look at our product's headline, introduction, and detailed features:
+
+Product Name:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Moving along, focus on the age group and safety measures. Highlight the product's suitability for the intended age group and the safety measures that have been incorporated.
+
+->>>>
+
+We have the product's headline, introduction, detailed features, and information about its age appropriateness and safety:
+
+Product Name:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Age and Safety Measures:
+{{step_4}}
+
+Next, detail any educational or developmental benefits the toy or game might offer for children. This adds value to the product.
+
+->>>>
+
+Here is our product's headline, introduction, detailed features, age and safety considerations, and its educational benefits:
+
+Product Name:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Age and Safety Measures:
+{{step_4}}
+
+Educational Benefits:
+{{step_5}}
+
+Now our task is to list out all the items included in the product packaging. Title this segment 'What's in the Box'.
+
+->>>>
+
+For our product, we now have the headline, introduction, detailed features, age and safety measures, the educational benefits, and what's included in the box:
+
+Product Name:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Age and Safety Measures:
+{{step_4}}
+
+Educational Benefits:
+{{step_5}}
+
+What's in the Box:
+{{step_6}}
+
+To conclude, let's draft a compelling call to action. It should emphasize the fun and enjoyment that children will get from our product.
+

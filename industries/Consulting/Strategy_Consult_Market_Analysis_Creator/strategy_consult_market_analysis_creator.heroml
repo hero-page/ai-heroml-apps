@@ -1,0 +1,116 @@
+Your task is to write a market analysis for the consulting industry, specifically for a Strategy Consultant.
+
+Let's start with an executive summary that encapsulates the key findings and insights from your market analysis: {{key_findings}}. Stress on these points in the summary as they will guide the strategic direction for business decisions.
+
+Here's some more context about the Market Analysis:
+Key Findings: {{key_findings}}
+Industry: {{industry}}
+Target Market: {{target_market}}
+Analysis Period: {{analysis_period}}
+Market Trends: {{market_trends}}
+
+->>>>
+
+We have an executive summary for our market analysis:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that outlines the scope of the market analysis. Define the industry or sector: {{industry}}, target market: {{target_market}}, and the time period: {{analysis_period}} for which the analysis has been conducted.
+
+->>>>
+
+For our market analysis, we have an executive summary and an introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Proceed to an industry overview, detailing the current size, historical growth rates, future growth projections, key players, and trends of the industry. Make sure to reference reliable sources.
+
+->>>>
+
+In our market analysis, we have an introduction and an industry overview:
+
+Introduction:
+{{step_2}}
+
+Industry Overview:
+{{step_3}}
+
+Now, analyze the market trends in-depth, focusing on past, current, and future trends. These trends could range from consumer preferences to technological advancements within the industry: {{market_trends}}.
+
+->>>>
+
+For our market analysis, we have an industry overview and in-depth analysis of market trends:
+
+Industry Overview:
+{{step_3}}
+
+Market Trends:
+{{step_4}}
+
+Next, conduct a customer analysis. Discuss your target market: {{target_market}}, focusing on their demographics, behaviors, needs, and how these are being met by businesses in the current market scenario.
+
+->>>>
+
+In our market analysis, we have a detailed analysis of the market trends and a customer analysis:
+
+Market Trends:
+{{step_4}}
+
+Customer Analysis:
+{{step_5}}
+
+Move on to a competitive analysis. Identify the key players and their strategies in your {{industry}} and how they are performing. Highlight their strengths, weaknesses, and strategies in detail.
+
+->>>>
+
+For our market analysis, we have a customer analysis and a competitive analysis:
+
+Customer Analysis:
+{{step_5}}
+
+Competitive Analysis:
+{{step_6}}
+
+Now, review the regulatory environment. Explain the impact of government regulations, international trade policies, and legal issues on the {{industry}}. These could heavily influence the firm's strategy.
+
+->>>>
+
+In our market analysis, we have a competitive analysis and a review of the regulatory environment:
+
+Competitive Analysis:
+{{step_6}}
+
+Regulatory Environment Review:
+{{step_7}}
+
+Proceed to discuss potential opportunities and challenges in the industry. These could include imminent technological advancements, demographic shifts, changes in consumer preferences, other macro-environmental factors.
+
+->>>>
+
+For our market analysis, we have a regulatory environment review and a discussion of potential opportunities and challenges:
+
+Regulatory Environment Review:
+{{step_7}}
+
+Opportunities and Challenges:
+{{step_8}}
+
+In the final part, provide an outlook of where you see the {{industry}} heading in the future based on the data, trends, and insights you have gathered during the market analysis. Draw attention to potential untapped markets, growth areas, threats or challenges.
+
+->>>>
+
+In our market analysis, we have a discussion of opportunities and challenges and an industry future outlook:
+
+Opportunities and Challenges:
+{{step_8}}
+
+Industry Future Outlook:
+{{step_9}}
+
+To conclude, summarize the findings and key insights: {{key_findings}}, discuss their strategic implications, and provide relevant recommendations for strategy formulations based on the analyzed data.
+

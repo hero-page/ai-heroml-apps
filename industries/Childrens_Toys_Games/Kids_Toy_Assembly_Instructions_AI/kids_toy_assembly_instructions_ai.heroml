@@ -1,0 +1,61 @@
+Let's start by generating an introduction for an assembly instruction manual. This should explain the purpose of the manual, list safety considerations, and include a brief rundown of the components included in the package: {{introductory_description}}.
+
+Here's some more context about the Assembly Instructions:
+Introductory Description: {{introductory_description}}
+Toy Or Game Overview: {{toy_or_game_overview}}
+Step By Step Assembly Instructions: {{step_by_step_assembly_instructions}}
+Assembly Tips: {{assembly_tips}}
+Troubleshooting Guide: {{troubleshooting_guide}}
+Language And Tone Guide: {{language_and_tone_guide}}
+
+->>>>
+
+We have an introductory description for the manual:
+
+Introduction:
+{{step_1}}
+
+Next, let's generate an overview of the toy/game for which we are writing this assembly instruction manual. It should discuss main features, benefits, and functionality of the toy/game concisely, and avoid overly technical language: {{toy_or_game_overview}}.
+
+->>>>
+
+Our assembly instruction manual now has an introduction and an overview of the toy/game:
+
+Introduction:
+{{step_1}}
+
+Toy/Game Overview:
+{{step_2}}
+
+Now, we need to write a sequential list of steps for the assembly process. Each step should be brief, detailed, and follow a logical sequence leading smoothly into the next step: {{step_by_step_assembly_instructions}}.
+
+->>>>
+
+Our assembly instruction manual now has a sequential assembly process listed:
+
+Introduction:
+{{step_1}}
+
+Toy/Game Overview:
+{{step_2}}
+
+Assembly Instructions:
+{{step_3}}
+
+Next, let's include simple, clearly-worded tips to assist with complex or tricky steps in the assembly process. The language used should be appropriate for both adults and older children: {{assembly_tips}}.
+
+->>>>
+
+Our assembly instruction manual now has assembly tips to guide through complex steps:
+
+Introduction:
+{{step_1}}
+
+Assembly Instructions:
+{{step_3}}
+
+Assembly Tips:
+{{step_4}}
+
+Now, let's conclude the manual with a troubleshooting guide. It should provide solutions to common problems that might arise during assembly or subsequent use of the toy or game: {{troubleshooting_guide}}.
+

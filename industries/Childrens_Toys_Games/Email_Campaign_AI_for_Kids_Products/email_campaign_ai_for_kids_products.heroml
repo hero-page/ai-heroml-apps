@@ -1,0 +1,72 @@
+Your task is to write an "Email Campaign" for the "Children's Toys & Games" industry, specifically for a "Product Marketer". 
+
+Start off by developing a catchy subject line that will grab the attention of the recipient and ignite their curiosity about the product or collection.
+
+Here's some more context about the Email Campaign:
+Subject Line: {{subject_line}}
+Product Overview: {{product_overview}}
+Product Features: {{product_features}}
+Product Benefits: {{product_benefits}}
+CTA: {{CTA}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+Now we have a catchy subject line for our email:
+
+Subject Line:
+{{step_1}}
+
+Next, construct an introductory paragraph that gives a brief overview of the Children's Toys & Games product or collection, highlighting the primary features that make it exciting and beneficial for the target audience.
+
+->>>>
+
+This is our catchy email subject line, and the product overview:
+
+Subject Line:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Next, provide detailed information about the Children's Toys & Games product or collection. Explain its functionality, features, suitability for various age groups, safety norms, and any other unique selling propositions.
+
+->>>>
+
+Having a subject line, product overview, and detailed features of our product:
+
+Subject Line:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Going forward, discuss how this product helps in the child's development. Speak about the learning outcomes, skills enhanced, and any other potential benefits.
+
+->>>>
+
+Now, we have explored the product features and how it benefits the child's development:
+
+Product Features:
+{{step_3}}
+
+Product Benefits:
+{{step_4}}
+
+Next, create a call-to-action (CTA) encouraging them to explore the product or make a purchase. This should be a compelling message that sparks interest or urgency.
+
+->>>>
+
+Here we have detailed benefits and a call-to-action for our customers:
+
+Product Benefits:
+{{step_4}}
+
+Call-to-Action:
+{{step_5}}
+
+Conclude the email with a short paragraph emphasizing the main takeaway. This could be the core benefit of the product, a limited-time offer, or any compelling message to motivate an immediate response. 
+

@@ -1,0 +1,115 @@
+Your task is to create a Strategy Document as a Strategy Consultant for the "Consulting" industry.
+Let's start by composing an executive summary, highlighting the key conclusions and recommendations related to the strategic topic: {{strategic_topic}}.
+
+Here's some more context about the Strategy Document:
+Strategic Topic: {{strategic_topic}}
+Business Context: {{business_context}}
+Client Pain Points: {{client_pain_points}}
+
+->>>>
+
+We now have a compelling executive summary for the Strategy Document:
+
+Executive Summary:
+{{step_1}}
+
+Next, we'll be writing an introduction that presents an industry background and outlines the current business landscape impacting the client's circumstances: {{business_context}}.
+
+->>>>
+
+The executive summary has been written and is as follows:
+
+Executive Summary:
+{{step_1}}
+
+Alongside that, we've formulated an introduction:
+
+Introduction:
+{{step_2}}
+
+Moving forward, let's analyze the core challenges and pinpoints our client is experiencing: {{client_pain_points}}.
+
+->>>>
+
+We have composed the introduction of our Strategy Document:
+
+Introduction:
+{{step_2}} 
+
+And a firm grasp on our client's main issues:
+
+Client's Challenges and Pain Points:
+{{step_3}}
+
+Take the findings from the previous action and craft a competitive analysis that measures the client's business against primary competitors in terms of strengths, weaknesses, opportunities, and threats.
+
+->>>>
+
+Now, we have outlined the client's challenges:
+
+Client's Challenges and Pain Points:
+{{step_3}} 
+
+And we have a detailed competitive analysis:
+
+Competitive Analysis:
+{{step_4}}
+
+From these insights, articulate the main strategic themes and initiatives that tackle the key problems identified in {{client_pain_points}}.
+
+->>>>
+
+So far, we have profiled the competition:
+
+Competitive Analysis:
+{{step_4}} 
+
+And identified our strategic themes and initiatives:
+
+Strategic Themes and Initiatives:
+{{step_5}}
+
+Time to derive actionable recommendations from each strategic theme. These should clarify their anticipated impact on the client’s business.
+
+->>>>
+
+In our Strategy Document we have presented strategic themes:
+
+Strategic Themes and Initiatives:
+{{step_5}} 
+
+And under each initiative, we provided actionable recommendations:
+
+Actionable Recommendations and Expected Impact:
+{{step_6}}
+
+Next step, let's anticipate potential risks and mitigation strategies associated with the implementation of our strategic recommendations.
+
+->>>>
+
+We have defined actionable initiatives:
+
+Actionable Recommendations and Expected Impact:
+{{step_6}}
+
+And outlined potential risks and proposed mitigation strategies:
+
+Potential Risks and Mitigation Strategies:
+{{step_7}}
+
+With this crucial information, design an implementation roadmap. This document should indicate the steps, responsible parties, and an estimated timeline for each strategic initiative.
+
+->>>>
+
+We have identified risks:
+
+Potential Risks and Mitigation Strategies:
+{{step_7}}
+
+And crafted an implementation roadmap:
+
+Implementation Roadmap:
+{{step_8}}
+
+Lastly, create a follow-up plan to monitor the progress of the strategy implementation at regular intervals.
+

@@ -1,0 +1,95 @@
+Your task is to write a "Project Proposal" for the "Consulting" industry, specifically for a "Management Consultant". Let's start with creating an executive summary that overviews the project theme: {{project_theme}}.
+
+Here's some more context about the Project Proposal:
+Project Theme: {{project_theme}}
+Business Context: {{business_context}}
+Project Goals: {{project_goals}}
+Team Roles Responsibilities: {{team_roles_responsibilities}}
+Resources Required: {{resources_required}}
+Risks And Solutions: {{risks_and_solutions}}
+Project Timeline: {{project_timeline}}
+
+->>>>
+
+Based on the created executive summary over the 'project theme':
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that provides the business context: {{business_context}}, problem, and the proposed solution.
+
+->>>>
+
+An executive summary and business context have been created as follows:
+
+Executive Summary:
+{{step_1}}
+
+Business Context:
+{{step_2}}
+
+Next, clearly define the objectives and outcomes of the project: {{project_goals}}.
+
+->>>>
+
+Now, we have an executive summary, business context, and project objectives:
+
+Executive Summary:
+{{step_1}}
+
+Business Context:
+{{step_2}}
+
+Project Objectives:
+{{step_3}}
+
+Next, detail out the specific steps to achieve the {{project_goals}}.
+
+->>>>
+
+We have our planned steps to achieve the project objectives:
+
+Project Objectives:
+{{step_3}}
+
+Project Approach:
+{{step_4}}
+
+Now, discuss the project management approach, including the roles and responsibilities of the team: {{team_roles_responsibilities}}.
+
+->>>>
+
+We have the project approach and project management strategy:
+
+Project Approach:
+{{step_4}}
+
+Project Management Approach:
+{{step_5}}
+
+Next, identify and describe the resources: {{resources_required}}, necessary to carry out the project.
+
+->>>>
+
+We have established our resource needs:
+
+Project Management Approach:
+{{step_5}}
+
+Resources Required:
+{{step_6}}
+
+Now, let's address potential risks and prepare mitigation plans: {{risks_and_solutions}} for any obstacles that could impact the project's success.
+
+->>>>
+
+We have outlined our project resources and risk management plan:
+
+Resources Required:
+{{step_6}}
+
+Risk Management Plan:
+{{step_7}}
+
+Next, let's provide a project timeline: {{project_timeline}}, showing key milestones, and an overview of the project budget.
+
