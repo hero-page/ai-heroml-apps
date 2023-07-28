@@ -1,0 +1,131 @@
+Your task is to write a "Street Food Guide" specifically for a "Food Travel Blogger". Let's begin with an interesting introduction that captures the essence of the street food culture in the destination city: {{destination_city}}, giving readers a taste of what's to come.
+
+Here's some more context about the Street Food Guide:
+Destination City: {{destination_city}}
+
+->>>>
+
+For our "Street Food Guide", we have an engaging introduction that gives a glimpse of the food culture in {{destination_city}}:
+
+Introduction:
+{{step_1}}
+
+Next, let's develop a section where we provide valuable background information about the diverse food landscape in {{destination_city}}, describing the unique blend of cuisines available.
+
+->>>>
+
+For our guide, we have an introduction and a section describing the diverse food landscape:
+
+Introduction:
+{{step_1}}
+
+Food Landscape Information:
+{{step_2}}
+
+Now, let's create a section dedicated to local street food experiences, elaborating on key street foods that are representative of {{destination_city}}.
+
+->>>>
+
+So far, we have the introduction, a section about the food landscape, and a section highlighting local street food experiences of {{destination_city}}:
+
+Introduction:
+{{step_1}}
+
+Food Landscape Information:
+{{step_2}}
+
+Local Street Food Experiences:
+{{step_3}}
+
+Next up, let's map out popular street food spots in {{destination_city}} including local markets, food vans or roadside stalls.
+
+->>>>
+
+In our food guide, we now have sections for the introduction, food landscape, local street food experiences, and popular street food spots:
+
+Introduction:
+{{step_1}}
+
+Food Landscape Information:
+{{step_2}}
+
+Local Street Food Experiences:
+{{step_3}}
+
+Street Food Spots:
+{{step_4}}
+
+For the next section, focus on dietary requirements, addressing options for individuals with dietary restrictions like vegetarian, gluten-free, or nut-free within the street food scene of {{destination_city}}.
+
+->>>>
+
+Our "Street Food Guide" now provides information on the introduction, food landscape, street food experiences, food spots, as well as catering for dietary requirements:
+
+Introduction:
+{{step_1}}
+
+Food Landscape Information:
+{{step_2}}
+
+Local Street Food Experiences:
+{{step_3}}
+
+Street Food Spots:
+{{step_4}}
+
+Food for Dietary Requirements:
+{{step_5}}
+
+Let's add more value by building a section that offers tips and tricks for street food etiquette and safety in {{destination_city}}.
+
+->>>>
+
+Presently, we have sections for the introduction, food landscape, street food experiences, food spots, dietary requirements, and we've also included street food etiquette and safety tips:
+
+Introduction:
+{{step_1}}
+
+Food Landscape Information:
+{{step_2}}
+
+Local Street Food Experiences:
+{{step_3}}
+
+Street Food Spots:
+{{step_4}}
+
+Food for Dietary Requirements:
+{{step_5}}
+
+Etiquette & Safety:
+{{step_6}}
+
+Next, let's highlight some local interactions and personal anecdotes related to street food in {{destination_city}}, that can provide a unique, firsthand perspective to your readers.
+
+->>>>
+
+Currently, our "Street Food Guide" has detailed sections for the introduction, food landscape, street food experiences, food spots, dietary requirements, etiquette & safety, as well as local interactions and anecdotes:
+
+Introduction:
+{{step_1}}
+
+Food Landscape Information:
+{{step_2}}
+
+Local Street Food Experiences:
+{{step_3}}
+
+Street Food Spots:
+{{step_4}}
+
+Food for Dietary Requirements:
+{{step_5}}
+
+Etiquette & Safety:
+{{step_6}}
+
+Local Interactions:
+{{step_7}}
+
+Now, let's conclude with a wrap-up section, summarizing the essential elements of the street food culture in {{destination_city}}, and what makes it unique and exciting.
+

@@ -1,0 +1,106 @@
+Your task is to write a "Restaurant Review" for the "Food Writing" industry, specifically for a "Author". 
+Begin by composing a captivating introduction that sets the tone for your review and draws the readers' attention towards the restaurant: {{restaurant_name}}.
+
+Here's some more context about the Restaurant Review:
+Restaurant Name: {{restaurant_name}}
+Restaurant Details: {{restaurant_details}}
+Menu Experience: {{menu_experience}}
+Food Review: {{food_review}}
+Service Review: {{service_review}}
+Value Evaluation: {{value_evaluation}}
+Recommendation: {{recommendation}}
+Final Thoughts: {{final_thoughts}}
+
+->>>>
+
+We have begun our Restaurant Review with the following introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's provide some key details about the restaurant, such as its location, ambiance, customer service, special features, or history related to its creation.
+
+->>>>
+
+In our restaurant review, we now have an introduction and some key details about the restaurant:
+
+Introduction:
+{{step_1}}
+
+Restaurant Details:
+{{step_2}}
+
+Moving on, describe your dining experience starting from the variety offered in the menu, its presentation, to the creativity of the dishes.
+
+->>>>
+
+So far, in our restaurant review, we have detailed out the restaurant and the menu experience:
+
+Restaurant Details:
+{{step_2}}
+
+Menu Experience:
+{{step_3}}
+
+Let's now share the taste, quality, and presentation of the food you ordered in detail. Provide specific examples that highlight the chef’s expertise.
+
+->>>>
+
+Building our restaurant review, we now have the restaurant's details, the experience with the menu, and the food review thereof:
+
+Restaurant Details:
+{{step_2}}
+
+Menu Experience:
+{{step_3}}
+
+Food Review:
+{{step_4}}
+
+Next, discuss your experiences concerning the restaurant's service, which might include your interactions with the staff, the speed of service, and any noteworthy incidences.
+
+->>>>
+
+Up until now, in our restaurant review, we have discussed the restaurant, the menu, the food and the service:
+
+Restaurant Details:
+{{step_2}}
+
+Food Review:
+{{step_4}}
+
+Service Review:
+{{step_5}}
+
+Further, let's evaluate the restaurant's value proposition by discussing the pricing in relation to the food quality, portion sizes, and the overall dining experience.
+
+->>>>
+
+At this point in our restaurant review, we have talked about the restaurant, the food, the service and the value for money:
+
+Restaurant Details:
+{{step_2}}
+
+Service Review:
+{{step_5}}
+
+Value Evaluation:
+{{step_6}}
+
+Now, please give an overall rating of the restaurant and also recommend who you think would particularly enjoy this restaurant, such as food lovers, families, couples on date night, and so on.
+
+->>>>
+
+In advancing our restaurant review, we have the restaurant's details, service review, value evaluation, and now our ratings and recommendations:
+
+Service Review:
+{{step_5}}
+
+Value Evaluation:
+{{step_6}}
+
+Ratings & Recommendations:
+{{step_7}}
+
+To wrap up the review, provide hints on whether you would revisit the restaurant and why. This is also an opportunity to provide a final thought or great takeaway from your dining experience.
+

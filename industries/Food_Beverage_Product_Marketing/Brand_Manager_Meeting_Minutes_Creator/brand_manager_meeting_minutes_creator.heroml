@@ -1,0 +1,204 @@
+Your task is to write a "Meeting Minutes" for the "Food & Beverage Product Marketing" industry, specifically for a "Brand Manager". 
+Let's begin by creating an introduction for these meeting minutes that includes the meeting date, attendees, and principal topics.
+
+Here's some more context about the Meeting Minutes:
+Meeting Details: {{meeting_details}}
+Agenda Items: {{agenda_items}}
+Discussion Points: {{discussion_points}}
+Brand Performance: {{brand_performance}}
+New Product Information: {{new_product_information}}
+Cross Department Collaborations: {{cross_department_collaborations}}
+Industry Updates: {{industry_updates}}
+Action Steps: {{action_steps}}
+Meeting Summary: {{meeting_summary}}
+Next Meeting: {{next_meeting}}
+
+->>>>
+
+You have generated the introduction for the meeting minutes:
+
+Introduction:
+{{step_1}}
+
+Now, outline the meeting agenda, detailing each item or decision point which might include discussions around brand positioning, market strategies, innovations, SWOT analysis, packaging enhancement, etc.
+
+->>>>
+
+The introduction and outline for the meeting agenda of the "Meeting Minutes" are ready:
+
+Introduction:
+{{step_1}}
+
+Agenda:
+{{step_2}}
+
+The next step is to address each agenda item, summarizing the discussion and highlighting key decisions, action steps, and responsible parties. This should include specific marketing strategies, sales targets, product performance, and competitor tactics.
+
+->>>>
+
+Here is an overview of the meeting minutes so far:
+
+Introduction:
+{{step_1}}
+
+Agenda:
+{{step_2}}
+
+Discussion Points:
+{{step_3}}
+
+Let's proceed by including notes on brand performance. This could involve a discussion on sales trends, shopper demographics, feedback and reviews, etc.
+
+->>>>
+
+This is the status of the meeting minutes:
+
+Introduction:
+{{step_1}}
+
+Agenda:
+{{step_2}}
+
+Discussion Points:
+{{step_3}}
+
+Brand Performance:
+{{step_4}}
+
+Then, write about any new product initiations, detailing their marketing strategies, competitive landscape, potential challenges, and set expectations.
+
+->>>>
+
+The "Meeting Minutes" document now includes:
+
+Introduction:
+{{step_1}}
+
+Agenda:
+{{step_2}}
+
+Discussion Points:
+{{step_3}}
+
+Brand Performance:
+{{step_4}}
+
+New Product Information:
+{{step_5}}
+
+Now, discuss any marketing collaboration with other departments like R&D, Design, or Manufacturing addressed in the meeting.
+
+->>>>
+
+For the "Meeting Minutes" we have included:
+
+Introduction:
+{{step_1}}
+
+Agenda:
+{{step_2}}
+
+Discussion Points:
+{{step_3}}
+
+Brand Performance:
+{{step_4}}
+
+New Product Information:
+{{step_5}}
+
+Cross Department Collaborations:
+{{step_6}}
+
+Next, include updates on regulatory affairs, market trends, and industry news, as these will impact brand positioning and strategy.
+
+->>>>
+
+The "Meeting Minutes" now include:
+
+Introduction:
+{{step_1}}
+
+Agenda:
+{{step_2}}
+
+Discussion Points:
+{{step_3}}
+
+Brand Performance:
+{{step_4}}
+
+New Product Information:
+{{step_5}}
+
+Cross Department Collaborations:
+{{step_6}}
+
+Industry Updates:
+{{step_7}}
+
+Address any immediate actions to be taken, listing out actions, responsible parties, and deadlines.
+
+->>>>
+
+Here's the current content of the "Meeting Minutes":
+
+Introduction:
+{{step_1}}
+
+Agenda:
+{{step_2}}
+
+Discussion Points:
+{{step_3}}
+
+Brand Performance:
+{{step_4}}
+
+New Product Information:
+{{step_5}}
+
+Cross Department Collaborations:
+{{step_6}}
+
+Industry Updates:
+{{step_7}}
+
+Action Steps:
+{{step_8}}
+
+Follow with a brief summary highlighting key decisions and follow-ups.
+
+->>>>
+
+We have the following sections for the "Meeting Minutes":
+
+Introduction:
+{{step_1}}
+
+Agenda:
+{{step_2}}
+
+Discussion Points:
+{{step_3}}
+
+Brand Performance:
+{{step_4}}
+
+New Product Information:
+{{step_5}}
+
+Cross Department Collaborations:
+{{step_6}}
+
+Industry Updates:
+{{step_7}}
+
+Action Steps:
+{{step_8}}
+
+Meeting Summary:
+{{step_9}}
+
+Lastly, end with the suggested date and time for the next meeting.
+

@@ -1,0 +1,104 @@
+Your task is to write a "Content Suggestions" for the "Food Writing" industry, specifically for an "Editor". Let's start by creating a succinct summary introducing the content theme: {{content_theme}}. This will provide direction and context for the forthcoming content suggestions.
+
+Here's some more context about the Content Suggestions:
+Content Theme: {{content_theme}}
+
+->>>>
+
+The summary of our content theme is:
+
+Content Theme Summary:
+{{step_1}}
+
+Now, generate an outline of food topics related to the content theme: {{content_theme}}. Ensure they are directly relevant to the content theme and of interest to the target readership.
+
+->>>>
+
+Our Content theme summary and outline of food topics are as follows:
+
+Content Theme Summary:
+{{step_1}}
+
+Food Topic Outline:
+{{step_2}}
+
+Next, provide a summary of current trends or hot topics within the food industry that align with the content theme: {{content_theme}}. Also include instructions on how these trends can be weaved into your content for increased engagement and relatability.
+
+->>>>
+
+Our Content Theme Summary, Food Topic Outline, and Current Trends summary are as follows:
+
+Content Theme Summary:
+{{step_1}}
+
+Food Topic Outline:
+{{step_2}}
+
+Current Trends:
+{{step_3}}
+
+Now, discuss potential primary sources for the content. These can include experts in the field of the content theme: {{content_theme}}, who can be highlighted in the content.
+
+->>>>
+
+Our Content Theme Summary, Food Topic Outline, Current Trends, and Primary Sources are as follows:
+
+Content Theme Summary:
+{{step_1}}
+
+Food Topic Outline:
+{{step_2}}
+
+Current Trends:
+{{step_3}}
+
+Primary Sources:
+{{step_4}}
+
+Next, provide unique angles or perspectives on the content theme: {{content_theme}} to add depth to the content suggestions.
+
+->>>>
+
+Our Content Theme Summary, Food Topic Outline, Current Trends, Primary Sources, and unique angles are:
+
+Content Theme Summary:
+{{step_1}}
+
+Food Topic Outline:
+{{step_2}}
+
+Current Trends:
+{{step_3}}
+
+Primary Sources:
+{{step_4}}
+
+Unique Angles/Perspectives:
+{{step_5}}
+
+Now, create a list of secondary references or resources that can augment the content theme: {{content_theme}}.
+
+->>>>
+
+Our Content Theme Summary, Food Topic Outline, Current Trends, Primary Sources, Unique Angles/Perspectives, and Secondary References are:
+
+Content Theme Summary:
+{{step_1}}
+
+Food Topic Outline:
+{{step_2}}
+
+Current Trends:
+{{step_3}}
+
+Primary Sources:
+{{step_4}}
+
+Unique Angles/Perspectives:
+{{step_5}}
+
+Secondary References:
+{{step_6}}
+
+To conclude, let's revisit the content theme: {{content_theme}}. Summarize the provided suggestions for content generation and emphasize on their importance and relevance in the context of current food industry trends.
+

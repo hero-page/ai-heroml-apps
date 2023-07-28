@@ -1,0 +1,57 @@
+Your task is to write a "Social Media Post" for the "Furniture & Home Decor Marketing" industry, specifically for a "Content Creator". 
+
+Let's start by drafting a compelling but succinct description capture the essence of the item and pique the reader's interest for the furniture or home decor item you'd like to feature: {{product_description}}.
+
+Here's some more context about the Social Media Post:
+Product Description: {{product_description}}
+Product Details: {{product_details}}
+Product Benefits: {{product_benefits}}
+Styling Suggestions: {{styling_suggestions}}
+Purchasing Information: {{purchasing_information}}
+Interaction Prompt: {{interaction_prompt}}
+
+->>>>
+
+We have started our Social Media Post with a compelling product description:
+
+Product Description:
+{{step_1}}
+
+Next, further expand on the material, design, and craft that sets this particular item apart: {{product_details}}. This is your chance to highlight its uniqueness and the craftsmanship involved in creating it.
+
+->>>>
+
+For our Social Media Post, we have a captivating product description and detailed product details:
+
+Product Description:
+{{step_1}}
+
+Product Details:
+{{step_2}}
+
+Now, detail the benefits and uses of the item in a home setting: {{product_benefits}}. Discuss how it can complement or enhance the aesthetics of a room, provide comfort, or serve a functional purpose.
+
+->>>>
+
+In our Social Media Post, we have detailed product information and product benefits:
+
+Product Details:
+{{step_2}}
+
+Product Benefits:
+{{step_3}}
+
+Next, reflect on the styling tips and suggestions that could help potential customers visualize the item in their own homes: {{styling_suggestions}}. This could entail color pairing, complementary items, or layout arrangements.
+
+->>>>
+
+Our Social Media Post now includes product benefits and styling suggestions:
+
+Product Benefits:
+{{step_3}}
+
+Styling Suggestions:
+{{step_4}}
+
+Moving forward, conclude the post by informing the readers about the availability and purchase process of the furniture or home decor item: {{purchasing_information}}. This includes details about where and how the item can be purchased, whether it's available for online shopping, the prices, and shipping details.
+

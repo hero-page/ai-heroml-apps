@@ -1,0 +1,93 @@
+Your task is to write an "Author Interview" for the "Food Writing" industry, specifically for a "Blogger". 
+Let's start by generating a brief introduction underlining the importance of the author in the food writing industry. Please include {{author_importance}}.
+
+Here's some more context about the Author Interview:
+Author Importance: {{author_importance}}
+Author Background: {{author_background}}
+Food Passion: {{food_passion}}
+Writing Journey: {{writing_journey}}
+Major Works: {{major_works}}
+Author Inspirations: {{author_inspirations}}
+Writing Process: {{writing_process}}
+Writing Anecdotes: {{writing_anecdotes}}
+Favorite Food: {{favorite_food}}
+Food Trends: {{food_trends}}
+Sustainable Cooking: {{sustainable_cooking}}
+Food Health Issues: {{food_health_issues}}
+Author Routine: {{author_routine}}
+Writing Techniques: {{writing_techniques}}
+Taste To Text: {{taste_to_text}}
+Future Plans: {{future_plans}}
+Upcoming Works: {{upcoming_works}}
+Author Advice: {{author_advice}}
+Author Contribution: {{author_contribution}}
+
+->>>>
+
+For the "Author Interview", we have created an introduction that underlines the importance of the author in the food writing industry:
+
+Introduction:
+{{step_1}}
+
+Now, let's create the first section of the interview where we ask the author about their background, their passion for food, and their journey into writing about food. Include {{author_background}}, {{food_passion}}, and {{writing_journey}}.
+
+->>>>
+
+Now we have two parts for our "Author Interview":
+
+Introduction:
+{{step_1}}
+
+Background and Passion:
+{{step_2}}
+
+Next, let's move to the second section where we discuss the author's major works. We will ask in-depth questions about their inspirations, processes, and any interesting stories related to their writings. Ensure we include {{major_works}}, {{author_inspirations}}, {{writing_process}}, and {{writing_anecdotes}}.
+
+->>>>
+
+For the "Author Interview", we now have an introduction, the author's background and passion, and information about the author's major works:
+
+Background and Passion:
+{{step_2}}
+
+Major Works:
+{{step_3}}
+
+Now, in the third section, let's delve into the author's perspective on food. Discuss their favorite cuisines, dishes, and cooking techniques. Include their views on food trends, sustainable cooking, and food-related health issues. Include points such as {{favorite_food}}, {{food_trends}}, {{sustainable_cooking}}, and {{food_health_issues}}.
+
+->>>>
+
+We have successfully created the third section of our "Author Interview". Now, we have the author's background, major works, and food perspectives:
+
+Major Works:
+{{step_3}}
+
+Food Perspectives:
+{{step_4}}
+
+Next, move to the fourth section which focuses on the author's writing process. Include a discussion of their daily routine, writing techniques, and how they incorporate their love for food into their writing. Do not forget {{author_routine}}, {{writing_techniques}}, and {{taste_to_text}}.
+
+->>>>
+
+For this "Author Interview", we have the author's major works, perspectives on food, and process of writing:
+
+Food Perspectives:
+{{step_4}}
+
+Writing Process:
+{{step_5}}
+
+In the final section, let's discuss the author's future plans, any upcoming works, and their advice for newbie writers in the food industry. Include {{future_plans}}, {{upcoming_works}}, and {{author_advice}}.
+
+->>>>
+
+For the "Author Interview", we now have an understanding of the author's writing process, as well as information on the author's future plans:
+
+Writing Process:
+{{step_5}}
+
+Future Plans:
+{{step_6}}
+
+Finally, let's conclude the interview with a heartfelt note of appreciation for the author's contribution to food writing. Do bring in {{author_contribution}}.
+

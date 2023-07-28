@@ -1,0 +1,70 @@
+Your task is to write a "Restaurant Review" for the "Food & Recipe Blogs" industry, specifically for a "Food Blogger". 
+
+Start the process by providing a brief introduction about the restaurant – setting out its details like name, location, and type of cuisine: {{restaurant_details}}.
+
+Here's some more context about the Restaurant Review:
+Restaurant Details: {{restaurant_details}}
+Overall Experience: {{overall_experience}}
+Dishes Overview: {{dishes_overview}}
+Cooking And Ingredients: {{cooking_and_ingredients}}
+Value For Money: {{value_for_money}}
+Industry Specific Context: {{industry_specific_context}}
+Recommendation: {{recommendation}}
+
+->>>>
+
+With a restaurant description in hand, next step:
+
+Restaurant Details:
+{{step_1}}
+
+We shall now communicate your overall experience at the restaurant. Details like ambiance, service, crowd, unique features like live music or art will make the review more engaging: {{overall_experience}}.
+
+->>>>
+
+Having captured the overall dining experience, here's what we have for the review so far:
+
+Restaurant Details:
+{{step_1}}
+
+Overall Restaurant Experience:
+{{step_2}}
+
+Now move on to the crucial aspect - detail the variety and quality of dishes offered at the restaurant. Note down the experience of specific dishes you tasted: {{dishes_overview}}.
+
+->>>>
+
+Let's see what we have:
+
+Restaurant Details:
+{{step_1}}
+
+Dishes Overview:
+{{step_3}}
+
+Proceed to discuss the quality of the ingredients and the culinary skills demonstrated by the restaurant's kitchen, linking back to specific dishes whenever possible: {{cooking_and_ingredients}}.
+
+->>>>
+
+At this stage, our review looks like this:
+
+Dishes Overview:
+{{step_3}}
+
+Quality of Cooking and Ingredients:
+{{step_4}}
+
+Next, talk about the pricing of the dishes and how it equates with the quality and portions being offered. If the restaurant is pricey, assess whether the experience justifies the costs: {{value_for_money}}.
+
+->>>>
+
+So now we've got the following:
+
+Quality of Cooking and Ingredients:
+{{step_4}}
+
+Value for Money:
+{{step_5}}
+
+Subsequently, include some industry-specific elements like the restaurant's local sourcing impact, vegan/vegetarian options, or contribution to local food culture: {{industry_specific_context}}. 
+

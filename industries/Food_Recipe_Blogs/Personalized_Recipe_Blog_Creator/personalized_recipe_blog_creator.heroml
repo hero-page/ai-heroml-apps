@@ -1,0 +1,112 @@
+For creating a "Recipe" post in the "Food & Recipe Blogs" industry for a "Food Blogger":
+
+Let's start by crafting an engaging introduction that weaves in a personal story or inspiration behind the recipe: {{recipe_background_story}}. This should give a personal touch to the recipe.
+
+Here's some more context about the Recipe:
+Recipe Background Story: {{recipe_background_story}}
+Recipe Category: {{recipe_category}}
+Recipe Overview: {{recipe_overview}}
+Ingredient List: {{ingredient_list}}
+Cooking Steps: {{cooking_steps}}
+Serving And Storage Tips: {{serving_and_storage_tips}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+Our recipe starts with a personal narrative and context:
+
+Introduction:
+{{step_1}}
+
+Next, we need to identify the category of the recipe. This should address broader food culture or the specific cuisine it belongs to: {{recipe_category}}.
+
+->>>>
+
+We now have an introduction and the recipe category for our blog post:
+
+Introduction:
+{{step_1}}
+
+Recipe Category:
+{{step_2}}
+
+With an introduction and recipe category in place, we should include an overview of the recipe, showing its level of difficulty, preparation/cooking time, and how many servings it makes.
+
+->>>>
+
+We have established the introduction, category, and a clear overview for our recipe:
+
+Introduction:
+{{step_1}}
+
+Recipe Category:
+{{step_2}}
+
+Recipe Overview (difficulty, time, servings):
+{{step_3}}
+
+Next, list the required ingredients for the recipe, ensuring to specify any unit of measurement. This will provide a clear reference point for measurements and ingredients needed.
+
+->>>>
+
+We have the introduction, category, overview, and ingredient list for our recipe:
+
+Introduction:
+{{step_1}}
+
+Recipe Category:
+{{step_2}}
+
+Recipe Overview (difficulty, time, servings):
+{{step_3}}
+
+Ingredient List:
+{{step_4}}
+
+Now, create a comprehensive, step-by-step method to guide through the cooking process. Use action verbs to enhance clarity.
+
+->>>>
+
+Now for our recipe, we have an introduction, category, overview, ingredient list, and cooking steps:
+
+Introduction:
+{{step_1}}
+
+Recipe Category:
+{{step_2}}
+
+Recipe Overview (difficulty, time, servings):
+{{step_3}}
+
+Ingredient List:
+{{step_4}}
+
+Cooking Steps:
+{{step_5}}
+
+Next, include a section summarizing serving and storage tips, suggestions for substitutions, and any personal recommendations for our food blog readers.
+
+->>>>
+
+For our recipe, we have articulated the introduction, category, overview, ingredient list, cooking steps, and also tips for serving and storage:
+
+Introduction:
+{{step_1}}
+
+Recipe Category:
+{{step_2}}
+
+Recipe Overview (difficulty, time, servings):
+{{step_3}}
+
+Ingredient List:
+{{step_4}}
+
+Cooking Steps:
+{{step_5}}
+
+Serving and Storage Tips:
+{{step_6}}
+
+Lastly, end the recipe with a call to action encouraging readers to comment on their outcomes, share the recipe with others or try other recipes.
+

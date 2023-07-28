@@ -1,0 +1,77 @@
+Begin by writing an introduction for this ghostwriting project. This should provide an engaging premise of the book and an overview of its themes: {{book_premise}}.
+
+Here's some more context about the Book Outline:
+Book Premise: {{book_premise}}
+Character Profiles: {{character_profiles}}
+Plot Structure: {{plot_structure}}
+Setting Descriptions: {{setting_descriptions}}
+Chapter Breakdown: {{chapter_breakdown}}
+Book Conclusion: {{book_conclusion}}
+Client Specific Elements: {{client_specific_elements}}
+
+->>>>
+
+We have an introduction for our ghostwriting project:
+
+Introduction:
+{{step_1}}
+
+Now, create character profiles for the book. Describe their personality traits, motivations, and their relationships with each other: {{character_profiles}}.
+
+->>>>
+
+We have established an introduction and character profiles for our ghostwriting project:
+
+Introduction:
+{{step_1}}
+
+Character Profiles:
+{{step_2}}
+
+Next, please outline the plot structure. Detail the configuration of the book's significant events and how they build towards the climax: {{plot_structure}}.
+
+->>>>
+
+The ghostwriting project now has an introduction, character profiles, and a plot structure:
+
+Introduction:
+{{step_1}}
+
+Character Profiles:
+{{step_2}}
+
+Plot Structure:
+{{step_3}}
+
+Now, let's highlight key settings in the book. Describe them in detail and discuss the roles they play in the narrative or character development: {{setting_descriptions}}.
+
+->>>>
+
+Our ghostwriting project now includes key settings along with character profiles and a plot structure:
+
+Character Profiles:
+{{step_2}}
+
+Plot Structure:
+{{step_3}}
+
+Setting Descriptions:
+{{step_4}}
+
+Next, generate a chapter-by-chapter breakdown. Summarize the main events and character developments in each chapter: {{chapter_breakdown}}.
+
+->>>>
+
+Our ghostwriting project includes a detailed chapter-by-chapter breakdown, plot structure, and setting descriptions:
+
+Plot Structure:
+{{step_3}}
+
+Setting Descriptions:
+{{step_4}}
+
+Chapter Breakdown:
+{{step_5}}
+
+Now, summarize the book with a conclusion. It should detail how the various plot threads resolve and what impacts they have on the characters: {{book_conclusion}}.
+

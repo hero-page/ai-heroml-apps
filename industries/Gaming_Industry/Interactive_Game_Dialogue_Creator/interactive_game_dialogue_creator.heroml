@@ -1,0 +1,120 @@
+You are required to write a "Dialogue" for the "Gaming Industry" industry, specially meant for a "Game Writer". We'll start with creating introductory dialogue for your main character(s) named as {{main_character}}. Make sure to reveal some of their personality traits that should ideally resonate with the players.
+
+Here's some more context about the Dialogue:
+Main Character: {{main_character}}
+NPC Dialogues: {{NPC_dialogues}}
+Misc Activities: {{misc_activities}}
+Choice Dialogues: {{choice_dialogues}}
+Player Feedback: {{player_feedback}}
+
+->>>>
+
+We are developing a dialogue for the gaming industry and have introductory dialogue for the main character:
+
+Introduction Dialogue for Main Character:
+{{step_1}}
+
+Moving forward, let's establish the main storyline. This should address what's at stake for the {{main_character}} or what the main objective of the game is.
+
+->>>>
+
+We are developing a game dialogue. So far, we have:
+
+Introduction Dialogue for Main Character:
+{{step_1}}
+
+Main Storyline:
+{{step_2}}
+
+The next step is to design inter-character dialogues, creating a relationship between the {{main_character}} and secondary characters. These dialogues can be information sharing, revealing secrets, creating tension, and offering side quests.
+
+->>>>
+
+Here's a summary of our game dialogue development:
+
+Introduction Dialogue for Main Character:
+{{step_1}}
+
+Main Storyline:
+{{step_2}}
+
+Inter-Character Dialogues:
+{{step_3}}
+
+Next, let's develop dialogues for non-playable characters (NPCs). These minor dialogues will enrich the storyline and add layers to the game lore.
+
+->>>>
+
+Our game dialogue so far has:
+
+Main Storyline:
+{{step_2}}
+
+Inter-Character Dialogues:
+{{step_3}}
+
+NPC Dialogues:
+{{step_4}}
+
+Next, create tense, plot-revealing dialogues. These are significant moments for our {{main_character}} and can alter the course of the game based on the decisions they have to make.
+
+->>>>
+
+Outlining what we have of the game dialogues so far:
+
+Inter-Character Dialogues:
+{{step_3}}
+
+NPC Dialogues:
+{{step_4}}
+
+Plot-Revealing Dialogues:
+{{step_5}}
+
+Let's now detail dialogues for miscellaneous activities like in-game tutorials, character upgrading, and item descriptions, aiming to enhance player interaction.
+
+->>>>
+
+Here's the progression of our game dialogue:
+
+NPC Dialogues:
+{{step_4}}
+
+Plot-Revealing Dialogues:
+{{step_5}}
+
+Miscellaneous Activity Dialogues:
+{{step_6}}
+
+Moving forward, let's create player-choice dialogues. Make sure these choices have potential consequences on the subsequent game events and the overall narrative.
+
+->>>>
+
+The current state of our game dialogue is:
+
+Plot-Revealing Dialogues:
+{{step_5}}
+
+Miscellaneous Activity Dialogues:
+{{step_6}}
+
+Player-Choice Dialogues:
+{{step_7}}
+
+Now, craft wrapping dialogues that conclude the gaming experience while revisiting or reflecting upon the efforts of the main character.
+
+->>>>
+
+Now our game dialogue includes:
+
+Miscellaneous Activity Dialogues:
+{{step_6}}
+
+Player-Choice Dialogues:
+{{step_7}}
+
+Wrap-up Dialogues:
+{{step_8}}
+
+Lastly, consider creating an instruction for incorporating feedback from player experiences to further polish or improve dialogues on the basis of it.
+

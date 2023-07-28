@@ -1,0 +1,87 @@
+Your task is to write a "Recipe" for the "Food & Recipe Blogs" industry, specifically for a "Chef". 
+
+Let's start by creating a captivating title that describes the dish: {{dish_name}}. The name should spark the reader's curiosity and present a clear preview of what the recipe entails.
+
+Here's some more context about the Recipe:
+Dish Name: {{dish_name}}
+Dish Origin: {{dish_origin}}
+Dietary Variations: {{dietary_variations}}
+
+->>>>
+
+We now have a title for our recipe:
+
+Title:
+{{step_1}}
+
+Next, craft an enticing introduction that provides a brief background of the dish. This should include its origin: {{dish_origin}}, its significance, and a personal anecdote or sentiment related to {{dish_name}}. Make sure this introduction piques readers' interest to try the recipe.
+
+->>>>
+
+Our recipe now has a title and an engaging introduction:
+
+Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, let's proceed to the ingredients section. Clearly list out all the ingredients required for {{dish_name}}, mentioning specific quantities and preparation statuses such as 'chopped', 'diced', 'soaked' etc.
+
+->>>>
+
+We have the title, introduction, and a detailed list of ingredients for our recipe:
+
+Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Ingredients:
+{{step_3}}
+
+Now, outline the preparation method. Break down the instructions into easily digestible steps, from the initial preparation to the final garnishing of {{dish_name}}. Be specific about cooking times, temperatures, and portion sizes.
+
+->>>>
+
+We have created a detailed list of ingredients and preparation steps for our recipe:
+
+Ingredients:
+{{step_3}}
+
+Preparation Method:
+{{step_4}}
+
+Next, introduce a variations section. Suggest any possible modifications to the recipe, including ingredient substitutions, add-ons, and alternative preparation methods suitable for various dietary preferences: {{dietary_variations}}.
+
+->>>>
+
+For our recipe, we have an ingredients list, a preparation method, and a range of dietary variations:
+
+Ingredients:
+{{step_3}}
+
+Preparation Method:
+{{step_4}}
+
+Dietary Variations:
+{{step_5}}
+
+Now, include serving and storage tips. Provide insights on the best way to serve {{dish_name}}, what it pairs well with, and how to store and reheat leftovers safely.
+
+->>>>
+
+Our recipe now includes a preparation method, dietary variations, and serving and storage tips:
+
+Preparation Method:
+{{step_4}}
+
+Dietary Variations:
+{{step_5}}
+
+Serving and Storage Tips:
+{{step_6}}
+
+Let's add some chef-specific elements, such as unique cooking techniques for {{dish_name}}, expert tips that professional chefs follow, and ways to present the dish with restaurant-style plating.
+

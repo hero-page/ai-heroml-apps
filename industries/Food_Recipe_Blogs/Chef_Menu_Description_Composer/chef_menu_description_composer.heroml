@@ -1,0 +1,103 @@
+Your task is to write a "Menu Description" for the "Food & Recipe Blogs" industry, specifically for a "Chef". 
+Let's start with creating a captivating title that briefly explains the theme or key characteristics of the menu: {{menu_title}}.
+
+Here's some more context about the Menu Description:
+Menu Title: {{menu_title}}
+Menu Overview: {{menu_overview}}
+Cuisine Type: {{cuisine_type}}
+Key Ingredients: {{key_ingredients}}
+Menu Structure: {{menu_structure}}
+
+->>>>
+
+Our menu now has a captivating title:
+
+Menu Title:
+{{step_1}}
+
+Next, write an introductory sentence or paragraph for the menu that provides a broad idea about it. Mention the inspiration for the menu or detail its unique selling point.
+
+->>>>
+
+With a captivating title in place, let's see how our menu introduction looks:
+
+Menu Title:
+{{step_1}}
+
+Menu Overview:
+{{step_2}}
+
+Next, detail out the type and style of cuisine that is being used in this menu.
+
+->>>>
+
+Our menu has an introductory details and now information about the style of cuisine:
+
+Menu Overview:
+{{step_2}}
+
+Cuisine Type:
+{{step_3}}
+
+Following this, let's divulge into the ingredients that will be used throughout the menu. Be sure to mention any organic, local, or high-end ingredients that are incorporated.
+
+->>>>
+
+We have an introduction, information about the cuisine type, and now a list of key ingredients for our menu:
+
+Cuisine Type:
+{{step_3}}
+
+Key Ingredients:
+{{step_4}}
+
+Next, describe the structure of the menu. This should include the number and types of courses (appetizers, mains, desserts, etc.) and their chronological order.
+
+->>>>
+
+Our menu now has key ingredients and a proposed structure:
+
+Key Ingredients:
+{{step_4}}
+
+Menu Structure:
+{{step_5}}
+
+For each course in our menu structure, give a brief description of the dishes. Include the name, primary ingredients, and preparation method of each dish. Indicate any vegetarian, vegan, gluten-free, and allergen information if applicable.
+
+->>>>
+
+Our detailed menu now includes structure and course descriptions:
+
+Menu Structure:
+{{step_5}}
+
+Course Descriptions:
+{{step_6}}
+
+Following this, discuss the pairing of wines or drinks with the meals if appropriate. This adds an extra layer of sophistication to the menu.
+
+->>>>
+
+Our detailed menu has structured courses and now includes wine and drink pairing suggestions:
+
+Course Descriptions:
+{{step_6}}
+
+Drink Pairings:
+{{step_7}}
+
+Next, in the conclusion, mention any special offers like the chef’s specials, time-limited offers, or discounts.
+
+->>>>
+
+Our sophisticated menu now includes drink pairings and mentions of special offers:
+
+Drink Pairings:
+{{step_7}}
+
+Special Offers:
+{{step_8}}
+
+Finally, let's conclude with a persuasive call to action hinting at reserving the menu or contacting for further information.
+

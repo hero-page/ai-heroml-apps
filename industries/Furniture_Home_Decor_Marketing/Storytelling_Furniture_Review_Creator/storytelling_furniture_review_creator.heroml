@@ -1,0 +1,66 @@
+Your task is to create a "Product Review" for the "Furniture & Home Decor Marketing" industry, specifically for a "Content Creator". Let's start with the first step by introducing the piece of furniture or home decor product you'll be reviewing: {{product_name}}. Provide brief details such as the name, color, size, material, and the purpose it is designed for.
+
+Here's some more context about the Product Review:
+Product Name: {{product_name}}
+Product Design: {{product_design}}
+Product Quality: {{product_quality}}
+Product Price: {{product_price}}
+Customer Experience: {{customer_experience}}
+
+->>>>
+
+We're reviewing a piece in the "Furniture & Home Decor Marketing" industry, and we have basic details about our product:
+
+Product Introduction:
+{{step_1}}
+
+Proceed to present a comprehensive analysis of the product's design aesthetics: How is it crafted? Is the design modern or classic? Does it fit into specific decor styles? How do its color palette and material choices contribute to overall aesthetics? Give an overview of the {{product_design}}.
+
+->>>>
+
+In our product review, we now have the product introduction and its design aesthetics:
+
+Product Introduction:
+{{step_1}}
+
+Design Aesthetics:
+{{step_2}}
+
+Next, discuss the functionality and usability of the {{product_name}}. This includes its size and how well it fits into different spaces, comfort (in case of furniture), ease of assembly, and the practicality of its design features.
+
+->>>>
+
+For the product review, we've covered the product's design and now have a section about functionality and usability:
+
+Design Aesthetics:
+{{step_2}}
+
+Functionality and Usability:
+{{step_3}}
+
+Now, incorporate a section on the product's durability and quality: How well is it made? Does it seem durable enough to stand the test of time? Provide an evaluation of the {{product_quality}}.
+
+->>>>
+
+In our product review, we've assessed its functionality and usability and also its durability and quality:
+
+Functionality and Usability:
+{{step_3}}
+
+Durability and Quality:
+{{step_4}}
+
+The next step is to discuss the price of the {{product_name}}. Is it reasonably priced for its quality and design? How does it compare with similar products in the market? Make sure to evaluate the {{product_price}}.
+
+->>>>
+
+We have detailed the product's durability and quality, and now we have assessed its pricing:
+
+Durability and Quality:
+{{step_4}}
+
+Price Evaluation:
+{{step_5}}
+
+On to the next step, share personal experiences and user feedback. This could include your own experience or gleaned from other customers who have used the product. It's important to be genuine and transparent in this section. Share the {{customer_experience}}.
+

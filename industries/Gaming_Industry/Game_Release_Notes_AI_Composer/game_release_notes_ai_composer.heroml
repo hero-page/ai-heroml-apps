@@ -1,0 +1,85 @@
+Your task is to write "Release Notes" for the "Gaming Industry" industry, specifically for a "Game Developer". Let's start with an introduction that summarizes the purpose of the release: {{release_purpose}}. Explain why these changes or additions were made and how they contribute to the overall gameplay experience.
+
+Here's some more context about the Release Notes:
+Release Purpose: {{release_purpose}}
+New Features: {{new_features}}
+Improved Features: {{improved_features}}
+Fixed Bugs: {{fixed_bugs}}
+Known Issues: {{known_issues}}
+Future Updates: {{future_updates}}
+
+->>>>
+
+We have started our "Release Notes" with an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's feature a dedicated section for new content, labeled "New Features". Detail each new feature, upgrade, or addition: {{new_features}}, and explain how to use them and their impact on the gaming experience.
+
+->>>>
+
+After the introduction, we now have a section for "New Features":
+
+Introduction:
+{{step_1}}
+
+New Features:
+{{step_2}}
+
+Now, incorporate a section titled "Improvements". Summarize the enhancements made to existing features or gameplay elements: {{improved_features}}, and outline the effects of these improvements on the game.
+
+->>>>
+
+For our "Release Notes", we have an introduction, details of new features and improvements:
+
+Introduction:
+{{step_1}}
+
+New Features:
+{{step_2}}
+
+Improvements:
+{{step_3}}
+
+Next, let's include a "Bug Fixes" section. List the bugs/issues that have been fixed in this release: {{fixed_bugs}}. Be precise, but avoid complex development jargon as it may not be understandable by the average gamer.
+
+->>>>
+
+Our "Release Notes" now include an introduction, details of the new features and improvements, and a list of bug fixes:
+
+Introduction:
+{{step_1}}
+
+New Features:
+{{step_2}}
+
+Improvements:
+{{step_3}}
+
+Bug Fixes:
+{{step_4}}
+
+Let's now add a section named "Known Issues and Workarounds". Detail any known issues in the game that are yet to be resolved and offer temporary solutions if any: {{known_issues}}.
+
+->>>>
+
+With an introduction, new features, improvements, bug fixes, and known issues sections, our "Release Notes" look like this:
+
+Introduction:
+{{step_1}}
+
+New Features:
+{{step_2}}
+
+Improvements:
+{{step_3}}
+
+Bug Fixes:
+{{step_4}}
+
+Known Issues and Workarounds:
+{{step_5}}
+
+To enhance player engagement, we should now devise a "What's Next" section. Discuss possible upcoming updates or improvements based on popular requests or those planned by the development team: {{future_updates}}. Build anticipation with this section.
+

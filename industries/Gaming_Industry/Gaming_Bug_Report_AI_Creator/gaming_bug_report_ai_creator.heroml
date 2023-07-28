@@ -1,0 +1,107 @@
+Your task is to write a "Bug Report" for the "Gaming Industry" industry, specifically for a "Game Developer". Let's start with a clear title for the bug report. This should include the area of the game where the bug was found, a brief description of the problem, and a timestamp: {{game_area}}, {{problem_description}}, {{bug_found_date}}.
+
+Here's some more context about the Bug Report:
+Game Area: {{game_area}}
+Problem Description: {{problem_description}}
+Bug Found Date: {{bug_found_date}}
+Game Name: {{game_name}}
+Bug Summary: {{bug_summary}}
+Reproduction Steps: {{reproduction_steps}}
+Expected Results: {{expected_results}}
+Actual Results: {{actual_results}}
+Bug Severity Ranking: {{bug_severity_ranking}}
+Game Environment: {{game_environment}}
+
+->>>>
+
+We now have a title for our bug report:
+
+Bug Report Title:
+{{step_1}}
+
+Next, write an introduction explaining the purpose of the bug report: that is to communicate details about a software issue found during the testing phase of {{game_name}} that needs resolution.
+
+->>>>
+
+Our bug report now has a title and an introduction:
+
+Bug Report Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, in the "Bug Details" section, provide a summary of the bug in one or two sentences that capture the essence of the issue found: {{bug_summary}}.
+
+->>>>
+
+In our bug report, we have an introduction and a summary of the bug:
+
+Introduction:
+{{step_2}}
+
+Bug Summary:
+{{step_3}}
+
+Next, detail the steps required to reproduce the bug: {{reproduction_steps}}. This should be a detailed, step-by-step description to guide developers in replicating the problem and understanding its context.
+
+->>>>
+
+In the bug report, after the bug summary, we detail the steps to reproduce the issue:
+
+Bug Summary:
+{{step_3}}
+
+Reproduction Steps:
+{{step_4}}
+
+Subsequently, describe the expected results, in other words, explain what should happen if the bug was not present: {{expected_results}}.
+
+->>>>
+
+For our bug report, we have detailed the steps to reproduce the bug and the expected results:
+
+Reproduction Steps:
+{{step_4}}
+
+Expected Results:
+{{step_5}}
+
+Now, include the actual results. It is the current outcome indicating what happens due to the presence of the bug: {{actual_results}}.
+
+->>>>
+
+For the bug report, we have the expected results and the actual results listed:
+
+Expected Results:
+{{step_5}}
+
+Actual Results:
+{{step_6}}
+
+Include a "Bug Severity" section next, which classifies the bug's potential impact on the game and its players. Use a standard set like 'trivial,' 'minor,' 'major,' or 'blocker' to rank the issue: {{bug_severity_ranking}}.
+
+->>>>
+
+In our bug report, we have the actual results of the bug and its severity:
+
+Actual Results:
+{{step_6}}
+
+Bug Severity:
+{{step_7}}
+
+Next, provide a "Game Environment" section to describe the conditions when the bug occurred, such as the game version, hardware used, operating system, or other relevant gaming platform details: {{game_environment}}.
+
+->>>>
+
+Our bug report has a section on bug severity and another detailing the game environment:
+
+Bug Severity:
+{{step_7}}
+
+Game Environment:
+{{step_8}}
+
+Let's add a "Developer Notes" section for additional comments, educated guesses about the bug’s source, or suggestions for resolution that may provide context or help for the development team.
+

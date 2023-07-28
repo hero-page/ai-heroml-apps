@@ -1,0 +1,80 @@
+Your task is to write a "Home Decor Trends Report" for the "Furniture & Home Decor Marketing" industry, for a "Product Marketer". Let's start by researching and writing an engaging introduction that provides a brief overview of the current state of the home decor market.
+
+Here's some more context about the Home Decor Trends Report:
+Market Overview: {{market_overview}}
+Current Trends: {{current_trends}}
+Key Influencers: {{key_influencers}}
+Trends Impact: {{trends_impact}}
+Focused Trends: {{focused_trends}}
+Emerging Trends: {{emerging_trends}}
+Summary: {{summary}}
+
+->>>>
+
+At the onset of creating the "Home Decor Trends Report", we have an engaging introduction that provides a brief overview of the current state of the home decor market:
+
+Introduction:
+{{step_1}}
+
+Now, it's time to create a follow-up section. This section should explore the current home decor trends, their application, and their impacts on the "Furniture & Home Decor Marketing" industry.
+
+->>>>
+
+The "Home Decor Trends Report" now has an introduction and a follow-up focusing on current trends:
+
+Introduction:
+{{step_1}}
+
+Current Home Decor Trends:
+{{step_2}}
+
+The next step is to identify and highlight key influencers and tastemakers within the home decor space that are driving these identified trends.
+
+->>>>
+
+For the "Home Decor Trends Report", we have identified the current trends and their key influencers:
+
+Current Home Decor Trends:
+{{step_2}}
+
+Key Influencers:
+{{step_3}}
+
+Now, let's analyze these key trends' impacts on consumer purchasing decisions, focusing particularly on the product portfolio of the company for which this report is designed.
+
+->>>>
+
+Our "Home Decor Trends Report" now includes an analysis of the key trends' impact on consumer purchasing decisions:
+
+Key Influencers:
+{{step_3}}
+
+Trends impact on Consumer Purchasing Decisions:
+{{step_4}}
+
+Now, select some key trends from those identified, and create a dedicated section that provides a more comprehensive analysis of these trends for the report. This section should detail their inception, evolution, current prevalence, and potential future trajectory. Remember to keep the report's focus relevant to the product line under consideration.
+
+->>>>
+
+In our "Home Decor Trends Report" we have now laid down a comprehensive analysis of certain key trends:
+
+Trends Impact on Consumer Purchasing Decisions:
+{{step_4}}
+
+Trends in Focus:
+{{step_5}}
+
+Moving on, research and discuss potential upcoming trends based on market indicators and signs from influential designers or brands. This new section is essential to maintain the report's relevance and forward-looking approach.
+
+->>>>
+
+Our report, so far, includes an analysis of key trends and an outlined discussion on upcoming trends:
+
+Trends in Focus:
+{{step_5}}
+
+Emerging Trends:
+{{step_6}}
+
+Let's conclude the report by summarizing the main trends and their likely impacts on the home decor industry and the product marketer's company's product portfolio.
+

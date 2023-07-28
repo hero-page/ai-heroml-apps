@@ -1,0 +1,102 @@
+Your task is to write an "Interior Design Blog Post" for the "Furniture & Home Decor Marketing" industry, specifically for a "Content Creator". Let's begin with an eye-catching title that speaks directly to the blog post's main theme: {{theme}}.
+
+Here's some more context about the Interior Design Blog Post:
+Theme: {{theme}}
+Key Message: {{key_message}}
+Topic: {{topic}}
+
+->>>>
+
+Our blog post has the following title:
+
+Title:
+{{step_1}}
+
+Next, generate a compelling introduction for the blog post which provides an overview of the key message: {{key_message}}, stating why the reader should care about this topic.
+
+->>>>
+
+The blog post titled:
+
+Title:
+{{step_1}}
+
+Has the following compelling introduction:
+
+Introduction:
+{{step_2}}
+
+For the first section of our blog post, discuss the evolving interior design trends with a focus on your specific topic: {{topic}}. This must include what's trending and why it is, adding background context to the trend.
+
+->>>>
+
+Our blog post now includes a detailed discussion of the interior design trends:
+
+Introduction:
+{{step_2}}
+
+Trend discussion:
+{{step_3}}
+
+For the second section, talk about the practical implementation of the discussed trend. This must involve suggestions on incorporating the {{topic}} into the reader's home.
+
+->>>>
+
+To date, our blog post is inclusive of:
+
+Trend discussion:
+{{step_3}}
+
+Implementation suggestions:
+{{step_4}}
+
+In the third section, analyze some samples of furniture or home decor items that fit the theme: {{theme}}. Describe their aesthetics, quality, functionality, and sources.
+
+->>>>
+
+Our blog post now contains:
+
+Implementation suggestions:
+{{step_4}}
+
+Furniture and home decor analysis:
+{{step_5}}
+
+For the fourth section, present DIY tips, or professional advice for implementing your discussed trend. Provide easy to understand, step-by-step instructions that the reader can apply.
+
+->>>>
+
+Our blog post contains:
+
+Furniture and home decor analysis:
+{{step_5}}
+
+Tips for implementation:
+{{step_6}}
+
+Let's close by producing a summary that consolidates the advice from the key message: {{key_message}}. Furthermore, encourage the readers to share their thoughts, experiences, or ask questions in the comments.
+
+->>>>
+
+We now have the following blog post:
+
+Tips for implementation:
+{{step_6}}
+
+Summary:
+{{step_7}}
+
+As the last section of our blog post, write a paragraph that serves as a call to action for the reader. Encourage them to explore more about the {{theme}} or seek professional help if necessary.
+
+->>>>
+
+The blog post is almost complete:
+
+Summary:
+{{step_7}}
+
+Call to Action:
+{{step_8}}
+
+Lastly, refine the blog post content to integrate industry-specific keywords for SEO optimization. Examples could be "sustainable design", "scandinavian style", "retro furniture", etc. Additionally, ensure your language and content appeals to homeowners, furniture enthusiasts, or professional interior designers.
+

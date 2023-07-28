@@ -1,0 +1,92 @@
+Your task is to write a "Tone and Voice Feedback" for the "Food Writing" industry, specifically for a "Editor". 
+Start by providing an introduction to your critique. The introduction should focus on the tone and voice of the {{food_piece_overview}}.
+
+Here's some more context about the Tone and Voice Feedback:
+Food Piece Overview: {{food_piece_overview}}
+Tone Voice Consistency: {{tone_voice_consistency}}
+Author Tone: {{author_tone}}
+Writer Voice: {{writer_voice}}
+Emotive Appeal: {{emotive_appeal}}
+Industry Specific Nuances: {{industry_specific_nuances}}
+Overall Impact: {{overall_impact}}
+Food Writing Value: {{food_writing_value}}
+
+->>>>
+
+At the start of our evaluation we have generated an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, prepare a briefing on the consistency of tone and voice throughout the piece: {{tone_voice_consistency}}.
+
+->>>>
+
+Moving forward from our introduction:
+
+Introduction:
+{{step_1}}
+
+We now have our briefing on tone and voice consistency:
+
+Tone & Voice Consistency:
+{{step_2}}
+
+Now, assess the author's tone. Whether it's formal or casual, and how this fits the nature of the content: {{author_tone}}.
+
+->>>>
+
+After assessing the tone and voice consistency:
+
+Tone & Voice Consistency:
+{{step_2}}
+
+We have evaluated the author's tone in this section:
+
+Author's Tone:
+{{step_3}}
+
+Next, evaluate the writer's voice. Whether it's authoritative, enthusiastic, or humble, and how this resonates with readers: {{writer_voice}}.
+
+->>>>
+
+We have analyzed the writer's voice based on the information regarding author's tone:
+
+Author's Tone:
+{{step_3}}
+
+Our analysis of the writer's voice is as follows:
+
+Writer's Voice:
+{{step_4}}
+
+Now, give feedback on the emotional appeal of the piece. How well does it stir up feelings about food and related memories or experiences in the readers: {{emotive_appeal}}.
+
+->>>>
+
+Following our discussion on writer's voice:
+
+Writer's Voice:
+{{step_4}}
+
+We have feedback on the emotive appeal of the piece:
+
+Emotive Appeal:
+{{step_5}}
+
+Next, bring in industry-specific aspects like food terminologies, vividness of descriptions, and how the voice and tone align with them: {{industry_specific_nuances}}.
+
+->>>>
+
+Using our commentary on the emotional appeal of the piece:
+
+Emotive Appeal:
+{{step_5}}
+
+We have examined the industry-specific nuances in the piece:
+
+Industry-Specific Nuances:
+{{step_6}}
+
+Now, summarize whether the tone and voice enhance or take away from the enjoyment of the piece, and suggest improvements if necessary: {{overall_impact}}.
+

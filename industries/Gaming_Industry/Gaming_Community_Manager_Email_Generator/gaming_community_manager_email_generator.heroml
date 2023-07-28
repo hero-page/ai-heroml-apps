@@ -1,0 +1,111 @@
+Your task is to write a "Customer Email" for the "Gaming Industry" industry, specifically for a "Community Manager". 
+
+Start by creating a friendly greeting appropriate for a Community Manager in the Gaming Industry that establishes a positive and approachable tone.
+
+Here's some more context about the Customer Email:
+Greeting: {{greeting}}
+Email Purpose: {{email_purpose}}
+Gamer Terminology: {{gamer_terminology}}
+Community Aspect: {{community_aspect}}
+Call To Action: {{call_to_action}}
+Closing Remarks: {{closing_remarks}}
+
+->>>>
+
+Now, our email has a greeting:
+
+Greeting:
+{{step_1}}
+
+On this premise, let's create a brief introduction that gets quickly to the point of the email: {{email_purpose}}. This could involve providing updates, sharing news, or addressing concerns within the gaming community.
+
+->>>>
+
+At this juncture, our email has a greeting and a brief introduction:
+
+Greeting:
+{{step_1}}
+
+Brief Introduction:
+{{step_2}}
+
+Following this, let's delve into constructing the main body of the email where we elaborate on the {{email_purpose}}. Ensure to include important details such as game updates, new features, downtimes, event schedules or answers to specific problems raised by the community.
+
+->>>>
+
+For this email, we now have a greeting, a brief introduction and a detailed main body:
+
+Greeting:
+{{step_1}}
+
+Brief Introduction:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Based on this, generate some specific gaming terms: {{gamer_terminology}}. These should be included in the email to ensure it resonates with the community and is perceived as relatable and authentic.
+
+->>>>
+
+At this point, our email contains a greeting, brief introduction, detailed main body and includes specific gaming terminology:
+
+Greeting:
+{{step_1}}
+
+Brief Introduction:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Gaming Terminology:
+{{step_4}}
+
+Proceeding with this, let's ensure to address any community-related aspects: {{community_aspect}}. This could imply acknowledging top players, celebrating community milestones, or responding to wide-spread feedback.
+
+->>>>
+
+Till this step, we have a greeting, brief introduction, extensive main body, suitable gaming terminology and we have addressed relevant community aspects:
+
+Greeting:
+{{step_1}}
+
+Brief Introduction:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Gaming Terminology:
+{{step_4}}
+
+Community Aspects Addressed:
+{{step_5}}
+
+Next, let's design a conclusion that invites gamers to interact, give feedback, or participate in forum discussions: {{call_to_action}}. The conclusion should prompt the readers to take an action like "join a game event", "leave a review", or "participate in a feedback poll".
+
+->>>>
+
+Now, our email includes a greeting, brief introduction, comprehensive main body, suitable gaming terminology, relevant community aspects and a conclusion with a call to action:
+
+Greeting:
+{{step_1}}
+
+Brief Introduction:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Gaming Terminology:
+{{step_4}}
+
+Community Aspects Addressed:
+{{step_5}}
+
+Conclusion with Call to Action:
+{{step_6}}
+
+Lastly, let's form a professional closing and include the name of the community management team or your name: {{closing_remarks}}. This will help maintain the tone of the email and encompass the community spirit.
+

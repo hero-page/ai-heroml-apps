@@ -1,0 +1,91 @@
+Your task is to write a "Seasonal Display Plan" for the "Furniture & Home Decor Marketing" industry, specifically for a "Visual Merchandiser". 
+We will start our display plan by providing an introduction that gives context to the specific season: {{season_name}}.
+
+Here's some more context about the Seasonal Display Plan:
+Season Name: {{season_name}}
+Target Market: {{target_market}}
+Product Categories: {{product_categories}}
+Specific Items: {{specific_items}}
+Visual Theme: {{visual_theme}}
+
+->>>>
+
+At the start of our "Seasonal Display Plan", we have an introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's identify and describe our target market for the upcoming season: {{target_market}}.
+
+->>>>
+
+With an introduction to our concept, we will now detail our target market:
+
+Introduction:
+{{step_1}}
+
+Target Market:
+{{step_2}}
+
+Next, we will present detailed descriptions of our main product categories: {{product_categories}}.
+
+->>>>
+
+Following the identification of our target market, we have described our main product categories:
+
+Target Market:
+{{step_2}}
+
+Product Categories:
+{{step_3}}
+
+Now, let's list out and detail specific pieces of furniture and decor items: {{specific_items}}.
+
+->>>>
+
+We have established the main product categories and the specific items we will focus on:
+
+Product Categories:
+{{step_3}}
+
+Specific Items:
+{{step_4}}
+
+Moving on, let's create and describe the overall visual theme for the seasonal display: {{visual_theme}}.
+
+->>>>
+
+After detailing our specific items, we have a visual theme:
+
+Specific Items:
+{{step_4}}
+
+Visual Theme:
+{{step_5}}
+
+Next, illustrate the layout plan of the store, explaining placements of {{specific_items}} and their impact on customer experience.
+
+->>>>
+
+With a defined visual theme, we have derived a layout plan for the store:
+
+Visual Theme:
+{{step_5}}
+
+Store Layout Plan:
+{{step_6}}
+
+Now, let's develop a marketing strategy to promote our seasonal display plan across different platforms.
+
+->>>>
+
+Building upon our store layout plan, we have developed a marketing strategy:
+
+Store Layout Plan:
+{{step_6}}
+
+Marketing Strategy:
+{{step_7}}
+
+Lastly, we will conclude our display plan by providing actionable steps to execute the plan.
+

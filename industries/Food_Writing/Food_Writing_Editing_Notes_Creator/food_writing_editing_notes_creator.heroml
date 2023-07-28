@@ -1,0 +1,99 @@
+Your task is to write "Editing Notes" for the "Food Writing" industry, specifically for an "Editor". 
+
+Let's start by highlighting the key issues that need to be addressed in the editing process of a {{document_to_edit}}.
+
+Here's some more context about the Editing Notes:
+Key Issues: {{key_issues}}
+Document To Edit: {{document_to_edit}}
+Target Audience: {{target_audience}}
+
+->>>>
+
+We have defined the key issues for the editing process of this {{document_to_edit}}:
+
+Key Issues:
+{{step_1}}
+
+Now, let's organize the editorial review into thematic sections like "Tone & Style", "Information Accuracy", "Grammar and Syntax", and "Industry-specific Jargon". We'll address each section separately.
+
+->>>>
+
+Our editorial review for the {{document_to_edit}} is broken down into these themes:
+
+Thematic Sections:
+{{step_2}}
+
+Let's focus on the "Tone & Style" first. Check for the consistency in the writer's voice and whether the tone is appealing to the target audience: {{target_audience}}. Commend where due and highlight areas for improvement.
+
+->>>>
+
+We completed the "Tone & Style" section of our editorial review:
+
+Tone & Style:
+{{step_3}}
+
+Now, let's tackle "Information Accuracy". Fact-check all data, statistics and claims in the {{document_to_edit}}. Highlight any points that need verification or corrections.
+
+->>>>
+
+We've evaluated "Information Accuracy" in the {{document_to_edit}}:
+
+Information Accuracy:
+{{step_4}}
+
+Up next, we'll address "Grammar and Syntax". Note down any grammatical or punctuation errors. Direct the use of clear and concise sentences for enhanced readability.
+
+->>>>
+
+We have analyzed "Grammar and Syntax" in our {{document_to_edit}}:
+
+Grammar and Syntax:
+{{step_5}}
+
+For the "Industry-specific Jargon", verify the correct usage and spelling of culinary terms, dish names, and cooking techniques. Ensure the language accommodates the {{target_audience}}.
+
+->>>>
+
+Our review of "Industry-specific Jargon" in the {{document_to_edit}} looks like this:
+
+Industry-specific Jargon:
+{{step_6}}
+
+Next, identify any potential ethical issues or cultural insensitivity regarding food choices, preparation, culture, and diet. Highlight these to maintain inclusivity and respect for the diverse readership: {{target_audience}}.
+
+->>>>
+
+Our notes on potential ethical issues and cultural sensitivity in the {{document_to_edit}} have been made:
+
+Ethical Issues and Cultural Sensitivity:
+{{step_7}}
+
+Now, let's recommend transitions, chapter/section arrangements, and headers for the better flow of the {{document_to_edit}}. Ensure a logical order that enhances the readability of the material.
+
+->>>>
+
+We have suggested transitions and arrangements for the improved flow of the {{document_to_edit}}:
+
+Structural Suggestions:
+{{step_8}}
+
+Let's conclude the notes with a general critique of the content. Highlight the strengths and the areas that require improvement in the {{document_to_edit}}.
+
+->>>>
+
+We have finished our comprehensive review of the {{document_to_edit}} with a general critique:
+
+General Critique:
+{{step_9}}
+
+Suggest final revisionary steps like proofreading or a second editorial review if required.
+
+->>>>
+
+Now we have a list of final revisionary steps for the {{document_to_edit}}:
+
+Final Revisionary Steps:
+{{step_10}}
+
+Finally, end with an encouragement for the writer, reinforcing the collaborative nature between you as the Editor and the writer for the successful production of content in the "Food Writing" industry.
+

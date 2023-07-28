@@ -1,0 +1,97 @@
+Your task is to write a "Partnership Proposal" for the "Food & Beverage Product Marketing" industry, specifically for a "Brand Manager". Let's start with an introduction: Please explain the reason behind the partnership proposal, mentioning your company's background and emphasizing the shared markets {{shared_markets}}.
+
+Here's some more context about the Partnership Proposal:
+Shared Markets: {{shared_markets}}
+Product Details: {{Product_Details}}
+Competitive Landscape: {{Competitive_landscape}}
+Partnership Goals: {{Partnership_goals}}
+Partnership Proposal Details: {{Partnership_proposal_details}}
+Execution Plan: {{Execution_plan}}
+Projected Outcomes: {{Projected_outcomes}}
+
+->>>>
+
+For our "Partnership Proposal", we have drafted an introduction that sets the purpose and context of the proposal:
+
+Introduction:
+{{step_1}}
+
+Next, describe your food and beverage product(s) {{Product_Details}} in detail, including its unique selling points and benefits.
+
+->>>>
+
+So far in our partnership proposal, we have:
+
+Introduction:
+{{step_1}}
+
+And the comprehensive details about our product:
+
+Product Details:
+{{step_2}}
+
+Moving on, please provide an analysis for your product's market positioning and competitive landscape {{Competitive_landscape}}. This can include market trends, significant players, and your product's performance against competitors.
+
+->>>>
+
+In our partnership proposal, we have product details and an analysis of market and competition:
+
+Product Details:
+{{step_2}}
+
+Market and Competition Analysis:
+{{step_3}}
+
+Now, outline the mutual benefits and objectives {{Partnership_goals}} of the partnership. This could range from expanding a product line, increasing brand recognition, reaching new markets to scaling up production.
+
+->>>>
+
+So far, for our partnership proposal we have defined the goals:
+
+Product Details:
+{{step_2}}
+
+Market and Competition Analysis:
+{{step_3}}
+
+Partnership Goals:
+{{step_4}}
+
+Next, detail the actual proposal for the partnership {{Partnership_proposal_details}}. It could be a joint marketing campaign, product development, or co-branding strategy. It should be specific, tangible, and beneficial to both parties.
+
+->>>>
+
+In our Partnership proposal, we have defined the goals and the actual proposal details:
+
+Partnership Goals:
+{{step_4}}
+
+Partnership Proposal Details:
+{{step_5}}
+
+We should now describe the plan for executing the partnership {{Execution_plan}} detailing each party's roles and responsibilities.
+
+->>>>
+
+For our partnership proposal, we have the proposed details and an execution plan:
+
+Partnership Proposal Details:
+{{step_5}}
+
+Execution Plan:
+{{step_6}}
+
+Next, present the projected outcomes of the partnership {{Projected_outcomes}}. Give forecasts on sales, market reach or brand awareness bolstered by data and numbers.
+
+->>>>
+
+In our partnership proposal, we have presented an execution plan and projections with expectations:
+
+Execution Plan:
+{{step_6}}
+
+Projections and Expectations:
+{{step_7}}
+
+Finally, conclude with reinforcement of mutual benefits and the next steps for further discussions on the partnership proposal. Specifically, underline how this partnership will benefit the brand manager. Address their potential concerns and highlight benefits such as a potential increase in sales, brand visibility, customer base expansion, and potential for innovation.
+

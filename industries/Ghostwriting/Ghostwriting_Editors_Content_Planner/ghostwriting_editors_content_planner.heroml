@@ -1,0 +1,68 @@
+For creating "Content Suggestions" in the "Ghostwriting" industry for an "Editor":
+
+- Let's start by generating an overview that describes the genre or theme of the content: {{content_genre}}. This introduction should present the perspectives or narratives that the content would explore, logically arranged to create a captivating overview.
+
+Here's some more context about the Content Suggestions:
+Content Genre: {{content_genre}}
+Content Structure: {{content_structure}}
+Character Descriptions: {{character_descriptions}}
+Plot Summary: {{plot_summary}}
+Audience Demographics: {{audience_demographics}}
+
+->>>>
+
+With an overview available, we have a genre description for our content:
+
+Genre Description:
+{{step_1}}
+
+Next, write a content outline detailing the structure of the content: {{content_structure}}. It would include suggestions for chapters or sections, each tackling different angles of the {{content_genre}}.
+
+->>>>
+
+Based on our genre description, we have a structured outline for our content:
+
+Genre Description:
+{{step_1}}
+
+Content Structure:
+{{step_2}}
+
+Moving forward, include character descriptions for the primary and secondary characters: {{character_descriptions}}. It should enable the editor to envision the characters, triggering discussions about their traits, roles, and relevance to the {{content_genre}}.
+
+->>>>
+
+Given our content structure, we also have character descriptions:
+
+Content Structure:
+{{step_2}}
+
+Character Descriptions:
+{{step_3}}
+
+Next, develop a plot summary with twists, climax, and resolution: {{plot_summary}}. This should provide an enticing glimpse into the story progression that is true to the {{content_genre}} and appeals to the intended audience.
+
+->>>>
+
+With character descriptions in place, we now have a plot summary:
+
+Character Descriptions:
+{{step_3}}
+
+Plot Summary:
+{{step_4}}
+
+Next, detail the writing style pertinent to the {{content_genre}}, including the narrative voice, point of view, rhetoric, and lexicon. Outline any unique stylistic elements that would draw the reader into the narrative.
+
+->>>>
+
+After defining the plot summary, we have determined the writing style:
+
+Plot Summary:
+{{step_4}}
+
+Writing Style:
+{{step_5}}
+
+Moving on, provide recommendations for the target audience demographics: {{audience_demographics}}. Information about the intended readers’ interests, abilities, and needs can guide the tone, complexity, mood, and pace of the content.
+

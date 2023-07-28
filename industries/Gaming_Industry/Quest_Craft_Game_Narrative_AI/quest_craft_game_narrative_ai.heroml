@@ -1,0 +1,92 @@
+Your task is to write a "Quest Description" for the "Gaming Industry" industry, specifically for a "Game Writer". 
+
+Let's start by creating a compelling quest title that grabs attention and hints at the nature of the quest, {{quest_title}}.
+
+Here's some more context about the Quest Description:
+Quest Title: {{quest_title}}
+Quest Context: {{quest_context}}
+Quest Objectives: {{quest_objectives}}
+Quest Challenges: {{quest_challenges}}
+Quest Rewards: {{quest_rewards}}
+Next Quest Hint: {{next_quest_hint}}
+
+->>>>
+
+Now, we have a quest with a title:
+
+Quest Title:
+{{step_1}}
+
+Next, write an engaging introduction that sets the scene for the quest and the reason why the player's character must complete it: {{quest_context}}.
+
+->>>>
+
+For our quest with the title:
+
+Quest Title:
+{{step_1}}
+
+We now have an engaging introduction:
+
+Quest Introduction:
+{{step_2}}
+
+Moving on, detail the objectives of the quest. Make it clear what the player is expected to do for successful completion. Use clear and concise language: {{quest_objectives}}.
+
+->>>>
+
+In our quest titled:
+
+Quest Title:
+{{step_1}}
+
+With the introduction:
+
+Quest Introduction:
+{{step_2}}
+
+We have established clear objectives:
+
+Quest Objectives:
+{{step_3}}
+
+Now, highlight the challenges or obstacles the player will encounter during this quest. This will add depth to the quest and allow the player to anticipate the difficulty level: {{quest_challenges}}.
+
+->>>>
+
+In this quest scenario:
+
+Quest Title:
+{{step_1}}
+Quest Introduction:
+{{step_2}}
+Quest Objectives:
+{{step_3}}
+
+We have defined some potential challenges:
+
+Quest Challenges:
+{{step_4}}
+
+Next, describe the reward or benefits for completing the quest. Outline both concrete rewards (like objects, powers, or points) and abstract rewards like new alliances, or unlocking further story elements: {{quest_rewards}}.
+
+->>>>
+
+For our quest with these details:
+
+Quest Title:
+{{step_1}}
+Quest Introduction:
+{{step_2}}
+Quest Objectives:
+{{step_3}}
+Quest Challenges:
+{{step_4}}
+
+We now have established rewards:
+
+Quest Rewards:
+{{step_5}}
+
+Finally, write a brief hook or continuation alluding to potential future quests or adventures that may stem from this quest. This will build the player's interest and anticipation for upcoming quests. For instance, "Unravel the mysteries of {{next_quest_hint}}".
+

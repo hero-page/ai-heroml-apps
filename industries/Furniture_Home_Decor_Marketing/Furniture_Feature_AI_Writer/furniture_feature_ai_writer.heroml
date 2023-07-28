@@ -1,0 +1,59 @@
+Your task is to write a "Product Features" for the "Furniture & Home Decor Marketing" industry, specifically for a "Product Marketer". 
+
+Let's start with an engaging introduction that describes the core value of the product: {{product_value}}. This introduction should focus on how the product will positively impact the user's life or solve a problem for them. 
+
+Here's some more context about the Product Features:
+Product Value: {{product_value}}
+Product Usp: {{product_usp}}
+Product Features: {{product_features}}
+Product Specs: {{product_specs}}
+Usage Scenario: {{usage_scenario}}
+
+->>>>
+
+With our introduction in place:
+
+Introduction:
+{{step_1}}
+
+Next, let's highlight the product's unique selling point (USP) that defines how your product stands out from the competition: {{product_usp}}. This should provide a compelling reason why potential customers should choose your product over others.
+
+->>>>
+
+We have an introduction and a unique selling point:
+
+Introduction:
+{{step_1}}
+
+Unique Selling Point:
+{{step_2}}
+
+Now, let's describe the main features and benefits of the product: {{product_features}}. For every feature mentioned, there must be a respective benefit that shows the practical implications of that feature on a user's life.
+
+->>>>
+
+We now have a set of features and benefits for our product:
+
+Introduction:
+{{step_1}}
+
+Unique Selling Point:
+{{step_2}}
+
+Product Features & Benefits:
+{{step_3}}
+
+Moving on, it's time to specify the technical specs or dimensions of the product, particularly crucial in furniture and home decor: {{product_specs}}. This may include sizes, available colors, weight, material type, and any environmental or safety certifications.
+
+->>>>
+
+We have detailed the product's features, and now, its specifications:
+
+Product Features & Benefits:
+{{step_3}}
+
+Product Specifications:
+{{step_4}}
+
+Let's now create a usage scenario so the potential buyer can tangibly imagine using the product: {{usage_scenario}}. This takes the features and benefits into a practical context and allows us to highlight conveniences, comforts, or aesthetic appeals.
+

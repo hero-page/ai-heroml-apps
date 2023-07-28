@@ -1,0 +1,111 @@
+Your task is to write a recipe for the food writing industry, specifically for an author. 
+
+Proceed by creating an engaging title for this recipe for a dish called {{recipe_name}}. Make it descriptive and interesting to captivate the reader's attention.
+
+Here's some more context about the Recipe:
+Recipe Name: {{recipe_name}}
+Intro Story: {{intro_story}}
+Ingredients List: {{ingredients_list}}
+Preparation Instructions: {{preparation_instructions}}
+Serving Suggestions: {{serving_suggestions}}
+Dietary Info: {{dietary_info}}
+
+->>>>
+
+For the food writing industry, we are creating a recipe and it now has an engaging title:
+
+Recipe Title:
+{{step_1}}
+
+Next, write an engaging introduction that provides context for the dish. This could be a memory associated with the recipe, its cultural significance, or why you love the recipe. Ideally, the introduction should tell a story revolving around the dish, termed {{intro_story}}.
+
+->>>>
+
+So far, we have a title and engaging introduction for our recipe:
+
+Recipe Title:
+{{step_1}}
+
+Recipe Introduction:
+{{step_2}}
+
+Next, prepare a list of necessary ingredients, termed {{ingredients_list}}. Include specific measurements and suggest potential substitutes for less common ingredients to cater to a wider range of readers.
+
+->>>>
+
+For our recipe, we now have a title, engaging introduction, and a list of ingredients:
+
+Recipe Title:
+{{step_1}}
+
+Recipe Introduction:
+{{step_2}}
+
+Ingredients List:
+{{step_3}}
+
+Now, provide detailed preparation and cooking steps, referenced as {{preparation_instructions}}. Break down the method into easy-to-follow steps. Time for preparation and cooking should be stated separately.
+
+->>>>
+
+Our recipe now contains a title, engaging introduction, list of ingredients, and preparation instructions:
+
+Recipe Title:
+{{step_1}}
+
+Recipe Introduction:
+{{step_2}}
+
+Ingredients List:
+{{step_3}}
+
+Preparation Instructions:
+{{step_4}}
+
+Next, discuss the serving suggestions and best ways to enjoy the dish, named {{serving_suggestions}}. Include recommendations for accompaniments, garnishing, portion sizes, or any other advice that enhances the dining experience.
+
+->>>>
+
+Our recipe now contains a title, engaging introduction, list of ingredients, preparation steps, and serving suggestions:
+
+Recipe Title:
+{{step_1}}
+
+Recipe Introduction:
+{{step_2}}
+
+Ingredients List:
+{{step_3}}
+
+Preparation Instructions:
+{{step_4}}
+
+Serving Suggestions:
+{{step_5}}
+
+Include a note about the recipe's dietary information {{dietary_info}}. Mention if the recipe is vegan, vegetarian, gluten-free, nut-free, etc., and, if possible, provide its nutritional values.
+
+->>>>
+
+The recipe now contains a title, engaging introduction, list of ingredients, preparation steps, serving suggestions, and dietary information:
+
+Recipe Title:
+{{step_1}}
+
+Recipe Introduction:
+{{step_2}}
+
+Ingredients List:
+{{step_3}}
+
+Preparation Instructions:
+{{step_4}}
+
+Serving Suggestions:
+{{step_5}}
+
+Dietary Information:
+{{step_6}}
+
+Your recipe is nearly complete. Now, incorporate elements specific to the food authoring industry. These could include suggestions for pairing wines or the origins of key ingredients. 
+

@@ -1,0 +1,68 @@
+Your task is to write an "Editing Report" for the "Ghostwriting" industry, specifically for an "Editor". Let's start by creating an introduction that overviews the goal of the report: {{editing_goal}}. Also, include a brief summary of the work or manuscript that was submitted for editing.
+
+Here's some more context about the Editing Report:
+Editing Goal: {{editing_goal}}
+Content Quality: {{content_quality}}
+Writing Style: {{writing_style}}
+Information Accuracy: {{information_accuracy}}
+Editorial Fit: {{editorial_fit}}
+Editing Changes: {{editing_changes}}
+Recommendations: {{recommendations}}
+
+->>>>
+
+Now, we have the Introduction for the Editing Report:
+
+Introduction:
+{{step_1}}
+
+Next, let's proceed to the Editing Feedback section. Here, we will discuss the overall quality of the content checked, including grammar, sentence structure, coherence, and flow using {{content_quality}}.
+
+->>>>
+
+We now have the Editing Feedback for our Ghostwriting "Editing Report":
+
+Introduction:
+{{step_1}}
+
+Editing Feedback:
+{{step_2}}
+
+Moving on, let's evaluate the writing style in terms of consistency, voice, and tone. Use the variable {{writing_style}} to cover this aspect.
+
+->>>>
+
+Up to now, we have the Writing Style Evaluation for our Editing Report:
+
+Editing Feedback:
+{{step_2}}
+
+Writing Style Evaluation:
+{{step_3}}
+
+Now, let's cover the Content Review section. Here, we will talk about the accuracy and relevance of the information, represented by the variable {{information_accuracy}}, and whether the writing aligns with the intended editorial guidelines, using {{editorial_fit}}.
+
+->>>>
+
+For the Editing Report, we now have the Content Review:
+
+Writing Style Evaluation:
+{{step_3}}
+
+Content Review:
+{{step_4}}
+
+Following is the Editing Overview section. Here you should highlight the specific changes made during editing, in terms of grammar, punctuation, sentence structure, and formatting, using the variable {{editing_changes}}.
+
+->>>>
+
+In our Editing Report, we now have the Editing Overview:
+
+Content Review:
+{{step_4}}
+
+Editing Overview:
+{{step_5}}
+
+Now, let's address potential concerns about the content in an Editor's Note. Also provide recommendations for further enhancements to the content under the heading 'Editor's Recommendations' using the variable {{recommendations}}.
+

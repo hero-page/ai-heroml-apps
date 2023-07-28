@@ -1,0 +1,64 @@
+Your task is to write a "Showroom Layout Description" for the "Furniture & Home Decor Marketing" industry, specifically for a "Visual Merchandiser". 
+
+Let's start by generating an overview that introduces the showroom: {{showroom}}. This part should include a brief depiction of the showroom, including its total size, layout orientation, and types of furnishing and home decor items displayed.
+
+Here's some more context about the Showroom Layout Description:
+Showroom: {{showroom}}
+
+->>>>
+
+Now, we have an overview of our showroom:
+
+Showroom Overview:
+{{step_1}}
+
+Continue with a detailed section-by-section walkthrough of the showroom: {{showroom}}. Information for each outlined space should detail the overall aesthetic, purpose, types of furniture and home decor in the section, as well as their arrangement and key features.
+
+->>>>
+
+We have created a section-by-section walkthrough of the showroom:
+
+Showroom Overview:
+{{step_1}}
+
+Section-by-Section Walkthrough:
+{{step_2}}
+
+Next, discuss the key design elements and merchandising strategy of the showroom: {{showroom}}. This section needs to talk about the intended ambiance, color schemes, lighting setup, and the overall visual appeal. Also address how the products are presented to encourage purchasing, such as through lifestyle settings or product groupings.
+
+->>>>
+
+With the plan for individual sections in place, we now have a design and merchandising strategy:
+
+Section-by-Section Walkthrough:
+{{step_2}}
+
+Design and Merchandising Strategy:
+{{step_3}}
+
+Move on to discuss any ecological or sustainable aspects of the showroom: {{showroom}}, if any. This can include the use of sustainable materials, recycling initiatives, or even the incorporation of eco-friendly furniture and home decor items.
+
+->>>>
+
+We have a design and merchandising strategy, and we've outlined how the showroom incorporates ecological or sustainable aspects:
+
+Design and Merchandising Strategy:
+{{step_3}}
+
+Ecological or Sustainable Aspects:
+{{step_4}}
+
+In the next step, incorporate a section on the customer journey through the showroom: {{showroom}}. Detail the recommended path for customers to follow when browsing through the showroom, and how the layout guides this journey. Discuss how each section transitions to the next, and the intended customer experience at each point.
+
+->>>>
+
+With the eco-friendly methods defined, we have also created a roadmap for the customer's journey through the showroom:
+
+Ecological or Sustainable Aspects:
+{{step_4}}
+
+Customer Journey:
+{{step_5}}
+
+To wrap it up, write an inviting conclusion for the readers to visit and experience the {{showroom}} for themselves. This call-to-action section is crucial in engaging the reader and creating a sense of the immersive experience that awaits them.
+

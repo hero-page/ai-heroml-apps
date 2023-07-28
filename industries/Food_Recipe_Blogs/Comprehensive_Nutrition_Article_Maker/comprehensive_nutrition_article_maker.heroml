@@ -1,0 +1,124 @@
+You are going to write a "Nutrition Advice Article" for the "Food & Recipe Blogs" industry, specifically for a "Nutritionist". 
+
+Let's start by crafting an engaging introduction that introduces the central topic of the article: {{nutrition_topic}}. This could be a specific food, diet plan, or aspect of nutrition.
+
+Here's some more context about the Nutrition Advice Article:
+Nutrition Topic: {{nutrition_topic}}
+
+->>>>
+
+Now we have started our "Nutrition Advice Article" about {{nutrition_topic}} with a compelling introduction:
+
+Introduction:
+{{step_1}}
+
+Next, compose a detailed section that provides essential background information on the {{nutrition_topic}}.
+
+->>>>
+
+The "Nutrition Advice Article" about {{nutrition_topic}} has progressed with an insightful introduction and background information:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Now that we have established the basics, delve into detailing the significance of {{nutrition_topic}}, underlining its role and benefits in maintaining good health and substantiate it with factual evidence and scientific research.
+
+->>>>
+
+With the sound background and significance of {{nutrition_topic}} in the health context established in our "Nutrition Advice Article":
+
+Background:
+{{step_2}}
+
+Significance:
+{{step_3}}
+
+Now it's time to translate the theoretical knowledge about the {{nutrition_topic}} into practical advice. Create a section with actionable steps that readers can implement in their daily lives.
+
+->>>>
+
+The "Nutrition Advice Article" about {{nutrition_topic}} has composed theoretical as well as practical advice:
+
+Significance:
+{{step_3}}
+
+Practical Advice:
+{{step_4}}
+
+Next, incorporate a clear and concise part discussing common misconceptions or misunderstandings about {{nutrition_topic}} to address and correct prevalent inaccuracies.
+
+->>>>
+
+Our "Nutrition Advice Article" has addressed with not just practical applications but also common misconceptions about {{nutrition_topic}}:
+
+Practical Advice:
+{{step_4}}
+
+Misconceptions:
+{{step_5}}
+
+Let's present real-life scenarios to the readers by introducing a case study segment where an individual's or group's experience concerning {{nutrition_topic}} is shared.
+
+->>>>
+
+Our "Nutrition Advice Article" now contains real-life examples with a detailed case study section on {{nutrition_topic}}:
+
+Misconceptions:
+{{step_5}}
+
+Case Study:
+{{step_6}}
+
+Now that substantial information about {{nutrition_topic}} has been addressed, write a summary that reinforces the importance of {{nutrition_topic}} and reminds readers about the practical steps they can take.
+
+->>>>
+
+Our "Nutrition Advice Article" contains a detailed discussion on {{nutrition_topic}} and its significance ending with a comprehensive summary:
+
+Case Study:
+{{step_6}}
+
+Summary:
+{{step_7}}
+
+Further, explain how the {{nutrition_topic}} is relevant to various groups like athletes, the elderly, pregnant women, or children. Provide it as an addition to the main body of the article.
+
+->>>>
+
+Our "Nutrition Advice Article" about {{nutrition_topic}} now discusses its relevance to different groups:
+
+Summary:
+{{step_7}}
+
+Relevance to Various Groups:
+{{step_8}}
+
+Next, provide practical tips on how readers can incorporate {{nutrition_topic}} into their daily meals and diet plans.
+
+->>>>
+
+Our "Nutrition Advice Article" about {{nutrition_topic}} now provides useful tips on its incorporation into daily meals:
+
+Relevance to Various Groups:
+{{step_8}}
+
+Nutrition Tips:
+{{step_9}}
+
+Now, shed light on the common challenges people may face when implementing the {{nutrition_topic}} into their lifestyles, and provide suggestions on how to overcome them.
+
+->>>>
+
+In the current stage of our "Nutrition Advice Article", we discuss practical tips and strategies in relation to {{nutrition_topic}}:
+
+Nutrition Tips:
+{{step_9}}
+
+Overcoming Challenges:
+{{step_10}}
+
+To wrap it up, provide an insight into current industry trends or recent research findings related to the {{nutrition_topic}}. This will ensure readers are up-to-date with the latest knowledge.
+

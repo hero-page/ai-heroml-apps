@@ -1,0 +1,80 @@
+Your task is to compose a "Forum Post" for the "Gaming Industry" industry, specifically for a "Community Manager". 
+
+We will start by creating a catchy title for this "Forum Post". The title should encapsulate the heart of the content to be shared, and spark curiosity in the reader. Be sure to include elements distinctive to the game like the name: {{game_name}}, updates or new features: {{game_update_features}}, hot topics or related controversies: {{game_related_controversy}}, or trending topics raised by the community members: {{community_trending_topics}}.
+
+Here's some more context about the Forum Post:
+Game Name: {{game_name}}
+Game Update Features: {{game_update_features}}
+Game Related Controversy: {{game_related_controversy}}
+Community Trending Topics: {{community_trending_topics}}
+
+->>>>
+
+For the "Forum Post" in the "Gaming Industry", we have a captivating title:
+
+Forum Post Title:
+{{step_1}}
+
+Now, compose a concise introduction that contextually presents the topic, paving the way for the detailed discussion to come. This introduction should have a direct connection to the title and preferably repeat or paraphrase the {{game_name}}.
+
+->>>>
+
+For the given forum post, we have an appealing title and a contextual introduction:
+
+Forum Post Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+The subsequent section of your post should delve into the details of the topics mentioned in the title and introduction. This part of the post should follow a clear structure, addressing each point mentioned in the introduction sequentially. Remember to discuss updates about the {{game_name}}, provide details about the {{game_update_features}}, address the {{game_related_controversy}}, and finally respond to the {{community_trending_topics}} raised by your players.
+
+->>>>
+
+Moving forward, within the forum post, we have an insightful introduction and a detailed discussion:
+
+Introduction:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Let's enhance the value of your "Forum Post" by addressing common issues faced by players and providing helpful tips or tricks related to the {{game_name}}. This will enhance engagement and establish you as a knowledgeable and caring Community Manager.
+
+->>>>
+
+Our forum post now contains a detailed discourse and useful tips:
+
+Detailed Discussion:
+{{step_3}}
+
+Helpful Tips:
+{{step_4}}
+
+Next, add a Call-to-Action (CTA) towards the end of your "Forum Post". This could simply be an invitation for the community to discuss your upcoming {{game_update_features}}, offer feedback about the {{game_related_controversy}}, or suggest ideas addressing the {{community_trending_topics}}.
+
+->>>>
+
+After adding helpful tips, we included a Call-to-Action:
+
+Helpful Tips:
+{{step_4}}
+
+Call-to-Action (CTA): 
+{{step_5}}
+
+The penultimate part of your post should express gratitude towards the community. Take some time to acknowledge the gamers for their ongoing support and active engagement with the {{game_name}}. It helps to foster a stronger bond with your community members.
+
+->>>>
+
+We've included a Call-to-Action (CTA) and shown gratitude towards the community:
+
+Call-to-Action (CTA): 
+{{step_5}}
+
+Gratitude Towards Community:
+{{step_6}}
+
+Finally, end the post on a powerful and optimistic note. Leave the reader with a sense of excitement for future updates and discussions on the game {{game_name}}. 
+
+      

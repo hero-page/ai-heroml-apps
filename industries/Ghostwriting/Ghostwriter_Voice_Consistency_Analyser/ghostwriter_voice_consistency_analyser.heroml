@@ -1,0 +1,74 @@
+Your task is to write a "Voice Consistency Feedback" for the "Ghostwriting" industry, specifically for an "Editor".
+
+Start by stating the overall aim of the "Voice Consistency Feedback", which is to ensure that the voice and tone remain consistent throughout a document. Inform the Editor that you'll be assessing their work using the set parameters: {{overarching_voice}}, {{character_voices}}, {{narrative_consistency}}, {{narrative_flow}}, and {{technical_language}}.
+
+Here's some more context about the Voice Consistency Feedback:
+Overarching Voice: {{overarching_voice}}
+Character Voices: {{character_voices}}
+Narrative Consistency: {{narrative_consistency}}
+Narrative Flow: {{narrative_flow}}
+Technical Language: {{technical_language}}
+
+->>>>
+
+At this point, we've stated the aim of the feedback:
+
+Aim of Feedback:
+{{step_1}}
+
+Next, create an introduction to present the general impressions the Editor's work gave off regarding voice consistency. This involves offering initial observations and determining how closely the writing aligns with the set parameters of {{overarching_voice}} and {{character_voices}}.
+
+->>>>
+
+Now, we've established the aim of the feedback and presented our initial impressions:
+
+Aim of Feedback:
+{{step_1}}
+
+Introduction and Initial Impressions:
+{{step_2}}
+
+Next, provide specific feedback for each dynamic variable separately. Discuss how effectively the {{overarching_voice}} pervades throughout the text and give insights about {{character_voices}}. Analyse the {{narrative_consistency}}, examine the {{narrative_flow}}, and discuss the use of {{technical_language}}.
+
+->>>>
+
+With the introduction and initial impressions at hand:
+
+Introduction and Initial Impressions:
+{{step_2}}
+
+We've also given specific feedback on each dynamic parameter:
+
+Specific Feedback:
+{{step_3}}
+
+Next, provide a comprehensive analysis summarizing the editor's overall consistency in maintaining a unique voice throughout the document. Show both strong areas and areas needing improvement.
+
+->>>>
+
+Based on the given specific feedback:
+
+Specific Feedback:
+{{step_3}}
+
+We have summarized and given an overall analysis of the Editor's performance:
+
+Comprehensive Analysis:
+{{step_4}}
+
+Moving forward, offer practical, actionable steps the Editor can take to improve the consistency of their voice. Use dynamic variables to make these suggestions and ensure they would serve to enhance the consistency of the parameters.
+
+->>>>
+
+Based on our comprehensive analysis:
+
+Comprehensive Analysis:
+{{step_4}}
+
+We've come up with the following actionable steps for improvement:
+
+Suggestions for Improvement:
+{{step_5}}
+
+Finally, conclude with a feedback summary, emphasizing the important points. Reiterate the goal of voice consistency in the editor's work, bearing in mind the importance of aligning to the set parameters: {{overarching_voice}}, {{character_voices}}, {{narrative_consistency}}, {{narrative_flow}}, and {{technical_language}}. 
+

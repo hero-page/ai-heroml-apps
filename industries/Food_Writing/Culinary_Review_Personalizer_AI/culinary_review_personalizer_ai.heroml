@@ -1,0 +1,168 @@
+Let's start by writing a captivating introduction that summarises the premise of the book, {{book_premise}}, and gives a hint about your opinion.
+
+Here's some more context about the Food Book Review:
+Book Premise: {{book_premise}}
+Author Details: {{author_details}}
+Book Summary: {{book_summary}}
+Book Appraisal: {{book_appraisal}}
+Personal Experience: {{personal_experience}}
+Comparison: {{comparison}}
+Recommendation: {{recommendation}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+Now we have a captivating introduction for our food book review:
+
+Introduction:
+{{step_1}}
+
+Next, let's provide the book details including the title, author, publisher and publication date.
+
+->>>>
+
+We have a captivating introduction and book details for our food book review:
+
+Introduction:
+{{step_1}}
+
+Book Details:
+{{step_2}}
+
+Moving on, we need to discuss briefly the author's background in the food industry, their credentials and other notable works they may have authored, also known as {{author_details}}.
+
+->>>>
+
+For our food book review, we have an introduction, book details, and a brief discussion on the author's background:
+
+Introduction:
+{{step_1}}
+
+Book Details:
+{{step_2}}
+
+Author's Background: 
+{{step_3}}
+
+Next, let's provide a detailed summary of the {{book_summary}}, being careful not to spoil too many details, making sure to touch on the main themes, ideas or featured recipes in the book.
+
+->>>>
+
+We have a detailed summary for our food book review:
+
+Introduction:
+{{step_1}}
+
+Book Details:
+{{step_2}}
+
+Author's Background: 
+{{step_3}}
+
+Book Summary:
+{{step_4}}
+
+Next, write a subjective appraisal of the book, discussing elements such as the writing style, quality of recipes, clarity of instructions, and how engrossing the book is. This is your {{book_appraisal}}.
+
+->>>>
+
+We are progressing with our food book review! We have an introduction, book details, author's background, book summary, and book appraisal:
+
+Introduction:
+{{step_1}}
+
+Book Details:
+{{step_2}}
+
+Author's Background: 
+{{step_3}}
+
+Book Summary:
+{{step_4}}
+
+Book Appraisal:
+{{step_5}}
+
+Now, let's incorporate your own experience in trying out some of the recipes in this book or how it influenced or inspired your culinary experiences: {{personal_experience}}.
+
+->>>>
+
+We have an introduction, book details, author's background, book summary, book appraisal, and personal experience:
+
+Introduction:
+{{step_1}}
+
+Book Details:
+{{step_2}}
+
+Author's Background: 
+{{step_3}}
+
+Book Summary:
+{{step_4}}
+
+Book Appraisal:
+{{step_5}}
+
+Personal Experience:
+{{step_6}}
+
+In the next step, compare this book and its content with other books within the same genre or by the same author, if applicable: {{comparison}}.
+
+->>>>
+
+Moving along with our food book review, we have the comparison:
+
+Introduction:
+{{step_1}}
+
+Book Details:
+{{step_2}}
+
+Author's Background: 
+{{step_3}}
+
+Book Summary:
+{{step_4}}
+
+Book Appraisal:
+{{step_5}}
+
+Personal Experience:
+{{step_6}}
+
+Comparison:
+{{step_7}}
+
+Let's summarise your overall impression of the book, whether you'd recommend it to your readers, and who would benefit most from reading it. Use this information to craft your {{recommendation}}.
+
+->>>>
+
+For our food book review, we have our recommendation:
+
+Introduction:
+{{step_1}}
+
+Book Details:
+{{step_2}}
+
+Author's Background: 
+{{step_3}}
+
+Book Summary:
+{{step_4}}
+
+Book Appraisal:
+{{step_5}}
+
+Personal Experience:
+{{step_6}}
+
+Comparison:
+{{step_7}}
+
+Recommendation:
+{{step_8}}
+
+Now, let's bring all of this together and write a concise conclusion that summarises your key thoughts and the results of your review: {{conclusion}}.
+

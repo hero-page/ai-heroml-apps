@@ -1,0 +1,110 @@
+Your task is to write a detailed "Character Backstory" for the "Gaming Industry" industry, for a "Game Writer". 
+Let's start with the basic information of the character where you should include: {{character_name}}, their role in the game storyline: {{character_role}}, their race/species: {{character_race}}, and their class or occupation: {{character_class}}.
+
+Here's some more context about the Character Backstory:
+Character Name: {{character_name}}
+Character Role: {{character_role}}
+Character Race: {{character_race}}
+Character Class: {{character_class}}
+Character Home: {{character_home}}
+Character Traits: {{character_traits}}
+Character Abilities: {{character_abilities}}
+Dynamic Variables: {{dynamic_variables}}
+
+->>>>
+
+In the game industry, we are building a character with the following basic information:
+
+Character Name:
+{{character_name}}
+
+Role in the game storyline:
+{{step_1}}
+
+Race/Species:
+{{character_race}}
+
+Class or occupation:
+{{character_class}}
+
+Now, delve into a summary of the character's life history up until the game starts. Ensure to cover formative events in their past, such as where they were raised: {{character_home}}, what their childhood was like, any significant traumas, or triumphs.
+
+->>>>
+
+Our character in this gaming industry has a story before the game starts:
+
+Life history:
+{{step_2}}
+
+Moving ahead, let's focus on the character's personality traits: {{character_traits}}. Discuss how these traits were shaped by past experiences and how these traits manifest in the course of the game. Also, consider these traits to determine their motives for participating in the game's plot.
+
+->>>>
+
+With a backstory in place:
+
+Life history:
+{{step_2}}
+
+We now have detailed personality traits:
+
+Personality traits:
+{{step_3}}
+
+Introduce the character's skills and abilities associated with their class or occupation: {{character_abilities}}. Detail how they acquired these abilities and ensure it aligns with their character history and personality traits.
+
+->>>>
+
+We have developed personality traits:
+
+Personality traits:
+{{step_3}}
+
+And now, we have abilities associated with the character's occupation:
+
+Abilities:
+{{step_4}}
+
+Next, write about the character's relationships with other game characters. Consider anything from potential conflicts to alliances that might impact the game's storyline.
+
+->>>>
+
+We have added abilities and skills:
+
+Abilities:
+{{step_4}}
+
+And now we have character relations:
+
+Relations:
+{{step_5}}
+
+In the subsequent step, incorporate game-specific elements into the backstory. Include pivotal events in the game world's history, the character familiarity with different locations in the game, or encounters with game-specific creatures or items.
+
+->>>>
+
+So far, we have developed character relations:
+
+Relations:
+{{step_5}}
+
+Now, we have included game-specific elements:
+
+Game-specific elements:
+{{step_6}}
+
+To conclude, explain clearly how the character's past led them to their role in the game's narrative. Highlight their motivations, goals, and hint at potential character development arcs they may experience in the game.
+
+->>>>
+
+We have a background story containing game-specific elements:
+
+Game-specific elements:
+{{step_6}}
+
+Final part of the backstory includes character's motivation and potential character development arcs:
+
+Character motivation and potential arcs:
+{{step_7}}
+
+The final step entails adding just enough mystery and unanswered questions about the character's past to keep the players engaged, but not so much as to make the backstory confusing or frustrating.
+

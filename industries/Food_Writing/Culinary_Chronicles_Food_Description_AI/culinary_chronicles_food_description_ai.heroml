@@ -1,0 +1,80 @@
+Your task is to write a detailed "Food Description" for the "Food Writing" industry, specifically for an "Author". Let's begin by writing an appetizing introduction that sets the stage for the food item: {{food_name}}. This should describe its overall appearance, color, and enticing aspects to draw in the reader.
+
+Here's some more context about the Food Description:
+Food Name: {{food_name}}
+
+->>>>
+
+We now have an appetizing introduction for our food item. 
+
+Introduction:
+{{step_1}}
+
+Proceeding ahead, list and describe the main ingredients of the {{food_name}}. Paint a picture of how they come together to form the dish. This description should be fragrant and tempting.
+
+->>>>
+
+Now, we have an appetizing introduction and a vivid picture of the main ingredients of our food item:
+
+Introduction:
+{{step_1}}
+
+Main Ingredients:
+{{step_2}}
+
+Moving forward, describe the preparation or cooking methods related to the {{food_name}}. Explain how ingredients are combined or treated, and the transformation process they undergo.
+
+->>>>
+
+We have the introduction, ingredients and the cooking methods detailed for our food item:
+
+Introduction:
+{{step_1}}
+
+Main Ingredients:
+{{step_2}}
+
+Cooking Methods:
+{{step_3}}
+
+Next, delve deep into the taste profile of the {{food_name}}. Address its textures, temperatures, and layers of complex flavors. Describe the mouthfeel and the gustatory journey that the food item provides.
+
+->>>>
+
+For the {{food_name}}, we have described the introduction, ingredients, cooking methods and the taste profile:
+
+Introduction:
+{{step_1}}
+
+Main Ingredients:
+{{step_2}}
+
+Cooking Methods:
+{{step_3}}
+
+Taste Profile:
+{{step_4}}
+
+Going deeper into the experience, incorporate cultural, regional, or historical references associated with the {{food_name}}. This will add depth to your description.
+
+->>>>
+
+So far, we have the introduction, ingredients, cooking methods, taste profile and the cultural importance of our food item:
+
+Introduction:
+{{step_1}}
+
+Main Ingredients:
+{{step_2}}
+
+Cooking Methods:
+{{step_3}}
+
+Taste Profile:
+{{step_4}}
+
+Cultural/Regional References:
+{{step_5}}
+
+Now, write a memorable conclusion that details the lasting impression the {{food_name}} leaves on the palate and mind of the diner.
+

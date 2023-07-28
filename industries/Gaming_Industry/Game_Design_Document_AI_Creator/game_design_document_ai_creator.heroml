@@ -1,0 +1,129 @@
+Your task is to write a "Game Design Document" for the Gaming Industry, specifically for a Game Developer. We will start by creating a title page for our document that contains the name of the game, the author, and the date.
+
+Here's some more context about the Game Design Document:
+Game Name: {{game_name}}
+Game Context: {{game_context}}
+Game Objectives: {{game_objectives}}
+Game Storyline: {{game_storyline}}
+Game Setting: {{game_setting}}
+Game Audio: {{game_audio}}
+Game User Interface: {{game_user_interface}}
+Technology Plan: {{technology_plan}}
+Development Schedule: {{development_schedule}}
+Marketing Publication: {{marketing_publication}}
+
+->>>>
+
+We've created a title page for our Game Design Document:
+
+Title Page:
+{{step_1}}
+
+Our next step is to write an executive summary that provides an overview of our game. The overview should include the genre, platform, theme, and core mechanic of the game.
+
+->>>>
+
+We have an executive summary for our game:
+
+Executive Summary:
+{{step_2}}
+
+Our next step is to introduce the game by setting its context, and detailing the game's target audience and objectives.
+
+->>>>
+
+We have an introduction for our game design document:
+
+Introduction:
+{{step_3}}
+
+Our next instruction is to create a detailed description of the game mechanics, covering topics such as the rules, reward structures, progression, and learning curves.
+
+->>>>
+
+We have described our game mechanics:
+
+Game Mechanics:
+{{step_4}}
+
+Now, write a detailed description of the game's setting and storyline. This description should include details about the plot, characters, setting, time, etc.
+
+->>>>
+
+We've created a narrative for our game including the setting and storyline:
+
+Game Narrative:
+{{step_5}}
+
+We should next describe the game world, its entities, and their actions and relationships with each other.
+
+->>>>
+
+We've described our game world and its entities:
+
+Game World:
+{{step_6}}
+
+It's time to elaborate on the visual style of the game. Describe aesthetic choices, themes, colours, style of graphics and character design to reflect the game aesthetics.
+
+->>>>
+
+We have a description of our game's visual style:
+
+Visual Style:
+{{step_7}}
+
+Now, describe the audio aspects of the game, including music, sound effects, and voice-overs.
+
+->>>>
+
+We have an outline of our game's audio:
+
+Audio:
+{{step_8}}
+
+Our next step is to develop a user interface section to describe the game's UI from the player's perspective.
+
+->>>>
+
+We have a section detailing the game's UI:
+
+User Interface:
+{{step_9}}
+
+Now, we will create a section detailing the technology plan and tools used to build your game, including software, hardware, and other technical needs.
+
+->>>>
+
+Technology Plan:
+{{step_10}}
+
+Moving forward, we will incorporate a game development schedule in our Game Design Document. This should include the timeline, milestones, and budget for the game development.
+
+->>>>
+
+Our game development schedule is as follows:
+
+Game Development Schedule:
+{{step_11}}
+
+Now, let's detail how the game will be marketed and published, including its expected release and pricing.
+
+->>>>
+
+Here's our strategy for Marketing and Distribution:
+
+Marketing and Distribution:
+{{step_12}}
+
+We will conclude the Game Design Document with a contacts section, including team member contact information and any other relevant contact information.
+
+->>>>
+
+Our contacts section has been created:
+
+Contacts:
+{{step_13}}
+
+Finally, we will include an appendix with additional concepts, ideas, sketches, or other resources that are relevant to the game.
+

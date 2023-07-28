@@ -1,0 +1,89 @@
+Your task is to write a "Best Food Destinations" guide for the "Food and Culture" industry, specifically for a "Food Travel Blogger". Let's get started.
+
+Your first task is to write an engaging introduction giving a brief overview of what to expect in the "Best Food Destinations" guide, describing the type of cuisines or food trends under consideration: {{cuisine_type_or_trend}}.
+
+Here's some more context about the Best Food Destinations:
+Cuisine Type Or Trend: {{cuisine_type_or_trend}}
+Destination: {{destination}}
+
+->>>>
+
+With our introduction in place:
+
+Introduction:
+{{step_1}}
+
+Your next task is to develop content around each chosen food destination. For each destination, start by creating an introductory section about the {{destination}}, including the food culture, unique and must-try foods or dishes, and famous restaurants or food stalls (if any).
+
+->>>>
+
+Moving forward with our food destination guide:
+
+Introduction:
+{{step_1}}
+
+First Destination:
+{{step_2}}
+
+Next, incorporate experiences of local street food, markets, or food tours, if available at the respective {{destination}}. This content should provide a sense of the location's local culinary culture and food scene.
+
+->>>>
+
+We now have the introduction and first destination details:
+
+Introduction:
+{{step_1}}
+
+First Destination and Local Food Experiences:
+{{step_3}}
+
+Now, write a section highlighting the connection between food and culture at the {{destination}}, describing how traditional dishes are made, sourced, and any stories or history associated with them.
+
+->>>>
+
+Let's review our guide so far:
+
+Introduction:
+{{step_1}}
+
+First Destination, Local Food Experiences, and Food Culture Connection:
+{{step_4}}
+
+Next, incorporate local food etiquette and customs at the respective {{destination}}, providing a richer context into the food experience and cultural significance.
+
+->>>>
+
+The guide is building up nicely, here's what it looks like now:
+
+Introduction:
+{{step_1}}
+
+First Destination Details with Cultural Insights:
+{{step_5}}
+
+Consider providing information on seasonal foods or events related to food at the respective {{destination}} next. This can help the blogger plan their visit to align with notable culinary occasions.
+
+->>>>
+
+So far, we have detailed:
+
+Introduction:
+{{step_1}}
+
+First Destination Details with Seasonal Information:
+{{step_6}}
+
+Now, if possible, provide some lesser-known or unique gastronomical facts about the {{destination}}, which could intrigue readers.
+
+->>>>
+
+Let's take a look at our progress:
+
+Introduction:
+{{step_1}}
+
+First Destination Details Enhanced with Unique Gastronomical Facts:
+{{step_7}}
+
+Conclude the section for the first destination with a summary or personal recommendation about the foodie experience at the {{destination}}.
+

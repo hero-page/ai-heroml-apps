@@ -1,0 +1,111 @@
+Your task is to write a "Community Update" for the "Gaming Industry", specifically for a "Community Manager". 
+
+Let's begin with a warm introduction which announces the purpose of the update. This should also mention the period that the update is covering: {{update_period}}.
+
+Here's some more context about the Community Update:
+Update Period: {{update_period}}
+Upcoming Highlights: {{upcoming_highlights}}
+Recent Events Or Changes: {{recent_events_or_changes}}
+Upcoming Events Or Expansions: {{upcoming_events_or_expansions}}
+Frequently Asked Questions: {{frequently_asked_questions}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+We have a warm introduction for our community update:
+
+Introduction:
+{{step_1}}
+
+The next step is to provide an informative summary of what the community update will cover. Be sure to highlight the key elements coming up in the update: {{upcoming_highlights}}.
+
+->>>>
+
+We have an introduction and a summary for our community update:
+
+Introduction:
+{{step_1}}
+
+Summary:
+{{step_2}}
+
+Now, we need to dive into the main part of the update. Make sure to detail any recent events or changes that have occurred within the community: {{recent_events_or_changes}}. This should strike a balance between celebrating achievements or milestones and addressing any community concerns or issues that have arisen.
+
+->>>>
+
+We have an introduction, a summary and the main part of our community update:
+
+Introduction:
+{{step_1}}
+
+Summary:
+{{step_2}}
+
+Main Part:
+{{step_3}}
+
+Now, discuss upcoming events, game updates, or expansions within the gaming community: {{upcoming_events_or_expansions}}. This can include any anticipated game changes, new feature launches, contests, or community events that the community can look forward to.
+
+->>>>
+
+After detailing the main part of the update, we have:
+
+Introduction:
+{{step_1}}
+
+Summary:
+{{step_2}}
+
+Main Part:
+{{step_3}}
+
+Upcoming Events:
+{{step_4}}
+
+Next, it's time to address some of the common questions or concerns raised by the community since the last update: {{frequently_asked_questions}}. Show your audience that you are actively listening and value their feedback.
+
+->>>>
+
+We have addressed the common concerns after the upcoming events:
+
+Introduction:
+{{step_1}}
+
+Summary:
+{{step_2}}
+
+Main Part:
+{{step_3}}
+
+Upcoming Events:
+{{step_4}}
+
+Common Concerns:
+{{step_5}}
+
+Now, end the community update with an encouraging call to action, telling your community where and how they can continue to engage and participate: {{call_to_action}}.
+
+->>>>
+
+We have added a call to action after addressing the common concerns:
+
+Introduction:
+{{step_1}}
+
+Summary:
+{{step_2}}
+
+Main Part:
+{{step_3}}
+
+Upcoming Events:
+{{step_4}}
+
+Common Concerns:
+{{step_5}}
+
+Call to Action:
+{{step_6}}
+
+Finally, conclude your community update with a warm closing statement, showing your appreciation for the community and reminding them of the next update.
+
