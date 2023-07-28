@@ -1,0 +1,93 @@
+Your task is to write a "Performance Report" for the "Digital Marketing Agencies" industry, focusing on the role of a "Data Analyst". 
+Let's first begin with the Executive Summary that provides an overview of the findings: {{findings_overview}}. This should succinctly capture the key insights.
+
+Here's some more context about the Performance Report:
+Findings Overview: {{findings_overview}}
+Context: {{context}}
+Metrics KPIs: {{metrics_KPIs}}
+Trending Metrics: {{trending_metrics}}
+Segment Performance: {{segment_performance}}
+ROI Analysis: {{ROI_analysis}}
+Key Takeaways: {{key_takeaways}}
+
+->>>>
+
+Our performance report for the data analyst role in digital marketing agencies starts with:
+
+Executive Summary
+{{step_1}}
+
+Proceeding with the Performance Report, let's draft an Introduction that sets the context: {{context}}. Make sure to include the purpose of the analysis, the time period it covers, the channels analyzed, and any specific campaigns or initiatives that were in play during that period.
+
+->>>>
+
+In our performance report, we now have:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next up is the Data Analysis section. We need to elaborate on the metrics and KPIs evaluated: {{metrics_KPIs}}. Provide a detailed breakdown of performance by channel, campaign, and any other relevant dimensions.
+
+->>>>
+
+The progress of our performance report is as follows: 
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Data Analysis:
+{{step_3}}
+
+Let's proceed to the Trend Analysis section. Make sure to identify any significant changes in key metrics over the time period and comment on their impact: {{trending_metrics}}.
+
+->>>>
+
+With the addition of Trend Analysis, here's how our performance report looks:
+
+Introduction:
+{{step_2}}
+
+Data Analysis:
+{{step_3}}
+
+Trend Analysis:
+{{step_4}}
+
+Now, we need to work on the Segment Performance section. Provide information on how different customer segments have interacted with the campaigns. Identify the most and least responsive segments: {{segment_performance}}.
+
+->>>>
+
+We've further enriched the performance report with segment performance details:
+
+Data Analysis:
+{{step_3}}
+
+Trend Analysis:
+{{step_4}}
+
+Segment Performance:
+{{step_5}}
+
+Let's move on to the ROI Analysis section. In this section, calculate the return on investment for the various campaigns and channels in your digital marketing effort: {{ROI_analysis}}. Also discuss which initiatives proved to be the most cost-effective.
+
+->>>>
+
+We have got most of the sections ready for our performance report:
+
+Trend Analysis:
+{{step_4}}
+
+Segment Performance:
+{{step_5}}
+
+ROI Analysis:
+{{step_6}}
+
+We're almost finished. The final part of our report is the Conclusion. In the conclusion, summarize the main takeaways from your analysis: {{key_takeaways}}. It should also propose next steps, potential areas for further exploration or testing, and any major shifts in strategy that the data suggests.
+

@@ -1,0 +1,112 @@
+Your task is to write a "Personal Experience" for the "Drum Circle & Percussion Therapy" industry as a "Wellness Blogger". Let's start with an engaging introduction that briefly explains your incentive for exploring Drum Circle & Percussion Therapy: {{incentive}}. Along with this, layer the introduction with your personal thoughts and expectations: {{personal_thoughts}}. 
+
+Here's some more context about the Personal Experience:
+Incentive: {{incentive}}
+Personal Thoughts: {{personal_thoughts}}
+Therapy Setting: {{therapy_setting}}
+Session Flow: {{session_flow}}
+Instruments Used: {{instruments_used}}
+Personal Feelings: {{personal_feelings}}
+Communal Experience: {{communal_experience}}
+Therapeutic Benefits: {{therapeutic_benefits}}
+Closing Thoughts: {{closing_thoughts}}
+
+->>>>
+
+Great, we have a personalized introduction for our experience:
+
+Introduction:
+{{step_1}}
+
+Next, provide some context about your experience by describing the setting of the Drum Circle & Percussion Therapy session: {{therapy_setting}}. This will provide a vivid mental image for the readers.
+
+->>>>
+
+We have an introduction and a backdrop for our experience:
+
+Introduction:
+{{step_1}}
+
+Backdrop:
+{{step_2}}
+
+For the next step, provide key points about the therapy session. Describe how the session starts, its overall flow, and how it concludes: {{session_flow}}. This clarifies the proceedings of a drum circle and percussion therapy session for the readers.
+
+->>>>
+
+Our personal experience entry has an introduction, a backdrop, and also includes the description of the session:
+
+Introduction:
+{{step_1}}
+
+Backdrop:
+{{step_2}}
+
+Session Description:
+{{step_3}}
+
+Moving to the next step, let's discuss the types of drums and percussion instruments used in the session you attended: {{instruments_used}}. Also include the rationale behind their use. This introduces readers to the technical aspect of the therapy.
+
+->>>>
+
+At this point in our personal experience entry, we have:
+
+Introduction:
+{{step_1}}
+
+Backdrop:
+{{step_2}}
+
+Session Description:
+{{step_3}}
+
+Instruments and their usage:
+{{step_4}}
+
+In the following step, delve into your personal feelings during the different stages of the session: {{personal_feelings}}. You should include your feelings at the beginning, during the intensive drumming part, and at the end of the session during the wind-down phase.
+
+->>>>
+
+At this juncture, we have described our personal feelings alongside the previous elements:
+
+Introduction:
+{{step_1}}
+
+Backdrop:
+{{step_2}}
+
+Session Description:
+{{step_3}}
+
+Instruments and their usage:
+{{step_4}}
+
+Personal Feelings:
+{{step_5}}
+
+In the next step, elaborate on the communal aspect of Drum Circle & Percussion Therapy. Discuss the number of participants, their responses, interactions, or shared feelings during the session: {{communal_experience}}.
+
+->>>>
+
+Our personal experience entry now includes:
+
+Introduction:
+{{step_1}}
+
+Backdrop:
+{{step_2}}
+
+Session Description:
+{{step_3}}
+
+Instruments and their usage:
+{{step_4}}
+
+Personal Feelings:
+{{step_5}}
+
+Communal Experience:
+{{step_6}}
+
+In this step, talk about the therapeutic benefits you derived from the session. Clarify your physical and mental state before and after the session: {{therapeutic_benefits}}. Be sure to provide specific examples of wellness benefits you noticed.
+

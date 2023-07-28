@@ -1,0 +1,67 @@
+Let's write a "KPI Review" for the "Digital Marketing Agencies" industry, particularly for a "Data Analyst". Let's begin with an introduction where we present an overview of the key KPIs to be reviewed. 
+
+Here's some more context about the KPI Review:
+KPIs Overview: {{KPIs_overview}}
+Time Period: {{time_period}}
+KPI Values: {{KPI_values}}
+KPI Goals: {{KPI_goals}}
+KPI Trends: {{KPI_trends}}
+Campaign Insights: {{campaign_insights}}
+Channel Influence: {{channel_influence}}
+Areas Of Improvement: {{areas_of_improvement}}
+Optimization Plan: {{optimization_plan}}
+
+->>>>
+
+Our KPI Review starts with the following introduction:
+
+Introduction:
+{{step_1}}
+
+Now, detail the KPI Metrics - we should report these KPI's actual values during the specified time period.
+
+->>>>
+
+We have an introduction and KPI Metrics now:
+
+Introduction:
+{{step_1}}
+
+KPI Metrics:
+{{step_2}}
+
+Let's then analyse the KPI performance. We will compare these KPI's actual values against the goals that were set for them.
+
+->>>>
+
+We now have an introduction, KPI Metrics and a KPI Performance analysis:
+
+Introduction:
+{{step_1}}
+
+KPI Metrics:
+{{step_2}}
+
+KPI Performance Analysis:
+{{step_3}}
+
+Next, we need to delve into specific industry elements by deriving insights linking KPIs to digital marketing campaigns active during the given time period.
+
+->>>>
+
+Our KPI Review document now has an introduction, KPI Metrics, a KPI Performance Analysis, and specific industry elements:
+
+Introduction:
+{{step_1}}
+
+KPI Metrics:
+{{step_2}}
+
+KPI Performance Analysis:
+{{step_3}}
+
+Industry Elements:
+{{step_4}}
+
+Next is to suggest actionable points: identify key areas of improvement considering the discrepancies (if any) between achieved and goal KPI values.
+

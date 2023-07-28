@@ -1,0 +1,89 @@
+Your task is to write a "Data Analysis" for the "Digital Marketing Agencies" industry, specifically for a "Data Analyst". Let's start with an executive summary of the key findings.
+
+Here's some more context about the Data Analysis:
+Key Findings Summary: {{key_findings_summary}}
+Dataset Description: {{dataset_description}}
+Data Insights: {{data_insights}}
+Analysis Methods: {{analysis_methods}}
+Detailed Insights: {{detailed_insights}}
+Data Based Recommendations: {{data_based_recommendations}}
+Conclusive Summary: {{conclusive_summary}}
+
+->>>>
+
+Based on the findings, we have the executive summary for our data analysis:
+
+Executive Summary:
+{{step_1}}
+
+Going forward, provide an introduction to the dataset used for this analysis.
+
+->>>>
+
+Our data analysis begins with an executive summary and now we have a description of the dataset:
+
+Executive Summary:
+{{step_1}}
+
+Dataset Description:
+{{step_2}}
+
+The next task is to explore key trends, outliers, and correlations identified in the data.
+
+->>>>
+
+We now have an exploration of key trends, along with our dataset description and executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Dataset Description:
+{{step_2}}
+
+Data Insights:
+{{step_3}}
+
+Let's move on to describe the methodologies used for data analysis.
+
+->>>>
+
+Our methodology for data analysis is now available, along with the previous insights:
+
+Dataset Description:
+{{step_2}}
+
+Data Insights:
+{{step_3}}
+
+Analysis Methods:
+{{step_4}}
+
+Now, interpret the identified trends and insights in detail.
+
+->>>>
+
+We now have a detailed interpretation of the trends, along with our methodology and data insights:
+
+Data Insights:
+{{step_3}}
+
+Analysis Methods:
+{{step_4}}
+
+Detailed Insights:
+{{step_5}}
+
+Next, provide recommendations based on the data insights.
+
+->>>>
+
+We have developed recommendations based on our detailed insights and data analysis:
+
+Detailed Insights:
+{{step_5}}
+
+Data-based Recommendations:
+{{step_6}}
+
+Finally, conclude the data analysis by summarising all insights and suggestions.
+

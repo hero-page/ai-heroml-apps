@@ -1,0 +1,62 @@
+You have been tasked to write a "Percussion Therapy Description" for the "Drum Circle & Percussion Therapy" industry as a Drum Circle Facilitator. 
+
+To begin, construct an introduction that offers a brief overview of percussion therapy and its benefits. Utilize the information from the {{general_description}} variable.
+
+Here's some more context about the Percussion Therapy Description:
+General Description: {{general_description}}
+Facilitator Role: {{facilitator_role}}
+Session Process: {{session_process}}
+Specific Benefits: {{specific_benefits}}
+Personal Approach: {{personal_approach}}
+
+->>>>
+
+After creating the introduction, we have:
+
+Introduction: 
+{{step_1}}
+
+Now, move on to elaborating on the role of a Drum Circle Facilitator within the context of a percussion therapy session. For this, use the data from the {{facilitator_role}} variable.
+
+->>>>
+
+So far we have an introduction and an explanation of the facilitator's role:
+
+Introduction:
+{{step_1}}
+
+Facilitator's Role:
+{{step_2}}
+
+Next, prepare a comprehensive guide to conducting a percussion therapy session. This guide should introduce and outline each step of the session. For this, utilize the {{session_process}} variable.
+
+->>>>
+
+Presently, we have an introduction, a description of the facilitator's role, and a guide on conducting a session:
+
+Introduction:
+{{step_1}}
+
+Facilitator's Role:
+{{step_2}}
+
+Conducting a Session:
+{{step_3}}
+
+Moving forward, let's dive into the specific therapeutic benefits of percussion therapy. You can use the {{specific_benefits}} variable as a guide to portray how this therapy impacts mental and physical health.
+
+->>>>
+
+Our percussion therapy description currently contains an introduction, a guide to conducting a session and a detailed explanation of its specific benefits:
+
+Introduction:
+{{step_1}}
+
+Conducting a Session:
+{{step_3}}
+
+Therapeutic Benefits:
+{{step_4}}
+
+To conclude, let's prepare a note on how your individual approach as a Drum Circle Facilitator enhances the overall therapy experience. Use the {{personal_approach}} variable to provide insights to your unique methods, style, or techniques.
+

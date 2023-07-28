@@ -565,6 +565,17 @@ Explore these links to learn more about each app's functionality and to see thei
 * [AI Campaign Report Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/AI_Campaign_Report_Builder)
 * [Blog Post CraftAI Digital Marketing](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Blog_Post_CraftAI_Digital_Marketing)
 * [Comprehensive SEO Strategy Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Comprehensive_SEO_Strategy_Creator)
+* [Data Analysis Report Creator for Digital Marketing](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Data_Analysis_Report_Creator_for_Digital_Marketing)
+* [KPI Review Improvement Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/KPI_Review_Improvement_Generator)
 * [Newsletter Tailor for Content Creators](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Newsletter_Tailor_for_Content_Creators)
+* [Performance Report Builder for Analysts](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Performance_Report_Builder_for_Analysts)
 * [Social Media Engaging Post Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Social_Media_Engaging_Post_Creator)
 * [Strategic Content Calendar Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Strategic_Content_Calendar_Generator)
+## Drum Circle Percussion Therapy
+
+* [Case Study Builder for Drum Therapy](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Drum_Circle_Percussion_Therapy/Case_Study_Builder_for_Drum_Therapy)
+* [Drum Circle Facilitator Interview AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Drum_Circle_Percussion_Therapy/Drum_Circle_Facilitator_Interview_AI)
+* [Drum Circle Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Drum_Circle_Percussion_Therapy/Drum_Circle_Guide_Creator)
+* [Percussion Therapy Facilitator Descriptor](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Drum_Circle_Percussion_Therapy/Percussion_Therapy_Facilitator_Descriptor)
+* [Personal Therapy Experience Narrator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Drum_Circle_Percussion_Therapy/Personal_Therapy_Experience_Narrator)
+* [Wellness Workshop Review Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Drum_Circle_Percussion_Therapy/Wellness_Workshop_Review_Composer)
