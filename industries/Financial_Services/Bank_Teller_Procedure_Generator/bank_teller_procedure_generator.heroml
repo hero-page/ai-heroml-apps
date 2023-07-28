@@ -1,0 +1,65 @@
+Your task is to write a "Banking Procedure" for the "Financial Services" industry, specially focused on a "Bank Teller". We will begin by crafting an introduction that explains the purpose and scope of the "Banking Procedure": {{banking_procedure_intent}}.
+
+Here's some more context about the Banking Procedure:
+Banking Procedure Intent: {{banking_procedure_intent}}
+Teller Responsibilities: {{teller_responsibilities}}
+Bank Teller Operations: {{bank_teller_operations}}
+Cash Handling Procedure: {{cash_handling_procedure}}
+Non Cash Handling Procedure: {{non_cash_handling_procedure}}
+Customer Service Procedures: {{customer_service_procedures}}
+Suspicious Transaction Procedure: {{suspicious_transaction_procedure}}
+
+->>>>
+
+Now, we have the purpose and scope of the "Banking Procedure":
+
+Purpose and Scope:
+{{step_1}}
+
+Based on the purpose and scope defined above, let's provide a detailed explanation of the bank teller's role and responsibilities: {{teller_responsibilities}}.
+
+->>>>
+
+The bank teller's role and responsibilities:
+
+Role and Responsibilities:
+{{step_2}}
+
+Building on this, we will outline the process of traditional banking operations carried out by a bank teller such as deposits, withdrawals, foreign currency exchange, etc.: {{bank_teller_operations}}.
+
+->>>>
+
+We now have outlined the basic banking operations:
+
+Banking Operations:
+{{step_3}}
+
+Next, let's delve into the procedure for handling and documenting cash transactions: {{cash_handling_procedure}}. This section should include information about counting money, safeguarding the bank's cash, and reconciling cash drawer at the start and end of a shift.
+
+->>>>
+
+Here are the procedures for handling and documenting cash transactions:
+
+Cash Handling Procedures:
+{{step_4}}
+
+Similarly, we need to explain the procedure for handling and documenting non-cash transactions: {{non_cash_handling_procedure}}. Here, elaborate on handling traveler's checks, money orders, cashier's checks, and different forms of customer identification.
+
+->>>>
+
+Now, we have the procedures for handling and documenting non-cash transactions:
+
+Non-Cash Handling Procedures:
+{{step_5}}
+
+Moving on, describe bank customer service guidelines and procedures, focusing on customer identification, verification procedures, and confidentiality: {{customer_service_procedures}}.
+
+->>>>
+
+We now have defined bank customer's service guidelines and procedures:
+
+Customer Service Procedures:
+{{step_6}}
+
+To ensure compliance, let's discuss the procedure for dealing with unusual or suspicious transactions, including signs of money laundering or fraud: {{suspicious_transaction_procedure}}.
+

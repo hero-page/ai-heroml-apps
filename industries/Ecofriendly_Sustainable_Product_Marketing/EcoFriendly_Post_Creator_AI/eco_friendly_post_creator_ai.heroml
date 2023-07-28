@@ -1,0 +1,80 @@
+Your task is to write a "Social Media Post" for the "Eco-friendly & Sustainable Product Marketing" industry, specifically for a "Content Creator". 
+
+Let's begin by composing a punchy, intriguing opening statement related to eco-friendly living or the sustainable product being marketed.
+
+Here's some more context about the Social Media Post:
+Hook Statement: {{hook_statement}}
+Product Intro: {{product_intro}}
+Product Features: {{product_features}}
+Benefits Argument: {{benefits_argument}}
+Product CTA: {{product_CTA}}
+
+->>>>
+
+Our post now launches with a captivating hook:
+
+Hook Statement:
+{{step_1}}
+
+Next, we will introduce the sustainable product we will be talking about in the post, highlighting what makes it eco-friendly.
+
+->>>>
+
+Our eco-friendly product for the post has been properly introduced:
+
+Hook Statement:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Next, let's delve into the specific features that make our product sustainable and beneficial to consumers.
+
+->>>>
+
+Our social media post has an introduction and now a detailed discussion of our product's features:
+
+Product Introduction:
+{{step_2}}
+
+Product Features:
+{{step_3}}
+
+Now, we need to provide a compelling argument for why our audience should switch to this sustainable product, focusing on the environmental and personal benefits.
+
+->>>>
+
+Our social media post has discussed the features, now it includes a persuasive argument:
+
+Product Features:
+{{step_3}}
+
+Benefits Argument:
+{{step_4}}
+
+Following that, we need to make our post interactive by asking engaging questions, sharing personal stories or involving users with quizzes or contests related to sustainable living.
+
+->>>>
+
+Our social media post offers a compelling argument, and next, makes it interactive:
+
+Benefits Argument:
+{{step_4}}
+
+Interactive Element:
+{{step_5}}
+
+Now that our post is engaging, let's finish it off with a powerful call-to-action (CTA) encouraging the reader to purchase or try the sustainable product.
+
+->>>>
+
+Our interactive post now ends with a compelling CTA:
+
+Interactive Element:
+{{step_5}}
+
+Product's Call-to-Action:
+{{step_6}}
+
+For a stronger online presence, let's boost the post's visibility by incorporating crucial sustainable living hashtags and tagging eco-focused influencers or relevant brands.
+

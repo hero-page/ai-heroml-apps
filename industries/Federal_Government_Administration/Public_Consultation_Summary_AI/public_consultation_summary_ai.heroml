@@ -1,0 +1,110 @@
+Start by writing an executive summary for the "Public Consultation Summary". The summary should introduce the reason for the public consultation: {{consultation_reason}}.
+
+Here's some more context about the Public Consultation Summary:
+Consultation Reason: {{consultation_reason}}
+Policy Background: {{policy_background}}
+Key Stakeholders: {{key_stakeholders}}
+Key Findings: {{key_findings}}
+Policy Implications: {{policy_implications}}
+Next Steps: {{next_steps}}
+Closing Remarks: {{closing_remarks}}
+
+->>>>
+
+Now, we have an executive summary for our "Public Consultation Summary":
+
+Executive Summary:
+{{step_1}}
+
+Next, frame an introduction, structured around the context and background of the policy under discussion: {{policy_background}}.
+
+->>>>
+
+Our summary now looks like this:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, identify and describe the key stakeholders who were involved in the public consultation: {{key_stakeholders}}.
+
+->>>>
+
+We have the executive summary, introduction, and a description of key stakeholders:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Stakeholders:
+{{step_3}}
+
+In the following step, summarize the methodology used for public consultation. Highlight the range of consultation methods used (like surveys, interviews, workshops, etc.), and how they contributed to inclusive and meaningful engagement.
+
+->>>>
+
+We have made good progress. So far, we have:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Stakeholders:
+{{step_3}}
+
+Consultation Methodology:
+{{step_4}}
+
+Now, create a comprehensive portion summarizing the key findings and interpretations. Describe the viewpoints, concerns, ideas, or issues raised by stakeholders during the consultation: {{key_findings}}.
+
+->>>>
+
+At this point in our summary writing, we have:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Stakeholders:
+{{step_3}}
+
+Consultation Methodology:
+{{step_4}}
+
+Key Findings:
+{{step_5}}
+
+Next, let's elaborate on the implications of these key findings for the given policy especially highlighting how these findings could influence or modify the policy: {{policy_implications}}.
+
+->>>>
+
+Here is our progress so far:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Stakeholders:
+{{step_3}}
+
+Consultation Methodology:
+{{step_4}}
+
+Key Findings:
+{{step_5}}
+
+Policy Implications:
+{{step_6}}
+
+Now, include a "Response or Next Steps" section. This section should detail how the government plans to react to the findings and implications of the public consultation, including how they intend to communicate these changes to the public: {{next_steps}}.
+

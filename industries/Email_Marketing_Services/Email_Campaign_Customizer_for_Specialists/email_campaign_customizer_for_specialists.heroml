@@ -1,0 +1,46 @@
+Your task is to write an "Email Campaign" for the "Email Marketing Services" industry, specially designed for an "Email Marketing Specialist". 
+Let's start with the first step: writing a captivating introduction that briefly explains the purpose of the email - {{email_purpose}}.
+
+Here's some more context about the Email Campaign:
+Email Purpose: {{email_purpose}}
+Key Points: {{key_points}}
+Email Marketing Tips: {{email_marketing_tips}}
+Industry Specific Info: {{industry_specific_info}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+After creating an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Let's provide an informative section that elaborates on the key points in detail: {{key_points}}.
+
+->>>>
+
+With an engaging introduction and a detailed explanation of key points, we have:
+
+Introduction:
+{{step_1}}
+
+Key Points:
+{{step_2}}
+
+Next, we need to offer some valuable insights or tips that can help the recipient in their email marketing efforts: {{email_marketing_tips}}.
+
+->>>>
+
+After providing insightful tips for email marketing, our email now contains:
+
+Introduction:
+{{step_1}}
+
+Key Points:
+{{step_2}}
+
+Email Marketing Tips:
+{{step_3}}
+
+To increase the relevance of our email, we should add some industry-specific facts, trends, or data about email marketing: {{industry_specific_info}}.
+

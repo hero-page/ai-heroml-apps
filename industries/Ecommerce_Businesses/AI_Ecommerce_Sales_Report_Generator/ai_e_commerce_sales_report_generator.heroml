@@ -1,0 +1,95 @@
+Your task is to write a "Sales Report" for the "E-commerce Businesses" industry, tailored for an "E-commerce Manager". 
+
+Firstly, let's create an executive summary that outlines the main points of this sales report. It should include information on the total revenue, sales volume, and make a comparison with the previous reporting period using the data provided in {{summary_data}}.
+
+Here's some more context about the Sales Report:
+Summary Data: {{summary_data}}
+Events Promotions: {{events_promotions}}
+Sales Performance: {{sales_performance}}
+Product Performance: {{product_performance}}
+Customer Analysis: {{customer_analysis}}
+Sales Channels: {{sales_channels}}
+Future Projections: {{future_projections}}
+Key Takeaways: {{key_takeaways}}
+
+->>>>
+
+We've begun our sales report with an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that provides an overview of the reporting period. Remember to include any major sales events or promotions provided in the details {{events_promotions}}.
+
+->>>>
+
+Our sales report now includes the executive summary and an introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+For the 'Sales Overview' section, elaborate on the overall sales performance pertaining to the set targets for the period. Utilize the information in {{sales_performance}} to detail the number of units sold, returns, and the revenue generated.
+
+->>>>
+
+With an introduction and a sales overview, our report is shaping up:
+
+Introduction:
+{{step_2}}
+
+Sales Overview:
+{{step_3}}
+
+Now, transition to the 'Product Performance' section. Focus on the sales data for each product category or individual items as given in {{product_performance}}. Provide an analysis of both the top-performing and under-performing products.
+
+->>>>
+
+We have the sales overview from the previous period and the product performance section:
+
+Sales Overview:
+{{step_3}}
+
+Product Performance:
+{{step_4}}
+
+Let's build a 'Customer Analysis' section next. Detail on the behavior of the customers during this reporting period using the data {{customer_analysis}}. Include information on new customers vs returning customers, highest-spending customers, customer lifetime value (CLV), and customer churn rate if any.
+
+->>>>
+
+Our report now includes the detailed analysis of product performance and customer behavior:
+
+Product Performance:
+{{step_4}}
+
+Customer Analysis:
+{{step_5}}
+
+Moving on, let's discuss the performance of different sales channels in the 'Sales Channel Analysis' section. Use the details from {{sales_channels}} to evaluate platforms such as your e-commerce website, third-party platforms, or physical stores.
+
+->>>>
+
+We've now established the customer behavior along with the sales channel analysis:
+
+Customer Analysis:
+{{step_5}}
+
+Sales Channel Analysis:
+{{step_6}}
+
+For the section on 'Future Projections & Recommendations', analyze the data from the previous sections to forecast future sales trends. Make recommendations on how to enhance sales performance by considering the information in {{future_projections}}.
+
+->>>>
+
+We've reviewed the sales channels and projected the future trends in the report:
+
+Sales Channel Analysis:
+{{step_6}}
+
+Future Projections & Recommendations:
+{{step_7}}
+
+Finally, let's conclude the report. Summarize the key findings from this report and suggest actions that the business should take based on these findings, using the details from {{key_takeaways}}. Remember to align this with the 'Future Projections & Recommendations' section.
+

@@ -1,0 +1,79 @@
+Your task is to create "Quiz Questions" for the "Education & E-learning Platforms" industry, specifically as a "Course Creator". 
+
+Let's start by identifying the course's main learning objectives.
+
+Here's some more context about the Quiz Questions:
+Learning Objectives: {{learning_objectives}}
+Course Topics: {{course_topics}}
+Specific Knowledge Points: {{specific_knowledge_points}}
+Industry Specific Elements: {{industry_specific_elements}}
+
+->>>>
+
+We are creating quiz questions for the "Education & E-learning Platforms" industry and have identified the main learning objectives of our course:
+
+Learning Objectives:
+{{step_1}}
+
+Next, let's define and highlight the essential topics or chapters in the course that align with these learning objectives.
+
+->>>>
+
+We are creating quiz questions, have identified the learning objectives and defined the essential topics or chapters in the course as follows:
+
+Learning Objectives:
+{{step_1}}
+
+Course Topics:
+{{step_2}}
+
+Using these course topics and learning objectives, we should specify the facts, skills, concepts, or competencies that users should acquire.
+
+->>>>
+
+For our "Education & E-learning Platforms" course, we are going to create quiz questions. The course topics and the specific knowledge points that users should acquire are as follows:
+
+Course Topics:
+{{step_2}}
+
+Knowledge Points:
+{{step_3}}
+
+Now that we have the knowledge points, let's write multiple-choice questions. Each question should come with a correct answer and 2-3 plausible but incorrect options.
+
+->>>>
+
+For the course, we have gathered specific knowledge points and created multiple-choice questions as follows:
+
+Knowledge Points:
+{{step_3}}
+
+Multiple-Choice Questions:
+{{step_4}}
+
+Next, let's incorporate specific industry concepts, terms, examples, or scenarios into our quiz questions. This will allow for a practical knowledge assessment.
+
+->>>>
+
+In our "Education & E-learning Platform" course, we have multiple-choice questions and have incorporated industry-specific elements as follows:
+
+Multiple-Choice Questions:
+{{step_4}}
+
+Industry-Specific Elements in Questions:
+{{step_5}}
+
+Now that we have our multiple-choice questions, let's prepare open-ended questions for each main topic. These questions should seek thoughtful responses from the students.
+
+->>>>
+
+For our course, we have created open and multiple-choice questions spotted with industry-specific elements as follows:
+
+Multiple-Choice Questions:
+{{step_4}}
+
+Open-Ended Questions:
+{{step_6}}
+
+After creating our questions, the next step is to review each question to ensure that they are grammatically correct, logically structured, and consistently formatted.
+

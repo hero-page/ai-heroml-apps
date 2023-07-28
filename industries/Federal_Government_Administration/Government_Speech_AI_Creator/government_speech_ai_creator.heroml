@@ -1,0 +1,91 @@
+Your task is to write a "Speech" for the "Federal Government Administration" industry, specifically for a "Press Secretary". 
+Let's start by crafting a hook to grab the attention of the audience, making reference to a key current event or issue relating to the federal government: {{current_event}}.
+
+Here's some more context about the Speech:
+Current Event: {{current_event}}
+Key Policy Updates: {{key_policy_updates}}
+Government Stance: {{government_stance}}
+Impact On Public: {{impact_on_public}}
+Government Initiatives: {{government_initiatives}}
+
+->>>>
+
+We have hooked the audience using the reference to the current event or issue:
+
+Hook:
+{{step_1}}
+
+Now, build your introduction, asserting the importance of the issue addressed: {{current_event}}. Also, provide a brief overview of the points you plan to cover in your speech.
+
+->>>>
+
+We have our introduction and a brief overview of the speech:
+
+Hook:
+{{step_1}}
+
+Introduction and Overview:
+{{step_2}}
+
+Next, we need to use the body of the speech to elaborate on specific details about key policy issues and updates that require communication. Include relevant data, studies or legislation: {{key_policy_updates}}.
+
+->>>>
+
+We have our speech introduction and the main body focusing on key policy updates:
+
+Introduction and Overview:
+{{step_2}}
+
+Body of the Speech:
+{{step_3}}
+
+Following that, let's include a section that discusses the government's stance or actions relating to topics mentioned earlier: {{government_stance}}.
+
+->>>>
+
+We include an introduction, the main body, and the government's stance in our speech:
+
+Introduction and Overview:
+{{step_2}}
+
+Body of the Speech:
+{{step_3}}
+
+Government's Stance:
+{{step_4}}
+
+Next, let's touch on how these policies or actions impact the public, making sure to add relevant statistics or projections: {{impact_on_public}}.
+
+->>>>
+
+Our speech now includes an introduction, a main body, government's stance, and its impact on the public:
+
+Introduction and Overview:
+{{step_2}}
+
+Body of the Speech:
+{{step_3}}
+
+Government's Stance:
+{{step_4}}
+
+Impact on Public:
+{{step_5}}
+
+If applicable, we need to introduce ongoing or upcoming government initiatives related to our subject, detailing their goals and expected outcomes: {{government_initiatives}}.
+
+->>>>
+
+Our speech now includes all relevant points, including government's stance, impact on the public, and proposed initiatives:
+
+Government's Stance:
+{{step_4}}
+
+Impact on Public:
+{{step_5}}
+
+Government Initiatives:
+{{step_6}}
+
+To conclude the speech, summarize the main points discussed, restate the relevance of the {{current_event}}, and emphasize the government's dedication to addressing it. Leave the audience with a hopeful, uplifting message about the future.
+

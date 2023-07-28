@@ -1,0 +1,81 @@
+Your task is to write a "Client Anonymized Testimonial" for the "Feng Shui & Space Clearing" industry, specifically for a "Space Clearing Practitioner". 
+
+Let's start with an introduction including a brief explanation of the context prior to the space clearing activity: {{context}}.
+
+Here's some more context about the Client Anonymized Testimonial:
+Context: {{context}}
+Initial Thoughts: {{initial_thoughts}}
+Problem: {{problem}}
+Process Description: {{process_description}}
+Experience Description: {{experience_description}}
+Outcome Description: {{outcome_description}}
+Overall Satisfaction: {{overall_satisfaction}}
+
+->>>>
+
+Now we have the introduction to our client testimonial: 
+
+Introduction: 
+{{step_1}}
+
+Next, write about the client's initial thoughts about the space clearing service being a potential solution to their issue: {{initial_thoughts}}.
+
+->>>>
+
+In our client's testimonial:
+
+Introduction: 
+{{step_1}}
+
+We have the client's initial thoughts:
+
+Initial thoughts: 
+{{step_2}}
+
+Now describe the client's specific problem or issue that prompted them to seek out the "Space Clearing Practitioner": {{problem}}.
+
+->>>>
+
+In our testimonial, we have:
+
+Introduction: 
+{{step_1}}
+
+The Client's Initial Thoughts: 
+{{step_2}}
+
+And the Client's Problem: 
+{{step_3}}
+
+Now detail the process of engaging with the practitioner, with emphasis on the practitioner's approach and methods used. Focus on how these were specific or advantageous in treating the client's issue: {{process_description}}.
+
+->>>>
+
+In our client testimonial:
+
+Introduction: 
+{{step_1}}
+
+Client's Initial Thoughts: 
+{{step_2}}
+
+Client's Problem: 
+{{step_3}}
+
+We have described the Engagement Process: 
+{{step_4}}
+
+Next, explain the client's experiences and feelings during the space clearing process, focusing on how the "Space Clearing Practitioner" offered a positive experience: {{experience_description}}.
+
+->>>>
+
+Having detailed the Engagement Process:
+
+Engagement Process:
+{{step_4}}
+
+We can now provide the Client's Experience: 
+{{step_5}}
+
+Elaborate on the outcome of the service. Specifically, how the client's issue was resolved or improved and improvements noticed in their space after the session: {{outcome_description}}.
+

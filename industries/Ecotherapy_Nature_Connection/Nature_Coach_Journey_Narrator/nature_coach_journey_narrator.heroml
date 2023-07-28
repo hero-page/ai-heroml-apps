@@ -1,0 +1,56 @@
+Your task is to write a "Personal Experience" for the "Ecotherapy & Nature Connection" industry, specifically for a "Nature Coach". 
+
+Let's start by creating an introduction that sets the scene of your interaction with nature: {{nature_interaction}}. Dive into the emotions you experienced, the unique environment you were in, and what drew you to this line of work. Establish what you hope to bring out in people through coaching.
+
+Here's some more context about the Personal Experience:
+Nature Interaction: {{nature_interaction}}
+Personal Experience: {{personal_experience}}
+Client Outcome 1: {{client_outcome_1}}
+Client Outcome 2: {{client_outcome_2}}
+Nature Elements: {{nature_elements}}
+
+->>>>
+
+We now have an introduction for your nature coaching journey:
+
+Introduction:
+{{step_1}}
+
+Next, detail an illustrative personal experience that led you further down the path of nature coaching: This should include what you experienced: {{personal_experience}}, what you learned from this experience and, importantly, how you think this learning can help others connect with nature.
+
+->>>>
+
+We have an introduction and a personal experience for your nature coaching journey:
+
+Introduction:
+{{step_1}}
+
+Personal Experience:
+{{step_2}}
+
+Now, explain the evolution of your philosophies and methodologies: Unveil how your experiences with {{nature_interaction}} and {{personal_experience}} have shaped your coaching style, the philosophies you follow, and/or the particular methods you use in helping your clients connect with nature.
+
+->>>>
+
+We have detailed your personal experience and the evolution of your coaching methods:
+
+Personal Experience:
+{{step_2}}
+
+Philosophies and Methodologies:
+{{step_3}}
+
+Next, let's discuss successful client outcomes: Bring up a few key moments where you've seen your efforts translate into tangible, positive impact for your clients. Use the variables {{client_outcome_1}} and {{client_outcome_2}} to slot in two significant stories to illustrate your successes without divulging any confidential information.
+
+->>>>
+
+We have detailed the evolution of your methods and your successful client outcomes:
+
+Philosophies and Methodologies:
+{{step_3}}
+
+Successful Client Outcomes:
+{{step_4}}
+
+Now, highlight how you integrate knowledge of local ecology or specific natural elements into your coaching: Here, use the variable {{nature_elements}} to discuss l specific plants, animals, geographical features, or weather patterns that you often utilize during your coaching sessions.
+

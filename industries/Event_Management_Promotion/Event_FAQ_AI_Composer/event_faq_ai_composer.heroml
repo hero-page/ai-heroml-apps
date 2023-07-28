@@ -1,0 +1,93 @@
+Your task is to write a "FAQs" for the "Event Management & Promotion" industry, specifically for a "Customer Service Representative". Let's start with an introduction that briefly explains the purpose of the "FAQs": {{FAQ_purpose}}.
+
+Here's some more context about the FAQs:
+FAQ Purpose: {{FAQ_purpose}}
+Event Type: {{event_type}}
+
+->>>>
+
+We've started the FAQs for the "Event Management & Promotion" industry for a "Customer Service Representative" with the following introduction:
+
+Introduction:
+{{step_1}}
+
+Next, structure the FAQs into categories that reflect different aspects of the event management and promotion process such as preparation, execution, post-event, and general.
+
+->>>>
+
+We have divided the FAQs into different categories related to event management and promotion, as follows:
+
+Categories:
+{{step_2}}
+
+Now, start filling out these categories. Let's begin with the "Preparation" category, covering key points such as event venue selection, event date choice, and ticketing.
+
+->>>>
+
+In the "Preparation" category of our FAQs, we cover key aspects of event planning such as venue booking, date selection, and ticketing:
+
+Preparation category:
+{{step_3}}
+
+Next, fill the "Execution" category, addressing most common concerns and queries about the day of the event.
+
+->>>>
+
+The "Preparation" category is filled:
+
+Preparation:
+{{step_3}}
+
+We have now filled the "Execution" category:
+
+Execution category:
+{{step_4}}
+
+Continuing with filling out categories, create questions and answers for the "Post-Event" category, related to post-event activities like follow-ups with attendees, event evaluation, and handling feedback.
+
+->>>>
+
+In the FAQs for Event Management & Promotion, the "Execution" category is filled as follows:
+
+Execution:
+{{step_4}}
+
+And the "Post-Event" category is completed with the following points:
+
+Post-Event category:
+{{step_5}}
+
+Next, work on the "General" category, including universal questions that aren't specifically tied to pre, intra, or post-event stages.
+
+->>>>
+
+We have covered the key points in the "Post-Event" category:
+
+Post-Event:
+{{step_5}}
+
+The "General" category is filled as follows:
+
+General category:
+{{step_6}}
+
+Make sure that each question is stated in a way that mirrors how customers typically phrase their queries, and that questions in each category are logically ordered.
+
+->>>>
+
+We have reformatted and logically arranged questions in each category of our FAQs:
+
+Reformatted FAQs:
+{{step_7}}
+
+Incorporate industry-specific elements into the FAQs to improve their relevance. This could include unique considerations for different types of events. Customize questions and answers according to {{event_type}}.
+
+->>>>
+
+We've added industry-specific details according to {{event_type}} in our FAQs:
+
+Industry-specific FAQs:
+{{step_8}}
+
+Finally, let's conclude with a section for escalated issues and concerns. Write who to contact for more complex inquiries not covered in the "FAQs".
+

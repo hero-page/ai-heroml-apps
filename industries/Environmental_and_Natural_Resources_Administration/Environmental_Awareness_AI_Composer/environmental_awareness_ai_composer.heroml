@@ -1,0 +1,66 @@
+Your task is to write "Public Awareness Material" for the "Environmental and Natural Resources Administration" industry, specifically for an "Environmental Officer". 
+
+Let's start by generating an introduction that provides the context of the environmental issue or policy: {{environmental_issue_context}}. Ensure to paint a clear picture of why the information being shared is vital.
+
+Here's some more context about the Public Awareness Material:
+Environmental Issue Context: {{environmental_issue_context}}
+Primary Challenges And Risks: {{primary_challenges_and_risks}}
+Proactive Steps And Policies: {{proactive_steps_and_policies}}
+Local Environmental Data Or Regulations: {{local_environmental_data_or_regulations}}
+What Public Can Do: {{what_public_can_do}}
+Importance Of Public Involvement: {{importance_of_public_involvement}}
+
+->>>>
+
+At this point, we have an introduction that paints a clear picture of a vital environmental issue or policy:
+
+Introduction:
+{{step_1}}
+
+Now, present the primary challenges and risks related to the environmental issue or policy: {{primary_challenges_and_risks}} to establish a sense of urgency and importance.
+
+->>>>
+
+Now, we have a section that lays out the primary challenges and risks associated with the environmental issue or policy:
+
+Introduction:
+{{step_1}}
+
+Primary Challenges and Risks:
+{{step_2}}
+
+Next, discuss the proactive steps and policies that the "Environmental Officer" or the administration are implementing to address the issue or policy: {{proactive_steps_and_policies}}.
+
+->>>>
+
+So far, we have outlined the issue, its risks, and the steps taken by the administration to mitigate these risks.
+
+Introduction:
+{{step_1}}
+
+Primary Challenges and Risks:
+{{step_2}}
+
+Proactive Steps and Policies:
+{{step_3}}
+
+We will now incorporate local environmental data, research findings, or regulations: {{local_environmental_data_or_regulations}} to give authenticity and relevance to the material.
+
+->>>>
+
+At this stage of our material, we have the issue, its challenges, the steps in action, and a foundation of supporting data:
+
+Introduction:
+{{step_1}}
+
+Primary Challenges and Risks:
+{{step_2}}
+
+Proactive Steps and Policies:
+{{step_3}}
+
+Local Environmental Data and Regulations:
+{{step_4}}
+
+Moving on, let's lay out a section for what the public can do, with practical actions and steps to support the addressed environmental issue or policy: {{what_public_can_do}}.
+

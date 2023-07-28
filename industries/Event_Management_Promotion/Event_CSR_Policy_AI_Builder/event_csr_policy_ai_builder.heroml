@@ -1,0 +1,118 @@
+Your task is to write a "Policy Description" for the "Event Management & Promotion" industry, specifically for a "Customer Service Representative". 
+
+Let's start by creating an executive summary that provides an overview of the policy's objective and purpose: {{policy_objective}}.
+
+Here's some more context about the Policy Description:
+Policy Objective: {{policy_objective}}
+Job Specific Responsibilities: {{job_specific_responsibilities}}
+Employee Name: {{employee_name}}
+
+->>>>
+
+You have written an executive summary for the policy:
+
+Executive Summary:
+{{step_1}}
+
+Next, introduce the scope of this policy, indicating who it applies to and in what context it should be used.
+
+->>>>
+
+With our executive summary:
+
+Executive Summary:
+{{step_1}}
+
+We now also have the scope for this policy:
+
+Policy Scope:
+{{step_2}}
+
+Now, let's elaborate and define this policy for a customer service representative incorporating standards, behaviours, and procedures in alignment with the policy objective.
+
+->>>>
+
+After establishing the policy's scope:
+
+Policy Scope:
+{{step_2}}
+
+We have created a detailed policy description:
+
+Policy Description:
+{{step_3}}
+
+Next, list and describe any specific roles and responsibilities that should be assigned to the customer service representative as part of this policy. Use {{job_specific_responsibilities}} for referring to these roles and responsibilities.
+
+->>>>
+
+We have detailed the policy and assigned roles:
+
+Policy Description:
+{{step_3}}
+
+Assigned Roles:
+{{step_4}}
+
+Now, let's document the consequences of non-compliance with the policy, explaining what could happen if the policy isn't followed as expected.
+
+->>>>
+
+We have now a defined policy and its related roles and responsibilities:
+
+Policy Description:
+{{step_3}}
+
+Assigned Roles:
+{{step_4}}
+
+We also have a section outlining the consequences of non-compliance with the policy:
+
+Non-compliance Consequences:
+{{step_5}}
+
+Next, incorporate industry-specific elements to this policy, such as ticketing processes, crowd control measures, and event cancellation policies. Ensure these aspects are connected well with the roles and responsibilities of a Customer Service Representative in the event management environment.
+
+->>>>
+
+So far, we have a structured policy with certain responsibilities and consequences:
+
+Policy Description:
+{{step_3}}
+
+Assigned Roles:
+{{step_4}}
+
+Non-compliance Consequences:
+{{step_5}}
+
+Now, we have included industry-specific elements:
+
+Industry-specific Elements:
+{{step_6}}
+
+Let's end this policy description by providing resources and support for understanding and implementing the policy. This should include contact information for policy clarification or queries.
+
+->>>>
+
+We have an almost complete policy with all necessary components:
+
+Policy Description:
+{{step_3}}
+
+Assigned Roles:
+{{step_4}}
+
+Non-compliance Consequences:
+{{step_5}}
+
+Industry-specific Elements:
+{{step_6}}
+
+And now, resources and contact points for further queries:
+
+Resources and Support:
+{{step_7}}
+
+Next, write an acknowledgment section where the customer service representative confirms their understanding and commitment to following the policy. This could include something like "I, {{employee_name}}, have read and understood the customer service policy and agree to comply with it."
+

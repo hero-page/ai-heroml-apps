@@ -1,0 +1,85 @@
+Your task is to write a "Green Partnership Proposal" for the "Eco-friendly & Sustainable Product Marketing" industry, specifically for a "Brand Manager". Let's start by crafting an introduction that outlines the purpose of the partnership proposal: {{partnership_purpose}}. This should clearly define the expectations from the partnership and the unique green solution the product or service proposes.
+
+Here's some more context about the Green Partnership Proposal:
+Partnership Purpose: {{partnership_purpose}}
+Environmental Goals: {{environmental_goals}}
+Partner Brand Analysis: {{partner_brand_analysis}}
+Product Service Details: {{product_service_details}}
+Partnership Activities: {{partnership_activities}}
+Partnership Benefits: {{partnership_benefits}}
+
+->>>>
+
+After crafting our partnership purpose:
+
+Partnership Purpose:
+{{step_1}}
+
+Now, let's state the potential environmental impact and sustainability goals that the brand aims to achieve through this partnership: {{environmental_goals}}. This should highlight the company's commitment to eco-friendly practices and any track record of sustainability initiatives.
+
+->>>>
+
+Following the introduction and environmental goals:
+
+Partnership Purpose:
+{{step_1}}
+
+Environmental Goals:
+{{step_2}}
+
+Let's present a deep understanding of the potential partner's brand, their sustainability efforts, and how this proposal aligns with their green initiatives: {{partner_brand_analysis}}.
+
+->>>>
+
+So far in our proposal, we have:
+
+Partnership Purpose:
+{{step_1}}
+
+Environmental Goals:
+{{step_2}}
+
+Partner Brand Analysis:
+{{step_3}}
+
+Now, let's describe in detail the green, sustainable product or service, and its potential impact on the environment in the proposal section: {{product_service_details}}.
+
+->>>>
+
+Our green partnership proposal now includes:
+
+Partnership Purpose:
+{{step_1}}
+
+Environmental Goals:
+{{step_2}}
+
+Partner Brand Analysis:
+{{step_3}}
+
+Product/Service Details:
+{{step_4}}
+
+Next, let's propose specific ways that both companies could work together to enhance sustainability and green reputation. This section should be action-oriented and define clear roles for each partner: {{partnership_activities}}.
+
+->>>>
+
+Our green partnership proposal now incorporates:
+
+Partnership Purpose:
+{{step_1}}
+
+Environmental Goals:
+{{step_2}}
+
+Partner Brand Analysis:
+{{step_3}}
+
+Product/Service Details:
+{{step_4}}
+
+Partnership Activities:
+{{step_5}}
+
+Next, let's pen a concluding summary to reiterate the potential benefits of the partnership for both brands and the environment: {{partnership_benefits}}.
+

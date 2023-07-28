@@ -1,0 +1,93 @@
+Your task is to write a "Retreat Description" for the "Ecotherapy & Nature Connection" industry, specifically for a "Nature Coach". Start by creating an engaging introduction that paints a picture of the tranquil natural setting where your retreat will take place.
+
+Here's some more context about the Retreat Description:
+Retreat Location: {{retreat_location}}
+Retreat Objectives: {{retreat_objectives}}
+Retreat Dates Length: {{retreat_dates_length}}
+Daily Itinerary: {{daily_itinerary}}
+Eco Therapy Benefits: {{eco_therapy_benefits}}
+Nature Coach Profile: {{nature_coach_profile}}
+Inclusions Exclusions: {{inclusions_exclusions}}
+Pricing Registration Info: {{pricing_registration_info}}
+
+->>>>
+
+We have an enticing introduction for our nature retreat located at:
+
+Introduction:
+{{step_1}}
+
+Next, write a descriptive overview of the retreat objectives and key takeaways.
+
+->>>>
+
+We have an introduction and an overview of retreat objectives for our nature retreat:
+
+Introduction:
+{{step_1}}
+
+Retreat objectives and takeaways:
+{{step_2}}
+
+Now, give specific details about the dates, length, and location of the retreat, providing critical logistical information.
+
+->>>>
+
+We have an outline and logistical information for our nature retreat:
+
+Retreat objectives and takeaways:
+{{step_2}}
+
+Dates, length and location:
+{{step_3}}
+
+Moving forward, describe the daily itinerary, emphasizing the biodiversity and enticing activities participants will encounter at the retreat.
+
+->>>>
+
+In our nature retreat, we have described the itinerary:
+
+Dates, length and location:
+{{step_3}}
+
+Daily Itinerary:
+{{step_4}}
+
+Next, elaborate on the benefits of ecotherapy and how this retreat will assist in connecting participants with nature, reducing stress, and enhancing well-being.
+
+->>>>
+
+For our nature retreat, here are the itinerary and ecotherapy benefits:
+
+Daily Itinerary:
+{{step_4}}
+
+Ecotherapy benefits:
+{{step_5}}
+
+Let's describe your role as a 'Nature Coach', emphasizing your qualifications, experience, and the unique coaching techniques you'll employ during the retreat to enhance participants' connection with nature.
+
+->>>>
+
+Here's what we have so far for our nature retreat:
+
+Ecotherapy benefits:
+{{step_5}}
+
+Nature Coach profile:
+{{step_6}}
+
+Next, detail the inclusions like lodging, meals, activities and other amenities or services. Also, set clear expectations about what participants should bring.
+
+->>>>
+
+Here are the coach's profile and inclusions for our nature retreat:
+
+Nature Coach profile:
+{{step_6}}
+
+Inclusions and recommendations for participants:
+{{step_7}}
+
+Now, provide pricing information and registration details. Include any cancellation policies and your contact details for further inquiries.
+

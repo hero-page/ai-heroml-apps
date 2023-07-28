@@ -1,0 +1,67 @@
+Let's begin by crafting an engaging introductory paragraph for the product review. The introduction should detail the product's overall relevance and purpose in the "Food & Beverage Product Marketing" industry.
+
+Here's some more context about the Product Review:
+Product Relevance: {{product_relevance}}
+Product Description: {{product_description}}
+Product Details: {{product_details}}
+Product Comparison: {{product_comparison}}
+Personal Experience: {{personal_experience}}
+Overall Rating: {{overall_rating}}
+
+->>>>
+
+With the introduction created:
+
+Introduction:
+{{step_1}}
+
+Now, write a thorough description of the product. This section should include details about its name, brand, the specific characteristics, and key features that make it unique.
+
+->>>>
+
+Following up from the introduction, we now have the product description:
+
+Introduction:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Next, discuss the finer details such as the product's taste, nutritional contents, packaging, and other significant details a prospective consumer might be interested in.
+
+->>>>
+
+We now have the introduction, product description, and product details:
+
+Product Description:
+{{step_2}}
+
+Product Details:
+{{step_3}}
+
+The next step is to compare this product with others in the same category. Highlight the crucial differences and similarities using factors like price, quality, and ingredient list.
+
+->>>>
+
+Here we have the comparison of the product with others on the market:
+
+Product Details:
+{{step_3}}
+
+Product Comparison:
+{{step_4}}
+
+Move onto sharing a deeply personal experience with the product. Discuss elements like taste, ease of use, lasting impressions, and other aspects of the experience that are relevant.
+
+->>>>
+
+We have a personal account of the product, added on to the rest of the product details and comparisons:
+
+Product Comparison:
+{{step_4}}
+
+Personal Experience:
+{{step_5}}
+
+Lastly, create an overall rating and summary while combining all the points mentioned in the previous sections. Include a recommendation on who might benefit most from the product.
+

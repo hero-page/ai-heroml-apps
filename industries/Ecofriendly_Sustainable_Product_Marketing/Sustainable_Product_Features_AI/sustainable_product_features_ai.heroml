@@ -1,0 +1,91 @@
+
+Start by writing an introduction for our "Product Sustainability Features". The introduction should articulate the purpose of the product: {{product_purpose}}, as well as underline why sustainability is crucial for both the product and the brand's overall value.
+
+Here's some more context about the Product Sustainability Features:
+Product Purpose: {{product_purpose}}
+Primary Sustainable Features: {{primary_sustainable_features}}
+Product Process: {{product_process}}
+Product Impact: {{product_impact}}
+Sustainability Certifications: {{sustainability_certifications}}
+
+->>>>
+
+After the introduction, we have:
+
+Introduction:
+{{step_1}}
+
+Next, please identify and describe the primary sustainable aspects of the product: {{primary_sustainable_features}}. Remember that these aspects could include reuse, biodegradable, energy-saving, zero waste, locally sourced, or cruelty-free.
+
+->>>>
+
+Following the introduction and the list of primary sustainable features, we now have:
+
+Introduction:
+{{step_1}}
+
+Primary Sustainable Features:
+{{step_2}}
+
+The next step is to provide a comprehensive overview of each of the primary sustainable features. In particular, explain how these features contribute to environmental conservation efforts.
+
+->>>>
+
+With introduction, primary features and overview of the sustainable characteristics, we have:
+
+Introduction:
+{{step_1}}
+
+Primary Sustainable Features:
+{{step_2}}
+
+Overview of Sustainable Features:
+{{step_3}}
+
+We should now delve into the production process: {{product_process}}. Please unpack how sustainability is ingrained into each step of this process, from sourcing materials to manufacturing to packaging.
+
+->>>>
+
+The production process information integrates with what we've already detailed:
+
+Introduction:
+{{step_1}}
+
+Production Process:
+{{step_4}}
+
+Let's now work on assessing the environmental impact of the product: {{product_impact}}. In this segment, demonstrate how the product and the methods used in its production contribute to reducing the carbon footprint or waste.
+
+->>>>
+
+Now that the environmental impact has been assessed, we currently have:
+
+Introduction:
+{{step_1}}
+
+Production Process:
+{{step_4}}
+
+Environmental Impact:
+{{step_5}}
+
+The next step is to highlight any sustainable certifications or recognitions that the product has received: {{sustainability_certifications}}. Please elaborate on what these certifications signify and the value they add to the product.
+
+->>>>
+
+Once the certifications have been addressed, we currently have:
+
+Introduction:
+{{step_1}}
+
+Production Process:
+{{step_4}}
+
+Environmental Impact:
+{{step_5}}
+
+Sustainability Certifications:
+{{step_6}}
+
+Lastly, draft a summarization that gathers up the overall eco-friendly and sustainable benefits of the product. Bring back into focus the primary sustainable aspects: {{primary_sustainable_features}} and highlight the value they bring to both the environment and the consumer.
+

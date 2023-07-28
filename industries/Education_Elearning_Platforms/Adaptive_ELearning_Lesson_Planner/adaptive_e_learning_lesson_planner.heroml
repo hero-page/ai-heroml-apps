@@ -1,0 +1,134 @@
+Your task is to write a "Lesson Plan" for the "Education & E-learning Platforms" industry, specifically for a "Course Creator". Let's start with creating an introduction that outlines the purpose and objectives of the course: {{course_objectives}}. This should clearly inform learners of the tangible skills they will gain by completing the course.
+
+Here's some more context about the Lesson Plan:
+Course Objectives: {{course_objectives}}
+Core Concepts: {{core_concepts}}
+Discussion Guidelines: {{discussion_guidelines}}
+Course Summary: {{course_summary}}
+
+->>>>
+
+We have created the introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's design lessons around the core concepts of the course: {{core_concepts}}. Each lesson should address a specific concept, detail its context and relevance, and explain its ins and outs clearly and in a structured manner.
+
+->>>>
+
+Moving forward, we have the introduction and the lessons designed around the core concepts:
+
+Introduction:
+{{step_1}}
+
+Lessons designed around core concepts:
+{{step_2}}
+
+Next, provide detailed instructions for tasks or activities for each lesson, aligned with the core concepts: {{core_concepts}}. These tasks should serve to reinforce the concepts learned and provide practical experience for learners.
+
+->>>>
+
+So far we have lesson tasks aligned with core concepts:
+
+Introduction:
+{{step_1}}
+
+Lessons designed around core concepts:
+{{step_2}}
+
+Lesson tasks:
+{{step_3}}
+
+Now, incorporate a Discussion or Question and Answer section for each lesson to accommodate any queries learners may have. Provide general guidelines for this section, pertaining to the nature of queries or discussions: {{discussion_guidelines}}.
+
+->>>>
+
+We have the introduction, lessons, tasks, and a discussion section:
+
+Introduction:
+{{step_1}}
+
+Lessons designed around core concepts:
+{{step_2}}
+
+Lesson tasks:
+{{step_3}}
+
+Discussion section:
+{{step_4}}
+
+Next, include a Course Evaluation section detailing a set of criteria to assess the learner's understanding of the course content. This could include quizzes or tests, graded discussions, or project-based activities, depending on {{course_objectives}}.
+
+->>>>
+
+For the lesson plan, we have these sections complete:
+
+Introduction:
+{{step_1}}
+
+Lessons designed around core concepts:
+{{step_2}}
+
+Lesson tasks:
+{{step_3}}
+
+Discussion section:
+{{step_4}}
+
+Course Evaluation:
+{{step_5}}
+
+Let's move to the conclusion section. Write a section that summarizes the course content: {{course_summary}}. Restate the course objectives and explain how the lessons delivered meet these objectives.
+
+->>>>
+
+Now, we're nearing the end with the following sections:
+
+Introduction:
+{{step_1}}
+
+Lessons designed around core concepts:
+{{step_2}}
+
+Lesson tasks:
+{{step_3}}
+
+Discussion section:
+{{step_4}}
+
+Course Evaluation:
+{{step_5}}
+
+Conclusion
+{{step_6}}
+
+Now, to enhance the lesson plan's relevance for e-learning platforms, include notes on platform-specific features or tools (like discussion boards, quizzes, or multimedia content) that can support or enhance this plan.
+
+->>>>
+
+We have almost completed our Lesson Plan with the following sections:
+
+Introduction:
+{{step_1}}
+
+Lessons designed around core concepts:
+{{step_2}}
+
+Lesson tasks:
+{{step_3}}
+
+Discussion section:
+{{step_4}}
+
+Course Evaluation:
+{{step_5}}
+
+Conclusion
+{{step_6}}
+
+Platform-specific features:
+{{step_7}}
+
+Don't forget to incorporate any industry-relevant case studies, data, or examples throughout your lesson plan. This will show the practical application of {{core_concepts}}, making the material more relatable and memorable to learners.
+

@@ -1,0 +1,141 @@
+Your task is to write an "Eco-conscious Market Analysis" for the "Eco-friendly & Sustainable Product Marketing" industry, particularly for a "Product Marketer". 
+
+Let's start with an introduction. This introduction should outline the purpose of the "Eco-conscious Market Analysis": {{analysis_purpose}}, and detail the product or products being analyzed: {{product_details}}.
+
+Here's some more context about the Eco-conscious Market Analysis:
+Analysis Purpose: {{analysis_purpose}}
+Product Details: {{product_details}}
+Market Environment: {{market_environment}}
+Consumer Analysis: {{consumer_analysis}}
+Competitive Analysis: {{competitive_analysis}}
+Product Analysis: {{product_analysis}}
+Opportunity Analysis: {{opportunity_analysis}}
+Marketing Recommendations: {{marketing_recommendations}}
+Analysis Summary: {{analysis_summary}}
+
+->>>>
+
+Here's the introduction to our "Eco-conscious Market Analysis":
+
+Introduction:
+{{step_1}}
+
+Next, we need to describe the current eco-conscious market environment. This section should include detailed information about the market size, growth rate, key players, their market share, and the regulatory environment: {{market_environment}}.
+
+->>>>
+
+Our Eco-conscious Market Analysis currently includes the following:
+
+Introduction:
+{{step_1}}
+
+Market Environment:
+{{step_2}}
+
+Let's continue with a "Customer Analysis". This should provide an understanding of the eco-conscious consumers, including their demographic details, buying patterns, psychographics, and attitudes towards eco-friendly and sustainable products: {{consumer_analysis}}.
+
+->>>>
+
+Our Eco-conscious Market Analysis now consists of:
+
+Introduction:
+{{step_1}}
+
+Market Environment:
+{{step_2}}
+
+Customer Analysis:
+{{step_3}}
+
+The next part will be the "Competitive Analysis". It is important to identify main competitors, their strengths and weaknesses, their products, pricing, and marketing tactics, especially those related to sustainable and eco-friendly practices: {{competitive_analysis}}.
+
+->>>>
+
+Now, we've analyzed the competitive landscape - 
+
+Introduction:
+{{step_1}}
+
+Market Environment:
+{{step_2}}
+
+Customer Analysis:
+{{step_3}}
+
+Competitive Analysis:
+{{step_4}}
+
+Subsequently, let's conduct a "Product Analysis". Detail the product's features, how it meets consumer needs, and its unique selling points. Additionally, discuss how it is better than competitors' products from an eco-friendliness perspective: {{product_analysis}}.
+
+->>>>
+
+Moving forward with our Eco-conscious Market Analysis:
+
+Introduction:
+{{step_1}}
+
+Market Environment:
+{{step_2}}
+
+Customer Analysis:
+{{step_3}}
+
+Competitive Analysis:
+{{step_4}}
+
+Product Analysis:
+{{step_5}}
+
+Let's now include an "Opportunity Analysis" section. This looks into the opportunities in the market to expand or improve the product or its marketing. It should also talk about any potential risks or threats related to sustainability, like emerging competitors or evolving consumer preferences: {{opportunity_analysis}}.
+
+->>>>
+
+Our Eco-conscious Market Analysis now looks like this:
+
+Introduction:
+{{step_1}}
+
+Market Environment:
+{{step_2}}
+
+Customer Analysis:
+{{step_3}}
+
+Competitive Analysis:
+{{step_4}}
+
+Product Analysis:
+{{step_5}}
+
+Opportunity Analysis:
+{{step_6}}
+
+Next, we need sustainable "Marketing Recommendations". Provide strategies to enhance product appeal, increase brand awareness, and engage consumers through sustainability-focused marketing tactics: {{marketing_recommendations}}.
+
+->>>>
+
+So far, our Eco-conscious Market Analysis contains:
+
+Introduction:
+{{step_1}}
+
+Market Environment:
+{{step_2}}
+
+Customer Analysis:
+{{step_3}}
+
+Competitive Analysis:
+{{step_4}}
+
+Product Analysis:
+{{step_5}}
+
+Opportunity Analysis:
+{{step_6}}
+
+Marketing Recommendations:
+{{step_7}}
+
+Finally, let's compile a summary. Highlight the key findings of the "Eco-conscious Market Analysis" and its implications for the marketing strategy: {{analysis_summary}}. This should be clear, concise and easy for the reader to understand.
+

@@ -1,0 +1,98 @@
+Your task is to write a "Policy Proposal" for the "Federal Government Administration" industry as an "Economic Advisor".
+
+Let's start by developing an executive summary that provides a concise overview of the proposed policy.
+
+Here's some more context about the Policy Proposal:
+Policy Overview: {{policy_overview}}
+Economic Background: {{economic_background}}
+Policy Goals: {{policy_goals}}
+Current State: {{current_state}}
+Implementation Details: {{implementation_details}}
+
+->>>>
+
+Now, we have an executive summary for our policy proposal:
+
+Executive Summary:
+{{step_1}}
+
+Let's move on to provide an introduction and background on the economic situation. Remember to reference reliable sources to support our information.
+
+->>>>
+
+After providing the necessary economic background:
+
+Economic Background:
+{{step_2}}
+
+Next, detail the goals of this policy proposal. Ensure that these goals are measurable, achievable, and relevant to our economic situation.
+
+->>>>
+
+We have our economic background and corresponding policy goals:
+
+Economic Background:
+{{step_2}}
+
+Policy Goals:
+{{step_3}}
+
+Now, it's time to carry out a thorough analysis of the problem, the challenges, and what led to the need for this policy proposal. Reflect the current state before the implementation of the proposed policy.
+
+->>>>
+
+We have a thorough analysis of the current state:
+
+Current State Analysis:
+{{step_4}}
+
+Let's proceed to the "Policy Analysis" section. Provide a systematic examination of the proposed policy with respect to the described economic background. Highlight both the positives and negatives and suggest any improvements.
+
+->>>>
+
+After conducting a policy analysis:
+
+Policy Analysis:
+{{step_5}}
+
+Now, develop the "Policy Solution" section. Detail your proposed solutions, taking into account the current state we have analysed earlier.
+
+->>>>
+
+With complete details on policy analysis and proposed policy solutions:
+
+Policy Analysis:
+{{step_5}}
+
+Proposed Solutions:
+{{step_6}}
+
+Now, make a case for the proposal by explaining how the planned policy can achieve these solutions and policy goals. Make sure this aligns with real-world economics and political possibilities.
+
+->>>>
+
+After justifying our policy proposal:
+
+Justification of Policy Proposal:
+{{step_7}}
+
+Moving forward, elaborate your plan for the practical implementation of your policy. Include a timeline and required resources for achieving the policy goals.
+
+->>>>
+
+With our implementation plan detailed:
+
+Implementation Plan:
+{{step_8}}
+
+Now, let's conclude our policy proposal by summarising the key points and re-emphasising the potential impact and effectiveness of the policy. It should align closely with the policy overview and policy goals that we formulated earlier.
+
+->>>>
+
+With the completion of the conclusion:
+
+Conclusion:
+{{step_9}}
+
+Finally, let's compile a comprehensive list of references to support the policy proposal. These references could include relevant case studies, statistics, or research papers.
+

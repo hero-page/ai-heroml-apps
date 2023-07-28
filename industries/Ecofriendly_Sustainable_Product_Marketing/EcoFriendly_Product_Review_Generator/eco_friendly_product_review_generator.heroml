@@ -1,0 +1,82 @@
+Your task is to write a "Product Review" for the "Eco-friendly & Sustainable Product Marketing" industry, specifically for a "Content Creator". 
+
+Let's begin by creating a captivating introduction that briefly introduces the product and underscores its eco-friendly characteristics.
+
+Here's some more context about the Product Review:
+Product Intro: {{product_intro}}
+Company Background: {{company_background}}
+Product Features Benefits: {{product_features_benefits}}
+Product Materials Sourcing: {{product_materials_sourcing}}
+Environmental Impact: {{environmental_impact}}
+Usage Experience: {{usage_experience}}
+Summary Recommendation: {{summary_recommendation}}
+
+->>>>
+
+We have the introduction for our "Product Review":
+
+Product Introduction:
+{{step_1}}
+
+Now, let's expand on the manufacturer's sustainability claims and talk about the company’s commitment to the environment. We also need to touch upon the company's history briefly.
+
+->>>>
+
+We've introduced the product and laid out the company's background and commitment to sustainability:
+
+Product Introduction:
+{{step_1}}
+
+Company Background and Sustainability Claims:
+{{step_2}}
+
+Moving forward, let's discuss the product in detail, covering its unique features, detailing how it benefits the user, and how it aligns with eco-friendly and sustainable living.
+
+->>>>
+
+We have discussed the product and its features. We also covered how it benefits the user and suits a sustainable lifestyle:
+
+Product Introduction:
+{{step_1}}
+
+Product Features and Benefits:
+{{step_3}}
+
+Now, we need to highlight the eco-friendly and sustainable materials/components used in the product. We should also provide information on sourcing, if applicable.
+
+->>>>
+
+We've detailed the product's features, benefits, and now we have information about its materials and sourcing:
+
+Product Features and Benefits:
+{{step_3}}
+
+Product Materials and Sourcing:
+{{step_4}}
+
+Next, let's explain how using the product reduces harm to the environment, highlighting its sustainable features and energy-saving functionalities, if any.
+
+->>>>
+
+We've detailed the product itself and its sources, and now we have analyzed its environmental impact:
+
+Product Materials and Sourcing:
+{{step_4}}
+
+Environmental Impact:
+{{step_5}}
+
+Moving on, let's discuss the personal usage experience, the effectiveness of the product, how it aligns with personal sustainability goals, and evaluate its overall performance.
+
+->>>>
+
+We've analyzed the product's environmental impact and now have an assessment of the usage experience:
+
+Environmental Impact:
+{{step_5}}
+
+Usage Experience and Effectiveness:
+{{step_6}}
+
+For the final part, let's summarize the review highlighting the key points. Reinforce the product's eco-friendly features and sustainability qualities. Conclude by sharing whether or not the product would be recommended, based on its environmental sustainability.
+

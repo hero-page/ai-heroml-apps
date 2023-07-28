@@ -1,0 +1,62 @@
+Your task is to write a "Space Arrangement Guide" for the "Feng Shui & Space Clearing" industry, for a "Feng Shui Consultant". Let's start with an introduction that describes the main objective of the space arrangement: {{space_objective}}. It could be for attracting prosperity, enhancing health, or creating a more harmonious living space.
+
+Here's some more context about the Space Arrangement Guide:
+Space Objective: {{space_objective}}
+Feng Shui Principles: {{feng_shui_principles}}
+Current Layout: {{current_layout}}
+Space Maintenance: {{space_maintenance}}
+
+->>>>
+
+We now have an introduction for our "Space Arrangement Guide":
+
+Introduction:
+{{step_1}}
+
+With the objective clear, let's now explain the basic principles of Feng Shui: {{feng_shui_principles}}. This will provide a clear understanding of the theoretical foundation behind the practical steps.
+
+->>>>
+
+We have an introduction and understanding of basic Feng Shui principles for the guide:
+
+Introduction:
+{{step_1}}
+
+Feng Shui Principles:
+{{step_2}}
+
+Moving on, detail a step-by-step process for assessing the current space layout: {{current_layout}}. Provide advice on identifying areas of clutter, analyzing the energy flow, and indicating the placement of key objects related to the five elements of Feng Shui (Wood, Fire, Earth, Metal and Water).
+
+->>>>
+
+We have an introduction, the basic principles, and now an assessment of the current space layout:
+
+Introduction:
+{{step_1}}
+
+Feng Shui Principles:
+{{step_2}}
+
+Assessing Current Layout:
+{{step_3}}
+
+Next, generate a comprehensive guide with specific steps for arranging the space to achieve the objective: {{space_objective}}. This should include guidance on arranging furniture, choosing appropriate colors, and placing decor to boost the desired Feng Shui energy.
+
+->>>>
+
+This guide contains an introduction, basic Feng Shui principles, an assessment of the current layout, and now instructions for arranging the space:
+
+Introduction:
+{{step_1}}
+
+Feng Shui Principles:
+{{step_2}}
+
+Assessing Current Layout:
+{{step_3}}
+
+Space Arrangement:
+{{step_4}}
+
+Let's now focus on the maintenance aspect. Craft tips on how to maintain the space: {{space_maintenance}}. Remember, Feng Shui is not only about setting up the space, but also maintaining the arrangement for sustained results.
+

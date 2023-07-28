@@ -1,0 +1,72 @@
+Your task is to write a "Media Response" for the "Federal Government Administration" industry as a "Press Secretary". 
+
+Let's start by creating a compelling, straight-to-the-point opening statement demonstrating a clear understanding of {{issue_overview}}, without going into the details yet.
+
+Here's some more context about the Media Response:
+Issue Overview: {{issue_overview}}
+Issue Background: {{issue_background}}
+Government Position: {{government_position}}
+Actions Taken: {{actions_taken}}
+Implications: {{implications}}
+Future Outlook: {{future_outlook}}
+
+->>>>
+
+The opening statement for our media response is:
+
+Opening Statement:
+{{step_1}}
+
+Next, offer a brief explanation of the context or event that necessitated this media response, keeping in mind the sensitivity and confidentiality norms of the federal government.
+
+->>>>
+
+So far, our media response includes an opening statement and the issue's background:
+
+Opening Statement:
+{{step_1}}
+
+Issue Background:
+{{step_2}}
+
+Now, state the government's or administration's stance on the issue. Include a detailed explanation and any rationale, addressing any concerns or questions.
+
+->>>>
+
+Here is how our media response is taking shape:
+
+Opening Statement:
+{{step_1}}
+
+Issue Background:
+{{step_2}}
+
+Government Position:
+{{step_3}}
+
+Next, it's essential to include a brief but comprehensive account of any actions taken by the government to resolve the issue or the situation.
+
+->>>>
+
+Our media response so far includes the government's position and the actions taken:
+
+Government Position:
+{{step_3}}
+
+Actions Taken:
+{{step_4}}
+
+Now, let's discuss the possible implications, results, or consequences of the governments' actions or stance. Aim to reassure the audience that the administration is acting in their best interests.
+
+->>>>
+
+Our media response now includes an account of the government's actions and the potential implications:
+
+Actions Taken:
+{{step_4}}
+
+Implications:
+{{step_5}}
+
+To conclude, write a positive, future-focused statement. Reiterate the government's commitment to addressing the issue at hand, and provide a future roadmap without revealing any sensitive information.
+

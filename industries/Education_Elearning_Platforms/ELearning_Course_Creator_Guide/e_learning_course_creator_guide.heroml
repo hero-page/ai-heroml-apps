@@ -1,0 +1,84 @@
+Your task is to write a "Course Outline" for the "Education & E-learning Platforms" industry, specifically for a "Course Creator". Let's start by crafting a course introduction that outlines the key learning objectives and overall purpose of the course: {{course_objective}}.
+
+Here's some more context about the Course Outline:
+Course Objective: {{course_objective}}
+Target Students Description: {{target_students_description}}
+Module Overview: {{module_overview}}
+Lesson Summary: {{lesson_summary}}
+Lesson Content Flow: {{lesson_content_flow}}
+Evaluation Method: {{evaluation_method}}
+Completion Criteria: {{completion_criteria}}
+Course Summary: {{course_summary}}
+
+->>>>
+
+Now, we have the course introduction and its objectives:
+
+Course Introduction and Objectives:
+{{step_1}}
+
+Next, in the course description, provide detailed information regarding who the course is for and why it's important for them: {{target_students_description}}.
+
+->>>>
+
+Now we have created a target student profile for our course:
+
+Course Introduction and Objectives:
+{{step_1}}
+
+Target Students Description:
+{{step_2}}
+
+Next on the list, let's generate a comprehensive course structure where we list the core modules or units of this course. Provide each module with a name, a brief summary, and a few objectives to be achieved: {{module_overview}}.
+
+->>>>
+
+Here is what we have for our course structure:
+
+Course Introduction and Objectives:
+{{step_1}}
+
+Target Students Description:
+{{step_2}}
+
+Module Overview:
+{{step_3}}
+
+Proceeding further, for each of these modules or units, let's incorporate several lessons logically. Each lesson should contain its own objectives, a summary, and the knowledge or skills students will gain: {{lesson_summary}}.
+
+->>>>
+
+This is the breakdown of lessons for our course:
+
+Module Overview:
+{{step_3}}
+
+Lesson Summary:
+{{step_4}}
+
+Now, we need to arrange the flow of content inside each lesson. Start with a short introduction of the topic, follow it with detailed content, add an engaging activity if relevant, and finally, summarise and reinforce what has been learned: {{lesson_content_flow}}.
+
+->>>>
+
+Our lessons follow a logical flow of content:
+
+Lesson Summary:
+{{step_4}}
+
+Lesson Content Flow:
+{{step_5}}
+
+Let's design a section for quizzes or assignments to assess and consolidate learning after each module or important lessons: {{evaluation_method}}.
+
+->>>>
+
+Our course now includes quizzes or assignments to evaluate learning:
+
+Lesson Content Flow:
+{{step_5}}
+
+Evaluation Method:
+{{step_6}}
+
+We are nearing completion. Next, let's provide course completion criteria or certificate provision information, giving the learners an idea of what they need to achieve to successfully complete the course: {{completion_criteria}}.
+

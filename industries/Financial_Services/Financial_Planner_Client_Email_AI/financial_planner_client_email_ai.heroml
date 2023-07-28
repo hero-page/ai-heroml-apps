@@ -1,0 +1,92 @@
+Your task is to write a "Client Update Email" for the "Financial Services" industry, specifically for a "Financial Planner". 
+
+Let's start by creating a warm personalized greeting to establish rapport. Use "Dear {{client_name}}," as the opening.
+
+Here's some more context about the Client Update Email:
+Client Name: {{client_name}}
+Financial Goals: {{financial_goals}}
+Current Financial Status: {{current_financial_status}}
+Suggested Strategic Adjustments: {{suggested_strategic_adjustments}}
+Implications Of Suggested Adjustments: {{implications_of_suggested_adjustments}}
+
+->>>>
+
+We have begun our email with a warm personalized greeting:
+
+Opening:
+{{step_1}}
+
+Next, let's create the first paragraph. It should communicate the purpose of the email: to provide an update on the client's financial standing. Remember to keep it concise, friendly, and be aware of the client's financial goals.
+
+->>>>
+
+We have our email opening and the first paragraph:
+
+Opening:
+{{step_1}}
+
+First paragraph:
+{{step_2}}
+
+Moving on, let's construct the second paragraph which should provide an overview of the client's current financial status. Don't forget to include crucial details like portfolio performance, changes in their financial situation, and the market trends affecting their investments.
+
+->>>>
+
+In our email, we have already mentioned the purpose. Now, we provide an overview of the client's current financial status:
+
+First paragraph:
+{{step_2}}
+
+Second paragraph:
+{{step_3}}
+
+Based on the financial status outlined, write a third section. In this section, we should discuss the strategic adjustments you recommend. Particularly, remember to articulate the rationale for these suggestions.
+
+->>>>
+
+In our client update email, we have the client's current financial status and our recommended strategic adjustments:
+
+Second paragraph:
+{{step_3}}
+
+Third Section (Recommended Strategic Adjustments):
+{{step_4}}
+
+Well done! Next, let's dedicate a segment to discuss the implications of the proposed changes — positive or negative — on the client's financial goals. Be honest in forecasting potential risks and gains.
+
+->>>>
+
+In the client update email, we now have the recommended strategic adjustments and the implications of these adjustments:
+
+Third Section (Recommended Strategic Adjustments):
+{{step_4}}
+
+Implications of Suggested Adjustments:
+{{step_5}}
+
+Excellent! Now, let's conclude the email by inviting the client to share their thoughts and offering to schedule a call or meeting to discuss further. Also, express your commitment towards helping them achieve their financial goals.
+
+->>>>
+
+We have dealt with the implications of our suggestions. Now we have an invitation for further discussion and commitment:
+
+Implications of Suggested Adjustments:
+{{step_5}}
+
+Invitation for Further Discussion:
+{{step_6}}
+
+As a security reminder, let's add a note to remind the client about the confidentiality of the information shared and your compliance with industry regulations. Also, we should provide your contact information in case they need to discuss further.
+
+->>>>
+
+Our email now has an invitation for further communication and a note about confidentiality:
+
+Invitation and Commitment:
+{{step_6}}
+
+Confidentiality note:
+{{step_7}}
+
+Lastly, let's end the email with a professional closing. It can be something like "Sincerely," or "Best Regards," followed by your complete name and designation.
+

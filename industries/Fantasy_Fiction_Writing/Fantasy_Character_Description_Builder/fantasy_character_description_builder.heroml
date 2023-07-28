@@ -1,0 +1,79 @@
+Your task is to write a detailed "Character Description" for the "Fantasy Fiction Writing" industry, primarily for an "Author". Let's start by describing the character's physical appearance. 
+
+Here's some more context about the Character Description:
+Physical Description: {{physical_description}}
+Character Background: {{character_background}}
+Personality Traits: {{personality_traits}}
+Goals And Motivations: {{goals_and_motivations}}
+Abilities: {{abilities}}
+Roles And Relationships: {{roles_and_relationships}}
+
+->>>>
+
+We have an initial, overarching presentation of our character's looks:
+
+Physical Description:
+{{step_1}}
+
+Now, let's delve into the character's background, including their family history, work experiences, personal stories, and relevance to the ongoing plot.
+
+->>>>
+
+We now have a detailed analysis of our character's background:
+
+Physical Description:
+{{step_1}}
+
+Character Background:
+{{step_2}}
+
+Further, let's detail the character's personality traits, encompassing both positive and negative aspects. This should address their demeanor, quirks, moral compass, weaknesses, and interests.
+
+->>>>
+
+We have captured vital aspects of our character's personality:
+
+Character Background:
+{{step_2}}
+
+Personality Traits:
+{{step_3}}
+
+Next, let's define the character's goals and motivations, considering their primary targets, fears, desires, and drivers of their actions in the ongoing plot.
+
+->>>>
+
+We can now understand the driving forces behind our character:
+
+Personality Traits:
+{{step_3}}
+
+Goals and Motivations:
+{{step_4}}
+
+Moving on, it's time to highlight the character's abilities or powers, a distinctive aspect of fantasy fiction. This could involve magical skills, physical prowess, knowledge-based abilities, or any special attribute unique to them.
+
+->>>>
+
+Our character's unique capabilities are as follows:
+
+Goals and Motivations:
+{{step_4}}
+
+Abilities:
+{{step_5}}
+
+Let's identify the roles and relationships our character maintains. This can include their status (such as a king, servant, adventurer), their friendships, alliances, enemies, and their interactions with other characters within the plot.
+
+->>>>
+
+Our character has the following roles and relationships:
+
+Abilities:
+{{step_5}}
+
+Roles and Relationships:
+{{step_6}}
+
+As a final step, let's conclude with a summary of the character's development arc. Capture how they change, evolve, or remain consistent over time by considering their transformations due to plot events, and their influence on the story's outcome.
+

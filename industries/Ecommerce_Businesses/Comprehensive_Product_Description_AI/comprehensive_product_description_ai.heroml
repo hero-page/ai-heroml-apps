@@ -1,0 +1,161 @@
+Your task is to write a "Product Description" for the "E-commerce Businesses" industry, specifically for an "E-commerce Manager". Let's start by generating a powerful product title that includes the product's name and the most essential feature: {{product_name}} and {{primary_feature}}.
+
+Here's some more context about the Product Description:
+Product Name: {{product_name}}
+Primary Feature: {{primary_feature}}
+Product Purpose: {{product_purpose}}
+Product Features: {{product_features}}
+Product Specs: {{product_specs}}
+Product Benefits: {{product_benefits}}
+Product Usage: {{product_usage}}
+
+->>>>
+
+We have come up with a title for our product:
+
+Product Title:
+{{step_1}}
+
+Next, let's create a brief product overview that describes its purpose: {{product_purpose}}, and its primary appeal to potential customers.
+
+->>>>
+
+The product we are working on has a title and a brief overview:
+
+Product Title:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Now, write down the product's key features in a bulleted list or a short paragraph. Emphasize what makes these features unique or better than what the competition offers: {{product_features}}.
+
+->>>>
+
+The key features of our product are identified, building on the product's title and overview:
+
+Product Title:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Following that, detail the product specifications, such as dimensions, weight, materials used, and other technical details: {{product_specs}}. The specifications should be presented in a way that is easily understood by the average customer.
+
+->>>>
+
+The product now has a title, overview, key features, and detailed specifications:
+
+Product Title:
+{{step_1}}
+
+Product Overview:
+{{step_2}}
+
+Key Features:
+{{step_3}}
+
+Specifications:
+{{step_4}}
+
+Next, discuss the benefits of the product, emphasizing what problems it solves for the customer, or how it enhances their life or work: {{product_benefits}}.
+
+->>>>
+
+The benefits of our product build further on its title, overview, key features, and specifications:
+
+Product Title:
+{{step_1}}
+
+Key Features:
+{{step_3}}
+
+Specifications:
+{{step_4}}
+
+Benefits:
+{{step_5}}
+
+Include a section on how to utilize the product effectively: {{product_usage}}, expanding on the information from previous steps.
+
+->>>>
+
+Appropriately utilizing our product is described as:
+
+Title:
+{{step_1}}
+
+Key Features:
+{{step_3}}
+
+Specifications:
+{{step_4}}
+
+Benefits:
+{{step_5}}
+
+Usage:
+{{step_6}}
+
+Conclude the product description by reinforcing the product's key selling points and value proposition, compelling the customer to make a purchase decision.
+
+->>>>
+
+The conclusion for our product description reinforces the product's key selling points based on the information from the previous steps:
+
+Title:
+{{step_1}}
+
+Benefits:
+{{step_5}}
+
+Usage:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+We also have to maintain clean language, keep the paragraphs short, and include necessary keywords for SEO without compromising readability.
+
+->>>>
+
+The entire product description including SEO keywords is:
+
+Title:
+{{step_1}}
+
+Features:
+{{step_3}}
+
+Specifications:
+{{step_4}}
+
+Benefits:
+{{step_5}}
+
+Usage:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+SEO-Optimized Description:
+{{step_8}}
+
+Additionally, we need to ensure the product description complies with all relevant regulations and standards in the e-commerce industry.
+
+->>>>
+
+Our e-commerce compliant product description is:
+
+SEO-Optimized Description:
+{{step_8}}
+
+E-commerce Compliant Description:
+{{step_9}}
+
+Finally, revise the product description to make sure it's accurate, compelling, and free from grammatical errors before publishing.
+

@@ -1,0 +1,141 @@
+Your task is to write a "Customer Email" for a "Loan Officer" in the "Financial Services" industry.
+
+Let's start by writing a personalized greeting to engage the customer directly.
+
+Here's some more context about the Customer Email:
+Customer Name: {{customer_name}}
+Financial Institution: {{financial_institution}}
+Current Stage: {{current_stage}}
+Necessary Documents: {{necessary_documents}}
+Deadline: {{deadline}}
+Loan Benefits: {{loan_benefits}}
+Interest Rate: {{interest_rate}}
+Repayment Duration: {{repayment_duration}}
+Your Name: {{your_name}}
+
+->>>>
+
+We have composed an engaging, personalized greeting:
+
+Personalized Greeting:
+{{step_1}}
+
+We move on to provide a brief explanation of the reason for the email.
+
+->>>>
+
+We have developed a personalized greeting and an explanation of the email's purpose:
+
+Personalized Greeting:
+{{step_1}}
+
+Email Purpose:
+{{step_2}}
+
+Next, draft the central part of the email. Cover the customer's loan application status, any additional requirements from them, a deadline for these actions, and shed light on the benefits of choosing our financial institution for their loan.
+
+->>>>
+
+We have a greeting, an explanation, and now a main body for our email:
+
+Greeting:
+{{step_1}}
+
+Email Purpose:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Let's create the next steps the customer needs to take. Remember to be assertive yet respectful.
+
+->>>>
+
+We have completed the main sections of our email:
+
+Greeting:
+{{step_1}}
+
+Email Purpose:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Next Steps:
+{{step_4}}
+
+Let's provide information about the loan terms, interest rates, and the repayment plan.
+
+->>>>
+
+We now have a detailed email developed with the greeting, purpose, main body, next steps, and loan details specified:
+
+Greeting:
+{{step_1}}
+
+Email Purpose:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Next Steps:
+{{step_4}}
+
+Loan Details:
+{{step_5}}
+
+We should indicate our availability for further assistance or inquiries.
+
+->>>>
+
+Here is what we have so far:
+
+Greeting:
+{{step_1}}
+
+Email Purpose:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Next Steps:
+{{step_4}}
+
+Loan Details:
+{{step_5}}
+
+Availability for Help:
+{{step_6}}
+
+Now, let's wrap up the email by expressing gratitude for their cooperation and prompt attention, followed by a professional sign-off.
+
+->>>>
+
+Our email is almost complete. We have developed:
+
+Greeting:
+{{step_1}}
+
+Email Purpose:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Next Steps:
+{{step_4}}
+
+Loan Details:
+{{step_5}}
+
+Availability for Help:
+{{step_6}}
+
+Closing and Sign Off:
+{{step_7}}
+
+We then check the spelling, grammar, and formatting to ensure the email is professional and correctly written.
+

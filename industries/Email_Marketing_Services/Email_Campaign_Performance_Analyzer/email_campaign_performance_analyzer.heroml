@@ -1,0 +1,77 @@
+Your task is to write a "Campaign Performance Report" for the "Email Marketing Services" industry, suitable for a "Data Analyst". 
+
+To begin, create an introductory summary of the email campaign. 
+The summary should include the goals of the email marketing campaign, the measures taken to implement it, and give an initial indication of the results.
+
+Here's some more context about the Campaign Performance Report:
+Campaign Overview: {{campaign_overview}}
+Campaign Objectives: {{campaign_objectives}}
+Number Of Emails: {{number_of_emails}}
+Open Rate: {{open_rate}}
+Click Rate: {{click_rate}}
+Conversion Rate: {{conversion_rate}}
+Unsubscribe Rate: {{unsubscribe_rate}}
+Analysis Results: {{analysis_results}}
+Audience Behavior: {{audience_behavior}}
+Conclusion And Next Steps: {{conclusion_and_next_steps}}
+
+->>>>
+
+At this point, we have a clear introductory summary of the email campaign:
+
+Campaign Summary:
+{{step_1}}
+
+Now, provide an in-depth breakdown of the email campaign objectives and their alignment with the business goals. This section should also cover the specific KPIs set for the campaign and their relevance.
+
+->>>>
+
+Our comprehensive overview of the email campaign and objectives is as follows:
+
+Campaign Objectives:
+{{step_2}}
+
+Next, present the raw email campaign performance data. Highlight the specifics such as:
+   - Number of emails sent
+   - Open rate
+   - Click-through rate
+   - Conversion rate
+   - Unsubscribe rate
+
+->>>>
+
+Based on the objectives and goals shared, here are the numbers for the campaign performance:
+
+Campaign Performance Data:
+{{step_3}}
+
+Following the data presentation, provide an analysis that interprets the collected data. This analysis should link the data to campaign objectives and explain any apparent relationships or trends.
+
+->>>>
+
+We have collected the email campaign performance data:
+
+Campaign Performance Data:
+{{step_3}}
+
+Here is an interpretation of this data in relation to campaign objectives:
+
+Data Analysis:
+{{step_4}}
+
+Next, delve into the audience demographics and engagement. The report should detail the behavior patterns of the targeted audience, how they interacted with the emails, and any significant traits or habits that correlated with the campaign performance.
+
+->>>>
+
+We have analyzed and interpreted the campaign data:
+
+Data Analysis:
+{{step_4}}
+
+Now, we are discussing audience demographics and how they interacted with the campaign:
+
+Audience Engagement:
+{{step_5}}
+
+To conclude the report, summarize key findings and suggest next steps based on the data analysis. The conclusion should include an estimation of how these steps may impact future campaigns.
+

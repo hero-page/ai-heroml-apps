@@ -1,0 +1,69 @@
+Your task is to write a "Flash Fiction Techniques" guide for the "Flash Fiction Writing" industry, specifically for an "Author". 
+
+First, start by penning an introduction that outlines what the author will learn about {{flash_fiction_techniques}}.
+
+Here's some more context about the Flash Fiction Techniques:
+Flash Fiction Techniques: {{flash_fiction_techniques}}
+Flash Fiction Overview: {{flash_fiction_overview}}
+Technique Summary: {{technique_summary}}
+Technique Examples: {{technique_examples}}
+Pitfalls And Solutions: {{pitfalls_and_solutions}}
+Integration Tips: {{integration_tips}}
+
+->>>>
+
+Now, we have an introduction that provides an outline to the "Flash Fiction Techniques" guide:
+
+Introduction:
+{{step_1}}
+
+Next, give a comprehensive overview of flash fiction as a genre, explaining the key characteristics that define it. This could include topics such as its length, its focus on single, high-impact moments, and its reliance on brevity and conciseness.
+
+->>>>
+
+Now, we have our introduction and a detailed overview of flash fiction:
+
+Introduction:
+{{step_1}}
+
+Flash Fiction Overview:
+{{step_2}}
+
+Now, introduce various techniques that can be used when writing flash fiction. These techniques should provide actionable writing approaches an author can apply to their work. You should include a descriptive summary for each technique.
+
+->>>>
+
+We have an overview of flash fiction and the technique summaries:
+
+Flash Fiction Overview:
+{{step_2}}
+
+Technique Summaries:
+{{step_3}}
+
+Move on to describe how each technique can be properly used in writing flash fiction. Give examples so as to illustrate the application of each technique in a fictional story context.
+
+->>>>
+
+Now, we have our technique summaries and their practical applications:
+
+Technique Summaries:
+{{step_3}}
+
+Technique Examples:
+{{step_4}}
+
+Following this, mention common pitfalls or challenges authors may face when attempting to use each technique. Present solutions or workarounds to these potential issues.
+
+->>>>
+
+After detailing technique applications, we now also have concrete advice on tackling potential challenges:
+
+Technique Examples:
+{{step_4}}
+
+Pitfalls and Solutions:
+{{step_5}}
+
+Next, provide tips on how an author could seamlessly integrate these techniques into their personal writing style. This should encourage creativity while maintaining the structure and essence of flash fiction.
+

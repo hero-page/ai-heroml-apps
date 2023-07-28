@@ -1,0 +1,167 @@
+First off, your task is to write a "Story Feedback" for the "Fantasy Fiction Writing" industry, specifically for an "Editor". 
+Let's begin with an introductory paragraph that expresses your overview of {{story_overview}}. This should briefly summarize what you think of the plot, characters, and writing style.
+
+Here's some more context about the Story Feedback:
+Story Overview: {{story_overview}}
+Plot Structure: {{plot_structure}}
+Characterization: {{characterization}}
+Writing Style: {{writing_style}}
+World Building: {{world_building}}
+Innovations: {{innovations}}
+
+->>>>
+
+Based on the feedback of the {{story_overview}},
+
+Story Overview:
+{{step_1}}
+
+Next, describe the story's plot structure. Discuss whether the plot arcs are well-defined, and if the narrative progresses to achieve the intended climax and resolution: {{plot_structure}}.
+
+->>>>
+
+After observing the {{story_overview}} and its plot structure:
+
+Story Overview:
+{{step_1}}
+
+Plot Structure:
+{{step_2}}
+
+Now, focus on the characterization. Comment on the depth and believability of the characters, along with their interactions, and the consistency in their behaviors: {{characterization}}.
+
+->>>>
+
+With the story's overview, plot structure and characterization in mind:
+
+Story Overview:
+{{step_1}}
+
+Plot Structure:
+{{step_2}}
+
+Characterization:
+{{step_3}}
+
+Proceed now to analyze the writing style. Discuss whether it supports or hinders the storytelling, its impact on pacing, and its appropriateness for the genre: {{writing_style}}.
+
+->>>>
+
+Considering the story's overview, plot structure, characterization, and writing style:
+
+Story Overview:
+{{step_1}}
+
+Plot Structure:
+{{step_2}}
+
+Characterization:
+{{step_3}}
+
+Writing Style:
+{{step_4}}
+
+We move towards world-building. Since it is a vital aspect of fantasy fiction, analyze how the author has created the setting, the level of immersion it offers, and if there are any inconsistencies or missing elements: {{world_building}}.
+
+->>>>
+
+Based on the feedback gathered so far including world-building,
+
+Story Overview:
+{{step_1}}
+
+Plot Structure:
+{{step_2}}
+
+Characterization:
+{{step_3}}
+
+Writing Style:
+{{step_4}}
+
+World-Building:
+{{step_5}}
+
+Discuss the novel and innovative elements in the story, whether they lie in the plot, characters, world-building, or themes. Expound on what makes the story distinctive within the fantasy genre: {{innovations}}.
+
+->>>>
+
+Given our detailed feedback on the overview, plot structure, characterization, writing style, world-building, and innovative elements in the story:
+
+Story Overview:
+{{step_1}}
+
+Plot Structure:
+{{step_2}}
+
+Characterization:
+{{step_3}}
+
+Writing Style:
+{{step_4}}
+
+World-Building:
+{{step_5}}
+
+Innovative Elements:
+{{step_6}}
+
+Now, write a conclusion. This should bring together all the feedback and, if necessary, provide general recommendations for improvements.
+
+->>>>
+
+After analyzing from all the angles, i.e., story overview, plot structure, characterization, writing style, world-building, and innovative elements. Now our conclusion is:
+
+Story Overview:
+{{step_1}}
+
+Plot Structure:
+{{step_2}}
+
+Characterization:
+{{step_3}}
+
+Writing Style:
+{{step_4}}
+
+World-Building:
+{{step_5}}
+
+Innovative Elements:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Next, address the typical elements of a fantasy story, like magical systems, fantastical creatures, epic quests, and moral or philosophical themes, and review how well the author has incorporated these elements.
+
+->>>>
+
+After providing a broad spectrum feedback from story overview to conclusion. Now, we include feedback on typical elements of a fantasy story:
+
+Story Overview:
+{{step_1}}
+
+Plot Structure:
+{{step_2}}
+
+Characterization:
+{{step_3}}
+
+Writing Style:
+{{step_4}}
+
+World-Building:
+{{step_5}}
+
+Innovative Elements:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Fantasy Elements:
+{{step_8}}
+
+Finally, suggest actionable feedback rather than general comments. For instance, instead of saying "the characters need more development", try offering specific suggestions like "the protagonist could use a more detailed backstory to justify their motivation for the quest".
+ 

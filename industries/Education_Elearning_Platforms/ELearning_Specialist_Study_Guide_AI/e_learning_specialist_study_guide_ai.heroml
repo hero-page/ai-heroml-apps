@@ -1,0 +1,89 @@
+Your task is to write a "Study Guide" for the "Education & E-learning Platforms" industry, specifically for a "Student Support Specialist". Let's start with creating an introduction that summarizes the overall aim of the "Study Guide".
+
+Here's some more context about the Study Guide:
+Study Guide Aim: {{study_guide_aim}}
+Critical Skills: {{critical_skills}}
+Student Support Scenarios: {{student_support_scenarios}}
+Common Student Issues: {{common_student_issues}}
+
+->>>>
+
+Now, we have an introduction that summarizes the overall aim of the "Study Guide":
+
+Introduction:
+{{step_1}}
+
+Next, let's present a comprehensive rundown of the critical skills a "Student Support Specialist" requires.
+
+->>>>
+
+At this point, we have an introduction and a rundown of the critical skills:
+
+Introduction:
+{{step_1}}
+
+Critical Skills:
+{{step_2}}
+
+Now, let's describe how the "Study Guide" prepares the specialist to use the relevant e-learning platforms to accommodate students' needs.
+
+->>>>
+
+We now have a description of how the "Study Guide" prepares the specialist:
+
+Introduction:
+{{step_1}}
+
+Critical Skills:
+{{step_2}}
+
+Preparation Description:
+{{step_3}}
+
+Next, incorporate a detailed section about effective methods for guiding and advising students, preferably making use of real-life scenario contexts.
+
+->>>>
+
+So far, we've detailed the skill set, preparation, and effective methods for guidance:
+
+Critical Skills:
+{{step_2}}
+
+Preparation Description:
+{{step_3}}
+
+Guidance Methods:
+{{step_4}}
+
+Moving to the next step, let's include details about navigating, operating, and troubleshooting on given E-Learning platforms.
+
+->>>>
+
+When it comes to our guide, we have a preparation description, advice on guidance methods, and now have a guide for navigation:
+
+Preparation Description:
+{{step_3}}
+
+Guidance Methods:
+{{step_4}}
+
+Navigation Guide:
+{{step_5}}
+
+Next, dedicate a section on understanding and addressing common student issues and concerns in an online learning environment.
+
+->>>>
+
+In our guide, we now have details on guidance methods, navigation, and dealing with student issues:
+
+Guidance Methods:
+{{step_4}}
+
+Navigation Guide:
+{{step_5}}
+
+Student Issues:
+{{step_6}}
+
+Let's then add a feedback mechanism for the learner to express their thoughts and concerns about the "Study Guide".
+

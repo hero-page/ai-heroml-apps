@@ -1,0 +1,95 @@
+Your task is to write an "Investment Proposal" for the "Financial Services" industry, specifically for a "Financial Planner". 
+
+Let's start by providing an executive summary of the investment opportunity and its associated benefits.
+
+Here's some more context about the Investment Proposal:
+Investment Overview: {{investment_overview}}
+Investment Purpose And Approach: {{investment_purpose_and_approach}}
+Detailed Investment Description: {{detailed_investment_description}}
+Market Analysis: {{market_analysis}}
+Investment Strategy: {{investment_strategy}}
+Financial Plan And Projections: {{financial_plan_and_projections}}
+Next Steps: {{next_steps}}
+Legal Disclosures: {{legal_disclosures}}
+
+->>>>
+
+For our "Investment Proposal", we begin with:
+
+Executive Summary:
+{{step_1}}
+
+Now let's proceed to write an introduction that includes the purpose of the proposal and the approach taken for structuring the investment.
+
+->>>>
+
+So far, we have the following sections for our "Investment Proposal":
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, let's give a detailed account of the proposed investment which covers its nature, background, and its overall significance to the financial planner's objectives.
+
+->>>>
+
+Our "Investment Proposal" is coming together, and now includes:
+
+Introduction:
+{{step_2}}
+
+Investment Description:
+{{step_3}}
+
+Next, dive into the potential market for the investment, providing statistics and forecasts. This should also include insights into competition and risk factors.
+
+->>>>
+
+Our "Investment Proposal" is shaping up with the following sections:
+
+Investment Description:
+{{step_3}}
+
+Market Analysis:
+{{step_4}}
+
+The next task is to explain the investment strategy. This should highlight the approaches that will be applied to this investment, including development process, acquisition criteria, or operational methodologies.
+
+->>>>
+
+The "Investment Proposal" now includes:
+
+Market Analysis:
+{{step_4}}
+
+Investment Strategy:
+{{step_5}}
+
+Following this, let's outline the financial plan and projections. This section should contain a well-analyzed financial summary, including projected earnings, break-even analysis, and return on investment.
+
+->>>>
+
+Our "Investment Proposal" for a "Financial Planner" now has:
+
+Investment Strategy:
+{{step_5}}
+
+Financial Plan and Projections:
+{{step_6}}
+
+Now, conclude the proposal by mentioning the next steps, including a call-to-action. Summarize why the investment aligns with the financial planner's objectives.
+
+->>>>
+
+The "Investment Proposal" so far includes:
+
+Financial Plan and Projections:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Finally, append the document with any legal and pertinent disclosures. This section might vary greatly depending on the type of investment, but it's crucial for maintaining transparency and compliance.
+

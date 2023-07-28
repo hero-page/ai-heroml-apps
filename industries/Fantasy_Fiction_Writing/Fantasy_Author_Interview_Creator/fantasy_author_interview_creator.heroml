@@ -1,0 +1,59 @@
+Your task is to write an "Author Interview" for a blogger in the "Fantasy Fiction Writing" industry. 
+To start, write an introduction that briefly overviews the author's contribution to the genre using {{Author's Biography}}.
+
+Here's some more context about the Author Interview:
+
+->>>>
+
+We have set the stage for our "Author Interview" with an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, begin the interview with pertinent questions regarding the author's journey to fantasy writing. Ideally, focus on their education, influences, and turning points.
+
+->>>>
+
+We commenced our "Author Interview" with questions about the author's journey:
+
+Author's Journey:
+{{step_2}}
+
+Now, let the author shed insights into their novels or series by highlighting their inspirations, themes, and world-building process.
+
+->>>>
+
+For our "Author Interview", we now have information about the author's work:
+
+Author's Work:
+{{step_3}}
+
+Let's now construct questions relating to the characters created by the author. We should aim to understand the background behind their protagonist's journey, their antagonists' motivations, and the roles of side characters.
+
+->>>>
+
+In our "Author Interview", we extracted details about the author's character creation process:
+
+Character Creation:
+{{step_4}}
+
+Our next focus in the interview is the fantasy genre itself. Query the author about their love for the genre, challenges they tackle while writing, and their views on recent trends.
+
+->>>>
+
+In our "Author Interview", we now have a section dedicated to the discussion on the genre:
+
+Genre Discussion:
+{{step_5}}
+
+To close the core interview, ask personal questions that allow readers to connect with the author on a more human level. These can include questions about their favorite books or authors, their writing routine, and advice they would give to aspiring writers.
+
+->>>>
+
+For our “Author Interview”, we have a section where the author shared personal insights:
+
+Author's Personal Insights:
+{{step_6}}
+
+Let’s wrap up the interview by acquiring information about the author's upcoming projects or book signing events, sequels they're working on, and any other interesting developments.
+

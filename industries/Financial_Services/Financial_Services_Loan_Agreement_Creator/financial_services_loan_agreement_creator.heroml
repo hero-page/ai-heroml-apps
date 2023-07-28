@@ -1,0 +1,102 @@
+Your task is to write a "Loan Agreement" for the "Financial Services" industry, specifically for a "Loan Officer". Let's begin with an introduction that provides a clear outline of the loan agreement. This should summarise key elements such as the identities of the parties involved: {{party_details}}, the loan amount: {{loan_amount}}, repayment schedule: {{repayment_schedule}}, and applicable interest rate: {{interest_rate}}.
+
+Here's some more context about the Loan Agreement:
+Party Details: {{party_details}}
+Loan Amount: {{loan_amount}}
+Repayment Schedule: {{repayment_schedule}}
+Interest Rate: {{interest_rate}}
+Repayment Term: {{repayment_term}}
+
+->>>>
+
+We have an introduction to our loan agreement:
+
+Introduction:
+{{step_1}}
+
+Next, establish a definition section where you provide clear explanations for the key terms used in the agreement. The terms to define include "principal", "interest", "default", "collateral", and any other industry-specific terminologies that will be used in the agreement.
+
+->>>>
+
+For the loan agreement, we now have an introduction and a section defining key terms:
+
+Introduction:
+{{step_1}}
+
+Definition Section:
+{{step_2}}
+
+Let's create a section that details the fundamental loan terms. This should include the specific loan amount: {{loan_amount}}, the interest rate: {{interest_rate}}, and the term over which the loan is to be repaid: {{repayment_term}}.
+
+->>>>
+
+With the definition section, we have explained key terms used in the loan agreement. Next, we have detailed the fundamental terms of the loan:
+
+Definition Section:
+{{step_2}}
+
+Fundamental Loan Terms:
+{{step_3}}
+
+Moving on, let's detail the repayment plan. Here, break down the repayment schedule: {{repayment_schedule}}, including the frequency and dates of repayment, and the amount of each repayment.
+
+->>>>
+
+Having outlined the basic conditions of the loan in our fundamental loan terms, we now have a breakdown of the repayment schedule:
+
+Fundamental Loan Terms:
+{{step_3}}
+
+Repayment Plan:
+{{step_4}}
+
+Next, construct a section where you describe the borrower's obligations and assurances. This will outline the actions the borrower must take or avoid to remain in good standing and avoid default.
+
+->>>>
+
+We have clarified the repayment plan for the loan, and provided a list of obligations and assurances required from the borrower:
+
+Repayment Plan:
+{{step_4}}
+
+Borrower's Obligations and Assurances:
+{{step_5}}
+
+Now, let's specify the lender's rights. This should include details such as remedies in case of default, rights to inspect the financials, and the ability to adjust interest rates in accordance with laws or agreed-upon terms.
+
+->>>>
+
+After listing the borrower's obligations, we have clearly stated the lender's rights:
+
+Borrower's Obligations and Assurances:
+{{step_5}}
+
+Lender's Rights:
+{{step_6}}
+
+Let's develop a section specifically for default situations. This should state what constitutes a default situation, the notice to be given, any grace periods involved, and the consequences of default including any penalties or acceleration of payment.
+
+->>>>
+
+Having established the lender's rights, we now have a section detailing the consequences of default:
+
+Lender's Rights:
+{{step_6}}
+
+Default Situations:
+{{step_7}}
+
+Next, incorporate a "Representations and Warranties" section. Here, each party should make certain legal promises. The borrower’s representations, for example, may relate to their legal status, financial status, and authority to enter the agreement.
+
+->>>>
+
+We have described default situations and steps following defaults. We've also included a "Representations and Warranties" section:
+
+Default Situations:
+{{step_7}}
+
+Representations and Warranties:
+{{step_8}}
+
+Now, conclude the main body of the loan agreement with general agreement terms. Detail the dispute resolution mechanisms, governing law, methodologies to modify the agreement, procedures for handling notices, and relevant annexes.
+

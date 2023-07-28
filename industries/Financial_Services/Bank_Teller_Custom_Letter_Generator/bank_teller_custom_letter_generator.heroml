@@ -1,0 +1,92 @@
+Your task is to write a "Customer Letter" for the "Financial Services" industry, specifically for a "Bank Teller". Let's begin by addressing the customer. Start with a warm greeting: "Dear {{customer_name}}," 
+
+Here's some more context about the Customer Letter:
+Letter Purpose: {{letter_purpose}}
+Promotion Or Product Details: {{promotion_or_product_details}}
+Bank Specific Advantages: {{bank_specific_advantages}}
+Call To Action: {{call_to_action}}
+Bank Assistance Availability: {{bank_assistance_availability}}
+Customer Name: {{customer_name}}
+Bank Contact Information: {{bank_contact_information}}
+Your Name: {{your_name}}
+Your Position: {{your_position}}
+
+->>>>
+
+We have begun our customer letter with a warm greeting:
+{{step_1}}
+
+Now, write an engaging and clear introductory paragraph stating the purpose of the letter. The introduction can start as "We are reaching out to you today to discuss {{letter_purpose}}."
+
+->>>>
+
+Our customer letter is taking shape. We have a greeting and the introduction:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, detail the new promotions or products of the bank that might be interesting for the customer in the next paragraph. Something like, "We would like to introduce our new offerings: {{promotion_or_product_details}}."
+
+->>>>
+
+Our customer letter now includes a greeting, an introduction, and information about the promotions or products:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Promotions or products:
+{{step_3}}
+
+The next step is to highlight how your banking services address the unique needs of the "Bank Teller". Consider including points about how your services can simplify their operations or streamline their financial processes: "{{bank_specific_advantages}}".
+
+->>>>
+
+The customer letter now contains information about our special services for the "Bank Teller":
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Promotions or products:
+{{step_3}}
+
+Bank's specific advantages:
+{{step_4}}
+
+We have now written about the bank's special services. The next step is to invite the "Bank Teller" to take action based on the information shared. Write a call to action like, "We encourage you to take advantage of these offerings by doing {{call_to_action}}."
+
+->>>>
+
+The customer letter now has a call to action included:
+
+Call to action:
+{{step_5}}
+
+Now we need to conclude our "Customer Letter" by expressing gratitude to the customer for their time and consideration. You should also reassure them of your bank's availability for their needs: "{{bank_assistance_availability}}".
+
+->>>>
+
+Here is the conclusion for the letter:
+
+Conclusion:
+{{step_6}}
+
+Finally, include the necessary contact information and encourage the "Bank Teller" to reach out with any questions, concerns, or comments about the information provided.
+
+->>>>
+
+We have added the necessary contact information to our customer letter:
+
+Contact Information:
+{{step_7}}
+
+The last step is to professionally and warmly end the letter. You could sign off as, "Kind regards, {{your_name}}, {{your_position}}."
+

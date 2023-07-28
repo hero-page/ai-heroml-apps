@@ -1,0 +1,144 @@
+Your task is to write a "Denial Letter" for the "Financial Services" industry, specifically as a "Loan Officer".
+Let's start by creating an official greeting to the recipient of this letter using the {{recipient_name}} dynamic variable for personalisation. 
+
+Here's some more context about the Denial Letter:
+Recipient Name: {{recipient_name}}
+Loan Type: {{loan_type}}
+Denial Reason: {{denial_reason}}
+Alternative Options: {{alternative_options}}
+Contact Information: {{contact_information}}
+
+->>>>
+
+Our denial letter is started as follows:
+
+Greeting:
+{{step_1}}
+
+
+Next, write an introduction explaining the purpose of the denial letter. Incorporate the {{loan_type}} variable to specify the type of loan for which the client had applied.
+
+->>>>
+
+We have drafted an introduction to a denial letter for a {{loan_type}}:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+
+Moving forward, delicately inform the denial of the loan application using phrasing like “We regret to inform you that we are unable to approve your {{loan_type}} application at this time”.
+
+->>>>
+
+The denial letter currently comprises:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Loan Application Denial:
+{{step_3}}
+
+
+Now, elaborate the main reason(s) for denial. Use the {{denial_reason}} dynamic variable to detail the precise reason for the denial in a factual, clear, yet empathetic manner.
+
+->>>>
+
+We now have a detailed explanation of the loan denial:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Loan Application Denial:
+{{step_3}}
+
+Denial Reason:
+{{step_4}}
+
+
+Refer to the Fair Credit Reporting Act (FCRA) in the next step, notifying the applicant about their right to a free copy of their credit report and to dispute any inaccuracies.
+
+->>>>
+
+Our denial letter now aligns with industry standards:
+
+Introduction:
+{{step_2}}
+
+Loan Application Denial:
+{{step_3}}
+
+Denial Reason:
+{{step_4}}
+
+FCRA Reference:
+{{step_5}}
+
+
+The next step is to inform the applicant about their Equal Credit Opportunity Act (ECOA) rights that protect them against credit discrimination.
+
+->>>>
+
+The denial letter now provides information on applicant rights:
+
+Loan Application Denial:
+{{step_3}}
+
+Denial Reason:
+{{step_4}}
+
+FCRA Reference:
+{{step_5}}
+
+ECOA Rights:
+{{step_6}}
+
+
+Provide suggestion(s) for the next steps or alternative(s), using dynamic variables like {{alternative_options}}. These suggestions should aim to offer potential solutions on improving the applicant's financial position.
+
+->>>>
+
+Our letter now includes some potential solutions:
+
+Denial Reason:
+{{step_4}}
+
+FCRA Reference:
+{{step_5}}
+
+ECOA Rights:
+{{step_6}}
+
+Next Steps/Alternatives:
+{{step_7}}
+
+
+Add a conclusion to the letter making a hope-filled remark, maintaining a positive relationship with the client. Include your {{contact_information}} in case they require further clarification.
+
+->>>>
+
+Our denial letter now ends as follows:
+
+FCRA Reference:
+{{step_5}}
+
+ECOA Rights:
+{{step_6}}
+
+Next Steps/Alternatives:
+{{step_7}}
+
+Conclusion:
+{{step_8}}
+
+
+Finally, let's bring this letter to a close with a formal salutation and your name.
+

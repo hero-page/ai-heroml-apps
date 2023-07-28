@@ -1,0 +1,99 @@
+# E-Learning Course Announcement Creator
+
+E-Learning Course Announcement Creator is your AI-powered assistant for crafting persuasive and enticing course introductions. Have control over variables in prompts and customize them according to your needs. AI systems generate high-quality, detailed announcements involving course's name, objectives, duration, content, benefits, instructor data, registration process and more. The unique attribute - it's not just an ordinary description, it delves into the nitty-gritty of the topic, making it comprehensive. The output is engaging, ensures a broad reach within the Education & E-learning Platforms sector, and ends with a strong CTA.
+
+To run this app online: [E-Learning Course Announcement Creator Online](https://hero.page/app/e-learning-course-announcement-creator-ai-powered-persuasive-course-announcements/8cpEXxgmg5RKjuoBZ86d)
+
+[![Run E-Learning Course Announcement Creator Online](/assets/run.svg)](https://hero.page/app/e-learning-course-announcement-creator-ai-powered-persuasive-course-announcements/8cpEXxgmg5RKjuoBZ86d)
+
+To learn more about AI Apps for Academic Administrator use-cases in the Education & E-learning Platforms industry, read [How to Enhance Academic Workflow with AI-Assisted E-Learning Tools](https://hero.page/blog/ai/education-and-e-learning-platforms/how-to-enhance-academic-workflow-with-ai-assisted-e-learning-tools/170853)
+
+### What is HeroML?
+HeroML is an AI Prompt Chain/Workflow interpreter for Apps built on https://hero.page 
+
+To see other apps, visit the [Hero Apps](https://hero.page/apps) page or explore [AI Apps for all industries](https://hero.page/blog) in the blog section
+
+For more documentation, visit [Hero docs, and learn about AI App Workflows](https://hero.page/tutorials/introduction-to-heroml)
+
+Download [VSCode Syntax Highlighter Ext. here](https://marketplace.visualstudio.com/items?itemName=hero-page.heroml)
+
+## Run with HeroCLI (Requires OpenAI Token)
+
+#### Installation
+
+To install the HeroML CLI tool, you need to have Node.js and npm (comes with Node.js) installed on your machine. If you don't have these, please install them first. 
+
+Then, run the following command in your terminal:
+
+```bash
+npm install -g heroml
+```
+
+This will install the HeroML CLI tool globally on your system, allowing you to use the `hero` command from any directory.
+
+If you don't want to install it globally, you can run:
+
+```bash
+npm install heroml
+```
+
+and use it like:
+
+```bash
+npx hero run ./e_learning_course_announcement_creator.heroml
+```
+
+We'll be using `hero run ...` in this tutorial for simplicity.
+
+#### Configuration
+
+Before using the HeroML CLI tool, you need to configure your OpenAI API key. 
+
+Create a `heroconfig.json` file in your home directory with the following content:
+
+```json
+{
+  "openaiApiKey": "your-openai-api-key"
+}
+```
+
+Replace `"your-openai-api-key"` with your actual OpenAI API key.
+
+#### Usage
+
+To run a HeroML script, use the `run` command followed by the path to your script:
+
+```bash
+hero run ./e_learning_course_announcement_creator.heroml
+```
+
+You can provide initial variable values as command-line options. For example, if your script expects a variable named `number_of_colors`, you can provide its value as follows:
+
+```bash
+hero run --number_of_colors 4 ./e_learning_course_announcement_creator.heroml
+```
+
+If you do not provide a value for a variable, the HeroML CLI tool will prompt you to enter it interactively.
+
+### Output Options
+
+You can specify the output directory and the filename of the output file using command-line options:
+
+- The `-o` or `--output-dir` option allows you to specify the output directory. By default, it is `./outputs/`.
+
+```bash
+hero run --output-dir /custom/output/directory ./e_learning_course_announcement_creator.heroml
+```
+
+- The `-f` or `--filename` option allows you to specify the filename of the output file. By default, it is `response_TIMESTAMP.json`.
+
+```bash
+hero run --filename custom_filename.json ./e_learning_course_announcement_creator.heroml
+```
+
+The CLI tool writes the output to a JSON file in the specified directory. It will print the path of the output file to the console:
+
+```bash
+Success! Output written to /custom/output/directory/custom_filename.json
+```
+

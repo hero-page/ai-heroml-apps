@@ -1,0 +1,104 @@
+Your task is to write a "Legislation Brief" for the "Federal Government Administration" industry, specifically for a "Policy Analyst". Let's start with preparing an executive summary providing a quick overview of the legislation: {{legislation}}.
+
+Here's some more context about the Legislation Brief:
+Legislation: {{legislation}}
+
+->>>>
+
+The task at hand is writing a "Legislation Brief" about {{legislation}} specifically for a "Policy Analyst". Here is the executive summary of our legislation:
+
+Executive Summary:
+{{step_1}}
+
+Next, describe the legislative environment that necessitated the proposal of the {{legislation}}.
+
+->>>>
+
+As we move ahead with our "Legislation Brief" on {{legislation}}, we have the executive summary and the context which led to the proposal of the legislation:
+
+Executive Summary:
+{{step_1}}
+
+Legislative Context:
+{{step_2}}
+
+Now let's outline the history and past attempts related to this legislation.
+
+->>>>
+
+For the "Legislation Brief" of our {{legislation}}, here is what we have so far:
+
+Executive Summary:
+{{step_1}}
+
+Legislative Context:
+{{step_2}}
+
+Background and History:
+{{step_3}}
+
+Proceeding further, break down the key sections and clauses of the legislation, explaining their implications, benefits, and drawbacks.
+
+->>>>
+
+Our "Legislation Brief" for {{legislation}} has come out with these details:
+
+Executive Summary:
+{{step_1}}
+
+Legislative Context:
+{{step_2}}
+
+Background and History:
+{{step_3}}
+
+Legislation Review:
+{{step_4}}
+
+Next, analyze the potential impact of the legislation on policy frameworks, ecosystems, stakeholders, and the population at large.
+
+->>>>
+
+Until now, we have this information for our "Legislation Brief" on {{legislation}}:
+
+Executive Summary:
+{{step_1}}
+
+Legislation Review:
+{{step_4}}
+
+Potential Impact:
+{{step_5}}
+
+With this, provide a review of the supporters and opponents of the legislation. Discuss their main arguments, resources, and influence.
+
+->>>>
+
+For our "Legislation Brief" on {{legislation}}, we have reviewed the legislation's supporters and opponents along with their arguments:
+
+Legislation Review:
+{{step_4}}
+
+Potential Impact:
+{{step_5}}
+
+Supporters and Opponents:
+{{step_6}}
+
+Now, estimate the probability of the legislation passing, considering factors such as the current House and Senate partisanship balance, Presidential stance, and public opinion.
+
+->>>>
+
+In our "Legislation Brief" for {{legislation}}, we have the insights about the potential probability of the legislation passing:
+
+Potential Impact:
+{{step_5}}
+
+Supporters and Opponents:
+{{step_6}}
+
+Legislation's Passing Probability:
+{{step_7}}
+
+To wrap up, let's summarize the key points, reasserting the importance of each factor in the context of the legislation.
+

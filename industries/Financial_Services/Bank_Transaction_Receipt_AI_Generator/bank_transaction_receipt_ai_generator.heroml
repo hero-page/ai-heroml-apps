@@ -1,0 +1,95 @@
+Your task is to write a "Transaction Receipt" for the "Financial Services" industry, specifically for a "Bank Teller". Let's begin as follows:
+
+- Start by indicating that the document is a "Transaction Receipt". Please write "Transaction Receipt" at the top of the document.
+
+Here's some more context about the Transaction Receipt:
+Transaction Date: {{transaction_date}}
+Transaction Reference: {{transaction_reference}}
+Transaction Type: {{transaction_type}}
+Transaction Value: {{transaction_value}}
+Post Transaction Balance: {{post_transaction_balance}}
+
+->>>>
+
+The document is set to be a "Transaction Receipt":
+
+Title:
+{{step_1}}
+
+Next, let's provide the transaction details, starting with the transaction date: {{transaction_date}}.
+
+->>>>
+
+The base of our "Transaction Receipt" has been established:
+
+Title:
+{{step_1}}
+
+Transaction Date:
+{{step_2}}
+
+Now, provide the unique transaction identifier or reference number: {{transaction_reference}}
+
+->>>>
+
+Our "Transaction Receipt" has a title, date, and reference number:
+
+Title:
+{{step_1}}
+
+Transaction Date:
+{{step_2}}
+
+Transaction Reference:
+{{step_3}}
+
+Now, type in the transaction type: {{transaction_type}} (e.g., deposit, withdrawal, transfer).
+
+->>>>
+
+So far, the "Transaction Receipt" has these details:
+
+Transaction Reference:
+{{step_3}}
+
+Transaction Type:
+{{step_4}}
+
+Next, detail out the value of the transaction: {{transaction_value}}.
+
+->>>>
+
+We have a transaction type and the corresponding transaction value for the "Transaction Receipt":
+
+Transaction Type:
+{{step_4}}
+
+Transaction Value:
+{{step_5}}
+
+Notify the customer of their available balance post-transaction: {{post_transaction_balance}}.
+
+->>>>
+
+Our "Transaction Receipt" has transaction value and post-transaction balance:
+
+Transaction Value:
+{{step_5}}
+
+Post-Transaction Balance:
+{{step_6}}
+
+Now, add in the teller’s details such as their name/ID as a point of contact.
+
+->>>>
+
+Our "Transaction Receipt" includes the transaction balance and the teller's details:
+
+Post-Transaction Balance:
+{{step_6}}
+
+Teller’s Details:
+{{step_7}}
+
+Lastly, conclude the receipt by thanking the customer for their business with a simple line like "Thank you for banking with us". 
+

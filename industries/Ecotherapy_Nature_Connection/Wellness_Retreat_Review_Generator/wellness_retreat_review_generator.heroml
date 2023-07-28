@@ -1,0 +1,82 @@
+Your task is to write a "Retreat Review" for the "Ecotherapy & Nature Connection" industry, specifically for a "Wellness Blogger". 
+
+Start with creating an engaging opening. This should include a brief description of the retreat, your feelings upon arrival, and your initial impressions.
+
+Here's some more context about the Retreat Review:
+Retreat Overview: {{retreat_overview}}
+Retreat Location: {{retreat_location}}
+Retreat Activities: {{retreat_activities}}
+Retreat People: {{retreat_people}}
+Retreat Facilities: {{retreat_facilities}}
+Retreat Synopsis: {{retreat_synopsis}}
+Retreat Recommendation: {{retreat_recommendation}}
+
+->>>>
+
+We now have an engaging opening for the review:
+
+Opening:
+{{step_1}}
+
+Next, provide an in-depth introduction to the retreat location. Detail the surroundings, the environment and natural elements present, and its distance from other main locations.
+
+->>>>
+
+We have a captivating retreat overview and a detailed description of the location:
+
+Retreat Overview:
+{{step_1}}
+
+Retreat Location:
+{{step_2}}
+
+Now, evaluate the various ecotherapy practices and nature connection activities offered at the retreat. Describe the activities, your personal experience of each, and their impact on your overall wellbeing.
+
+->>>>
+
+We have detailed the retreat location and the various activities:
+
+Retreat Location:
+{{step_2}}
+
+Retreat Activities:
+{{step_3}}
+
+Provide an assessment of the people at the retreat, including the staff, facilitators, and other participants. Mention how they contributed towards (or detracted from) your wellness journey during your stay.
+
+->>>>
+
+We have evaluated the retreat activities and the people there:
+
+Retreat Activities:
+{{step_3}}
+
+Evaluation of the People at the Retreat:
+{{step_4}}
+
+Next, comment on the accommodation and facilities at the retreat. Evaluate their comfort level, cleanliness, sustenance options available, and their effort towards sustainability. Discuss how these aspects either enhanced or affected your experience.
+
+->>>>
+
+We have assessed the people at the retreat, and evaluated the accommodation and facilities:
+
+People at the Retreat:
+{{step_4}}
+
+Accommodation and Facilities Evaluation:
+{{step_5}}
+
+Following this, wrap up with a final synopsis of your overall experience. Summarize the highlights of your stay, the effect it had on your mental, emotional, and physical wellbeing, as well as the main drawbacks and how they can be improved.
+
+->>>>
+
+We have reviewed the accommodation and facilities, and the overall experience at the retreat:
+
+Accommodation and Facilities:
+{{step_5}}
+
+Overall Retreat Experience:
+{{step_6}}
+
+Lastly, conclude with a recommendation based on your entire stay. State who would most benefit from this particular retreat, if at all.
+

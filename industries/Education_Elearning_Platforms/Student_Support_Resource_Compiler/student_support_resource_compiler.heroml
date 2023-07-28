@@ -1,0 +1,82 @@
+Your task is to write an "Academic Resources List" for the "Education & E-learning Platforms" industry, specifically for a "Student Support Specialist". Let's start by creating a brief overview of the purpose of the list: {{list_purpose}}.
+
+Here's some more context about the Academic Resources List:
+List Purpose: {{list_purpose}}
+Student Support Specialist: {{Student_support_specialist}}
+Issues Students Commonly Face: {{issues_students_commonly_face}}
+
+->>>>
+
+We are creating an "Academic Resources List" for a "Student Support Specialist", and we have a brief overview of the purpose of the list:
+
+List Purpose:
+{{step_1}}
+
+Next, segregate the resources into categories that logically capture the different forms of academic resources available. Categories may include educational websites, online tools, learning platforms, etc.
+
+->>>>
+
+We've grouped our resources into logical categories:
+
+Categories:
+{{step_2}}
+
+Now, under each category, list down individual resources. Each resource entry must include the name of the resource, a brief description, and its relevance to a Student Support Specialist.
+
+->>>>
+
+Our categories are set, and each contains relevant resources:
+
+Categories:
+{{step_2}}
+
+Resource Listings:
+{{step_3}}
+
+Now, make sure to provide information on how to access each resource and if there is any cost associated with it. This will ensure the resources are usable and accessible.
+
+->>>>
+
+Our categorized listings have been augmented with accessibility and cost details:
+
+Resource Listings with Accessibility and Cost:
+{{step_4}}
+
+In order to build trust, each resource should have a mention of its credibility or the organization that provides it. Please add this information for each resource.
+
+->>>>
+
+The resources listed now include credibility details:
+
+Resource Listings with Credibility Details:
+{{step_5}}
+
+The resources listed should have a direct relevance to a Student Support Specialist. Maybe filter the resources considering platforms that address {{issues_students_commonly_face}}.
+
+->>>>
+
+The resources have been fine-tuned for a Student Support Specialist, keeping in mind common student issues:
+
+Tailored Resource Listings:
+{{step_6}}
+
+Next, consider the dynamic nature of the Education & E-learning Platforms industry. Include resources that keep the Student Support Specialist updated on the latest tools and trends.
+
+->>>>
+
+We've added resources that provide updates on tools and trends in Education & E-learning Platforms:
+
+Updated Resource Listings:
+{{step_7}}
+
+User experience is key. Please consider resources that have positive user reviews and are user-friendly.
+
+->>>>
+
+We've chosen resources considering user reviews and friendliness:
+
+User-friendly Resource Listings:
+{{step_8}}
+
+Finally, let's sum up the list with a conclusion summarizing the importance and potential impact of these resources on student support work.
+

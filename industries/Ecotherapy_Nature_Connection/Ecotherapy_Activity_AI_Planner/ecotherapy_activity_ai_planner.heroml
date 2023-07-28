@@ -1,0 +1,45 @@
+Your task is to write a "Nature Activity Description" for the "Ecotherapy & Nature Connection" industry, particularly intended for an "Ecotherapist". Let's begin by creating an engaging introduction, considering the nature activity's context: {{nature_activity_context}}. Possible approaches could include a compelling emotional hook, a brief summary of the activity's ecotherapeutic benefits, or grounding the activity in a specific location or concept.
+
+Here's some more context about the Nature Activity Description:
+Nature Activity Context: {{nature_activity_context}}
+Nature Activity Description: {{nature_activity_description}}
+Ecotherapeutic Benefits: {{ecotherapeutic_benefits}}
+Target Groups: {{target_groups}}
+Safety Precautions And Practical Tips: {{safety_precautions_and_practical_tips}}
+
+->>>>
+
+For our "Nature Activity Description", we now have an engaging introduction that sets the context:
+
+Introduction:
+{{step_1}}
+
+Next, let's draft a comprehensive description of the nature activity: {{nature_activity_description}}. This should start with an overview of the activity, followed by step-by-step instructions, and conclude with the expected outcomes for personal growth or therapeutic gain.
+
+->>>>
+
+For our Nature Activity Description, we now have an engaging introduction and a detailed description of the nature activity:
+
+Introduction:
+{{step_1}}
+
+Nature Activity Description:
+{{step_2}}
+
+Now, let's list down the ecotherapeutic benefits associated with this nature activity: {{ecotherapeutic_benefits}}. This should be grounded on research and theories of ecotherapy and can include areas like stress reduction, improved mood, cognitive restoration or improved social connections.
+
+->>>>
+
+Our "Nature Activity Description" currently has:
+
+Introduction:
+{{step_1}}
+
+Nature Activity Description:
+{{step_2}}
+
+Ecotherapeutic Benefits:
+{{step_3}}
+
+For our next step, let's pinpoint any specific groups who would gain the most from this nature activity: {{target_groups}}. As an example, we might uncover that the activity is particularly beneficial for people coping with certain physical or mental health conditions, individuals seeking stress relief, or groups aiming to foster shared experiences.
+

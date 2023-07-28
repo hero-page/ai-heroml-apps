@@ -1,0 +1,124 @@
+Your task is to write a book review for the "Fantasy Fiction Writing" industry, specifically for a "Blogger". 
+
+Let's start by crafting an introductory paragraph that gives a brief overview of the book, including the title, author, and genre: {{book_title}}, {{book_author}}, {{book_genre}}. Also, include what attracted you to the book or why you chose it for a review.
+
+Here's some more context about the Book Review:
+Book Title: {{book_title}}
+Book Author: {{book_author}}
+Book Genre: {{book_genre}}
+Personal Reaction: {{personal_reaction}}
+Audience Suggestion: {{audience_suggestion}}
+Final Thoughts: {{final_thoughts}}
+
+->>>>
+
+We've created an introductory paragraph for our book review:
+
+Introduction:
+{{step_1}}
+
+Following this, write a summary of the book's plot. Remember not to reveal too many spoilers. Make sure this section is concise and doesn't reveal key plot twists or the ending.
+
+->>>>
+
+With a captivating introduction completed:
+
+Introduction:
+{{step_1}}
+
+We also now have a concise plot summary that doesn't reveal too much:
+
+Plot Summary:
+{{step_2}}
+
+After creating the plot summary, write an in-depth analysis of the book. This should include a discussion of key themes, characterization, world-building, and plot development. Pay extra attention to the creation of the fantasy world and major characters.
+
+->>>>
+
+We have an introduction and a plot summary for the book review:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Now, for an in-depth analysis of the book:
+
+Book Analysis:
+{{step_3}}
+
+Now, identify and discuss the elements of fantasy present in the book, such as magic, alternate worlds or dimensions, mythical creatures, etc. Discuss how the author has utilized these elements in the context of the story.
+
+->>>>
+
+With a summary, analysis, and description of the fantasy elements, we proceed to the next step:
+
+Plot Summary:
+{{step_2}}
+
+Book Analysis:
+{{step_3}}
+
+Fantasy Elements:
+{{step_4}}
+
+Next, evaluate the writing style and narrative voice adopted by the author. Comment on their efficacy in unfolding the story and engaging readers.
+
+->>>>
+
+With an analysis, description of fantasy elements, and a critique on the writing style, our review is shaping up well:
+
+Book Analysis:
+{{step_3}}
+
+Fantasy Elements:
+{{step_4}}
+
+Writing Style Evaluation:
+{{step_5}}
+
+Next, share your opinions in a personal thoughts and reflection section. This should be based on your personal likes and dislikes, thoughts about the story's progression, and reflections on the thematic substance: {{personal_reaction}}.
+
+->>>>
+
+Here's an updated structure of our book review content:
+
+Book Analysis:
+{{step_3}}
+
+Fantasy Elements:
+{{step_4}}
+
+Writing Style Evaluation:
+{{step_5}}
+
+Personal Thoughts and Reflection:
+{{step_6}}
+
+Now, identify who would most enjoy this book. Based on the book's theme, style, and plot, suggest what kind of audience may appreciate it: {{audience_suggestion}}.
+
+->>>>
+
+We have comprehensive book review content:
+
+Plot Summary:
+{{step_2}}
+
+Book Analysis:
+{{step_3}}
+
+Fantasy Elements:
+{{step_4}}
+
+Writing Style Evaluation:
+{{step_5}}
+
+Personal Thoughts and Reflection:
+{{step_6}}
+
+Audience Suggestion:
+{{step_7}}
+
+Finally, conclude your review with an evaluation, discussing whether the book lived up to your expectations, how it compares with other fantasy books and if you would recommend it to your readers. Also, mention if you're looking forward to reading more books from the same author or within the same series: {{final_thoughts}}.
+

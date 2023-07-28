@@ -1,0 +1,107 @@
+Your task is to write an Email Campaign for the Food & Beverage Product Marketing industry, specifically for a Product Marketer. Let's start by creating an engaging subject line that inspires curiosity and reflects the main topic of the email. 
+
+Here's some more context about the Email Campaign:
+Email Subject: {{email_subject}}
+Product Name: {{product_name}}
+Product Features: {{product_features}}
+Product Usage: {{product_usage}}
+Product Updates: {{product_updates}}
+Call To Action: {{call_to_action}}
+Thank You Note: {{thank_you_note}}
+
+->>>>
+
+We are creating an Email Campaign for the Food & Beverage Product Marketing industry. At this point, we have crafted an engaging subject line:
+
+Email Subject:
+{{step_1}}
+
+The next step is to write a personal introduction. Try to address the recipient by name if possible and provide a reintroduction to your brand and the product(s) you'll be pushing in this campaign.
+
+->>>>
+
+We're crafting our email campaign and the following progress has been made:
+
+Email Subject:
+{{step_1}}
+
+Email Introduction:
+{{step_2}}
+
+The next step is to write a product description. This description should centrally highlight the special features, ingredients, benefits, or unique selling propositions of your product.
+
+->>>>
+
+Now, our email includes:
+
+Email Subject:
+{{step_1}}
+
+Email Introduction:
+{{step_2}}
+
+Product Description:
+{{step_3}}
+
+Next, add a new section diving into more details about the product usage. Provide some recipes, serving suggestions, or pairings with other food items or beverages. Showcase the versatility and value of the product.
+
+->>>>
+
+Our email, so far, includes:
+
+Email Subject:
+{{step_1}}
+
+Product Description:
+{{step_3}}
+
+Product Usage:
+{{step_4}}
+
+Create another section that informs the recipients about any recent or upcoming changes to the product, brand, or company. This could be modifications to the product, new packaging, or any major changes that should be communicated to your customers.
+
+->>>>
+
+So far, our email campaign includes:
+
+Email Subject:
+{{step_1}}
+
+Product Usage:
+{{step_4}}
+
+Product Updates:
+{{step_5}}
+
+Next, generate a Call-to-Action (CTA). This section should prompt readers to take a desired action. This could be purchasing the product, signing up for a trial, or exploring the product more on your website.
+
+->>>>
+
+Our email now includes:
+
+Email Subject:
+{{step_1}}
+
+Product Updates:
+{{step_5}}
+
+Call to Action:
+{{step_6}}
+
+The next step is to end the email. Say thank you to the readers, and express gratitude for their time. When possible, add a promotional code to incentivize their next purchase.
+
+->>>>
+
+So far, our email campaign includes:
+
+Email Subject:
+{{step_1}}
+
+Call to Action:
+{{step_6}}
+
+Thank You Note:
+{{step_7}}
+
+Finally, consider adding a postscript (P.S.) if there are any additional offers, events, or significant points that have not yet been mentioned in the email. 
+

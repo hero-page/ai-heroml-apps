@@ -1,0 +1,87 @@
+Your task is to write a "Micro-editing Sample" for the "Flash Fiction Writing" industry, specifically for an "Editor". Begin by introducing the title and theme of the story: {{story_title_and_theme}}.
+
+Here's some more context about the Micro-editing Sample:
+Story Title And Theme: {{story_title_and_theme}}
+Original Flash Fiction Piece: {{original_flash_fiction_piece}}
+Micro Editing Concept: {{micro_editing_concept}}
+Micro Edited Flash Fiction Piece: {{micro_edited_flash_fiction_piece}}
+Rationale For Each Edit: {{rationale_for_each_edit}}
+Advanced Micro Editing Techniques: {{advanced_micro_editing_techniques}}
+
+->>>>
+
+We have an introduction for a "Micro-editing Sample" that includes the title and theme of the flash fiction story: 
+
+Title and Theme:
+{{step_1}}
+
+Next, present the original flash fiction piece, showcasing the author's writing style, narrative pace, and usage of literary devices.
+
+->>>>
+
+For our "Micro-editing Sample", we have a title, a theme, and the original flash fiction piece:
+
+Title and Theme:
+{{step_1}}
+
+Original Flash Fiction Piece:
+{{step_2}}
+
+Moving on, introduce the concept of micro-editing, explain its purpose and the strategies involved, such as removing filler words, clarifying sentences, fixing punctuation and grammar mistakes, and sharpening dialogue.
+
+->>>>
+
+With the original flash fiction piece in hand:
+
+Original Flash Fiction Piece:
+{{step_2}}
+
+We have an explanation of the concept of micro-editing:
+
+Micro-editing concept:
+{{step_3}}
+
+Now, present the micro-edited version of the flash fiction piece, noting significant changes and illustrating the transition from the original piece, thereby showing how the micro-editing process has improved the story.
+
+->>>>
+
+With the concept of micro-editing understood:
+
+Micro-editing concept:
+{{step_3}}
+
+We have a micro-edited version of the flash fiction piece:
+
+Micro-edited Flash Fiction Piece:
+{{step_4}}
+
+Next, explain the rationale behind each edit, touching on the unique aspects of flash fiction such as brevity, evocative imagery, omission, and the iceberg theory. This should match with the provided micro-edited version.
+
+->>>>
+
+With the micro-edited flash fiction piece available:
+
+Micro-edited Flash Fiction Piece:
+{{step_4}}
+
+We now have an explanation for each edit made:
+
+Rationale for Each Edit:
+{{step_5}}
+
+Proceed to provide insight into more advanced micro-editing techniques like balancing 'show and tell', removing unnecessary exposition, optimizing word choice, and mastering sentence rhythms specific to flash fiction.
+
+->>>>
+
+Using the rationale for each edit:
+
+Rationale for Each Edit:
+{{step_5}}
+
+We have a base to discuss advanced micro-editing techniques:
+
+Advanced Micro-editing Techniques:
+{{step_6}}
+
+Finally, conclude the "Micro-editing Sample" by summing up reflections and learnings gained from the micro-editing process, and linking these back to the title and theme of the flash fiction piece: {{story_title_and_theme}}. 
+

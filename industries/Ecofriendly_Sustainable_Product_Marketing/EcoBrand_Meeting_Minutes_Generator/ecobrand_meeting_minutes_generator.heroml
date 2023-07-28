@@ -1,0 +1,194 @@
+Start by creating an introduction for the "Meeting Minutes" in the eco-friendly and sustainable product marketing industry for a Brand Manager. 
+Be sure to include the meeting's date, time, and location: {{meeting_details}}.
+
+Here's some more context about the Meeting Minutes:
+Meeting Details: {{meeting_details}}
+Attendees List: {{attendees_list}}
+Meeting Agenda: {{meeting_agenda}}
+Discussion Points: {{discussion_points}}
+Action Items: {{action_items}}
+Sustainable Product Updates: {{sustainable_product_updates}}
+Industry Trends And Competitor Strategies: {{industry_trends_and_competitor_strategies}}
+Key Decisions And Action Plan: {{key_decisions_and_action_plan}}
+Items For Next Meeting: {{items_for_next_meeting}}
+Approval: {{approval}}
+Distribution: {{distribution}}
+
+->>>>
+
+Now, we have an introduction for the Meeting Minutes:
+
+Introduction:
+{{step_1}}
+
+Next, compile a list of attendees present during the meeting. Include their roles as well.
+
+->>>>
+
+We have an introduction and the list of attendees for the Meeting Minutes:
+
+Introduction:
+{{step_1}}
+
+Attendees:
+{{step_2}}
+
+Now, let's outline the agenda of the meeting. This will provide a quick overview of the topics discussed during the meeting.
+
+->>>>
+
+We have an introduction, a list of attendees, and the meeting agenda for the Meeting Minutes:
+
+Introduction:
+{{step_1}}
+
+Attendees:
+{{step_2}}
+
+Agenda:
+{{step_3}}
+
+Now, record the discussions that occurred under each agenda point. Be sure to capture the essence of who said what, any decisions made, and tasks assigned.
+
+->>>>
+
+We now have an introduction, a list of attendees, an agenda, and the main discussion points for our Meeting Minutes:
+
+Introduction:
+{{step_1}}
+
+Attendees:
+{{step_2}}
+
+Agenda:
+{{step_3}}
+
+Discussion Points:
+{{step_4}}
+
+The next step is to detail any action items arising from the meeting. This should include the tasks, assignments, and their deadlines.
+
+->>>>
+
+Here are the compiled introduction, attendees, agenda, discussion points, and action items for the Meeting Minutes:
+
+Introduction:
+{{step_1}}
+
+Attendees:
+{{step_2}}
+
+Agenda:
+{{step_3}}
+
+Discussion Points:
+{{step_4}}
+
+Action Items:
+{{step_5}}
+
+
+Next, note down any product-related updates, such as eco-friendly initiatives, sustainability updates, and marketing updates.
+
+->>>>
+
+We now have Meeting Minutes with the introduction, attendees, agenda, discussion points, action items, and sustainable product updates:
+
+Introduction:
+{{step_1}}
+
+Attendees:
+{{step_2}}
+
+Agenda:
+{{step_3}}
+
+Discussion Points:
+{{step_4}}
+
+Action Items:
+{{step_5}}
+
+Sustainable Product Updates:
+{{step_6}}
+
+Now, let's incorporate any emerging trends in the eco-friendly and sustainable product marketing industry and any relevant competitor strategies.
+
+->>>>
+
+Our Meeting Minutes now include the introduction, attendees, agenda, discussion points, action items, sustainable product updates, and industry trends and competitor strategies:
+
+Introduction:
+{{step_1}}
+
+Attendees:
+{{step_2}}
+
+Agenda:
+{{step_3}}
+
+Discussion Points:
+{{step_4}}
+
+Action Items:
+{{step_5}}
+
+Sustainable Product Updates:
+{{step_6}}
+
+Industry Trends and Competitor Strategies:
+{{step_7}}
+
+Let's move to denoting the time of closure for the meeting under a section called "Adjournment".
+
+->>>>
+
+Now, we have an adjournment section for the Meeting Minutes:
+
+Adjournment:
+{{step_8}}
+
+Next, write up a summary of the key decisions made during the meeting as well as the future action plan.
+
+->>>>
+
+Our Meeting Minutes now include an introduction, attendees, agenda, discussion points, action items, sustainable product updates, industry trends and competitor strategies, adjournment, and a section that summarizes the key decisions and action plan:
+
+Introduction:
+{{step_1}}
+
+Attendees:
+{{step_2}}
+
+Agenda:
+{{step_3}}
+
+Discussion Points:
+{{step_4}}
+
+Action Items:
+{{step_5}}
+
+Sustainable Product Updates:
+{{step_6}}
+
+Industry Trends and Competitor Strategies:
+{{step_7}}
+
+Adjournment:
+{{step_8}}
+
+Key Decisions and Action Plan:
+{{step_9}}
+
+Now, let's list the items that will need to be discussed in the next meeting.
+
+->>>>
+
+In our Meeting Minutes, we have listed items for the next meeting:
+
+Items for Next Meeting:
+{{step_10}}
+
+We will conclude our Meeting Minutes by getting them reviewed and approved by the chairperson or a designated attendee to ensure their authenticity.
+

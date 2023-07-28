@@ -1,0 +1,64 @@
+Your task is to write a Social Media Post for the E-commerce Businesses industry, specifically for a Digital Marketer. Let's begin by crafting a compelling headline that grabs the audience's attention. The headline should reflect the main message of the post and encourage continued reading.
+
+Here's some more context about the Social Media Post:
+Compelling Headline: {{compelling_headline}}
+Ecommerce Offer: {{ecommerce_offer}}
+Urgency Factor: {{urgency_factor}}
+
+->>>>
+
+Look at the compelling headline we have created for our social media post:
+
+Headline:
+{{step_1}}
+
+Next, let's craft a brief introduction that describes the specific e-commerce product or offer that's the focus of the post. The introduction should peak interest and persuade the reader to continue reading.
+
+->>>>
+
+Here's a summary of the content generated so far for our social media post:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, let's detail the key features or benefits of the offer mentioned in the introduction. We have to describe how it can solve a reader's pain point, add value, or present an opportunity.
+
+->>>>
+
+We're making good progress on our social media post! Here's what we have so far:
+
+Introduction:
+{{step_2}}
+
+Key Features/Benefits:
+{{step_3}}
+
+Next, to build trust, share some evidence of the effectiveness or reliability of this e-commerce product or offer. This could be in the form of testimonials, the number of satisfied customers, or other proof points, adapted to a text format.
+
+->>>>
+
+Great! Our social media post is shaping up nicely. Let's review:
+
+Key Features/Benefits:
+{{step_3}}
+
+Evidence of Effectiveness:
+{{step_4}}
+
+Next, suggest how the reader can obtain or benefit from this e-commerce product or offer. This could be a call to action to visit the website, utilize a promo code, or join a loyalty program.
+
+->>>>
+
+Now that we have a call to action, let's take a look at our social media post:
+
+Evidence of Effectiveness:
+{{step_4}}
+
+Call to Action:
+{{step_5}}
+
+The next step is to discuss a possible urgency factor to persuade the reader to act immediately. This could be a limited-time offer, limited stock, or an impending price increase.
+

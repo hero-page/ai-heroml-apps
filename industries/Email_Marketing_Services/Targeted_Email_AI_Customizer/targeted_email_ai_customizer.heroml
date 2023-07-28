@@ -1,0 +1,112 @@
+Your task is to write a "Promotional Email" for the "Email Marketing Services" industry, specifically for a "Copywriter". 
+
+Let's start by crafting a compelling subject line for the email that immediately captures attention, while also giving a glimpse into the content of the email.
+
+Here's some more context about the Promotional Email:
+Subject Line: {{subject_line}}
+Email Introduction: {{email_introduction}}
+Key Service Features: {{key_service_features}}
+Copywriter Benefits: {{copywriter_benefits}}
+User Testimonials: {{user_testimonials}}
+Cta: {{cta}}
+Email Sign Off: {{email_sign_off}}
+
+->>>>
+
+We have created our subject line for the promotional email:
+
+Subject Line:
+{{step_1}}
+
+Now, let's write an introduction that personally addresses the reader, introduces the purpose of the email and illustrates what's in it for them.
+
+->>>>
+
+Now, we have the subject line and introduction for our promotional email:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+The next step is to highlight the top features of your Email Marketing Services that would appeal to a copywriter. This could include unique tools, metrics, tracking capabilities, customization options, and more. Use concise, engaging language to effectively communicate these points.
+
+->>>>
+
+We have the following components for our promotional email:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Service Features:
+{{step_3}}
+
+Now, let's discuss the specific benefits a copywriter could gain from using your email marketing services. Ensure these benefits directly address the unique challenges and needs that copywriters generally face in their profession.
+
+->>>>
+
+The existing components of our promotional email are:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Service Features:
+{{step_3}}
+
+Copywriter Benefits:
+{{step_4}}
+
+Moving on, share some testimonials or user experiences that reflect the value of your email marketing services, particularly in the context of copywriting. This helps to build credibility among your readers.
+
+->>>>
+
+Now, we have added testimonials to our promotional email:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Service Features:
+{{step_3}}
+
+Copywriter Benefits:
+{{step_4}}
+
+User Testimonials:
+{{step_5}}
+
+Next, include a call-to-action (CTA) that motivates the reader to take the next step, whether that is signing up for a service, scheduling a demo, or visiting your website for more information.
+
+->>>>
+
+We have added a call-to-action to our promotional email:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Service Features:
+{{step_3}}
+
+Copywriter Benefits:
+{{step_4}}
+
+User Testimonials:
+{{step_5}}
+
+Call to Action:
+{{step_6}}
+
+Finally, wrap up the email with a professional sign-off that reflects your brand's tone, leaving a lasting impression.
+

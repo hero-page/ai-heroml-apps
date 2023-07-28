@@ -1,0 +1,71 @@
+Your task is to write an "Author Interview" for the "Flash Fiction Writing" industry, specifically for a "Blogger". 
+
+Let's begin by creating a warm and engaging interview introduction about the author using their biography.
+
+This introduction should capture the essence of {{author_bio}} and set the tone for the interview.
+
+Here's some more context about the Author Interview:
+Author Bio: {{author_bio}}
+Story Description: {{story_description}}
+Writing Process: {{writing_process}}
+Story Elements: {{story_elements}}
+Industry Insights: {{industry_insights}}
+Future Projects: {{future_projects}}
+
+->>>>
+
+We have created an engaging introduction for our author interview:
+
+Introduction:
+{{step_1}}
+
+Now, proceed to create a question for the author to summarize their latest flash fiction piece, while also describing the inspiration behind it. Use the {{story_description}} as a guide.
+
+->>>>
+
+Our author interview now has an introduction and the first question:
+
+Introduction:
+{{step_1}}
+
+Question 1:
+{{step_2}}
+
+Next, let's craft some questions that delve into the author's unique writing process. Use the {{writing_process}} for reference.
+
+->>>>
+
+In our author interview, we now have the first two questions:
+
+Question 1:
+{{step_2}}
+
+Question 2:
+{{step_3}}
+
+Let's move on to discuss the author's choice of specific story elements. Write questions that focus on the characters, plot, and setting, using {{story_elements}} as a reference.
+
+->>>>
+
+Our author interview now includes questions concerning the author's unique writing process and their use of story elements:
+
+Question 2:
+{{step_3}}
+
+Question 3:
+{{step_4}}
+
+Next, integrate questions that allow the author to provide insights into the Flash Fiction Writing industry. Consider asking about their favorite works and authors within the industry: {{industry_insights}}.
+
+->>>>
+
+We now have questions about the author's unique writing process, story elements, and their perspective on the industry:
+
+Question 3:
+{{step_4}}
+
+Question 4:
+{{step_5}}
+
+Finally, create closing questions that allow the author to share about any upcoming projects, events, and where readers can find more of their work. Reference the {{future_projects}} for more information.
+

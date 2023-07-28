@@ -1,0 +1,66 @@
+Your task is to write a "Social Media Announcement" for the "Event Management & Promotion" industry, specifically for a "Promotion Specialist". 
+
+Let's start by generating a compelling and catchy introduction - state clearly what the event is about and briefly touch on why the reader should care. The introduction should instantly hook your audience and pique their interest in the event.
+
+Here's some more context about the Social Media Announcement:
+Event Intro: {{event_intro}}
+Event Name: {{event_name}}
+Event Organizer: {{event_organizer}}
+Event Details: {{event_details}}
+Event Speakers: {{event_speakers}}
+Event CTA: {{event_CTA}}
+
+->>>>
+
+We're writing a social media announcement for an event. We've started with an introductory paragraph that hooks the audience:
+
+Introduction:
+{{step_1}}
+
+Next, generate the event title and the organizing entity - the event’s name should be catchy and connected to the event’s purpose. Additionally, mention the organizing entity if it's a well-known or reputable organization.
+
+->>>>
+
+The introduction is set and we have a catchy name for our event:
+
+Introduction:
+{{step_1}}
+
+Event name and Organizer:
+{{step_2}}
+
+Now, provide details of the event - it should cover information about the event's date, venue, timing, purpose, special guests or speakers, and other relevant details. All these details should be put across in an engaging and concise manner.
+
+->>>>
+
+We have an introduction, event name and organizer, and the detailed information about the event:
+
+Introduction:
+{{step_1}}
+
+Name and Organizer:
+{{step_2}}
+
+Event Details:
+{{step_3}}
+
+For the next step, generate a Call-To-Action (CTA) - invite the audience to join or participate in the event. This could be a simple sentence providing a website link for more information, ticket-purchasing details, or registration instructions.
+
+->>>>
+
+We have a catchy introduction, event name and organizer, event details, and now a strong call-to-action:
+
+Introduction:
+{{step_1}}
+
+Name and Organizer:
+{{step_2}}
+
+Event Details:
+{{step_3}}
+
+Call-To-Action:
+{{step_4}}
+
+Next, write a compelling conclusion that emphasizes the uniqueness or importance of the event. This final thought should make a final push to reinforce why the readers should be interested in the event.
+

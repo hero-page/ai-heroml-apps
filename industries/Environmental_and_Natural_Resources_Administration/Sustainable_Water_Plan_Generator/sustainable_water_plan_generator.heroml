@@ -1,0 +1,78 @@
+Your task is to write a "Water Management Plan" for the "Environmental and Natural Resources Administration" industry, specifically for a "Water Resource Specialist". Let's start by creating an introduction that briefly explains the purpose and objectives of the water management plan: {{plan_objective}}. It should also state the region covered by this plan and why the plan is necessary.
+
+Here's some more context about the Water Management Plan:
+Plan Objective: {{plan_objective}}
+Existing Conditions: {{existing_conditions}}
+Resource Assessment: {{resource_assessment}}
+Use Practices: {{use_practices}}
+Management Strategy: {{management_strategy}}
+Implementation Plan: {{implementation_plan}}
+
+->>>>
+
+Now we have an introduction which defines the purpose and objectives of our water management plan:
+
+{{step_1}}
+
+Next, give a detailed description of the existing water resource condition, including any known issues and challenges: {{existing_conditions}}. This part should provide a brief history of water usage and problems experienced in the region and mention their causes.
+
+->>>>
+
+We now have a detailed description of the existing water resource condition:
+
+Introduction:
+{{step_1}}
+
+Existing Water Conditions:
+{{step_2}}
+
+Moving forward, we'll conduct a comprehensive assessment of water resources in terms of availability, quality, and demand: {{resource_assessment}}. This section should outline the current status of water resources, potential threats, future projections of water availability and demand, as well as the expected impact of climate change on the water supply.
+
+->>>>
+
+Now, we have a detailed understanding of the water resources:
+
+Introduction:
+{{step_1}}
+
+Existing Water Conditions:
+{{step_2}}
+
+Water Resource Assessment:
+{{step_3}}
+
+Next, discuss current water use practices and determine whether they are sustainable for the long-term: {{use_practices}}. This part should examine different sectors like domestic, commercial, agricultural, and public usage.
+
+->>>>
+
+We now have a comprehensive review of current water use practices:
+
+Introduction:
+{{step_1}}
+
+Existing Water Conditions:
+{{step_2}}
+
+Water Resource Assessment:
+{{step_3}}
+
+Water Use Practices:
+{{step_4}}
+
+Up next, develop a strategy and methods for sustainable water management: {{management_strategy}}. It should detail the proposed actions and strategies for tackling the identified issues, including improvement of water quality, reducing waste, protection of water resources, ensuring water availability, promoting water conservation, and more.
+
+->>>>
+
+We now have our water management strategy in place:
+
+Water Resource Assessment:
+{{step_3}}
+
+Water Use Practices:
+{{step_4}}
+
+Water Management Strategy:
+{{step_5}}
+
+The following step is to detail the implementation plan of the adopted strategy: {{implementation_plan}}. This should distinctly enlist the steps for executing the management strategy, their timeline, the actors involved, resource allocation, along with monitoring and assessment measures.
+

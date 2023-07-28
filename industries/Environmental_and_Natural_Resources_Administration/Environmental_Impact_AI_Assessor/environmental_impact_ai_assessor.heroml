@@ -1,0 +1,126 @@
+Your task is to write an "Environmental Impact Assessment" for the "Environmental and Natural Resources Administration" industry, specifically for an "Environmental Officer". 
+
+Start by drafting an executive summary for the project proposal: {{project_proposal}} that briefly outlines the key environmental risks and mitigation measures associated with it.
+
+Here's some more context about the Environmental Impact Assessment:
+Project Proposal: {{project_proposal}}
+Project Overview: {{project_overview}}
+Baseline Conditions: {{baseline_conditions}}
+Project Impacts: {{project_impacts}}
+Impact Evaluation: {{impact_evaluation}}
+Mitigation Measures: {{mitigation_measures}}
+Monitoring Plan: {{monitoring_plan}}
+Stakeholder Consultation: {{stakeholder_consultation}}
+Project Alternatives: {{project_alternatives}}
+
+->>>>
+
+We have an executive summary for the Environmental Impact Assessment:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that explains the purpose of the assessment and provides an overview of the project: {{project_overview}}.
+
+->>>>
+
+Our Environmental Impact Assessment now has an executive summary and an introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, describe the baseline environmental conditions: {{baseline_conditions}} prior to the project commencement. These should include factors such as air and water quality, flora and fauna, socio-economic conditions, etc.
+
+->>>>
+
+We have an executive summary, introduction, and a description of the baseline environmental conditions:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Baseline Environmental Conditions:
+{{step_3}}
+
+Following this, identify and describe the possible environmental impacts: {{project_impacts}} of the proposed project. This should extend from the construction and operational stages to decommissioning.
+
+->>>>
+
+The Environmental Impact Assessment now includes the identification of possible environmental impacts:
+
+Executive Summary:
+{{step_1}}
+
+Baseline Environmental Conditions:
+{{step_3}}
+
+Environmental Impact Identification:
+{{step_4}}
+
+Next, evaluate these impacts and rank them according to their significance: {{impact_evaluation}}.
+
+->>>>
+
+Our Environmental Impact Assessment now includes an evaluation of the detected environmental impacts:
+
+Environmental Impact Identification:
+{{step_4}}
+
+Environmental Impact Evaluation:
+{{step_5}}
+
+Subsequently, describe the measures taken to avoid, reduce, or remedy the significant impacts: {{mitigation_measures}}.
+
+->>>>
+
+The assessment now includes a description of mitigation measures:
+
+Environmental Impact Evaluation:
+{{step_5}}
+
+Mitigation Measures:
+{{step_6}}
+
+Up next, develop a plan for monitoring and managing these environmental impacts during the implementation of the project: {{monitoring_plan}}.
+
+->>>>
+
+The Environmental Impact Assessment now includes a mitigation plan and a project monitoring plan:
+
+Mitigation Measures:
+{{step_6}}
+
+Project Monitoring Plan:
+{{step_7}}
+
+Following this, illustrate the process and results of consultation with affected groups and stakeholders: {{stakeholder_consultation}}. Document their views, concerns and how these have been acknowledged or addressed in the assessment.
+
+->>>>
+
+Now our Environmental Impact Assessment includes a record of stakeholder consultation:
+
+Project Monitoring Plan:
+{{step_7}}
+
+Stakeholder Consultation:
+{{step_8}}
+
+Next, identify and describe any alternatives to the project that could reduce environmental harm: {{project_alternatives}}. Also, explain why the proposed project is chosen over these alternatives.
+
+->>>>
+
+The Environmental Impact Assessment now outlines project alternatives:
+
+Stakeholder Consultation:
+{{step_8}}
+
+Project Alternatives:
+{{step_9}}
+
+Lastly, round off the assessment with a non-technical summary repeating the key points of the assessment - the potential environmental impacts, the proposed mitigation measures, and the monitoring plan.
+

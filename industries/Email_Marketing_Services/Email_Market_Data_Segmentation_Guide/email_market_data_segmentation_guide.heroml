@@ -1,0 +1,57 @@
+Your task is to write a "Data Segmentation" for the "Email Marketing Services" industry, specifically for a "Data Analyst". 
+
+Let's start by writing an introductory overview that clearly defines what the data segmentation is about, establishing what the data is, where it was sourced, how it was collected, and the specific timeframe it represents.
+
+Here's some more context about the Data Segmentation:
+Data Overview: {{data_overview}}
+Selection Criteria: {{selection_criteria}}
+Segmentation Approach: {{segmentation_approach}}
+Segment Analysis: {{segment_analysis}}
+Impact On Strategy: {{impact_on_strategy}}
+
+->>>>
+
+Our introductory overview for Data Segmentation is:
+
+Data Overview:
+{{step_1}}
+
+Next, proceed to detail the selection criteria for the data sets. Illustrate the unique characteristics and specific data points used to demarcate the segments.
+
+->>>>
+
+Our Data Segmentation process now includes:
+
+Data Overview:
+{{step_1}}
+
+Selection Criteria:
+{{step_2}}
+
+
+Now, generate and include a detailed discussion on the segmentation approach, specifying the rules and algorithms used. These algorithms may include RFM (recency, frequency, monetary) analysis, demographic variables, or behavior-based indicators.
+
+->>>>
+
+Our Data Segmentation, so far, comprises of:
+
+Selection Criteria:
+{{step_2}}
+
+Segmentation Approach:
+{{step_3}}
+
+Next, perform and illustrate an in-depth analysis for each segment, including key relationships, patterns, and trends identified. Ensure this data is presented in a way that is directly applicable for marketing decision-making, and includes action-point recommendations.
+
+->>>>
+
+Our Data Segmentation process thus far:
+
+Segmentation Approach:
+{{step_3}}
+
+Segment Analysis:
+{{step_4}}
+
+Lastly, conclude the data segmentation by evaluating the potential impact of identified segments on the email marketing strategy. Make sure to highlight specific marketing tactics that could be employed to capitalise on the identified segments.
+

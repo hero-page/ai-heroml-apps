@@ -1,0 +1,112 @@
+Your task is to write an "Email to Students" for the "Education & E-learning Platforms" industry, specifically for a "Student Support Specialist". 
+
+Let's begin by crafting a warming and engaging greeting that addresses the students collectively and establishes a personal connection.
+
+Here's some more context about the Email to Students:
+Collective Greeting: {{collective_greeting}}
+Email Purpose: {{email_purpose}}
+Important Reminders: {{important_reminders}}
+Closing Statement: {{closing_statement}}
+
+->>>>
+
+We are drafting an email to students in the role of a Student Support Specialist. We have a collective greeting for the email:
+
+Collective Greeting:
+{{step_1}}
+
+Now, write an introduction that outlines the purpose of the email and its importance to the students. Remember to tie the topic with their academic success.
+
+->>>>
+
+We are drafting an email with the following elements:
+
+Collective Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, we need to write the main body of the email where we delve deeper into the purpose outlined in the introduction. Be concise, thorough and ensure that the information is key to students' understanding.
+
+->>>>
+
+Let's review what we have in our student email so far:
+
+Collective Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Let's add some industry-specific elements to our student email. This could concern upcoming e-learning events, changes in the online learning platform, or noteworthy educational approaches directly related to the purpose of the email.
+
+->>>>
+
+A review of our Student Support Specialist email draft shows the following sections:
+
+Collective Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Body (including industry-specific elements):
+{{step_4}}
+
+Now, if we are addressing a problem or challenge faced by the students in the e-learning platform, we need to provide potential solutions or resources available to assist them, tying it back to the purpose of the email.
+
+->>>>
+
+Review of our current email content shows:
+
+Collective Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Body (with problem-solving suggestions):
+{{step_5}}
+
+Next, include a section for reminders, which could list upcoming important dates, deadlines, or events relevant to the students.
+
+->>>>
+
+The email to students now includes:
+
+Collective Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Body (with problem-solving suggestions)
+{{step_5}}
+
+Reminders:
+{{step_6}}
+
+Now towards the end of the email, provide details of where students can reach out for more information or support and encourage them to share their thoughts, questions, and/or concerns.
+
+->>>>
+
+Here's how our draft email looks so far:
+
+Collective Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Body (with problem-solving suggestions)
+{{step_5}}
+
+Relevant Contacts and Encouragement to Communicate:
+{{step_7}}
+
+Finally, close the email with a positive and encouraging statement - a sentence that complements the collective greeting and reinforces a sense of community and support. 
+

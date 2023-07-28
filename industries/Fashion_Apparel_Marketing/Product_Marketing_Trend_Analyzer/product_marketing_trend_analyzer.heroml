@@ -1,0 +1,99 @@
+Your task is to write a "Market Trend Analysis" for the "Fashion & Apparel Marketing" industry, specifically for a "Product Marketer". 
+
+Let's start by identifying the scope and objectives for this market trend analysis. Define the type of products or product categories (e.g. women’s wear, footwear, accessories etc) you will be considering: {{product_category}}. Then, define the objectives of conducting this market trend analysis, such as identifying emergent trends or evaluating consumer behaviors.
+
+Here's some more context about the Market Trend Analysis:
+Product Category: {{product_category}}
+Analysis Objectives: {{analysis_objectives}}
+Emerging Opportunities: {{emerging_opportunities}}
+Potential Challenges: {{potential_challenges}}
+Strategic Recommendations: {{strategic_recommendations}}
+
+->>>>
+
+We have established the scope and objectives for our Market Trend Analysis:
+
+Product Category:
+{{step_1_product_category}}
+
+Analysis Objectives:
+{{step_1_analysis_objectives}}
+
+Now, conduct a comprehensive market trend analysis for this product category. This analysis should include current purchasing patterns, consumer preferences, and design trends within the industry.
+
+->>>>
+
+Properly defined the scope and objectives for our analysis:
+
+Product Category:
+{{step_1_product_category}}
+
+Analysis Objectives:
+{{step_1_analysis_objectives}}
+
+And conducted a detailed market trend analysis:
+
+Current Market Analysis:
+{{step_2}}
+
+Next, let's identify and analyze the competitive trends within the market for our chosen product category. This should include a review of offerings, pricing strategies, and marketing tactics used by leading brands and competitors.
+
+->>>>
+
+With our market trend analysis:
+
+Current Market Analysis:
+{{step_2}}
+
+Let's identify the competitive trends in the market:
+
+Competitive Trends Analysis:
+{{step_3}}
+
+Now, focus on conducting a consumer behavior analysis. This should take into account factors such as demographics, purchasing power and consumer attitudes towards our chosen product category.
+
+->>>>
+
+We've analyzed the competitive trends:
+
+Competitive Trends Analysis:
+{{step_3}}
+
+And completed a thorough consumer behavior analysis:
+
+Consumer Behavior Analysis:
+{{step_4}}
+
+Now, shift the analysis towards the probable future trends within the product category.
+
+->>>>
+
+So far we have completed the consumer behavior analysis:
+
+Consumer Behavior Analysis:
+{{step_4}}
+
+Now, we will forecast the probable future market trends:
+
+Future Market Trends:
+{{step_5}}
+
+Identify the opportunities emerging from these trends such as potential for new product design, consumer segments or geographical markets. Simultaneously, identify any possible challenges or threats associated with these trends.
+
+->>>>
+
+We have forecasted the future market trends:
+
+Future Market Trends:
+{{step_5}}
+
+And we have identified possible opportunities and challenges:
+
+Opportunities:
+{{step_6_opportunities}}
+
+Challenges:
+{{step_6_challenges}}
+
+Conclude the analysis by discussing the implications of these trends for a Product Marketer. This should indicate how these trends could impact strategies related to product design, pricing, distribution, and promotions.
+

@@ -1,0 +1,112 @@
+Your task is to write a "Product Description" for the "Food & Beverage Product Marketing" industry, for a "Product Marketer". 
+
+First, let's start by crafting a unique and simple product title: {{product_name}} that can be instantly recognizable to potential customers.
+
+Here's some more context about the Product Description:
+Product Name: {{product_name}}
+Product Summary: {{product_summary}}
+Nutritional Values: {{nutritional_values}}
+Key Features: {{key_features}}
+Usage Suggestions: {{usage_suggestions}}
+Package And Shelf Life: {{package_and_shelf_life}}
+Value And Experience: {{value_and_experience}}
+
+->>>>
+
+We have a product title for our food or beverage:
+
+Product Title:
+{{step_1}}
+
+Next, create an engaging introduction that gives a general summary of the product. This summary should encapsulate what the food or beverage is and highlight its distinctiveness.
+
+->>>>
+
+We have our food or beverage's title and introduction:
+
+Product Title:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Next, detail the nutritional components of the product. Remember to include details like energy values, protein, fiber, sugars, or other characteristics appealing to health-conscious buyers.
+
+->>>>
+
+At this point, our food or beverage product has a title, an introduction, and listed nutritional values:
+
+Product Title:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Nutritional Values:
+{{step_3}}
+
+Next, delve into the key distinguishing features of the product. These can include its taste profile, source of ingredients, manufacturing process, or other aspects that make it stand out.
+
+->>>>
+
+Our food or beverage product has a title, introduction, nutritional values, and listed key features:
+
+Product Title:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Nutritional Values:
+{{step_3}}
+
+Key Features:
+{{step_4}}
+
+Now, provide usage suggestions. This section can include pairing advice, serving recommendations, or cooking instructions that can help consumers visualize incorporating this product into their daily routines.
+
+->>>>
+
+For our food or beverage product, we have a title, introduction, nutritional values, key features, and usage suggestions:
+
+Product Title:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Nutritional Values:
+{{step_3}}
+
+Key Features:
+{{step_4}}
+
+Usage Suggestions:
+{{step_5}}
+
+Let's move on to providing package information and the product's shelf life. Make sure to explain how to properly store the product and its expiration date.
+
+->>>>
+
+Our food or beverage product details include a title, introduction, nutritional values, key features, usage suggestions, and packaging & shelf life information:
+
+Product Title:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Nutritional Values:
+{{step_3}}
+
+Key Features:
+{{step_4}}
+
+Usage Suggestions:
+{{step_5}}
+
+Package Information and Shelf Life:
+{{step_6}}
+
+Finally, end the product description by reinforcing the value it offers. Reiterate the unique experience awaiting the customer when they choose this product. This could relate to the quality of the ingredients, the enjoyment they will get, or the health benefits they stand to gain. 
+

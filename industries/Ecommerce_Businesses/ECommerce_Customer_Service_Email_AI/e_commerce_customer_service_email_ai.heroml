@@ -1,0 +1,68 @@
+Start by writing a "Customer Email" for the "E-commerce Businesses" industry, specifically for a "Customer Service Rep". Let's start with a formal greeting suitable to the customer's time zone and culture, address them by: {{customer_greeting}}.
+
+Here's some more context about the Customer Email:
+Customer Greeting: {{customer_greeting}}
+Customer Issue: {{customer_issue}}
+Customer Assurance: {{customer_assurance}}
+Resolution Steps: {{resolution_steps}}
+Industry Specific Measures: {{industry_specific_measures}}
+Closing Remarks: {{closing_remarks}}
+Professional Signature: {{professional_signature}}
+
+->>>>
+
+Now, we have the following formal greeting for our customer email:
+
+Formal Greeting:
+{{step_1}}
+
+Let's continue by addressing and acknowledging the customer's issue or query while expressing gratitude for their vigilance. We appreciate the opportunity to improve our service by solving: {{customer_issue}}.
+
+->>>>
+
+After addressing the formal greeting, we have the following acknowledgment in our customer email:
+
+Formal Greeting:
+{{step_1}}
+
+Acknowledgment:
+{{step_2}}
+
+Now with the acknowledgment in place, let's assure the customer of our readiness and commitment to solve their issue. Use this opportunity to genuinely empathize with their experience: {{customer_assurance}}.
+
+->>>>
+
+So far, we have addressed the customer's issue and given them assurance in our email:
+
+Acknowledgment:
+{{step_2}}
+
+Assurance:
+{{step_3}}
+
+Next, let's detail the resolution or steps that have or will be taken to address the customer’s concern. This resolution should clearly explain any processes or procedures: {{resolution_steps}}.
+
+->>>>
+
+Now that we have a draft of the resolution steps for our email:
+
+Assurance:
+{{step_3}}
+
+Resolution:
+{{step_4}}
+
+Next up, let's highlight any industry-specific measures taken in response to the customer's issue. Such as details about e-commerce related policies or warranties: {{industry_specific_measures}}.
+
+->>>>
+
+We have our resolution steps and industry-specific measures for our email:
+
+Resolution:
+{{step_4}}
+
+Industry-specific Measures:
+{{step_5}}
+
+Let's move towards the end of the email. Invite the customer to reach out if they need more help. Reiterate your commitment to great customer service: {{closing_remarks}}.
+

@@ -1,0 +1,196 @@
+Your task is to write an "Economic Analysis" for the "Federal Government Administration" industry, specifically for an "Economic Advisor". Let's start by crafting a brief introduction that outlines the focus of the economic analysis: {{economic_issue}}.
+
+Here's some more context about the Economic Analysis:
+Economic Issue: {{economic_issue}}
+Comparative Study: {{comparative_study}}
+Economic Model: {{economic_model}}
+
+->>>>
+
+We have an introduction for the economic analysis that outlines the focus of the analysis, which is the following issue:  
+
+Introduction:
+{{step_1}}
+
+Next, create an executive summary that highlights key findings about the {{economic_issue}} and their implications on the Federal Government Administration.
+
+->>>>
+
+We have a brief introduction and an executive summary for the economic analysis:
+
+Introduction:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Now, prepare a comprehensive background section that details the history and importance of the {{economic_issue}} in the context of federal government administration.
+
+->>>>
+
+We have generated an introduction, an executive summary, and a background section for the economic analysis:
+
+Introduction:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Moving forward, analyze the current state of the economy concerning the {{economic_issue}}, including trends, challenges, opportunities, and threats.
+
+->>>>
+
+So far, we've composed an introduction, an executive summary, a background section, and an account of the current state of the economy concerning the {{economic_issue}}:
+
+Introduction:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Current State of Economy:
+{{step_4}}
+
+Next, detail the specific impacts of the {{economic_issue}} on the federal budget, policy formulation, and execution.
+
+->>>>
+
+At this stage of the economic analysis, we have an introduction, an executive summary, a background, a review of the current state of the economy, and a detailed analysis of the impacts on federal budgets and policies:
+
+Introduction:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Current State of Economy:
+{{step_4}}
+
+Impacts on Policies and Budgets:
+{{step_5}}
+
+Now, provide well-researched data in the findings section about the implications of the {{economic_issue}} on various sectors under federal administration.
+
+->>>>
+
+Our analysis has an introduction, an executive summary, a background, a review of the economy's current state, an analysis of impacts, and detailed findings:
+
+Introduction:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Current State of Economy:
+{{step_4}}
+
+Impacts on Policies and Budgets:
+{{step_5}}
+
+Findings:
+{{step_6}}
+
+Now, offer an in-depth analysis of how the {{economic_issue}} affects policy decision making at the federal level. This section must cover potential scenarios, possible repercussions, and recommend policy adjustments where necessary.
+
+->>>>
+
+At this stage, our economic analysis has an introduction, an executive summary, a background, a review of the economy's current state, an analysis of impacts, findings, and a detailed policy analysis:
+
+Introduction:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Current State of Economy:
+{{step_4}}
+
+Impacts on Policies and Budgets:
+{{step_5}}
+
+Findings:
+{{step_6}}
+
+Policy Analysis:
+{{step_7}}
+
+Next, review related literature, case studies, using a comparative study {{comparative_study}} to draw comparisons with how other governments have handled similar issues.
+
+->>>>
+
+Our economic analysis includes an introduction, an executive summary, a background, a review of the economy's current state, an analysis of impacts, finding, policy analysis, and a comparative study:
+
+Introduction:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Current State of Economy:
+{{step_4}}
+
+Impacts on Policies and Budgets:
+{{step_5}}
+
+Findings:
+{{step_6}}
+
+Policy Analysis:
+{{step_7}}
+
+Comparative Study:
+{{step_8}}
+
+Substantiate your findings with credible theory or economic models: {{economic_model}}.
+
+->>>>
+
+Our economic analysis has an introduction, an executive summary, a background, reviews of the economy's current state and comparative studies, analyses of impacts and policy, findings, and an economic model section:
+
+Introduction:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Current State of Economy:
+{{step_4}}
+
+Impacts on Policies and Budgets:
+{{step_5}}
+
+Findings:
+{{step_6}}
+
+Policy Analysis:
+{{step_7}}
+
+Comparative Study:
+{{step_8}}
+
+Economic Model:
+{{step_9}}
+
+To close, write a summary of all key points and a well-justified recommendation for future action related to the {{economic_issue}} in the federal government administration context.
+

@@ -1,0 +1,84 @@
+Your task is to write a "Financial Plan" for the "Financial Services" industry, specifically for a "Financial Planner". 
+
+Let's begin with an executive summary that succinctly explains the aim of the financial plan: {{financial_goal}}.
+
+Here's some more context about the Financial Plan:
+Financial Goal: {{financial_goal}}
+Current Financial Status: {{current_financial_status}}
+Investment Strategy: {{investment_strategy}}
+Retirement Strategy: {{retirement_strategy}}
+Insurance Needs: {{insurance_needs}}
+Tax Planning Strategy: {{tax_planning_strategy}}
+
+->>>>
+
+We now have an executive summary for our financial plan that highlights the client's financial goal:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's draft an introduction that provides a clear understanding of the client's current financial status: {{current_financial_status}} and their future financial objectives.
+
+->>>>
+
+We have a clear understanding of our client's financial goal and their current financial status: 
+
+Introduction:
+{{step_2}}
+
+The next step is to delve into an analysis section discussing the client's income, expenses, assets, and liabilities, highlighting potential pitfalls and areas of opportunity within {{current_financial_status}}.
+
+->>>>
+
+We can proceed with the financial plan with a good understanding of the client's financial status and a detailed analysis of their finances:
+
+Financial Analysis:
+{{step_3}}
+
+Next, let's formulate a detailed investment strategy based on the goals and risk-appetite of the client: {{investment_strategy}}. This strategy should incorporate a variety of instruments and assets to diversify their portfolio.
+
+->>>>
+
+We have now added a comprehensive investment strategy to our financial plan:
+
+Investment Strategy:
+{{step_4}}
+
+Subsequently, let's tackle the retirement planning portion within the Financial Plan. This should be designed according to the client's individual retirement aspirations and lifestyle preferences: {{retirement_strategy}}.
+
+->>>>
+
+With their retirement strategy in hand:
+
+Retirement Strategy:
+{{step_5}}
+
+It's time now to discuss the client's insurance needs. Generate an insurance needs analysis that tackles potential risks to income and wealth, with strategies to mitigate such risks through insurance: {{insurance_needs}}.
+
+->>>>
+
+Following the retirement plan, we now have an analysis of the client's insurance needs:
+
+Insurance Needs Analysis:
+{{step_6}}
+
+Next, let's focus on the tax planning strategy that aligns with their overall financial objectives. Task is to specify measures to reduce tax liability: {{tax_planning_strategy}}.
+
+->>>>
+
+We are making progress on the financial plan. Our next addition is the tax planning strategy:
+
+Tax Planning Strategy:
+{{step_7}}
+
+Let's proceed towards the later sections of the plan. Now, formulate an action plan that details specific, measurable steps for the client to reach their desired financial goal: {{financial_goal}}, and have contingencies for unforeseen circumstances or changes in financial circumstances.
+
+->>>>
+
+With tax planning strategy placed into the financial plan, an action plan should be designed next:
+
+Action Plan:
+{{step_8}}
+
+Finally, create a section for reviewing and revising the financial plan. This section should specify when and how the financial plan will be evaluated, and under what circumstances it will be revised.
+

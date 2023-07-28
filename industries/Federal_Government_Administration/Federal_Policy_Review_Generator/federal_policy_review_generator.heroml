@@ -1,0 +1,106 @@
+To write a "Policy Review" for the "Federal Government Administration" industry aimed at a "Policy Analyst", let's begin by writing an introduction that contextually explains the policy being analyzed: {{policy_name}}.
+
+Here's some more context about the Policy Review:
+Policy Name: {{policy_name}}
+Relevant Regulations: {{relevant_regulations}}
+Key Stakeholders: {{key_stakeholders}}
+
+->>>>
+
+Here is our introduction to the policy review:
+
+Introduction:
+{{step_1}}
+
+For our next step, let's provide a background to the policy. Provide a brief history, purpose, and implications of the {{policy_name}}.
+
+->>>>
+
+So far we have an introduction and a background:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Now, let's critically appraise the policy. This should cover its effectiveness and efficiency, its impact on society and economy, and any notable strengths and weaknesses.
+
+->>>>
+
+We have now an introduction, a background and a critical appraisal of the policy:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Critical appraisal:
+{{step_3}}
+
+Next, detail the relevant federal laws and regulations that directly impact the policy within an industry-specific regulation section. Always refer to the policy as {{policy_name}} and regulation(s) as {{relevant_regulations}}.
+
+->>>>
+
+The introduction, background, critical appraisal and industry-specific regulation sections are:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Critical appraisal:
+{{step_3}}
+
+Industry-specific regulation:
+{{step_4}}
+
+We now need to present a section on key stakeholders. Outline the main groups or individuals affected by {{policy_name}}, talking about their perspectives.
+
+->>>>
+
+Here are the introduction, background, critical appraisal, industry-specifc regulation, and key stakeholders sections:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Critical appraisal:
+{{step_3}}
+
+Industry-specific regulation:
+{{step_4}}
+
+Key stakeholders:
+{{step_5}}
+
+Next, introduce a comparative analysis where you compare {{policy_name}} with similar policies in other jurisdictions or sectors, highlighting best practices and lessons learned.
+
+->>>>
+
+So far we have an introduction, background, critical appraisal, industry-specific regulation, key stakeholders and a comparative analysis:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Critical appraisal:
+{{step_3}}
+
+Industry-specific regulation:
+{{step_4}}
+
+Key stakeholders:
+{{step_5}}
+
+Comparative analysis:
+{{step_6}}
+
+Finally, let's conclude by providing recommendations or proposed amendments to {{policy_name}} that could enhance policy outcomes. These should be based on your analysis.
+

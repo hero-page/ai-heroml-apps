@@ -1,0 +1,67 @@
+Your task is to write a "Vendor Contact Email" for the "Event Management & Promotion" industry, specifically for an "Event Planner".
+
+Let's start by generating a personalized and compelling greeting. You should start your email with a greeting tailored to the vendor, for example, "Dear {{Vendor_Name}}". Make sure to double-check all the spellings to prevent any mistakes.
+
+Here's some more context about the Vendor Contact Email:
+Vendor Name: {{Vendor_Name}}
+Your Name: {{Your_Name}}
+Company Name: {{Company_Name}}
+Event Name: {{Event_Name}}
+Event Date: {{Event_Date}}
+Specific Services: {{Specific_Services}}
+Event Theme: {{Event_Theme}}
+
+->>>>
+
+Now, we have a personalized greeting for the vendor:
+
+Personalized Greeting:
+{{step_1}}
+
+Next, write a concise introduction explaining the purpose of the email. Remember to mention your company and the specific event for which you are requiring the services. A phrase like, "I am {{Your_Name}}, an event planner with {{Company_Name}}, and we are organizing {{Event_Name}} on {{Event_Date}}." would work well.
+
+->>>>
+
+So far, we have a personalized greeting and a concise introduction:
+
+Personalized Greeting:
+{{step_1}}
+
+Concise Introduction:
+{{step_2}}
+
+Now, we need to outline our needs and expectations clearly. Write a section that details exactly what is being sought from the vendor, and how their services fit the event concept. Something like: "For the {{Event_Name}}, we are looking for {{Specific_Services}} that align with our event’s theme of {{Event_Theme}}." fits well.
+
+->>>>
+
+We have a personalized greeting, a concise introduction, and have outlined our needs and expectations thus far:
+
+Personalized Greeting:
+{{step_1}}
+
+Concise Introduction:
+{{step_2}}
+
+Needs and Expectations:
+{{step_3}}
+
+Next, explain why this particular vendor has been approached. Describe what quality, service, or product that specific vendor provides aligns with what is needed. This will make them feel valued and they will be more likely to engage. A phrase like, "We're reaching out to you because of your specialization in providing {{Specific_Services}}." works best.
+
+->>>>
+
+So far, we have explained the need for the vendor's specific services:
+
+Personalized Greeting:
+{{step_1}}
+
+Concise Introduction:
+{{step_2}}
+
+Needs and Expectations:
+{{step_3}}
+
+Why You've Reached Out:
+{{step_4}}
+
+The next step is to schedule or request a time to discuss the services, prices, and specifics further. Write something like, "I would like to discuss this further with you. Would it be possible to arrange a meeting at a time that suits you?".
+

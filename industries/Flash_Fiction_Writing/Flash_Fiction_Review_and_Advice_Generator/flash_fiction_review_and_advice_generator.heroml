@@ -1,0 +1,94 @@
+Your task is to write a "Editorial Suggestions" for the "Flash Fiction Writing" industry, specifically for a "Editor". 
+Let's start by creating an introduction that sets the context: {{literary_context}} — this could include the theme, setting or other relevant details about the piece of flash fiction under review.
+
+Here's some more context about the Editorial Suggestions:
+Literary Context: {{literary_context}}
+Flash Fiction Components: {{flash_fiction_components}}
+Unique Elements: {{unique_elements}}
+Areas For Improvement: {{areas_for_improvement}}
+Summary: {{summary}}
+Language Feedback: {{language_feedback}}
+
+->>>>
+
+For creating "Editorial Suggestions" in the "Flash Fiction Writing" industry for an "Editor", we have now set the context for our review:
+
+Literary Context:
+{{step_1}}
+
+Now, list the key components: plot, characters, conflict, resolution, and pacing in the flash fiction: {{flash_fiction_components}}. Remember, this should capture the essence of the narrative and its structure without giving away crucial plot details.
+
+->>>>
+
+In the "Flash Fiction Writing" review, we set the literary context as:
+
+Literary Context:
+{{step_1}}
+
+We have now described the key components of the flash fiction:
+
+Flash Fiction Components:
+{{step_2}}
+
+Next, let's identify and discuss the unique elements and techniques that the author employed in the flash fiction: {{unique_elements}}. This could be the author's voice, the themes explored, or the innovative use of language and structure.
+
+->>>>
+
+Through our first two steps, we have provided literary context and outlined the key components of the short story:
+
+Literary Context:
+{{step_1}}
+
+Flash Fiction Components:
+{{step_2}}
+
+Now, we've added a discussion about the unique elements and techniques:
+
+Unique Elements and Techniques:
+{{step_3}}
+
+Now, specify the areas where the author could improve the flash fiction, using industry-specific terminology: {{areas_for_improvement}}. This should include suggestions for refining the narrative, improving coherence and timing, enhancing the depth and complexity of characters, or enhancing meaning and emotion.
+
+->>>>
+
+We have produced literary context, outlined the key components and unique elements:
+
+Literary Context:
+{{step_1}}
+
+Flash Fiction Components:
+{{step_2}}
+
+Unique Elements and Techniques:
+{{step_3}}
+
+We now have actionable suggestions for improvement:
+
+Areas for Improvement:
+{{step_4}}
+
+Subsequently, summarize the main review points and give the final suggestions: {{summary}}, reinforcing the strengths of the work and encouraging the author to enact the suggested changes.
+
+->>>>
+
+In building our editorial suggestions, we have developed:
+
+Literary Context:
+{{step_1}}
+
+Flash Fiction Components:
+{{step_2}}
+
+Unique Elements and Techniques:
+{{step_3}}
+
+Areas for Improvement:
+{{step_4}}
+
+Now, we have a summary that encompasses the main review points:
+
+Editorial Summary:
+{{step_5}}
+
+Lastly, provide feedback on language use, such as grammar, punctuation, and general syntax: {{language_feedback}}. This step should help the author to improve these areas without altering the essence or style of their original work. 
+

@@ -1,0 +1,83 @@
+Your task is to create a "Public Consultation Summary" for the "Environmental and Natural Resources Administration" industry, specifically as a "Water Resource Specialist". To start with, let's write an introduction that specifies the purpose of the public consultation and its connection to the broader water resource management project: {{project_purpose}}. 
+
+Here's some more context about the Public Consultation Summary:
+Project Purpose: {{project_purpose}}
+Resource Status: {{resource_status}}
+Consultation Objectives: {{consultation_objectives}}
+Engagement Methodology: {{engagement_methodology}}
+Key Findings: {{key_findings}}
+Findings Implementation: {{findings_implementation}}
+Next Steps: {{next_steps}}
+
+->>>>
+
+So far, we have composed an introduction for our public consultation summary:
+
+Introduction:
+{{step_1}}
+
+Next, provide background information on the status of the resource: {{resource_status}}. Remember to include information on its current use and management, the population or ecosystem services it supports, and any challenges met in its management.
+
+->>>>
+
+We have an introduction and background information for our public consultation summary:
+
+Introduction:
+{{step_1}}
+
+Background on Resource Status:
+{{step_2}}
+
+Further, let's discuss the objectives of the public consultation. This should clearly define what the consultation sought to achieve: {{consultation_objectives}}.
+
+->>>>
+
+Our public consultation summary is evolving with the inclusion of the consultation's objectives:
+
+Introduction:
+{{step_1}}
+
+Background on Resource Status:
+{{step_2}}
+
+Consultation Objectives:
+{{step_3}}
+
+Following this, highlight the consultant and public engagement methodology. This should detail how the public was informed about the consultation, the ways feedback was collected, and how different voices were included in the consultation process: {{engagement_methodology}}.
+
+->>>>
+
+Our consultation summary now includes the methodology of engaging with consultants and the public:
+
+Consultation Objectives:
+{{step_3}}
+
+Public and Consultant Engagement Methodology:
+{{step_4}}
+
+Next, we should discuss the key findings from the consultation. This should be a summary of the main views, suggestions, and concerns raised by the public: {{key_findings}}.
+
+->>>>
+
+The consultation summary now includes the key findings from the public consultation:
+
+Public and Consultant Engagement Methodology:
+{{step_4}}
+
+Key Public Consultation Findings:
+{{step_5}}
+
+Let's build further on our summary by exploring how these findings will be incorporated into the water management plan: {{findings_implementation}}. This can include planned initiatives, regulations, programs, and actions.
+
+->>>>
+
+Our public consultation summary now outlines how findings from the consultations will be incorporated into the water management plan:
+
+Key Public Consultation Findings:
+{{step_5}}
+
+Implementation of Findings into Water Management Plan:
+{{step_6}}
+
+Finally, let's wrap up our summary with details regarding next steps, which might involve further consultations, a timeline for implementation, or other relevant details: {{next_steps}}.
+

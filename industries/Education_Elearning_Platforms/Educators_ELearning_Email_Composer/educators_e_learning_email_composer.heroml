@@ -1,0 +1,112 @@
+Let's start the process of creating an "Email to Students" for an "Education & E-learning Platforms" industry, specifically for an "Academic Administrator". 
+
+First, begin with a warm and professional greeting that addresses the students directly. 
+
+Here's some more context about the Email to Students:
+Student Greeting: {{student_greeting}}
+Email Purpose: {{email_purpose}}
+Key Information: {{key_information}}
+Detailed Instructions: {{detailed_instructions}}
+E Learning Features: {{e_learning_features}}
+Support Resources: {{support_resources}}
+Professional Signoff: {{professional_signoff}}
+
+->>>>
+
+We have started our email for the students with a warm and professional greeting:
+
+Greeting:
+{{step_1}}
+
+Next, provide a clear and succinct introduction, explaining the purpose of the email. Make sure to mention how it is relevant to students' academic progression or the educational institution.
+
+->>>>
+
+Our email to the students now has a greeting and a clear introduction. 
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, let's communicate the key message or information clearly and engaging. The information could vary from updates about academic calendar changes, exams scheduling, educational resources, or policy changes.
+
+->>>>
+
+With a greeting and introduction in place, we've now added the key message of our email.
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Information:
+{{step_3}}
+
+Next, elaborate on any details or instructions that relate to the key message. Be sure to use clear language that students can easily understand.
+
+->>>>
+
+We have the greeting, introduction, key information, and now detailed instructions.
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Information:
+{{step_3}}
+
+Detailed Instructions:
+{{step_4}}
+
+Now, let's incorporate any specific educational or e-learning platform elements. These might include new tools or features related to coursework submission, remote learning guidelines, etc.
+
+->>>>
+
+Adding to our greeting, introduction, key information, and detailed instructions, we've now described features of our e-learning platform.
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Information:
+{{step_3}}
+
+Detailed Instructions:
+{{step_4}}
+
+E-Learning Features:
+{{step_5}}
+
+After that, remind the students about available resources/support relating to your central message. This could include academic counseling, tutoring services, technical support for the e-learning platform, etc.
+
+->>>>
+
+Now, our email has a greeting, introduction, key information, detailed instructions, an explanation of e-learning features, and information about support resources.
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Key Information:
+{{step_3}}
+
+Detailed Instructions:
+{{step_4}}
+
+E-Learning Features:
+{{step_5}}
+
+Support Resources:
+{{step_6}}
+
+To conclude our email, reinforce the importance of the key information, add necessary calls to action, and highlight your availability to answer any questions or concerns.
+

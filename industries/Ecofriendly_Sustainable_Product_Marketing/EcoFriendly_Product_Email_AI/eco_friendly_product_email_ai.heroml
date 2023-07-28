@@ -1,0 +1,87 @@
+Write an "Email Campaign" for the "Eco-friendly & Sustainable Product Marketing" industry, specifically for a "Product Marketer". 
+
+Let's start by creating an engaging opening that introduces the eco-friendly & sustainable product: {{product_name}}. This should capture the recipient's interest and motivate them to read on.
+
+Here's some more context about the Email Campaign:
+Product Name: {{product_name}}
+Product Benefits: {{product_benefits}}
+Eco Friendly Tips: {{eco_friendly_tips}}
+Product Unique Qualities: {{product_unique_qualities}}
+Product Testimonial: {{product_testimonial}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+The email campaign starts with an opening that captures the recipient's interest for product {{product_name}}:
+
+Opening:
+{{step_1}}
+
+Next, let's explain the benefits and relevance of the product to the recipient and society as a whole. We encourage the use of evocative language to bring out the "green" energy of your product: {{product_benefits}}.
+
+->>>>
+
+By now, our email campaign has an engaging introduction and a clear explanation about product's benefits:
+
+Opening:
+{{step_1}}
+
+Product Benefits:
+{{step_2}}
+
+Let's move on to the next section where we provide valuable information or tips related to eco-friendly practices, sustainability, or the use of sustainable products: {{eco_friendly_tips}}.
+
+->>>>
+
+Now, the Email campaign has an Introduction, Product's Benefits and Eco-Friendly Tips:
+
+Introduction:
+{{step_1}}
+
+Product Benefits:
+{{step_2}}
+
+Eco-friendly Tips:
+{{step_3}}
+
+Let's incorporate a section that highlights your product's unique qualities or attributes. It should focus on how these qualities translate into environmental, social, and even cost advantages: {{product_unique_qualities}}.
+
+->>>>
+
+For our Email Campaign, we now have,
+
+Introduction:
+{{step_1}}
+
+Product Benefits:
+{{step_2}}
+
+Eco-friendly Tips:
+{{step_3}}
+
+Product's Unique Qualities:
+{{step_4}}
+
+Let's add a testimonial or anecdotal evidence from a satisfied customer or expert that highlights the impact of using your product or similar eco-friendly products: {{product_testimonial}}.
+
+->>>>
+
+Our Email Campaign so far has included,
+
+Introduction:
+{{step_1}}
+
+Product Benefits:
+{{step_2}}
+
+Eco-friendly Tips:
+{{step_3}}
+
+Product's Unique Qualities:
+{{step_4}}
+
+Testimonials:
+{{step_5}}
+
+Let's conclude the email with a persuasive call to action (CTA). This could be an invitation to learn more about the product on your website, to purchase the product, or to subscribe for future product updates. It's essential to generate a sense of urgency using time-linked bonuses or special offers: {{call_to_action}}. 
+

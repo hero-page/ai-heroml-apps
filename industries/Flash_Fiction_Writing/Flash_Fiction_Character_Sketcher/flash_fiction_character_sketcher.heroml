@@ -1,0 +1,55 @@
+Your task is to write a "Character Sketch" for the "Flash Fiction Writing" industry, specifically for an "Author". Let's begin by defining the character's basic information: {{character_basic_info}}. Remember to include their name, age, occupation, and a brief physical description.
+
+Here's some more context about the Character Sketch:
+Character Basic Info: {{character_basic_info}}
+Character Background: {{character_background}}
+Character Personality: {{character_personality}}
+Character Relationships: {{character_relationships}}
+Character Role: {{character_role}}
+Character Uniqueness: {{character_uniqueness}}
+
+->>>>
+
+Here is the basic information about our character:
+
+Character Basic Info:
+{{step_1}}
+
+Next, develop your character's background: {{character_background}}. Be sure to elaborate on their upbringing, personal history, and any major life events that have shaped their perspective or behaviors.
+
+->>>>
+
+We've defined the character's basic information and now have their background:
+
+Character Basic Info:
+{{step_1}}
+
+Character Background:
+{{step_2}}
+
+Now, describe your character's personality traits and habits: {{character_personality}}. Consider their disposition, motivations, weaknesses, and quirks.
+
+->>>>
+
+The character's background and their personality traits/habits have been detailed:
+
+Character Background:
+{{step_2}}
+
+Character Personality Traits and Habits:
+{{step_3}}
+
+It's time to discuss the character's relationships: {{character_relationships}}. Describe their interactions with other characters, key relationships in their life, and how these relationships influence them.
+
+->>>>
+
+Following are the personality traits and relationships of our character:
+
+Character Personality Traits and Habits:
+{{step_3}}
+
+Character Relationships:
+{{step_4}}
+
+Next, write about the character's role in the plot: {{character_role}}. Highlight their significance to the story, their actions and reactions throughout the narrative, and their growth over the course of the story. 
+

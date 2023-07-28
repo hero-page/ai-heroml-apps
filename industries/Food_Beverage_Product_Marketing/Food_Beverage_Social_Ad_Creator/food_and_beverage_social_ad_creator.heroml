@@ -1,0 +1,131 @@
+Your task is to write a "Social Media Post" for the "Food & Beverage Product Marketing" industry, specifically for a "Content Creator". Now, let's begin with an engaging opening line that catches the reader's attention and mentions the product: {{product_name}}.
+
+Here's some more context about the Social Media Post:
+Product Name: {{product_name}}
+
+->>>>
+
+For our social media post, we've created an eye-catching opening line:
+
+Opening Line:
+{{step_1}}
+
+Next, provide a brief introduction that emphasizes the unique selling points of the {{product_name}}. Include sensory words and positive adjectives for a rich and tantalizing description.
+
+->>>>
+
+Now, we have an engaging opening line and a richly descriptive introduction for our social media post:
+
+Opening Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, describe the benefits of the {{product_name}}, focusing on how it satisfies a customer need or solves a problem.
+
+->>>>
+
+Thus far, we have an opening line, an introduction, and a section detailing the product's benefits:
+
+Opening Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Benefits of Product:
+{{step_3}}
+
+Next, highlight key features that set the {{product_name}} apart from its competitors within the Food & Beverage Product Marketing industry.
+
+->>>>
+
+Up until now, we have an opening line, an introduction, mentioned benefits, and highlighted key features for our post:
+
+Opening Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Benefits of Product:
+{{step_3}}
+
+Key Features:
+{{step_4}}
+
+Discuss the inspiration behind the creation or the manufacturing process of the {{product_name}}, offering customers a deeper connection to the product and brand.
+
+->>>>
+
+Here's what we've generated so far for our post:
+
+Opening Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Benefits of Product:
+{{step_3}}
+
+Key Features:
+{{step_4}}
+
+Product Story:
+{{step_5}}
+
+Next, include a direct call to action (CTA) that encourages engagement from the audience. The CTA may involve purchase, sharing, commenting, or liking the post.
+
+->>>>
+
+Thus far, we have our social media post comprising of the following sections:
+
+Opening Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Benefits of Product:
+{{step_3}}
+
+Key Features:
+{{step_4}}
+
+Product Story:
+{{step_5}}
+
+Call to Action:
+{{step_6}}
+
+Now, end your post with a question or an engaging prompt related to the {{product_name}} to encourage comments and discussions. The prompt could be about the product's usage, taste, or pairing suggestions.
+
+->>>>
+
+Up until now, the post has
+
+Opening Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Benefits of Product:
+{{step_3}}
+
+Key Features:
+{{step_4}}
+
+Product Story:
+{{step_5}}
+
+Call to Action:
+{{step_6}}
+
+Engaging Ending:
+{{step_7}}
+
+Now, incorporate industry-specific elements such as hashtags related to food, beverages, or the specific product category of {{product_name}} into the post.
+

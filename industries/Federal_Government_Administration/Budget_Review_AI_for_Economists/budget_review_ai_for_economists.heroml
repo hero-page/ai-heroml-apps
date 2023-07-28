@@ -1,0 +1,107 @@
+Your task is to write a "Budget Review" for the "Federal Government Administration" industry, specifically for a "Economic Advisor". Let's start by drafting an executive summary. Highlight the key issues, themes, and conclusions of the review: {{key_issues_and_themes}}.
+
+Here's some more context about the Budget Review:
+Key Issues And Themes: {{key_issues_and_themes}}
+Budget Scenario: {{budget_scenario}}
+Budget Area Description: {{budget_area_description}}
+Budget Allocation: {{budget_allocation}}
+Economic Policy Implications: {{economic_policy_implications}}
+Key Allocations Effect: {{key_allocations_effect}}
+Budget Risks: {{budget_risks}}
+
+->>>>
+
+Now, we have the executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's create an introduction for your review. It should describe the fiscal year's overall budget scenario: {{budget_scenario}} and explain the scope and approach of your review.
+
+->>>>
+
+This is the introduction to our "Budget Review":
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, provide a detailed review of the budget, divided into sections related to each major area of the federal budget. For each section, include a brief description of the budget area: {{budget_area_description}}, the budget allocation: {{budget_allocation}}, a comparative analysis with the previous year's budget (where applicable), and the implications for economic policies: {{economic_policy_implications}}.
+
+->>>>
+
+We have elaborate details for each budget area now:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Federal Budget Review:
+{{step_3}}
+
+Continuing, examine major discretionary programs and assess the impact of key allocations on the economy, including both short-term effects and long-term implications: {{key_allocations_effect}}.
+
+->>>>
+
+Now we have the impact of key allocations:
+
+Introduction:
+{{step_2}}
+
+Federal Budget Review:
+{{step_3}}
+
+Impact of Key Allocations:
+{{step_4}}
+
+Next, analyze the Revenue Forecast. Discuss the expected rate of federal income growth and its potential effect on the budget.
+
+->>>>
+
+Here is the discussion on Revenue Forecast:
+
+Federal Budget Review:
+{{step_3}}
+
+Impact of Key Allocations:
+{{step_4}}
+
+Revenue Forecast:
+{{step_5}}
+
+Your next step is to discuss legal constraints on the budget, such as the debt ceiling or laws related to specific budget areas. These insights will assist the economic advisor in understanding budget feasibility and limits.
+
+->>>>
+
+Now, we have insights into the legal aspects of the budget:
+
+Federal Budget Review:
+{{step_3}}
+
+Revenue Forecast:
+{{step_5}}
+
+Legal Constraints:
+{{step_6}}
+
+Moving on, write a section on 'Budget Risks'. List potential risks or uncertainties that could significantly impact the attainment of budget allocations/goals: {{budget_risks}}.
+
+->>>>
+
+Our report now includes a section on Budget Risks:
+
+Revenue Forecast:
+{{step_5}}
+
+Legal Constraints:
+{{step_6}}
+
+Budget Risks:
+{{step_7}}
+
+As we near the end, draft a section that summarizes your findings and re-emphasizes the key points covered in the review.
+

@@ -1,0 +1,105 @@
+Your task is to write an "Outfit Blog Post" for the "Fashion & Apparel Marketing" industry, specifically for a "Content Creator". Let's start by creating an engaging headline that captures the essence of the post about {{outfit_title}} reflecting the theme or core idea of the outfit being reviewed.
+
+Here's some more context about the Outfit Blog Post:
+Outfit Title: {{outfit_title}}
+Outfit Overview: {{outfit_overview}}
+Outfit Components: {{outfit_components}}
+Outfit Style: {{outfit_style}}
+Personal Experience: {{personal_experience}}
+Suitable Occasions: {{suitable_occasions}}
+Alternative Styles: {{alternative_styles}}
+Closing Statement: {{closing_statement}}
+
+->>>>
+
+We are crafting an "Outfit Blog Post" and we have a captivating headline for our post:
+
+Headline:
+{{step_1}}
+
+Next, compose an introduction that gives an overview of the outfit: {{outfit_overview}}. In this, outline the unique aspects of the outfit and why it stands out.
+
+->>>>
+
+With a catchy headline:
+
+Headline:
+{{step_1}}
+
+Now, we have an introduction to our outfit blog post:
+
+Introduction:
+{{step_2}}
+
+Now let's detail the components of the outfit: {{outfit_components}}, describing items such as top wear, bottom wear, accessories, shoes etc. and explain why they complement each other.
+
+->>>>
+
+With our introduction:
+
+Introduction:
+{{step_2}}
+
+We have detailed the outfit components:
+
+Outfit Components:
+{{step_3}}
+
+Following this, discuss the style aesthetic or trend the outfit represents: {{outfit_style}}. Ensure to highlight key elements which align the outfit to this style and its relevance to current fashion trends.
+
+->>>>
+
+Now we have described the components of the outfit:
+
+Outfit Components:
+{{step_3}}
+
+We discuss the style aesthetic of the outfit:
+
+Outfit Style:
+{{step_4}}
+
+Share a personal experience or anecdote related to the outfit: {{personal_experience}}. This could be about procuring the outfit, why you chose it, or reactions to wearing it, which humanizes the post and strengthens its connection with the reader.
+
+->>>>
+
+Having explained the outfit's style:
+
+Outfit Style:
+{{step_4}}
+
+We now share a personal anecdote or experience about the outfit:
+
+Personal Experience:
+{{step_5}}
+
+Suggest optimal settings or occasions where the outfit could be worn: {{suitable_occasions}}. These could be based on daytime, nighttime, casual, formal or weather conditions.
+
+->>>>
+
+With a shared personal experience:
+
+Personal Experience:
+{{step_5}}
+
+We now have suggestions for suitable occasions for wearing the outfit:
+
+Suitable Occasions:
+{{step_6}}
+
+Next, discuss the possible variations or modifications: {{alternative_styles}}. This should show imaginative ways of styling the outfit differently or integrating its components into other ensembles.
+
+->>>>
+
+Having suggested suitable occasions for the outfit:
+
+Suitable Occasions:
+{{step_6}}
+
+We now present possible variations or modifications to the outfit:
+
+Alternative Styles:
+{{step_7}}
+
+Lastly, let's conclude the post with a summary: {{closing_statement}}. This should summarize the entire post, reiterate the style aesthetic the outfit reflects, and invite readers' thoughts or comments.
+

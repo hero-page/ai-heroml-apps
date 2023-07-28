@@ -1,0 +1,95 @@
+Let's write a "Story Feedback" for the "Flash Fiction Writing" industry, specifically for an "Editor". First, provide general feedback on the story. This should be a brief overview summarizing your thoughts on the story.
+
+Here's some more context about the Story Feedback:
+General Feedback: {{general_feedback}}
+Weak Points: {{weak_points}}
+Narrative Structure Feedback: {{narrative_structure_feedback}}
+Character Development Feedback: {{character_development_feedback}}
+Language And Style Feedback: {{language_and_style_feedback}}
+Theme Feedback: {{theme_feedback}}
+Ending Feedback: {{ending_feedback}}
+
+->>>>
+
+With the general feedback in mind:
+
+General Feedback:
+{{step_1}}
+
+Now, discuss the story's strengths. This can include parts of the story which stood out due to their creativity, well-executed plot twists, or any other commendable aspects from your perspective.
+
+->>>>
+
+Given the general feedback and the story's strengths:
+
+General Feedback:
+{{step_1}}
+
+Story's Strengths:
+{{step_2}}
+
+Move on to detailing the story's weaknesses and provide suggestions for improvements based on those weaknesses.
+
+->>>>
+
+With the story's strengths and weaknesses noted:
+
+Strengths:
+{{step_2}}
+
+Weaknesses:
+{{step_3}}
+
+Now, address the narrative structure. Highlight the transitions between the exposition, rising action, climax, falling action, and resolution. Mark any points of confusion or possible improvements.
+
+->>>>
+
+So far, we have discussed the story's strengths, weaknesses, and the narrative structure:
+
+Strengths:
+{{step_2}}
+
+Weaknesses:
+{{step_3}}
+
+Narrative Structure:
+{{step_4}}
+
+Next, discuss the character development in the story. Consider whether their decisions are believable within the context of the story and their personality, and provide suggestions for refining the characters further if necessary.
+
+->>>>
+
+We have discussed narrative structure and character development:
+
+Narrative Structure:
+{{step_4}}
+
+Character Development:
+{{step_5}}
+
+Next, assess the language and style. Write down your observations on the style and language usage, providing recommendations for the author to improve.
+
+->>>>
+
+We have discussed character development and language style:
+
+Character Development:
+{{step_5}}
+
+Language Style & Recommendations:
+{{step_6}}
+
+Now, critique the story's theme. Was it clear and consistent throughout? Provide constructive feedback on this aspect.
+
+->>>>
+
+We have reviewed language style and the story's theme:
+
+Language Style & Recommendations:
+{{step_6}}
+
+Story's Theme:
+{{step_7}}
+
+Next, discuss the story's ending. Consider whether it was satisfying and effectively tied up all loose ends, or if it was abrupt and left questions unanswered.
+

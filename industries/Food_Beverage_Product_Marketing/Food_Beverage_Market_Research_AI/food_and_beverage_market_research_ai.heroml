@@ -1,0 +1,200 @@
+Your task is to draft a "Market Research Report" for the "Food & Beverage Product Marketing" industry, specifically for a "Product Marketer". 
+
+To begin, please draft a title page, including a summary of the report's content. The summary should specify the food and beverage product that the report focuses on, the market region, and the scope of the research:
+
+{{product}}, {{region}}, {{scope}}.
+
+Here's some more context about the Market Research Report:
+Product: {{product}}
+Region: {{region}}
+Scope: {{scope}}
+
+->>>>
+
+We have the Title page for our Market Research Report on "Food & Beverage Product Marketing":
+
+Title Page:
+{{step_1}}
+
+Next, please write an Executive Summary of the report, summarizing the key findings and insights from the market research in relation to the specific product: {{product}}. The summary should inform the reader about the current market conditions and potential opportunities or threats.
+
+->>>>
+
+The Title page and the Executive Summary of our report are as follows:
+
+Title Page:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Moving on, describe the current state of the food and beverage market in the specified region: {{region}}. The description should include the market's size, key players, trends, and growth rate.
+
+->>>>
+
+So far, we have the Title Page, the Executive Summary, and the Market Overview of our report:
+
+Title Page:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Market Overview:
+{{step_3}}
+
+For the next step, please provide a detailed analysis of the product we're focusing on: {{product}}. This analysis should encompass the product's features and benefits, as well as a comparison with the competing brands in its category.
+
+->>>>
+
+Our Drafted Report now includes the Title Page, Executive Summary, Market Overview, and Product Analysis:
+
+Title Page:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Market Overview:
+{{step_3}}
+
+Product Analysis:
+{{step_4}}
+
+Next, define the primary and secondary target consumers for the product: {{product}}. Include demographic, geographic, psychographic, and behavioral information about these target consumers in your definition.
+
+->>>>
+
+The Drafted Report is evolving. It now has the Title Page, Executive Summary, Market Overview, Product Analysis, and Target Audience details:
+
+Title Page:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Market Overview:
+{{step_3}}
+
+Product Analysis:
+{{step_4}}
+
+Target Audience:
+{{step_5}}
+
+Now, we require a comprehensive breakdown of the competitive landscape in the specified region: {{region}}. We want to understand the key competitors' product offerings, pricing strategies, brand recognition, and market shares in this location for similar category products to {{product}}.
+
+->>>>
+
+Our Market Research Report now includes the Title Page, Executive Summary, Market Overview, Product Analysis, Target Audience, and Competitive Landscape:
+
+Title Page:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Market Overview:
+{{step_3}}
+
+Product Analysis:
+{{step_4}}
+
+Target Audience:
+{{step_5}}
+
+Competitive Landscape:
+{{step_6}}
+
+Please conduct a SWOT analysis for the product. This analysis should discuss the strengths, weaknesses, opportunities, and threats of the product based on the preceding Market Overview, Product Analysis, Target Audience, and Competitive Landscape.
+
+->>>>
+
+Our Report now has a Title Page, Executive Summary, Market Overview, Product Analysis, Target Audience, Competitive Landscape, and a SWOT Analysis:
+
+Title Page:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Market Overview:
+{{step_3}}
+
+Product Analysis:
+{{step_4}}
+
+Target Audience:
+{{step_5}}
+
+Competitive Landscape:
+{{step_6}}
+
+SWOT Analysis:
+{{step_7}}
+
+Based on the SWOT analysis, please recommend evidence-based marketing strategies for the product: {{product}}. These strategies should include pointers on product positioning, pricing, promotion, and distribution.
+
+->>>>
+
+The Market Research Report now contains a Title Page, Executive Summary, Market Overview, Product Analysis, Target Audience, Competitive Landscape, SWOT Analysis, and Marketing Strategies:
+
+Title Page:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Market Overview:
+{{step_3}}
+
+Product Analysis:
+{{step_4}}
+
+Target Audience:
+{{step_5}}
+
+Competitive Landscape:
+{{step_6}}
+
+SWOT Analysis:
+{{step_7}}
+
+Marketing Strategies:
+{{step_8}}
+
+Moving towards the end, please predict market trends for the product category of {{product}} in the region: {{region}} over a defined timeframe.
+
+->>>>
+
+Our Report has the following details: Title Page, Executive Summary, Market Overview, Product Analysis, Target Audience, Competitive Landscape, SWOT Analysis, Marketing Strategies, and Market Predictions:
+
+Title Page:
+{{step_1}}
+
+Executive Summary:
+{{step_2}}
+
+Market Overview:
+{{step_3}}
+
+Product Analysis:
+{{step_4}}
+
+Target Audience:
+{{step_5}}
+
+Competitive Landscape:
+{{step_6}}
+
+SWOT Analysis:
+{{step_7}}
+
+Marketing Strategies:
+{{step_8}}
+
+Market Predictions:
+{{step_9}}
+
+To wrap up, provide a conclusion that recaps the major points from the research: the Market Overview, SWOT Analysis, and suggested Marketing Strategies for the product: {{product}}. This conclusion should highlight the practical implications for a product marketer.
+

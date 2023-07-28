@@ -1,0 +1,92 @@
+Your task is to write a "Flash Fiction Story" for the "Flash Fiction Writing" industry, specifically for an "Author". Let's begin with a succinct introduction that sets the scene and introduces the main character(s) of the story: {{main_character}}.
+
+Here's some more context about the Flash Fiction Story:
+Main Character: {{main_character}}
+Conflicting Situation: {{conflicting_situation}}
+Event: {{event}}
+Character Interaction: {{character_interaction}}
+Special Elements: {{special_elements}}
+Climactic Point: {{climactic_point}}
+Final Sentence: {{final_sentence}}
+
+->>>>
+
+Our flash fiction story is beginning to take shape:
+
+Introduction:
+{{step_1}}
+
+Now, in less than 100 words, build your world and start filling it with interesting concepts via the story's main conflict derived from {{conflicting_situation}}.
+
+->>>>
+
+We have an introduction for our flash fiction story and have begun to build our world:
+
+Introduction:
+{{step_1}}
+
+World Building and Conflict Introduction:
+{{step_2}}
+
+Next, center the story on a unique, compelling, and meaningful event: {{event}}. This is the heart of your narrative, and where the main action will take place.
+
+->>>>
+
+We have established the main event in our story:
+
+Introduction:
+{{step_1}}
+
+World Building and Conflict Introduction:
+{{step_2}}
+
+Main Event:
+{{step_3}}
+
+Now, develop your characters and their personalities within this event, considering how they may react given their unique traits and their relationship to the event: {{character_interaction}}.
+
+->>>>
+
+We have now developed the personalities of our characters:
+
+Character Development:
+{{step_4}}
+
+Let's move on to integrate industry-specific elements and terms to give depth to the story: {{special_elements}}. These can be elements of the flash fiction writing industry such as prompt writing, twists and/or subverted clichés.
+
+->>>>
+
+We have integrated industry-specific elements into our flash fiction story:
+
+Character Development:
+{{step_4}}
+
+Integrated Industry-Specific Elements:
+{{step_5}}
+
+Next, punctuate this main conflict or event with a climactic moment. This can either affirm the characters' actions or present them with a new twist or challenge related to the main conflict: {{climactic_point}}.
+
+->>>>
+
+The conflict in our story has reached a climactic point:
+
+Integrated Industry-Specific Elements:
+{{step_5}}
+
+Climactic Point:
+{{step_6}}
+
+Now, we will wrap up the narrative by resolving the event or explaining its outcomes. While this section should offer closure, remember that flash fiction often ends on an unexpected or thought-provoking note, embracing the principle of open-endedness.
+
+->>>>
+
+We have resolved the main event and finalised our story:
+
+Climactic Point:
+{{step_6}}
+
+Resolution:
+{{step_7}}
+
+To end this, ensure that the conclusion has a strong resonance. Try wrapping with an impactful final sentence that leaves a lasting impression or a thought-provoking query: {{final_sentence}}.
+

@@ -1,0 +1,100 @@
+Your task is to write a "Course Announcement" for the "Education & E-learning Platforms" industry, specifically for an "Academic Administrator". 
+
+Let's start the process by crafting an engaging and informative introduction. 
+This part should include the name of the course and a brief explanation why this course is important for the students or the academic community considering it.
+
+Here's some more context about the Course Announcement:
+Course Name: {{course_name}}
+Course Objectives: {{course_objectives}}
+Course Timeframe: {{course_timeframe}}
+Course Content: {{course_content}}
+Target Audience: {{target_audience}}
+Course Prerequisites: {{course_prerequisites}}
+Skills Gained: {{skills_gained}}
+Instructor Name: {{instructor_name}}
+Registration Process: {{registration_process}}
+
+->>>>
+
+We now have an engaging introduction for our course announcement:
+
+Introduction:
+{{step_1}}
+
+Next, provide a comprehensive overview of the course. This should include:
+- Main objectives of the course.
+- Duration, start date, and end date of the course.
+- Credit hours awarded upon course completion, if applicable.
+
+->>>>
+
+The course announcement now has an introduction and course overview:
+
+Introduction:
+{{step_1}}
+
+Course Overview:
+{{step_2}}
+
+Next, create a description for the course details. This should include:
+- Key content or course modules that will be covered.
+- Learning methods or teaching approach employed in the course.
+
+->>>>
+
+The course announcement now includes course details:
+
+Course Details:
+{{step_3}}
+
+We now need to identify the target audience for the course. This should include:
+- A description of the primary target audience for the course.
+- Any prerequisites, if there are any.
+
+->>>>
+
+The course announcement includes the target audience:
+
+Target Audience:
+{{step_4}}
+
+Next, discuss the benefits a student will receive from taking the course. This should highlight the skills or competencies that students can gain upon completing the course.
+
+->>>>
+
+The course benefits have been defined:
+
+Course Benefits:
+{{step_5}}
+
+The next step involves presenting the course instructor. This should include:
+- Introduction of the course instructor or faculty member.
+- Their qualifications and expertise in the subject matter.
+
+->>>>
+
+The course instructor has been introduced:
+
+Course Instructor:
+{{step_6}}
+
+Next, explain the registration process for the course. This will guide the reader on how to enroll or register for the course.
+
+->>>>
+
+The course announcement has an explanation of the registration process:
+
+Registration Process:
+{{step_7}}
+
+The next step is to provide the contact information. This should list down who to contact for further information or queries about the course.
+
+->>>>
+
+The course announcement has provided the contact information:
+
+Contact Information:
+{{step_8}}
+
+Lastly, we need a compelling call to action. This should encourage the reader to enroll in the course and remind them of the deadline for registering.
+

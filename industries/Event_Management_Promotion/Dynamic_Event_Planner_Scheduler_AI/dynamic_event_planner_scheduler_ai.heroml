@@ -1,0 +1,98 @@
+Your goal is to write an "Event Schedule" for the "Event Management & Promotion" industry, specifically for an "Event Planner". 
+
+Start with a brief overview outlining the purpose and format of the event, {{event_purpose}}, which should include the date, venue, and the overall timeline for the event.
+
+Here's some more context about the Event Schedule:
+Event Purpose: {{event_purpose}}
+Event Setup Tasks: {{event_setup_tasks}}
+Activity Timeline: {{activity_timeline}}
+Main Performances Or Speakers: {{main_performances_or_speakers}}
+Event Breakdown Tasks: {{event_breakdown_tasks}}
+Additional Notes: {{additional_notes}}
+Contact Details: {{contact_details}}
+Dynamic Variables: {{dynamic_variables}}
+
+->>>>
+
+To start our event schedule, we've detailed a brief overview including the event's purpose and format:
+
+Event Overview:
+{{step_1}}
+
+Next, dedicate a section to the details of event setup. List the major tasks leading up to the event, including logistical details and core responsibilities, {{event_setup_tasks}}.
+
+->>>>
+
+With our event's overview in place:
+
+Event Overview:
+{{step_1}}
+
+We now have a dedicated section for setting up the event:
+
+Event Setup:
+{{step_2}}
+
+Then, construct a timeline for the actual event, broken down to individual activities. This should include activity starting time, ending time, and the person responsible for each activity, {{activity_timeline}}.
+
+->>>>
+
+Beginning with our Event Overview:
+
+Event Overview:
+{{step_1}}
+
+And including our detailed event setup:
+
+Event Setup:
+{{step_2}}
+
+We have now drafted timeline for individual activities during the event:
+
+Event Timeline:
+{{step_3}}
+
+Next, incorporate a section that discusses the event's main acts or speakers, including relevant background information and speaking times, {{main_performances_or_speakers}}. This would make it easier for attendees to decide which parts of your event they don’t want to miss.
+
+->>>>
+
+With our Event Timeline prepared:
+
+Event Timeline:
+{{step_3}}, 
+
+We have also discussed the main acts or speakers that will be featured during the event:
+
+Main Acts or Speakers:
+{{step_4}}
+
+Now, outline a section for the event's conclusion or break down, including respective tasks and the person responsible for each, {{event_breakdown_tasks}}.
+
+->>>>
+
+After developing a section on the main acts or speakers:
+
+Main Acts or Speakers:
+{{step_4}}
+
+We now have a detailed section outlining the conclusion or breakdown of the event:
+
+Event Breakdown:
+{{step_5}}
+
+Subsequently, conclude the schedule with additional notes that encompass crucial information that didn't fit in the previous sections, such as emergency procedures, unique venue rules, or specific needs for any participants, {{additional_notes}}.
+
+->>>>
+
+Following our event breakdown:
+
+Event Breakdown:
+{{step_5}}
+
+We have concluded our schedule with additional notes helmed with important information:
+
+Additional Notes:
+{{step_6}}
+
+Finally, generate a section for contact details primarily for the attendees. Include contacts for event queries, contacts in case of emergencies and means of seeking further clarification or information, {{contact_details}}.
+

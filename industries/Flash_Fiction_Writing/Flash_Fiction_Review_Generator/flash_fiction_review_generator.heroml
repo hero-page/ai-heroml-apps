@@ -1,0 +1,138 @@
+Your task is to write a "Flash Fiction Review" for the "Flash Fiction Writing" industry, tailor-made for a "Blogger". 
+Start by generating an introduction for the Flash Fiction Review that captures the essence of the story being reviewed: {{story_essence}}. 
+
+Here's some more context about the Flash Fiction Review:
+Story Essence: {{story_essence}}
+Plot Summary: {{plot_summary}}
+Character Analysis: {{character_analysis}}
+Setting Analysis: {{setting_analysis}}
+Theme Analysis: {{theme_analysis}}
+Writing Style Review: {{writing_style_review}}
+Ending Evaluation: {{ending_evaluation}}
+
+->>>>
+
+Now, we have set the tone for our Flash Fiction Review with an introduction that gives an overview of the story and delivers a captivating first impression:
+
+Introduction:
+{{step_1}}
+
+Next, build the main body of the review around key aspects of the flash fiction piece. Let's start with the plot. Describe the plot of the story using {{plot_summary}}.
+
+->>>>
+
+Now, we have an introduction and a plot summary for our Flash Fiction Review:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Moving on, let's discuss the characters. Highlight the importance of each character using {{character_analysis}}, and assess whether they are well developed.
+
+->>>>
+
+In our Flash Fiction Review, we have an introduction, plot summary, and a character analysis:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Character Analysis:
+{{step_3}}
+
+Next, describe the story’s setting using {{setting_analysis}}, and discuss how it affects the plot and characters.
+
+->>>>
+
+Our Flash Fiction Review currently consists of an introduction, plot summary, character analysis, and a setting description:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Character Analysis:
+{{step_3}}
+
+Setting Description:
+{{step_4}}
+
+Let's then discuss the theme of the flash fiction piece. Provide an analysis of the theme using {{theme_analysis}}.
+
+->>>>
+
+For our Flash Fiction Review, we have an introduction, plot summary, character analysis, setting description, and a theme analysis:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Character Analysis:
+{{step_3}}
+
+Setting Description:
+{{step_4}}
+
+Theme Analysis:
+{{step_5}}
+
+It's time now to dive into a detailed discussion on the author's writing style using {{writing_style_review}}.
+
+->>>>
+
+In our Flash Fiction Review, we have touched upon all key aspects of the story including the author's writing style:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Character Analysis:
+{{step_3}}
+
+Setting Description:
+{{step_4}}
+
+Theme Analysis:
+{{step_5}}
+
+Writing Style Review:
+{{step_6}}
+
+As we approach the end of our review, let's offer an evaluation of the story's ending using {{ending_evaluation}}.
+
+->>>>
+
+Our comprehensive Flash Fiction Review, including an evaluation on the story's ending, now consists of:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Character Analysis:
+{{step_3}}
+
+Setting Description:
+{{step_4}}
+
+Theme Analysis:
+{{step_5}}
+
+Writing Style Review:
+{{step_6}}
+
+Ending Evaluation:
+{{step_7}}
+
+Finally, wrap up the review with a conclusion. Restate your overall impression of the story and summarise the points discussed.
+

@@ -1,0 +1,91 @@
+Start by writing an Executive Summary that presents a brief overview of the proposed event: {{event_overview}}. This should include the event's concept, unique selling propositions, strategies for organizing it, and the intended impact on the audience.
+
+Here's some more context about the Event Proposal:
+Event Overview: {{event_overview}}
+Event Background And Objective: {{event_background_and_objective}}
+Event Format: {{event_format}}
+Event Date And Venue: {{event_date_and_venue}}
+Audience Demographic: {{audience_demographic}}
+Marketing Strategy: {{marketing_strategy}}
+
+->>>>
+
+Now, we have an Executive Summary for our Event Proposal:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's incorporate an Introduction, detailing the background and objective of the event: {{event_background_and_objective}}. Also consider including information about the evolution of the event if it's recurring, its broader goals, and the rationale behind any changes if they apply.
+
+->>>>
+
+We have an Executive Summary and Introduction sections for our Event Proposal:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, present the event details clearly in a dedicated section. Describe the event format {{event_format}}, proposed date and venue {{event_date_and_venue}}, and anticipated audience size and demographic {{audience_demographic}}.
+
+->>>>
+
+So, we have the Executive Summary, Introduction, and Event Details for our Event Proposal:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Event Details:
+{{step_3}}
+
+Now, elaborate on the Event Management Strategy including key components like program planning, registration management, vendor and venue management, and safety and security measures. Ensure these components relate to the specific event, detailing how each aspect would be handled.
+
+->>>>
+
+We have covered the following in our Event Proposal so far:
+
+Introduction:
+{{step_2}}
+
+Event Details:
+{{step_3}}
+
+Event Management Strategy:
+{{step_4}}
+
+Now, detail the Marketing and Promotion Strategy, explaining how the target audience will be reached: {{marketing_strategy}}. Include specific promotional channels, tactics, their role in reaching the target audience, and estimate of expected reach and impact.
+
+->>>>
+
+So far, in our Event Proposal, we have the following sections:
+
+Event Details:
+{{step_3}}
+
+Event Management Strategy:
+{{step_4}}
+
+Marketing and Promotion Strategy:
+{{step_5}}
+
+Now, discuss the Budget Outline for the event providing the estimated cost breakdown. This could vary considerably, and cover venue rental, event production costs, marketing expenses, along with other potential costs depending on the event.
+
+->>>>
+
+For our Event Proposal, we now have:
+
+Event Management Strategy:
+{{step_4}}
+
+Marketing and Promotion Strategy:
+{{step_5}}
+
+Budget Outline:
+{{step_6}}
+
+Finally, conclude with a Call to Action persuading the event planner to consider the proposal. Recap the unique aspects of the event and its potential to fulfill the objectives.
+

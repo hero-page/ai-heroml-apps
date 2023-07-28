@@ -1,0 +1,92 @@
+Your task is to write a "Marketing Strategy" for the "E-commerce Businesses" industry, specifically for a "Digital Marketer". 
+First, let's draft an executive summary that outlines the overall goals of the marketing plan.
+
+Here's some more context about the Marketing Strategy:
+Plan Goals: {{plan_goals}}
+Market Situation: {{market_situation}}
+Business USP: {{business_USP}}
+Audience Traits: {{audience_traits}}
+Marketing Objectives: {{marketing_objectives}}
+Performance Metrics: {{performance_metrics}}
+
+->>>>
+
+With that, we have the executive summary for our "Marketing Strategy":
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction for the strategy, detailing your current market situation and the unique selling proposition of your business.
+
+->>>>
+
+Following that, we have the introduction to our e-commerce marketing strategy:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, let's focus on identifying the target audience and their demographic traits, shopping behaviors, and preferences.
+
+->>>>
+
+Based on the given information, we have identified the target audience:
+
+Introduction:
+{{step_2}}
+
+Target Audience Description:
+{{step_3}}
+
+Next, let's define specific, possible quantified, e-commerce marketing objectives that align with your broader business goals.
+
+->>>>
+
+So far, we have defined the target audience and the marketing objectives for our e-commerce marketing strategy:
+
+Target Audience Description:
+{{step_3}}
+
+Marketing Objectives:
+{{step_4}}
+
+In the next section, detail the most effective channels or platforms to connect with your target audience. These could include SEO, social media marketing, email marketing, etc., based on the traits of your target audience.
+
+->>>>
+
+We have defined the target audience, the marketing objectives, and the suitable platforms to reach our target audience:
+
+Marketing Objectives:
+{{step_4}}
+
+Marketing Platforms:
+{{step_5}}
+
+Now, within each platform, specify the techniques or tactics to implement to meet your stated marketing objectives.
+
+->>>>
+
+With the selected marketing platforms and tactics, we can work towards the marketing objectives:
+
+Marketing Platforms:
+{{step_5}}
+
+Marketing Tactics:
+{{step_6}}
+
+We now need to consider the budget. Write a section to show how resources will be distributed across your strategy.
+
+->>>>
+
+We have established marketing tactics and a budget plan for our e-commerce marketing strategy:
+
+Marketing Tactics:
+{{step_6}}
+
+Budget Plan:
+{{step_7}}
+
+Next, draft an implementation plan detailing a timeline for executing each tactic to achieve the marketing objectives.
+
