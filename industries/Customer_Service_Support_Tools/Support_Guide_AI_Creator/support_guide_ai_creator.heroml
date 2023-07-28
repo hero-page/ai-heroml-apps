@@ -1,0 +1,57 @@
+Your task is to write a "Troubleshooting Guide" for the "Customer Service & Support Tools" industry for a "Technical Support Specialist". 
+
+Let's start by creating an introduction that provides a brief summary of the product or system that needs troubleshooting, {{product_name}}.
+
+Here's some more context about the Troubleshooting Guide:
+Product Name: {{product_name}}
+Target Audience: {{target_audience}}
+Common Problems: {{common_problems}}
+Problem Solving Steps: {{problem_solving_steps}}
+Insider Tips: {{insider_tips}}
+Support Contact Info: {{support_contact_info}}
+
+->>>>
+
+Here is the introduction for our "Troubleshooting Guide":
+
+Introduction:
+{{step_1}}
+
+Moving on, we need to outline the purpose and benefits of the guide while specifying who the target audience is, {{target_audience}}.
+
+->>>>
+
+Now, we have an introduction and an outlined purpose for our "Troubleshooting Guide":
+
+Introduction:
+{{step_1}}
+
+Purpose and Target Audience:
+{{step_2}}
+
+Next, let's break down the guide into subsections, each dedicated to a different aspect or feature of the product. In each subsection, identify the common problems that might occur, {{common_problems}}.
+
+->>>>
+
+For our "Troubleshooting Guide", we have an outline of purpose and a list of common problems:
+
+Purpose and Target Audience:
+{{step_2}}
+
+Common Problems:
+{{step_3}}
+
+Next, let's provide steps to identify and solve each problem related to the product or system, {{problem_solving_steps}}.
+
+->>>>
+
+Our "Troubleshooting Guide" now includes identification and resolution steps for each common problem:
+
+Common Problems:
+{{step_3}}
+
+Problem-solving Steps:
+{{step_4}}
+
+Now, incorporate feedback and suggestions from experienced Technical Support Specialists. Use these insights to provide insider tricks & tips regarding each problem, {{insider_tips}}.
+

@@ -1,0 +1,85 @@
+Your task is to write a "Forum Response" for the "Customer Service & Support" industry, specifically for a "Community Manager". 
+
+Let's start by crafting a friendly and professional greeting that acknowledges the forum member: "Hello {{forum_member_name}}, 
+
+Here's some more context about the Forum Response:
+Forum Member Name: {{forum_member_name}}
+Specific Issue: {{specific_issue}}
+Specific Problem Details: {{specific_problem_details}}
+Solution Or Information: {{solution_or_information}}
+
+->>>>
+
+We have a personalized greeting for our forum member:
+
+Greeting:
+{{step_1}}
+
+Next, let's create a brief introduction that sets the tone for the response and acknowledges the issue at hand: "Thank you for reaching out on our forum regarding {{specific_issue}}."
+
+->>>>
+
+We have a greeting and an introduction for our forum response:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, we need to incorporate a validation statement that ensures the forum member's problem is understood: "I understand that you are facing a problem with {{specific_problem_details}}."
+
+->>>>
+
+We now have a greeting, introduction, and a validation of understanding:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Validation of Understanding:
+{{step_3}}
+
+Next, propose a solution or provide the requested information about the issue; let it be clear, concise, and considerate: "Here's a suggested solution or information for your concern: {{solution_or_information}}."
+
+->>>>
+
+We have developed a greeting, introduction, validation of understanding, and a proposed solution or provided information:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Validation of Understanding:
+{{step_3}}
+
+Proposed Solution or Provided Information:
+{{step_4}}
+
+Afterwards, we will incorporate a supportive statement in the response to assure the member that the support team or the community manager is there to assist them: "Please feel free to ask if you need any further help regarding this {{specific_issue}}."
+
+->>>>
+
+Our forum response includes a greeting, introduction, validation statement, proposed solution or information, along with a supportive statement:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Validation of Understanding:
+{{step_3}}
+
+Proposed Solution or Provided Information:
+{{step_4}}
+
+Supportive statement:
+{{step_5}}
+
+Lastly, let's wrap up the response with a conclusion that prompts the user to leave feedback or to reach back: "Feel free to share your feedback or return if you need additional help!"
+

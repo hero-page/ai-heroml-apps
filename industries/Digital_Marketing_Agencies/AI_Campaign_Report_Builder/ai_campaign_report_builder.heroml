@@ -1,0 +1,70 @@
+Write a "Campaign Report" for the "Digital Marketing Agencies" industry, specifically for a "Digital Marketing Strategist". 
+
+Let's start by writing a comprehensive summary that presents an overview of the campaign: {{campaign_overview}}. This should serve as a snapshot of the report, briefly discussing key positives, challenges, and opportunities.
+
+Here's some more context about the Campaign Report:
+Campaign Overview: {{campaign_overview}}
+Campaign Objectives: {{campaign_objectives}}
+Audience Analysis: {{audience_analysis}}
+Campaign Metrics: {{campaign_metrics}}
+Campaign Channels: {{campaign_channels}}
+Campaign Issues: {{campaign_issues}}
+Future Recommendations: {{future_recommendations}}
+
+->>>>
+
+For the campaign report, let's analyze what we have thus far:
+
+Campaign Overview:
+{{step_1}}
+
+Next, write an introduction that describes the goals and objectives of the campaign: {{campaign_objectives}}. It should also provide some context for why these objectives were chosen.
+
+->>>>
+
+With an overview and the objectives in place, the campaign report currently consists of:
+
+Campaign Overview:
+{{step_1}}
+
+Introduction & Goals:
+{{step_2}}
+
+Proceed to delve into an analysis of the target audience: {{audience_analysis}}. This section should discuss demographic and behavioural traits of the consumers, how they interacted with your campaigns, and how their interaction compares to the expectation in the marketing strategy.
+
+->>>>
+
+Now that we have finished the audience analysis, let's take a look at our campaign report:
+
+Introduction & Goals:
+{{step_2}}
+
+Audience Analysis:
+{{step_3}}
+
+It's time to evaluate the campaign performance. This section should include the different metrics used to measure success. Variables could include impressions, click-through rates, conversions, ROI, etc: {{campaign_metrics}}.
+
+->>>>
+
+The campaign report now includes a performance evaluation:
+
+Audience Analysis:
+{{step_3}}
+
+Campaign Performance Metrics:
+{{step_4}}
+
+Now, write a comprehensive account of the marketing channels used in the campaign: {{campaign_channels}}. This can include social media platforms, Google AdWords, Email marketing, SEO among others.
+
+->>>>
+
+So far, we have an analysis of the marketing channels for our campaign report:
+
+Campaign Performance Metrics:
+{{step_4}}
+
+Marketing Channels:
+{{step_5}}
+
+Next, create an issues and obstacles section: {{campaign_issues}}. Discuss any problems encountered during the campaign, and suggest possible solutions to avoid or mitigate such issues in the future.
+

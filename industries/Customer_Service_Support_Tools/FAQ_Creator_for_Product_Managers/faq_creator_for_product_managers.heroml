@@ -1,0 +1,78 @@
+Your task is to write a "Product FAQ" for the "Customer Service & Support Tools" industry, specifically for a "Product Manager". 
+
+Let's start by creating a comprehensive overview of the product we are preparing the FAQs for.
+
+Here's some more context about the Product FAQ:
+Product Overview: {{product_overview}}
+Core Product Features: {{core_product_features}}
+Product Installation: {{product_installation}}
+Effective Usage: {{effective_usage}}
+Common Problems: {{common_problems}}
+Upgrade And Renewal Policies: {{upgrade_and_renewal_policies}}
+Additional Support: {{additional_support}}
+
+->>>>
+
+Now, we have the overview for our product:
+
+Product Overview:
+{{step_1}}
+
+Next, we'll need to detail the core features and capabilities of our product. Make sure to incorporate industry-specific standards that the product complies with.
+
+->>>>
+
+Our product's comprehensive overview is:
+
+Product Overview:
+{{step_1}}
+
+We have detailed the core features and capabilities as follows:
+
+Core Product Features:
+{{step_2}}
+
+Now, address common queries related to installation, setup, and getting started with the product. Include information if the product interfaces with other industry-specific software or hardware.
+
+->>>>
+
+In our product FAQ, we have discussed the core product features:
+
+Core Product Features:
+{{step_2}}
+
+We have detailed common queries regarding installation, setup, and getting started:
+
+Product Installation:
+{{step_3}}
+
+Next, let's create guidelines on how to effectively utilize the product’s prime features. Use common industry terminology for easy understanding.
+
+->>>>
+
+We provided guidelines for installation and setup in our FAQ:
+
+Product Installation:
+{{step_3}}
+
+Now, we have instructions for effective usage:
+
+Effective Usage:
+{{step_4}}
+
+Let's now provide answers for troubleshooting common problems encountered by customers.
+
+->>>>
+
+For our product, we have instruction guides for effective usage:
+
+Effective Usage:
+{{step_4}}
+
+We addressed common problems and provided solutions:
+
+Common Problems:
+{{step_5}}
+
+Let's now provide answers on upgrade or update information, support policies, and license renewals. Clarify how industry-specific standards or regulations influence these updates.
+

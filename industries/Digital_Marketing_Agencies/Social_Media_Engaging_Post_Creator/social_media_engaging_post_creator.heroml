@@ -1,0 +1,80 @@
+Your task is to write a "Social Media Post" for the "Digital Marketing Agencies" industry, specifically for a "Content Creator". Let's start by creating an engaging introduction that hooks your audience and presents a problem or challenge they might be facing in the context of {{industry_topic}}.
+
+Here's some more context about the Social Media Post:
+Industry Topic: {{industry_topic}}
+
+->>>>
+
+We now have a captivating introduction that outlines a problem or challenge in the {{industry_topic}}:
+
+Introduction:
+{{step_1}}
+
+Next, present your agency as a solution provider. Explain how your service, product, or expertise can help address the mentioned problem in the {{industry_topic}}.
+
+->>>>
+
+We have an engaging introduction and a section positioning our agency as a solution provider:
+
+Introduction:
+{{step_1}}
+
+Solution Provider Pitch:
+{{step_2}}
+
+Following this, let's incorporate testimonials or brief mentions of previous work achievements that can increase trust and credibility. These should be related to the {{industry_topic}}.
+
+->>>>
+
+We now have an introduction, a solution provider pitch, and testimonials or mentions of previous achievements:
+
+Introduction:
+{{step_1}}
+
+Solution Provider Pitch:
+{{step_2}}
+
+Testimonials/Achievements:
+{{step_3}}
+
+Next, let's introduce an actionable tip or advice about the {{industry_topic}} that would be beneficial for the followers. Make sure this tip is connected with the problem mentioned at the start and gives value to your audience.
+
+->>>>
+
+Our social media post includes an introduction, solution provider pitch, testimonials, and now an actionable tip related to the {{industry_topic}}:
+
+Introduction:
+{{step_1}}
+
+Solution Provider Pitch:
+{{step_2}}
+
+Testimonials/Achievements:
+{{step_3}}
+
+Actionable Tip:
+{{step_4}}
+
+Following this, conclude with a call to action (CTA) that encourages the audience to interact with your post or to take a specific action that is connected with your introductory problem and proposed solution in the {{industry_topic}}.
+
+->>>>
+
+Our social media post now has an introduction, solution provider pitch, testimonials, an actionable tip, and a compelling call to action:
+
+Introduction:
+{{step_1}}
+
+Solution Provider Pitch:
+{{step_2}}
+
+Testimonials/Achievements:
+{{step_3}}
+
+Actionable Tip:
+{{step_4}}
+
+Call to Action:
+{{step_5}}
+
+Finally, let's incorporate relevant industry-specific hashtags related to the {{industry_topic}} to increase the visibility and engagement of our social media post.
+

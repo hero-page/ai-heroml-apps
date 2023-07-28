@@ -1,0 +1,98 @@
+Your task is to write a "Service Report" for the "Customer Service & Support Tools" industry, specifically for a "Customer Service Rep".
+
+Start by writing an Executive Summary providing an overall analysis of the service interaction period, which should include the total number of interactions with customers: {{total_interactions}}.
+
+Here's some more context about the Service Report:
+Total Interactions: {{total_interactions}}
+Report Period: {{report_period}}
+Significant Events: {{significant_events}}
+Common Inquiries: {{common_inquiries}}
+Common Issues: {{common_issues}}
+Resolution Steps: {{resolution_steps}}
+Customer Feedback Trends: {{customer_feedback_trends}}
+Service Concerns: {{service_concerns}}
+Recommendations For Improvement: {{recommendations_for_improvement}}
+Assistance Details: {{assistance_details}}
+
+->>>>
+
+We have begun the service report with an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that describes the time period the report covers and any significant events that affected customer service during that period: {{report_period}}, {{significant_events}}.
+
+->>>>
+
+Our service report includes an executive summary and introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next segment your report into broader categories such as 'Customer Inquiry Analysis', 'Service Issue/Complaints Analysis', and 'Service Resolution Analysis'.
+Firstly, under 'Customer Inquiry Analysis', compile data on the most common inquiries: {{common_inquiries}} received from customers during your report period and discuss their nature and any potential trends.
+
+->>>>
+
+In the service report, we have the executive summary, introduction and 'Customer Inquiry Analysis':
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Customer Inquiry Analysis:
+{{step_3}}
+
+Proceed to the 'Service Issue/Complaints Analysis' section. Detail the common complaints or issues raised by customers: {{common_issues}}, discussing their frequency, root causes and their impacts.
+
+->>>>
+
+We have completed the 'Customer Inquiry Analysis' and 'Service Issue/Complaints Analysis' sections:
+
+Customer Inquiry Analysis:
+{{step_3}}
+
+Service Issue/Complaints Analysis:
+{{step_4}}
+
+Next, for the 'Service Resolution Analysis' section, describe the steps taken to resolve these key issues: {{resolution_steps}} and the time taken for each resolution.
+
+->>>>
+
+Our service report includes 'Customer Inquiry Analysis', 'Service Issue/Complaints Analysis', and 'Service Resolution Analysis':
+
+Customer Inquiry Analysis:
+{{step_3}}
+
+Service Issue/Complaints Analysis:
+{{step_4}}
+
+Service Resolution Analysis:
+{{step_5}}
+
+Continue to the 'Customer Satisfaction Analysis' section. Review and analyse customer feedback collected during the defined period to gauge customer satisfaction. Discuss any trends or patterns observed from the feedback: {{customer_feedback_trends}}.
+
+->>>>
+
+The service report comprises the following sections:
+
+Customer Inquiry Analysis:
+{{step_3}}
+
+Service Issue/Complaints Analysis:
+{{step_4}}
+
+Service Resolution Analysis:
+{{step_5}}
+
+Customer Satisfaction Analysis:
+{{step_6}}
+
+In the final section of the report, 'Key Insights and Recommendations', summarize the major service concerns. Detail how they were handled and provide recommendations for future improvements: {{service_concerns}}, {{recommendations_for_improvement}}.
+

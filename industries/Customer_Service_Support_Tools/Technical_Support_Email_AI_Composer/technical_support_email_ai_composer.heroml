@@ -1,0 +1,134 @@
+Start by creating a polite greeting for the customer: "Dear {{customer_name}},". This begins the customer email and sets a respectful tone.
+
+Here's some more context about the Customer Email:
+Customer Name: {{customer_name}}
+Customer Issue: {{customer_issue}}
+Additional Required Info: {{additional_required_info}}
+Your Name: {{your_name}}
+
+->>>>
+
+Now we have a greeting for our customer email:
+
+Greeting:
+{{step_1}}
+
+Next, write a concise introduction, summarizing the purpose of the email. This should reflect understanding of the customer's reported issue: "I'm writing in regards to your recent request for technical support concerning {{customer_issue}}."
+
+->>>>
+
+We have a greeting and introduction for our customer email:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, provide a focused explanation, describing the steps taken or to be taken to address the {{customer_issue}}: "Our team has been working on investigating the issue and we have taken the following steps...".
+
+->>>>
+
+We have a greeting, an introduction, and a focused explanation for our customer email:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Focused Explanation:
+{{step_3}}
+
+Next, if applicable, write a set of instructions that guide the customer on how they can resolve {{customer_issue}} on their own: "You can also try the following steps to see if the issue could be resolved from your end...".
+
+->>>>
+
+So far, for our customer email we have the greeting, introduction, focused explanation, and a set of instructions: 
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Focused Explanation:
+{{step_3}}
+
+Instructions:
+{{step_4}}
+
+Now, highlight any industry- or case-specific details that the customer needs to be aware of in order to understand or resolve {{customer_issue}}. These may include timeframes, potential obstacles, or important guidelines.
+
+->>>>
+
+For our customer email, we have the greeting, introduction, focused explanation, instructions, and have highlighted necessary details:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Focused Explanation:
+{{step_3}}
+
+Instructions:
+{{step_4}}
+
+Highlighted Details:
+{{step_5}}
+
+Next, prepare a request for additional necessary information from the customer, specifying what information you need from them: "In order to further diagnose the problem, could you please provide us with {{additional_required_info}}?".
+
+->>>>
+
+The customer email contains a greeting, introduction, focused explanation, instructions, highlighted details, and a request for additional information:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Focused Explanation:
+{{step_3}}
+
+Instructions:
+{{step_4}}
+
+Highlighted Details:
+{{step_5}}
+
+Additional Information Request:
+{{step_6}}
+
+Then, assure the customer that your team is ready to help with any further questions or difficulties regarding {{customer_issue}}: "Should you encounter any difficulties or have additional questions, please don't hesitate to contact us."
+
+->>>>
+
+In our customer email, we have a greeting, introduction, focused explanation, instructions, highlighted details, request for additional information, and an assurance:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Focused Explanation:
+{{step_3}}
+
+Instructions:
+{{step_4}}
+
+Highlighted Details:
+{{step_5}}
+
+Additional Information Request:
+{{step_6}}
+
+Assurance:
+{{step_7}}
+
+Now, form a message of gratitude. Thank the customer for their patience and for choosing your service: "Thank you for your patience and for choosing our services."
+

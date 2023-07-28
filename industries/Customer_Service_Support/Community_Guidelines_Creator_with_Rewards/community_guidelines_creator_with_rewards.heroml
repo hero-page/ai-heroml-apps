@@ -1,0 +1,85 @@
+Your task is to create "Community Guidelines" for the "Customer Service & Support" industry, specifically for a "Community Manager". 
+
+Let's start by crafting an introduction for the guidelines that outlines the purpose of the community, reasons for its existence, and the value it provides: {{community_purpose}}.
+
+Here's some more context about the Community Guidelines:
+Community Purpose: {{community_purpose}}
+Community Demographics: {{community_demographics}}
+Behavior Standards: {{behavior_standards}}
+Communication Channels: {{communication_channels}}
+Moderation Processes: {{moderation_processes}}
+Feedback Reporting Support: {{feedback_reporting_support}}
+Reciprocity Measures: {{reciprocity_measures}}
+
+->>>>
+
+We can now refer to our introduction for creating future sections of the guidelines:
+
+Introduction:
+{{step_1}}
+
+Next, we need to identify and discuss our targeted community members along with their common interests or needs that the community aims to satisfy: {{community_demographics}}.
+
+->>>>
+
+Currently, we have an introduction and an understanding of our community members:
+
+Introduction:
+{{step_1}}
+
+Community Members:
+{{step_2}}
+
+Now, move on to establishing standards of behavior in the community. This section should detail desirable and undesirable actions, focusing on respect, inclusiveness, conflict resolution, and privacy: {{behavior_standards}}.
+
+->>>>
+
+Now, we have defined our community and the expected behaviours:
+
+Introduction:
+{{step_1}}
+
+Community Members:
+{{step_2}}
+
+Behavior Standards:
+{{step_3}}
+
+Let's go on to outline the infrastructure for interaction within the community. Define the channels of communication - examples could be forums, chats, email - and when to use each. Include topics related to post formats and thread creation: {{communication_channels}}.
+
+->>>>
+
+We've defined standards of behavior and the communication infrastructure:
+
+Behavior Standards:
+{{step_3}}
+
+Communication Infrastructure:
+{{step_4}}
+
+Next, explain the moderation process within the community, including how inappropriate behavior will be identified, disciplined, or escalated: {{moderation_processes}}.
+
+->>>>
+
+We have established communication infrastructure and moderation processes:
+
+Communication Infrastructure:
+{{step_4}}
+
+Moderation Process:
+{{step_5}}
+
+Now, describe means by which community members can give feedback, report violations, or request support for any issues within the community: {{feedback_reporting_support}}.
+
+->>>>
+
+We have defined the moderation process, and ways for community members to provide feedback:
+
+Moderation Process:
+{{step_5}}
+
+Feedback and Reporting Process:
+{{step_6}}
+
+Next, let's illustrate the benefits that active and helpful community members can expect. This section should deal with any reciprocity measures in place such as rewards or acknowledgement systems: {{reciprocity_measures}}.
+

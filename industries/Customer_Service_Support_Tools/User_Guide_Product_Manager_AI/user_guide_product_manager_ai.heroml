@@ -1,0 +1,83 @@
+Your task is to write a "User Guide" for the "Customer Service & Support Tools" industry, specifically for a "Product Manager". 
+
+Let's start by generating an introduction that provides an overview of the specific tool or product: {{tool_name}}. This should include an explanation of its purpose within customer service and how it improves the user's workflow.
+
+Here's some more context about the User Guide:
+Tool Name: {{tool_name}}
+Common Issues: {{common_issues}}
+Integration Systems: {{integration_systems}}
+Further Support: {{further_support}}
+Customer Scenario: {{customer_scenario}}
+
+->>>>
+
+We've started our user guide: 
+
+Introduction:
+{{step_1}}
+
+Next, let's develop a section that introduces the functionality of the {{tool_name}}. This includes explaining how to set up the tool, how to navigate its user interface, and how the key features work in a step-by-step manner.
+
+->>>>
+
+We now have an introduction and an explanation of the functionality of the {{tool_name}}:
+
+Functionality:
+{{step_2}}
+
+Our next step is to outline practical applications of the {{tool_name}} within the realm of customer service and support. These are specific cases in which the tool can increase efficiency, resolve customer issues, or improve overall service.
+
+->>>>
+
+Our guide now holds the following sections:
+
+Practical Applications:
+{{step_3}}
+
+Next, let's create a section on troubleshooting for common issues that users may encounter with the {{tool_name}}. This includes solutions to these issues as they occur within the common scenarios of customer service and support.
+
+->>>>
+
+We have key sections in place:
+
+Troubleshooting:
+{{step_4}}
+
+The next task is to address the integration of the {{tool_name}} with other tools or systems prevalent in the industry. Describe how it can dovetail with these systems smoothly and how to set up such integrations.
+
+->>>>
+
+Our guide is shaping up with the following content:
+
+Integration:
+{{step_5}}
+
+Let's now create a conclusion that summarises the capabilities and benefits of the {{tool_name}}, and provide information on where users can receive additional support.
+
+->>>>
+
+Our guide has the following sections:
+
+Conclusion:
+{{step_6}}
+
+Next, weave in industry-specific language and terms that resonate with product managers. This step involves modifying and checking the previously created sections (i.e., introduction, functionality, applications, troubleshooting, integration, conclusion) to ensure they contain industry-specific terminology.
+
+->>>>
+
+We have integrated industry-specific terms in our guide:
+
+Guide with Industry-Specific Terms:
+{{step_7}}
+
+Our next step is to incorporate customer-centric examples and scenarios throughout the guide to illustrate each point or feature. This should involve enriching each of the guide's sections (i.e., introduction, functionality, applications, troubleshooting, integration, conclusion) with relevant scenarios.
+
+->>>>
+
+The guide now includes practical examples and scenarios:
+
+Guide with Practical Scenarios:
+{{step_8}}
+
+Finally, let's make sure our guide is tailored to the specific tool, common issues, systems for integration, support details, and real-world scenarios respectively using the dynamic variables {{tool_name}}, {{common_issues}}, {{integration_systems}}, {{further_support}}, and {{customer_scenario}}. This would involve a final review and edit of the entire guide.
+

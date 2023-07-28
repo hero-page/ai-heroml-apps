@@ -1,0 +1,104 @@
+Begin by writing an introduction to your "Content Calendar" for a "Digital Marketing Strategist" working in the "Digital Marketing Agencies" industry. The introduction should set the context for the content that will be published on the specified platforms: {{platforms}} during the target period: {{target_period}}.
+
+Here's some more context about the Content Calendar:
+Platforms: {{platforms}}
+Target Period: {{target_period}}
+Monthly Topics: {{monthly_topics}}
+Keywords List: {{keywords_list}}
+Content Descriptions: {{content_descriptions}}
+Content Status: {{content_status}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+We now have the introduction for our "Content Calendar":
+
+Introduction:
+{{step_1}}
+
+Next up, let's design a key topic template that outlines the major content themes, or monthly topics, that will guide our messaging for the month: {{monthly_topics}}.
+
+->>>>
+
+Our "Content Calendar" now has an introduction and a list of the monthly topics:
+
+Introduction:
+{{step_1}}
+
+Monthly Topics:
+{{step_2}}
+
+For SEO driven marketing strategy, conduct keyword research based on these {{monthly_topics}} and identify a list of relevant keywords {{keywords_list}}.
+
+->>>>
+
+In our "Content Calendar", we've outlined monthly topics and a list of relevant keywords:
+
+Monthly topics:
+{{step_2}}
+
+Keywords List:
+{{step_3}}
+
+Now, let's move on to scheduling. Generate a list of dates when content will go live based on a pre-determined schedule, and specify the platforms {{platforms}} for the distribution of each content piece.
+
+->>>>
+
+In our "Content Calendar", we've compiled a list of keywords and created a content schedule:
+
+Keywords List:
+{{step_3}}
+
+Content Schedule:
+{{step_4}}
+
+For each scheduled content piece, write a brief description outlining what information it will offer to the audience. These descriptions will serve as {{content_descriptions}}.
+
+->>>>
+
+So far, our "Content Calendar" includes a content schedule and corresponding descriptions for each piece:
+
+Content Schedule:
+{{step_4}}
+
+Content Descriptions:
+{{step_5}}
+
+The next step is to create a designated area to track the status of each piece of content: {{content_status}}. This should indicate if the content is in the idea stage, under production, or ready for publishing.
+
+->>>>
+
+Our "Content Calendar" now includes a content schedule, descriptions, and a method to track each piece's status:
+
+Content Descriptions:
+{{step_5}}
+
+Content Status Tracker:
+{{step_6}}
+
+In each piece of content, incorporate a call-to-action that prompts readers to act, whether it be signing up for a webinar, downloading an ebook, or subscribing to a newsletter.
+
+->>>>
+
+In our "Content Calendar", we've added a call-to-action for each piece of content:
+
+Content Status Tracker:
+{{step_6}}
+
+Call to Action:
+{{step_7}}
+
+Now, prepare a section for tracking the results of each piece of content. After the content has been published, populate this section with information like number of views, shares, comments, likes, and generated leads.
+
+->>>>
+
+Our "Content Calendar" now includes a system for tracking content results alongside the call-to-action:
+
+Call to Action:
+{{step_7}}
+
+Content Result Tracker:
+{{step_8}}
+
+Finally, write a conclusion that summarizes the content calendar, reviews the schedules, highlights the monthly topics: {{monthly_topics}}, and goals for the target period {{target_period}}. 
+

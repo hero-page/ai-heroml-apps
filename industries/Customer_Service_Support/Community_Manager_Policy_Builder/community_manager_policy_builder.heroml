@@ -1,0 +1,106 @@
+Your task is to write a "Moderation Policy" for the "Customer Service & Support" industry, specifically for a "Community Manager". Let us begin by writing an engaging introduction that will set the tone for the entire policy. Provide an overview of the importance and purpose of the moderation policy in the customer service & support.
+
+Here's some more context about the Moderation Policy:
+Moderation Policy Importance: {{moderation_policy_importance}}
+User Responsibility Standards: {{user_responsibility_standards}}
+Offenses Warranting Moderation: {{offenses_warranting_moderation}}
+Moderation Process: {{moderation_process}}
+Consequences To Infringements: {{consequences_to_infringements}}
+Escalation Process: {{escalation_process}}
+Industry Specific Elements: {{industry_specific_elements}}
+Copyright And Liability Rules: {{copyright_and_liability_rules}}
+Policy Update Information: {{policy_update_information}}
+
+->>>>
+
+Following a powerful introduction, we now have:
+
+Introduction:
+{{step_1}}
+
+Next, present a section on user responsibility standards. This should outline the conduct expected from community members, and detail the specific actions they need to adhere to.
+
+->>>>
+
+We have an introduction and a section detailing user responsibility standards:
+
+Introduction:
+{{step_1}}
+
+User Responsibility Standards:
+{{step_2}}
+
+Now, define offenses that warrant moderation. Specify the behaviors, activities or postings that will necessitate a moderation action from the Community Manager.
+
+->>>>
+
+So far, our moderation policy has:
+
+User Responsibility Standards:
+{{step_2}}
+
+Offense Definitions:
+{{step_3}}
+
+Next, let's elaborate on the moderation process: outline the procedural steps the Community Manager will take when enforcing this policy, including how they respond to reported cases and resolve disputes.
+
+->>>>
+
+Now, we have the offenses defined and the moderation process described:
+
+Offense Definitions:
+{{step_3}}
+
+Moderation Process:
+{{step_4}}
+
+Continue by providing guidelines on the consequences of infringements. Define a penalty structure for breaches of the moderation policy.
+
+->>>>
+
+We now have the moderation process and the penalty guidelines for policy infringements:
+
+Moderation Process:
+{{step_4}}
+
+Consequences of Infringements:
+{{step_5}}
+
+Now, describe the escalation process: the steps members can take if they feel they've been unfairly moderated, including who to contact and the review process.
+
+->>>>
+
+Up to this point, our moderation policy includes the penalty guidelines and a process for escalation:
+
+Consequences of Infringements:
+{{step_5}}
+
+Escalation Process:
+{{step_6}}
+
+Moving forward, let's incorporate industry-specific elements. Highlight any content or behavior unique to the customer service & support industry and how they should be addressed, which could encompass issues related to user privacy, handling customer feedback, and managing complaints.
+
+->>>>
+
+With the addition of industry-specific elements, our moderation policy now includes:
+
+Escalation Process:
+{{step_6}}
+
+Industry-Specific Elements:
+{{step_7}}
+
+Now, let's add a note on copyright and liability rules. Include the governing jurisdiction to legally protect the Community Manager and the organization.
+
+->>>>
+
+Our moderation policy has a section on industry-specific elements and copyright/liability rules:
+
+Industry-Specific Elements:
+{{step_7}}
+
+Copyright and Liability Rules:
+{{step_8}}
+
+Finally, conclude the policy by adding details on the policy's review and update information. Specify how frequently the policy will be reviewed and updated, and where members can find these updates.
+

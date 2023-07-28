@@ -1,0 +1,66 @@
+Your task is to write a "Troubleshooting Guide" for the "Customer Service & Support Tools" industry, specifically for a "Customer Service Rep". Let's start by outlining the introduction that describes the purpose and scope of the troubleshooting guide.
+
+Here's some more context about the Troubleshooting Guide:
+Purpose And Scope: {{purpose_and_scope}}
+List Of Issues: {{list_of_issues}}
+Escalation Process: {{escalation_process}}
+FAQs: {{FAQs}}
+CSR Notes: {{CSR_notes}}
+
+->>>>
+
+We're building a "Troubleshooting Guide" and we've outlined its purpose and scope:
+
+Purpose and Scope:
+{{step_1}}
+
+Now, detail a comprehensive list of potential issues or problems a customer might face when using the service or product. Make sure to organize this list into broad categories for quick reference.
+
+->>>>
+
+In developing the troubleshooting guide, we've outlined its purpose and we have a comprehensive list of potential customer issues:
+
+Purpose and Scope:
+{{step_1}}
+
+List of Potential Issues:
+{{step_2}}
+
+Next, let's address each problem listed under our comprehensive list. Provide clear, step-by-step solutions that the rep can use to guide the customer. Make sure the steps are easy to understand, using non-technical language wherever possible.
+
+->>>>
+
+In creating a troubleshooting guide, we have detailed solutions for the potential customer issues:
+
+List of Potential Issues:
+{{step_2}}
+
+Step-by-step Solutions:
+{{step_3}}
+
+Now, we must include a dedicated section on the escalation process. Detail when, how, and to whom these issues should be escalated when a problem can't be fixed through troubleshooting.
+
+->>>>
+
+Our troubleshooting guide includes an escalation process for unresolved issues:
+
+Step-by-step Solutions:
+{{step_3}}
+
+Escalation Process:
+{{step_4}}
+
+Next, let's create a "Frequently Asked Questions (FAQs)" section addressing common queries and doubts about the service or product. This section will serve as a quick reference guide for the rep, helping to provide quick and accurate responses to customers.
+
+->>>>
+
+Our troubleshooting guide now includes a section for Frequently Asked Questions:
+
+Escalation Process:
+{{step_4}}
+
+FAQs:
+{{step_5}}
+
+Finally, create a space for customer service rep notes, enabling reps to add their own insights or observations about common customer issues or effective problem-solving techniques. 
+

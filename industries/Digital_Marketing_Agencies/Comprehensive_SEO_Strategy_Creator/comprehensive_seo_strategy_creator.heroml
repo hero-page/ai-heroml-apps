@@ -1,0 +1,122 @@
+Your task is to write an SEO Strategy for the Digital Marketing Agencies industry, specifically targeting to a Digital Marketing Strategist. 
+
+Let's start by defining specific "SEO goals" which range from improving organic search rankings, increasing website traffic, boosting conversions or enhancing brand visibility.
+
+Here's some more context about the SEO Strategy:
+Seo Objectives: {{seo_objectives}}
+Audience Traits: {{audience_traits}}
+Competitors: {{competitors}}
+Keyword Types: {{keyword_types}}
+On Page Seo: {{on_page_seo}}
+Off Page Seo: {{off_page_seo}}
+Content Strategy: {{content_strategy}}
+Website Design: {{website_design}}
+Seo Monitoring: {{seo_monitoring}}
+
+->>>>
+
+We start our SEO strategy with defining specific goals:
+
+Goals:
+{{step_1}}
+
+Let's now describe our target audience using factors such as age, location, profession and online behavior.
+
+->>>>
+
+With our goals defined:
+
+Goals:
+{{step_1}}
+
+We have painted a picture of our target audience:
+
+Audience Description:
+{{step_2}}
+
+Now, we need to execute a thorough competitor analysis. Let's identify our key competitors in the digital marketing industry and outline their SEO strategies, top-performing keywords, backlink profile, and content marketing plans.
+
+->>>>
+
+Having defined our target audience:
+
+Audience Description:
+{{step_2}}
+
+We've carried out a competitor analysis:
+
+Competitor Analysis:
+{{step_3}}
+
+Next, we need to create a keyword strategy. Let's identify and list down potential keywords including short and long-tail keywords as well as local SEO keywords, that our target audience may use in their searches.
+
+->>>>
+
+After a thorough competitor analysis:
+
+Competitor Analysis:
+{{step_3}}
+
+We have developed a keyword strategy:
+
+Keyword Strategy:
+{{step_4}}
+
+Next, we need to discuss how to optimize on-page website elements such as meta-description, header tags, title tags, image alt text, URL structure, and unique quality content for the selected keywords to boost website visibility.
+
+->>>>
+
+Having created a Keyword Strategy:
+
+Keyword Strategy:
+{{step_4}}
+
+We are ready with guidelines for On-Page SEO:
+
+On-Page SEO Guidelines:
+{{step_5}}
+
+Now that we have established the On-Page SEO, let's move onto Off-Page SEO. Here we need to outline how we plan to develop backlinks, leverage social media marketing, and collaborate with influencers to strengthen our domain authority and generate traffic.
+
+->>>>
+
+Equipped with our On-Page SEO guidelines:
+
+On-Page SEO Guidelines:
+{{step_5}}
+
+We have outlined an approach for Off-Page SEO:
+
+Off-Page SEO Approach:
+{{step_6}}
+
+Now that we have our On and Off Page SEO in place, let's formulate a content strategy. Here we must describe our plans for producing assorted content types like blog articles, case studies, webinars etc, that would have appropriate use of our identified keywords and cater to our target audience.
+
+->>>>
+
+With both On-Page and Off-Page SEO approaches defined:
+
+Off-Page SEO Approach:
+{{step_6}}
+
+We have a comprehensive content marketing strategy in place:
+
+Content Marketing Strategy:
+{{step_7}}
+
+Next, let's discuss how to implement an SEO-friendly website design. We need to ensure that the website is user-friendly, mobile-compatible, and has quick load times.
+
+->>>>
+
+With the content strategy defined:
+
+Content Marketing Strategy:
+{{step_7}}
+
+We have guidelines for an SEO-friendly website design:
+
+Website Design Guidelines:
+{{step_8}}
+
+Finally, let's outline how we plan to monitor the results of our SEO strategy implementation and make necessary adjustments. This includes the tools we plan to use for tracking rankings, organic traffic, bounce rate and other important metrics. 
+

@@ -541,8 +541,30 @@ Explore these links to learn more about each app's functionality and to see thei
 ## Customer Service Support
 
 * [AI Customer Service Report Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/AI_Customer_Service_Report_Generator)
+* [Community Guidelines Creator with Rewards](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Community_Guidelines_Creator_with_Rewards)
+* [Community Manager Policy Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Community_Manager_Policy_Builder)
 * [Customer Service Email AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Customer_Service_Email_AI_Composer)
 * [Customer Service Script Customizer AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Customer_Service_Script_Customizer_AI)
+* [Forum Response SolutionOriented AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Forum_Response_SolutionOriented_AI)
 * [Tech Support Email Automator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Tech_Support_Email_Automator)
 * [Technical Guide Creator for Specialists](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Technical_Guide_Creator_for_Specialists)
 * [Technical Support FAQ AI Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Technical_Support_FAQ_AI_Builder)
+## Customer Service Support Tools
+
+* [FAQ Creator for Product Managers](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/FAQ_Creator_for_Product_Managers)
+* [Personalized Customer Email AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/Personalized_Customer_Email_AI_Creator)
+* [Product Manager Feature Announcement Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/Product_Manager_Feature_Announcement_Creator)
+* [RepAssist Troubleshooting Guide Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/RepAssist_Troubleshooting_Guide_Creator)
+* [Service Report AI Analyzer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/Service_Report_AI_Analyzer)
+* [Support Guide AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/Support_Guide_AI_Creator)
+* [Technical Support Email AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/Technical_Support_Email_AI_Composer)
+* [Technical Tutorial Simple Language Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/Technical_Tutorial_Simple_Language_Creator)
+* [User Guide Product Manager AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support_Tools/User_Guide_Product_Manager_AI)
+## Digital Marketing Agencies
+
+* [AI Campaign Report Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/AI_Campaign_Report_Builder)
+* [Blog Post CraftAI Digital Marketing](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Blog_Post_CraftAI_Digital_Marketing)
+* [Comprehensive SEO Strategy Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Comprehensive_SEO_Strategy_Creator)
+* [Newsletter Tailor for Content Creators](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Newsletter_Tailor_for_Content_Creators)
+* [Social Media Engaging Post Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Social_Media_Engaging_Post_Creator)
+* [Strategic Content Calendar Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Digital_Marketing_Agencies/Strategic_Content_Calendar_Generator)

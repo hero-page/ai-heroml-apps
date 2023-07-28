@@ -1,0 +1,103 @@
+To create a "Knowledge Base Article" for the "Customer Service & Support Tools" industry, specifically for a "Technical Support Specialist", follow through these steps:
+
+Start with writing an intro that explains the problem or issue, {{issue}}, that the article is addressing.
+
+Here's some more context about the Knowledge Base Article:
+Issue: {{issue}}
+
+->>>>
+
+Now we have an introduction for our "Knowledge Base Article":
+
+Introduction:
+{{step_1}}
+
+Next, describe the importance of resolving the {{issue}}, and what can be the potential impact if it's not addressed.
+
+->>>>
+
+We now have an importance and impact section for our "Knowledge Base Article":
+
+Introduction:
+{{step_1}}
+
+Importance of resolution and Potential impact:
+{{step_2}}
+
+Let's now provide a detailed step-by-step explanation on how to tackle and resolve the {{issue}}. Do not forget to include any prerequisites, conditions, or requirements.
+
+->>>>
+
+After providing comprehensive steps, we have:
+
+Introduction:
+{{step_1}}
+
+Importance of resolution and Potential impact:
+{{step_2}}
+
+Step-by-step resolution guide:
+{{step_3}}
+
+For the next step, include common troubleshoot steps or workarounds in case the initial proposed solution does not fully resolve the {{issue}}.
+
+->>>>
+
+Following the detailed instructions, we now also have a troubleshooting guide:
+
+Step-by-step resolution guide:
+{{step_3}}
+
+Troubleshooting guide:
+{{step_4}}
+
+Now, expound on any technical jargon linked to the {{issue}} for those non-technical staff or customers who might use this article.
+
+->>>>
+
+After explaining the technical jargon, our article now contains:
+
+Troubleshooting guide:
+{{step_4}}
+
+Explanation of Technical Jargon:
+{{step_5}}
+
+Moving forward, add a section that addresses any potential risks or necessary considerations that the reader should keep in mind when attempting to tackle the {{issue}}, particularly those that might affect other systems or processes.
+
+->>>>
+
+We have clearly identified the potential risks and considerations in dealing with the issue:
+
+Explanation of Technical Jargon:
+{{step_5}}
+
+Potentials risks and Considerations:
+{{step_6}}
+
+To proceed, wrap up the article by giving a summarised recap of the solution steps, with a focus on emphasising any critical parts of the solution to the {{issue}}.
+
+->>>>
+
+After providing a recap, our article now has:
+
+Potentials risks and Considerations:
+{{step_6}}
+
+Recap and Emphasis on critical parts:
+{{step_7}}
+
+Next, write about possible preventative measures to avoid encountering the {{issue}} again in the future.
+
+->>>>
+
+With preventative measures listed, our article sections are now:
+
+Recap and Emphasis on critical parts:
+{{step_7}}
+
+Preventative Measures:
+{{step_8}}
+
+End the article by including a call-to-action for readers to leave comments, send feedback to improve the article or share their experiences in resolving the {{issue}}.
+
