@@ -1,0 +1,91 @@
+Your task is to write a "Troubleshooting Email" for the "Customer Service & Support" industry, specifically for a "Technical Support Specialist". 
+
+Let’s start by drafting a polite greeting and acknowledgment of the customer's problem in order to show understanding of the situation.
+
+Here's some more context about the Troubleshooting Email:
+Customer Name: {{customer_name}}
+Issue Details: {{issue_details}}
+Your Interpretation Of The Issue: {{your_interpretation_of_the_issue}}
+Solution Step 1: {{solution_step_1}}
+Solution Step 2: {{solution_step_2}}
+Expected Outcome: {{expected_outcome}}
+Technical Term 1: {{technical_term_1}}
+Technical Term 2: {{technical_term_2}}
+Possible Complication: {{possible_complication}}
+Your Name: {{your_name}}
+
+->>>>
+
+For our troubleshooting email, we now have a polite greeting and acknowledgment of the customer's problem:
+
+Greeting and Acknowledgment:
+{{step_1}}
+
+Next, let's work on expressing our understanding of the problem as described by the customer.
+
+->>>>
+
+For our troubleshooting email, we have a polite greeting and an understanding of the customer's problem:
+
+Greeting and acknowledgment:
+{{step_1}}
+
+Description of our understanding of the problem:
+{{step_2}}
+
+We can now move on to providing a detailed, step-by-step solution to the customer's issue.
+
+->>>>
+
+We are structuring a troubleshooting email, and we have presented a polite greeting, an understanding of the problem, and a detailed step-by-step solution:
+
+Greeting and Acknowledgment:
+{{step_1}}
+
+Understanding of the Problem:
+{{step_2}}
+
+Step-by-step Solution:
+{{step_3}}
+
+Our next step will be to incorporate appropriate industry-specific technical terminology, which aids in articulating the solution more clearly and affirms our prowess in handling such issues.
+
+->>>>
+
+Our troubleshooting email now incorporates a polite greeting, understanding of the problem, step-by-step solution, and the use of industry-specific technical terminology:
+
+Greeting and Acknowledgment:
+{{step_1}}
+
+Understanding of the Problem:
+{{step_2}}
+
+Step-by-step Solution:
+{{step_3}}
+
+Use of Industry-specific Technical Terms:
+{{step_4}}
+
+Next, based on these technical terms, let's outline some possible scenarios if the problem persists even after the suggested step-by-step solution.
+
+->>>>
+
+We have created a thorough troubleshooting email thus far:
+
+Greeting and Acknowledgment:
+{{step_1}}
+
+Understanding of the Problem:
+{{step_2}}
+
+Step-by-step Solution:
+{{step_3}}
+
+Industry-specific Technical Terms:
+{{step_4}}
+
+Possible Scenarios:
+{{step_5}}
+
+Let's now draft an empathetic reassurance that we are here to help if the issue continues despite following the proposed steps and provide any necessary follow-up instructions.
+

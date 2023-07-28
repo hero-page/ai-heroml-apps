@@ -521,9 +521,28 @@ Explore these links to learn more about each app's functionality and to see thei
 * [Personalized Home Brew Recipe Guide](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Beer_Brewing/Personalized_Home_Brew_Recipe_Guide)
 ## Craft Supplies DIY Product Marketing
 
+* [Craft Brand Story AI Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/Craft_Brand_Story_AI_Creator)
+* [Craft Industry Meeting Minutes AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/Craft_Industry_Meeting_Minutes_AI)
 * [Craft Marketer Newsletter AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/Craft_Marketer_Newsletter_AI)
 * [Craft Trends Marketing Report AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/Craft_Trends_Marketing_Report_AI)
 * [DIY Blog Content Creator AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/DIY_Blog_Content_Creator_AI)
 * [DIY Craft Post Engagement Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/DIY_Craft_Post_Engagement_Generator)
 * [DIY Craft Review Inspiration Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/DIY_Craft_Review_Inspiration_Generator)
 * [DIY Product Usecases Writer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/DIY_Product_Usecases_Writer)
+* [Influencer Collaboration Proposal Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Craft_Supplies_DIY_Product_Marketing/Influencer_Collaboration_Proposal_Builder)
+## Crystal Healing
+
+* [Anonymized Crystal Healing Testimonial Creator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Crystal_Healing/Anonymized_Crystal_Healing_Testimonial_Creator)
+* [Crystal Healing Comprehensive Guide](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Crystal_Healing/Crystal_Healing_Comprehensive_Guide)
+* [Crystal Healing Interview Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Crystal_Healing/Crystal_Healing_Interview_Generator)
+* [Crystal Healing Session AI Overview](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Crystal_Healing/Crystal_Healing_Session_AI_Overview)
+* [Crystal Review Rankings Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Crystal_Healing/Crystal_Review_Rankings_Generator)
+* [Personal Healing Journey Narrator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Crystal_Healing/Personal_Healing_Journey_Narrator)
+## Customer Service Support
+
+* [AI Customer Service Report Generator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/AI_Customer_Service_Report_Generator)
+* [Customer Service Email AI Composer](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Customer_Service_Email_AI_Composer)
+* [Customer Service Script Customizer AI](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Customer_Service_Script_Customizer_AI)
+* [Tech Support Email Automator](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Tech_Support_Email_Automator)
+* [Technical Guide Creator for Specialists](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Technical_Guide_Creator_for_Specialists)
+* [Technical Support FAQ AI Builder](https://github.com/hero-page/ai-heroml-apps/blob/main/industries/Customer_Service_Support/Technical_Support_FAQ_AI_Builder)

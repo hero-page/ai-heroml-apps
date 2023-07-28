@@ -1,0 +1,86 @@
+Your task is to write an "Interview with a Crystal Healer" for the "Crystal Healing" industry, specifically for a "Wellness Blogger". 
+
+Let's start with an engaging introduction that provides some context about {{healer_name}} and your interest in the topic of crystal healing.
+
+Here's some more context about the Interview with Crystal Healer:
+Healer Name: {{healer_name}}
+
+->>>>
+
+You have now crafted an engaging introduction for your interview with {{healer_name}}:
+
+Introduction:
+{{step_1}}
+
+Next, ask for background information. Enquire about how {{healer_name}} got interested and started in crystal healing, and their academic and non-academic qualifications in the field of crystal healing.
+
+->>>>
+
+Building upon the introduction:
+
+Introduction:
+{{step_1}}
+
+We have obtained some background information on {{healer_name}}:
+
+Background Information:
+{{step_2}}
+
+Let's delve deeper into the specifics of Crystal Healing. Explore what crystal healing is, the different crystals {{healer_name}} commonly uses, and advice on how to choose and care for healing crystals.
+
+->>>>
+
+After collecting background information:
+
+Background Information:
+{{step_2}}
+
+We have retrieved detailed information from {{healer_name}} about Crystal Healing:
+
+Specifics of Crystal Healing:
+{{step_3}}
+
+Now, enquire about how crystal healing can contribute to overall wellness and health, and ask for instances where {{healer_name}} has observed notable improvements in a client's health or well-being.
+
+->>>>
+
+Starting with the information on crystal healing characteristics:
+
+Specifics of Crystal Healing:
+{{step_3}}
+
+We now have a conversation around potential benefits:
+
+Potential Benefits:
+{{step_4}}
+
+Next, ask {{healer_name}} for practical advice for your readers. This should include how to incorporate crystal healing into daily wellness routines and recommended crystals for beginners.
+
+->>>>
+
+From gathering data on potential benefits:
+
+Potential Benefits:
+{{step_4}}
+
+We've now obtained handy tips about crystal healing from {{healer_name}}:
+
+Practical Advice:
+{{step_5}}
+
+Now, ask {{healer_name}} to address misconceptions and disagreements that they face about crystal healing, and discuss the scientific support (or lack thereof) for crystal healing.
+
+->>>>
+
+We've amassed practical advice:
+
+Practical Advice:
+{{step_5}}
+
+We've also discussed common misconceptions and scientific basis for crystal healing:
+
+Discussion on Controversies:
+{{step_6}}
+
+Proceed to the wrap-up section of the interview. Ask about {{healer_name}} future plans and how readers can reach out or seek their services.
+

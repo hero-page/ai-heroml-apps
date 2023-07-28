@@ -1,0 +1,85 @@
+Start by creating a brief introductory paragraph that lays out the general purpose of the healing session, making sure to mention the intention set prior to the commencement of the therapy with input as {{session_intention}}.
+
+Here's some more context about the Healing Session Overview:
+Session Intention: {{session_intention}}
+Preparation Process: {{preparation_process}}
+Crystal Techniques: {{crystal_techniques}}
+Session Progress: {{session_progress}}
+Session Insights: {{session_insights}}
+Follow Up Recommendations: {{follow_up_recommendations}}
+
+->>>>
+
+We have an introductory paragraph for the "Healing Session Overview" in the "Crystal Healing" industry for a "Crystal Healer":
+
+Introduction:
+{{step_1}}
+
+Next, discuss the overall setting of the session, including details like the environment and ambiance. Detail the preparation processes such as the choice and arrangement of crystals, balancing the energy of the room before starting the healing process using the value given as {{preparation_process}}.
+
+->>>>
+
+For our "Healing Session Overview", we have a brief introduction and an overview of the session setting:
+
+Introduction:
+{{step_1}}
+
+Setting description:
+{{step_2}}
+
+Now, elaborate on the session methodology, which should include crystal selection, placement, and techniques used to promote healing with information provided as {{crystal_techniques}}.
+
+->>>>
+
+For our "Healing Session Overview", we have a brief introduction, setting description, and a detailed session methodology:
+
+Introduction:
+{{step_1}}
+
+Setting Description:
+{{step_2}}
+
+Session Methodology:
+{{step_3}}
+
+Next, provide a progress overview recounting the different stages of the session, which could be broken into beginning, middle, and end phases. Break this information down using {{session_progress}}.
+
+->>>>
+
+In our "Healing Session Overview", we have an introduction, session setting, session methodology, and a progress overview:
+
+Introduction:
+{{step_1}}
+
+Setting Description:
+{{step_2}}
+
+Session Methodology:
+{{step_3}}
+
+Session Progress:
+{{step_4}}
+
+Following that, provide an account of the emotional, physical, and spiritual responses observed during the session. Remember not to breach client confidentiality while describing the perceived shifts in the client's energy fields during the process. Detail this under {{client's_responses}}.
+
+->>>>
+
+For our "Healing Session Overview", we've included an introduction, session setting, session methodology, session progress, and client responses:
+
+Introduction:
+{{step_1}}
+
+Setting Description:
+{{step_2}}
+
+Session Methodology:
+{{step_3}}
+
+Session Progress:
+{{step_4}}
+
+Client Responses:
+{{step_5}}
+
+Conclude with a session reflection laying out what worked well, what didn't, and what could be tried in future sessions. Discuss any realizations or insights that came during the healing process under the variable {{session_insights}}.
+

@@ -1,0 +1,67 @@
+Your task is to write an "Issue Resolution Report" for the "Customer Service & Support" industry, specifically for a "Customer Service Rep". Let's start by creating an executive summary which succinctly overviews the issue resolution {{issue_resolved}}. Please make sure to maintain a professional tone.
+
+Here's some more context about the Issue Resolution Report:
+Issue Resolved: {{issue_resolved}}
+Customer Issue: {{customer_issue}}
+Customer Issue Impact: {{customer_issue_impact}}
+Issue Resolution Steps: {{issue_resolution_steps}}
+Resolution Analysis: {{resolution_analysis}}
+Lessons And Recommendations: {{lessons_and_recommendations}}
+
+->>>>
+
+With the executive summary in hand:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's craft an introduction that outlines the customer's issue {{customer_issue}} and briefly states how the issue was resolved.
+
+->>>>
+
+Now we have the Introduction to our Issue Resolution Report:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving forward, we need to describe the background of the customer's issue. This should include a detailed explanation of the problem, when it was reported, and the impact it had on the customer {{customer_issue_impact}}.
+
+->>>>
+
+We now have the background of the issue:
+
+Introduction:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+For the next step, please proceed to the resolution section where you will state the actions taken by the Customer Service Rep to resolve the problem {{issue_resolution_steps}}.
+
+->>>>
+
+Our Issue Resolution Report now has the resolution steps:
+
+Background:
+{{step_3}}
+
+Resolution Steps:
+{{step_4}}
+
+Let's now move to the analysis of the resolution process. Explain why the chosen resolution steps were taken and how they helped in solving the customer issue {{resolution_analysis}}.
+
+->>>>
+
+Here we have our analysis of the resolution in place:
+
+Resolution Steps:
+{{step_4}}
+
+Resolution Analysis:
+{{step_5}}
+
+Next, let's conclude the report with a review section where we will detail any lessons learned and suggestions for preventing similar issues in future {{lessons_and_recommendations}}.
+

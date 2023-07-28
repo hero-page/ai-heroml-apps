@@ -1,0 +1,77 @@
+Start writing a "Customer Email" for the "Customer Service & Support" industry, specifically for a "Customer Service Rep". Begin the email with a courteous greeting and provide your name along with the purpose of the email: {{purpose}}.
+
+Here's some more context about the Customer Email:
+Purpose: {{purpose}}
+Customer Issue: {{customer_issue}}
+Solution Steps: {{solution_steps}}
+Company Policy: {{company_policy}}
+Examples: {{examples}}
+Required Information: {{required_information}}
+Closing Remarks: {{closing_remarks}}
+
+->>>>
+
+Having started the "Customer Email":
+
+Greeting and Purpose:
+{{step_1}}
+
+Continue by addressing the specific customer issue or query: {{customer_issue}}.
+
+->>>>
+
+After stating the purpose and addressing the customer issue:
+
+Customer Issue or Query:
+{{step_2}}
+
+Next, provide a detailed explanation or solution for the customer issue. If the solution to the issue requires providing multiple steps or explaining a specific company policy or procedure, include that information: {{solution_steps}}/{{company_policy}}.
+
+->>>>
+
+For a "Customer Email" we have the following components:
+
+Customer Issue or Query:
+{{step_2}}
+
+Explanation or Solution of the issue:
+{{step_3}}
+
+Proceed by including examples or scenarios (if applicable) to ensure the customer clearly understands your explanation or solution, enabling them to apply it: {{examples}}.
+
+->>>>
+
+Having developed further on the "Customer Email":
+
+Explanation or Solution of the issue:
+{{step_3}}
+
+Included Examples:
+{{step_4}}
+
+The next step is to request any additional information you may need from the customer to better assist them if it's necessary: {{required_information}}.
+
+->>>>
+
+We now have following sections of our "Customer Email":
+
+Included Examples:
+{{step_4}}
+
+Requested Information:
+{{step_5}}
+
+Proceed by concluding the email. Thank the customer for their patience and understanding, reassure them of your assistance, and inquire if they have any more questions: {{closing_remarks}}.
+
+->>>>
+
+Let's see what we have so far in our "Customer Email":
+
+Requested Information:
+{{step_5}}
+
+Closing Remarks:
+{{step_6}}
+
+And finally, always include a professional signature consisting of your name, job title, and contact information to conclude the customer email.
+

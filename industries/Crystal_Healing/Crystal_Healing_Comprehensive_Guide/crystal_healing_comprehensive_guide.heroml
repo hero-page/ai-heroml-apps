@@ -1,0 +1,88 @@
+Your task is to write a "Crystal Description" for the "Crystal Healing" industry, specifically for a "Crystal Healer". 
+
+Start by creating an engaging introduction that briefly explains the {{crystal_name}} and its most commonly associated healing properties.
+
+Here's some more context about the Crystal Description:
+Crystal Name: {{crystal_name}}
+
+->>>>
+
+We have the introduction for the description of our crystal:
+
+Introduction:
+{{step_1}}
+
+Next, create a section that delves into the history and lore of the {{crystal_name}}, touching on its geographical origins, how it was discovered, and its cultural significance.
+
+->>>>
+
+We have an introduction and history for our crystal:
+
+Introduction:
+{{step_1}}
+
+History and Lore:
+{{step_2}}
+
+Next, write a detailed section about the crystal's physical properties. Describe the color, luster, transparency, and hardness of the {{crystal_name}}.
+
+->>>>
+
+Moving forward, here's what we have:
+
+Introduction:
+{{step_1}}
+
+History and Lore:
+{{step_2}}
+
+Physical Properties:
+{{step_3}}
+
+Now, let's describe in depth how the {{crystal_name}} is used in healing practices. Discuss which specific physical and/or emotional ailments the crystal is best suited for and how to use it for these purposes.
+
+->>>>
+
+So far we have:
+
+Introduction:
+{{step_1}}
+
+Physical Properties:
+{{step_3}}
+
+Healing Properties:
+{{step_4}}
+
+Let's now focus on the Chakra Associations of the crystal. Discuss which chakras the crystal is commonly associated with and how it can be used to balance or unblock these energy centers.
+
+->>>>
+
+This is what we have till now:
+
+Introduction:
+{{step_1}}
+
+Healing Properties:
+{{step_4}}
+
+Chakra Associations:
+{{step_5}}
+
+Next, write about the ideal methods for Cleansing and Charging the {{crystal_name}}. Describe the best practices to maintain the crystal's healing power and usefulness.
+
+->>>>
+
+We have detailed the following so far:
+
+Introduction:
+{{step_1}}
+
+Chakra Associations:
+{{step_5}}
+
+Cleansing and Charging methods:
+{{step_6}}
+
+To conclude, create a section titled "Integrating {{crystal_name}} into Everyday Life". Offer suggestions on how to include the crystal in daily routines, meditation practices, or specific spaces to promote health, well-being, and positive energy.
+

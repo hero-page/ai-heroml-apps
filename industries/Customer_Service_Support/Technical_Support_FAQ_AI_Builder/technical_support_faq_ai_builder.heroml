@@ -1,0 +1,65 @@
+Your task is to write a "Product FAQ" for the "Customer Service & Support" industry, specifically for a "Technical Support Specialist". Let's begin with an introduction that overviews the purpose and value of the FAQ section for your product: {{product_name}}. This introduction should explain why this FAQ is necessary and how it can assist the user.
+
+Here's some more context about the Product FAQ:
+Product Name: {{product_name}}
+Product Features: {{product_features}}
+Common Issues: {{common_issues}}
+Solutions And Additional Info: {{solutions_and_additional_info}}
+Related FAQ Section: {{related_FAQ_section}}
+Technical Issues: {{technical_issues}}
+Additional Resources: {{additional_resources}}
+
+->>>>
+
+We have an introduction for our "Product FAQ":
+
+Introduction:
+{{step_1}}
+
+Now, let's classify the "Product FAQ" into sections based on the product’s features: {{product_features}}. This will enable users to quickly find the information they are looking for.
+
+->>>>
+
+We have the introduction and sections for our "Product FAQ" based on product features:
+
+Introduction:
+{{step_1}}
+
+Feature Sections:
+{{step_2}}
+
+Under each section, generate a set of commonly asked questions (FAQs) related to each feature. The questions should reflect common issues users frequently face: {{common_issues}}.
+
+->>>>
+
+For each section, we have generated a set of FAQs:
+
+Feature Sections:
+{{step_2}}
+
+FAQ Questions:
+{{step_3}}
+
+Now, provide clear, concise, and comprehensive answers to each of these FAQs. Try to address not only the specific issue but also provide a bit of extra information that might be relevant. This will preempt potential follow-up questions: {{solutions_and_additional_info}}.
+
+->>>>
+
+We now have a set of FAQs and their answers:
+
+FAQ Questions:
+{{step_3}}
+
+FAQ Answers:
+{{step_4}}
+
+Wherever possible, in the answer portion, cross-reference other related sections or FAQs in your document. For example, "Refer to the section {{related_FAQ_section}} for additional information". This helps users navigate the document and find all the information they need faster.
+
+->>>>
+
+Now the FAQ answers include cross-references to related sections:
+
+FAQ Answers (with cross-references):
+{{step_5}}
+
+Next, include a section dedicated to troubleshooting common technical issues: {{technical_issues}}. This section will serve as a quick go-to guide for resolving frequent problems and can also serve as a training manual for new hires.
+

@@ -1,0 +1,113 @@
+Your task is to write a "Meeting Minutes" for the "Craft Supplies & DIY Product Marketing" industry, specifically for a "Brand Manager". 
+Start with an introduction section. In this part, you should outline the purpose of the meeting: {{meeting_purpose}}, such as discussing new product ideas, brainstorming marketing strategies, or evaluating recent sales performance.
+
+Here's some more context about the Meeting Minutes:
+Meeting Purpose: {{meeting_purpose}}
+Market Segment: {{market_segment}}
+Action Owner: {{action_owner}}
+Action Deadline: {{action_deadline}}
+
+->>>>
+
+We now have an introduction for the meeting minutes:
+
+Introduction:
+{{step_1}}
+
+Next, sketch a meeting attendance list. This list should include participants' names, their roles, and any notable absentees.
+
+->>>>
+
+We have finished the introduction, and now, we have an attendance list:
+
+Introduction:
+{{step_1}}
+
+Attendance List:
+{{step_2}}
+
+Proceed to the next step to include a detailed discussion section. This section should cover the meeting's key discussion points such as brand performance, product updates, and marketing strategies - particularly those relating to the {{market_segment}}.
+
+->>>>
+
+So far, we have an introduction, attendance list, and detailed discussion section:
+
+Introduction:
+{{step_1}}
+
+Attendance List:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Next, create an "Actions and Decisions" segment. Here, you need to document the decisions made during the meeting. Clearly assign each action to a person responsible for execution: {{action_owner}}, along with the agreed deadline for execution: {{action_deadline}}, and its anticipated impact on the brand.
+
+->>>>
+
+We have structured an "Introduction", "Attendance List", "Detailed Discussion", and "Actions and Decisions" section:
+
+Introduction:
+{{step_1}}
+
+Attendance List:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Actions and Decisions:
+{{step_4}}
+
+Next, create a 'Market Trends and Insights' section. Discuss the relevant happenings in the Craft supplies and DIY Product Marketing industry, focusing on brand management.
+
+->>>>
+
+Our meeting minutes now have an "Introduction", "Attendance List", "Detailed Discussion", "Actions and Decisions" and "Market Trends and Insights":
+
+Introduction:
+{{step_1}}
+
+Attendance List:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Actions and Decisions:
+{{step_4}}
+
+Market Trends and Insights:
+{{step_5}}
+
+Now, please write a summary that echoes the meeting's primary outcomes, decisions, and future meeting plans if applicable.
+
+->>>>
+
+Based on the topics discussed we have:
+
+Meeting Summary:
+{{step_6}}
+
+And at the moment we have compiled the following segments for the "Meeting Minutes": "Introduction", "Attendance List", "Detailed Discussion", "Actions and Decisions", "Market Trends and Insights", and "Meeting Summary".
+
+Introduction:
+{{step_1}}
+
+Attendance List:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Actions and Decisions:
+{{step_4}}
+
+Market Trends and Insights:
+{{step_5}}
+
+Meeting Summary:
+{{step_6}}
+
+Lastly, create a communication statement to be shared with attendees upon completion of the 'Meeting Minutes'. It's important to ensure that each participant acknowledges their tasks, responsibilities, and planned follow-ups prior to official circulation.
+

@@ -1,0 +1,86 @@
+Your task is to write a "Service Script" for the "Customer Service & Support" industry, specific to a "Customer Service Rep". 
+Begin by crafting an introduction that warmly greets the customer, affirms the company's commitment to service quality, and introduces the representative, referred to as {{rep_intro}}.
+
+Here's some more context about the Service Script:
+Rep Intro: {{rep_intro}}
+Customer Verification: {{customer_verification}}
+Customer Query Description: {{customer_query_description}}
+Resolution Or Information: {{resolution_or_information}}
+Escalation Management: {{escalation_management}}
+Ending Interaction: {{ending_interaction}}
+
+->>>>
+
+We now have the introduction part of our service script:
+
+Introduction:
+{{step_1}}
+
+Moving forward, let's formulate the identification verification process. This is where the representative requests and verifies the customer's details, labeled as {{customer_verification}}.
+
+->>>>
+
+Our service script has an introduction and the customer identification verification process:
+
+Introduction:
+{{step_1}}
+
+Customer Verification:
+{{step_2}}
+
+Next, let's work on the main interaction section. Here, the Customer Service Rep needs to comprehend the customer's problem or enquiry. We should develop open-ended questions designed to extract the necessary details, referred to as {{customer_query_description}}.
+
+->>>>
+
+In our service script, we have an introduction, customer verification process, and a set of open-ended questions for understanding customer's queries:
+
+Introduction:
+{{step_1}}
+
+Customer Verification:
+{{step_2}}
+
+Customer Query Description:
+{{step_3}}
+
+Now, let's proceed to the problem resolution or enquiry addressing segment. This part should contain potential solutions or responses to frequently encountered customer problems or information that might be queried by a customer, referred to as {{resolution_or_information}}.
+
+->>>>
+
+Our service script now consists of the Introduction, Customer Verification, Customer Query Description, and the Resolution or Information segments:
+
+Introduction:
+{{step_1}}
+
+Customer Verification:
+{{step_2}}
+
+Customer Query Description:
+{{step_3}}
+
+Resolution or Information:
+{{step_4}}
+
+Next, construct a section that deals with difficult customers or escalated issues. We need to provide phrases and actions that can help defuse the situation and reassure the customer, listed as {{escalation_management}}.
+
+->>>>
+
+Our service script includes the Introduction, Customer Verification, Customer Query Description, Resolution or Information, and Escalation Management segments:
+
+Introduction:
+{{step_1}}
+
+Customer Verification:
+{{step_2}}
+
+Customer Query Description:
+{{step_3}}
+
+Resolution or Information:
+{{step_4}}
+
+Escalation Management:
+{{step_5}}
+
+Finally, draft a conclusion for the service script. This part should thank the customer for their time, review the problem and resolution, and offer further assistance if needed, known as {{ending_interaction}}.
+
