@@ -1,0 +1,109 @@
+Your task is to write an "Animal Rescue Project Proposal" for the "Grant Writing - Animal Welfare" industry, specifically for a "Grant Writer". Let's begin by drafting an executive summary that briefly elucidates the mission of the rescue project: {{project_mission}}. Remember that this summary should include the primary goal or objective you want to achieve through the proposal.
+
+Here's some more context about the Animal Rescue Project Proposal:
+Project Mission: {{project_mission}}
+Organization Name: {{organization_name}}
+Animals At Risk: {{animals_at_risk}}
+Anticipated Rescues: {{anticipated_rescues}}
+Project Timeline: {{project_timeline}}
+Estimated Budget: {{estimated_budget}}
+
+->>>>
+
+We now have initiated our proposal with an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, we will focus on creating an introduction section. This part should focus on the background of the organization applying for the grant, {{organization_name}}, and its previous accomplishments in animal welfare. Furthermore, it should indicate how it aligns with its core values and why the proposed project is essential.
+
+->>>>
+
+We now have an Executive Summary and an Introduction for our proposal:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, let's create a section that describes the problem the project aims to address. In this section, make sure to refer specifically to the animals or breeds at risk: {{animals_at_risk}}. Use statistical data or compelling narratives to underline the urgency of the situation.
+
+->>>>
+
+We have formulated an Executive Summary, an Introduction, and a Problem Statement thus far:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Problem Statement:
+{{step_3}}
+
+Let's move on to drafting the project description. This crucial section should meticulously describe the plan for the proposed rescue project. Make sure to clarify who will be affected by the project and how it results in desirable outcomes, including the predicted number of rescues: {{anticipated_rescues}}.
+
+->>>>
+
+The Executive Summary, Introduction, Problem Statement, and Project Description are in place:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Problem Statement:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+Next, let’s incorporate a section on the project methodology or action plan. This part should include detailed steps that will be taken to navigate anticipated challenges and meet proposed goals. Also, define the project timeline here: {{project_timeline}}.
+
+->>>>
+
+We now have an Executive Summary, Introduction, Problem Statement, Project Description, and a Project Methodology:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Problem Statement:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+Project Methodology:
+{{step_5}}
+
+The next task is to outline the budget required for the successful execution of the project: {{estimated_budget}}. This section should provide a comprehensive breakdown of the financial resources needed for rescue operations, rehabilitation, staffing, maintenance, etc.
+
+->>>>
+
+Our proposal now holds an all-inclusive budget estimation as well:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Problem Statement:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+Project Methodology:
+{{step_5}}
+
+Budget Estimation:
+{{step_6}}
+
+Lastly, let's conclude by making a compelling appeal, summarizing why the organization should receive the grant. It's important to underscore how the project will foster improved animal welfare in the future here.
+

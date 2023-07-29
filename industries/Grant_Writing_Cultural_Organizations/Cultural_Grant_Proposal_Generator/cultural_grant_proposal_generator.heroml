@@ -1,0 +1,110 @@
+Your task is to write a "Cultural Event Proposal" for the "Grant Writing - Cultural Organizations" industry, specifically for a "Grant Writer". Let's start by introducing the proposal with an introductory paragraph that outlines the purpose and significance of the cultural event: {{event_significance}}.
+
+Here's some more context about the Cultural Event Proposal:
+Event Significance: {{event_significance}}
+Organization Mission: {{organization_mission}}
+Demographic Details: {{demographic_details}}
+Event Details: {{event_details}}
+Event Activities: {{event_activities}}
+Event Budget: {{event_budget}}
+Marketing Strategy: {{marketing_strategy}}
+
+->>>>
+
+Now, we have created an introduction for our Cultural Event Proposal:
+
+Introduction:
+{{step_1}}
+
+Next, provide a detailed explanation or background of the cultural event. Outline the anticipated benefits to the intended audience and explain how it aligns with the organization's mission: {{organization_mission}}.
+
+->>>>
+
+In our proposal, we have an introduction and an overview of the cultural event:
+
+Introduction:
+{{step_1}}
+
+Event Explanation and Benefits:
+{{step_2}}
+
+Moving on, provide details on the target demographic for the cultural event, including elements like age range, cultural background, and other relevant sociodemographics: {{demographic_details}}.
+
+->>>>
+
+In our cultural event proposal, we outlined:
+
+Introduction:
+{{step_1}}
+
+Event Explanation and Benefits:
+{{step_2}}
+
+Target Demographic:
+{{step_3}}
+
+Now, specify the date, venue, and estimated number of attendees for the event: {{event_details}}.
+
+->>>>
+
+In the proposal, we have:
+
+Introduction:
+{{step_1}}
+
+Event Explanation and Benefits:
+{{step_2}}
+
+Target Demographic:
+{{step_3}}
+
+Event Details:
+{{step_4}}
+
+Next, outline the specific activities to be carried out during the cultural event. An appealing timeline representation would be perfect for this: {{event_activities}}.
+
+->>>>
+
+Now, our proposal consists of:
+
+Introduction:
+{{step_1}}
+
+Event Details:
+{{step_4}}
+
+Event Activities:
+{{step_5}}
+
+Then, detail the event budget, showing the necessary funds required to execute the cultural event. Breakdown costs for logistics, honorariums, advertising, venue rental, and supplies: {{event_budget}}.
+
+->>>>
+
+The cultural event proposal now has:
+
+Introduction:
+{{step_1}}
+
+Event Activities:
+{{step_5}}
+
+Event Budget:
+{{step_6}}
+
+Provide a strategic marketing and publicity plan for the cultural event, focusing on how it will effectively reach and engage your target audience: {{marketing_strategy}}.
+
+->>>>
+
+The cultural event proposal with crucial details is now as follows:
+
+Introduction:
+{{step_1}}
+
+Event Budget:
+{{step_6}}
+
+Marketing Strategy:
+{{step_7}}
+
+Now, state why this particular cultural event should receive grant funding, emphasising its potential positive impacts on cultural awareness, community engagement, and other applicable fields.
+

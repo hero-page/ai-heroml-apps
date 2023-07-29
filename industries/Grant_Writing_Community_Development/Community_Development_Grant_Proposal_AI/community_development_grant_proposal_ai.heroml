@@ -1,0 +1,109 @@
+Your task is to write a "Community Project Proposal" for the "Grant Writing - Community Development" industry, specifically for a "Grant Writer". Let's start by crafting an executive summary encapsulating the project's essence: {{project_summary}}.
+
+Here's some more context about the Community Project Proposal:
+Project Summary: {{project_summary}}
+Community Description: {{community_description}}
+Project Background: {{project_background}}
+Project Objectives: {{project_objectives}}
+Project Outcomes: {{project_outcomes}}
+Project Budget Timeline: {{project_budget_timeline}}
+
+->>>>
+
+Now that we have an executive summary for our proposal:
+
+Executive Summary:
+{{step_1}}
+
+We are to write an introduction providing a comprehensive description of the local community: {{community_description}}. We should consider the community's distinct characteristics, strengths, weaknesses, and any unique challenges it is facing.
+
+->>>>
+
+Our community project proposal now includes an Executive Summary and Introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, we need to provide a background section which shows the project's origin and inspiration: {{project_background}}.
+
+->>>>
+
+So far, our community project proposal has an Executive Summary, Introduction and Project Background:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Background:
+{{step_3}}
+
+Next, elaborate on the project details discussing the objectives of the project: {{project_objectives}}. Ensure each objective is Specific, Measurable, Achievable, Relevant, and Time-based (SMART). Also, include the methods or strategies that will be used to attain these objectives.
+
+->>>>
+
+Currently in our community project proposal, we have an Executive Summary, Introduction, Project Background, and a detailed explanation of the Project Objectives:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Background:
+{{step_3}}
+
+Project Objectives:
+{{step_4}}
+
+Next, we need to highlight expected outcomes of the project: {{project_outcomes}}. The outcomes should be specific, realistic and if possible, quantifiable.
+
+->>>>
+
+We now have detailed project outcomes in our community project proposal:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Background:
+{{step_3}}
+
+Project Objectives:
+{{step_4}}
+
+Expected Project Outcomes:
+{{step_5}}
+
+We must now include a section that outlines the project timeline, budget, and resource allocation: {{project_budget_timeline}}. It should be practical and transparent, conveying full understanding of the resource and financial implications.
+
+->>>>
+
+Our community proposal, now includes the project timeline and budget:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Project Background:
+{{step_3}}
+
+Project Objectives:
+{{step_4}}
+
+Expected Project Outcomes:
+{{step_5}}
+
+Project Budget and Timeline:
+{{step_6}}
+
+Lastly, we should write a conclusion that reaffirms the necessity and potential benefits of the project: {{project_summary}}. This conclusion will reemphasize the project's anticipated positive influence on community development.
+

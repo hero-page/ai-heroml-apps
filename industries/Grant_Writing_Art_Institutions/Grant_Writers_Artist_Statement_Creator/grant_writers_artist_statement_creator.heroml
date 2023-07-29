@@ -1,0 +1,67 @@
+Your task is to write an "Artist Statement" for the "Grant Writing - Art Institutions" industry, specifically for a "Grant Writer". 
+
+Let's start by crafting an engaging introduction for the artist statement. This should provide insights into the artist's background, the style of art they specialize in, and an overview of their work, including the medium used, methodology, and the thematic focus of their art.
+
+Here's some more context about the Artist Statement:
+Artist Intro: {{artist_intro}}
+Overview Art: {{overview_art}}
+Artistic Vision: {{artistic_vision}}
+Inspirations: {{inspirations}}
+Relevance: {{relevance}}
+Future Projects: {{future_projects}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+After writing the introduction, let's review what we have now:
+
+Artist background and genre overview:
+{{step_1}}
+
+Next, let's proceed to write the body of the statement. This should describe the artist's philosophy and artistic vision, including their intentions in creating art and what they hope to communicate or achieve. Additionally, we should discuss the artist’s inspirations or influences that drive their work.
+
+->>>>
+
+Now, we have an introduction and description of the artist's vision and inspirations:
+
+Introduction:
+{{step_1}}
+
+Artist's vision and inspirations:
+{{step_2}}
+
+The next step is critical, we need to discuss the relevance of the artist's works to broader societal or cultural themes or issues. Emphasize the potential impact of the artist's work both within and beyond the artistic community.
+
+->>>>
+
+So far, we have:
+
+Introduction:
+{{step_1}}
+
+Artist's vision and inspirations:
+{{step_2}}
+
+Relevance of the artist's work:
+{{step_3}}
+
+Let's then move towards discussing the artist's future plans. Include any ongoing or upcoming projects, goals, or ambitions that the artist has. Also, include prerequisites or requirements that the requested grant will enable, to make a case for funding.
+
+->>>>
+
+Here's the progress of our Artist Statement:
+
+Introduction:
+{{step_1}}
+
+Artist's vision and inspirations:
+{{step_2}}
+
+Relevance of the artist's work:
+{{step_3}}
+
+Future plans of the artist:
+{{step_4}}
+
+To end our artist statement, let's summarize the key points and conclude. The ending should highlight the artist's dedication towards their work and the potential for their future contributions to the art world.
+

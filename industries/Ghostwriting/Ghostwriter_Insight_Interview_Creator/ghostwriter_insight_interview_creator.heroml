@@ -1,0 +1,97 @@
+Your task is to write an "Interview with a Ghostwriter" for the "Ghostwriting" industry, specifically for a "Blogger". Let's start by generating an introduction that provides the context for the interview: {{context}}. This could include the reason for the interview, the role of the ghostwriter, and the relevance of their work in the blogging industry.
+
+Here's some more context about the Interview with a Ghostwriter:
+Context: {{context}}
+Process Questions: {{process_questions}}
+Creative Questions: {{creative_questions}}
+
+->>>>
+
+We are conducting an interview with a Ghostwriter and the introduction to this interview is:
+
+Introduction:
+{{step_1}}
+
+Next, let's focus on the ghostwriter's background and experience. Key questions may include: How did the ghostwriter begin their career? What kind of content do they specialize in? How many projects have they done? What types of clients (bloggers, authors, businesses) have they worked with?
+
+->>>>
+
+So far in the interview, we have covered:
+
+Introduction:
+{{step_1}}
+
+The Ghostwriter's Background and Experience:
+{{step_2}}
+
+Now, shift the focus of the questions to the day-to-day process of the ghostwriter. {{process_questions}} aim to shed light on how they conduct research, gather information, and create content. Specific to the blogging industry, inquire how they keep up with trends, create engaging content and handle SEO.
+
+->>>>
+
+Up to this point in the interview, this is what we discussed:
+
+Background and Experience:
+{{step_2}}
+
+Ghostwriter's Daily Process:
+{{step_3}}
+
+Next, ask about the ghostwriter's perspective on ethics and confidentiality. Explore how they maintain client privacy and manage copyrights. This includes how they handle the fact that they write without receiving public recognition.
+
+->>>>
+
+So far, the interview has covered:
+
+Ghostwriter's Daily Process:
+{{step_3}}
+
+Ghostwriter's Ethics and Confidentiality:
+{{step_4}}
+
+A key part of the interview is exploring the creative process. Let's inquire about the challenges and rewards of ghostwriting for bloggers.{{creative_questions}} can look into how they manage to emulate the blogger's voice and style, how they ensure content uniqueness, and tips on handling writer's block.
+
+->>>>
+
+Thus far, the interview includes:
+
+Ghostwriter's Ethics and Confidentiality:
+{{step_4}}
+
+Ghostwriter's Creative Process:
+{{step_5}}
+
+Ask questions about their thoughts on trends in the ghostwriting and blogging industry to uncover unique insights and predictions.
+
+->>>>
+
+Based on our conversation so far:
+
+Ghostwriter's Creative Process:
+{{step_5}}
+
+Ghostwriter's Industry Insights:
+{{step_6}}
+
+Our closer for the main body of the interview could involve questions about their future plans, possible advice for aspiring writers and whether they have any inspirational sources or role models.
+
+->>>>
+
+At this point in the interview, the main topics include:
+
+Ghostwriter's Industry Insights:
+{{step_6}}
+
+Ghostwriter's Future Plans and Inspirations:
+{{step_7}}
+
+With the main discussion points covered, let's summarize the key takeaways from the major topics.
+
+->>>>
+
+So far, we have the following main points from our conversation:
+
+Points Covered:
+{{step_8}}
+
+Conclude the interview by summarising the ghostwriter's career, their processes, ethics, and industry insights, an encapsulated narrative of their journey and unique experiences in the industry. Highlight how these insights can provide valuable learning for readers, especially bloggers.
+

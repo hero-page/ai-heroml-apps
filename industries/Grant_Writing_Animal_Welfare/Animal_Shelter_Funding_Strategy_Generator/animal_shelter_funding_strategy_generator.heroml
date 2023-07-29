@@ -1,0 +1,85 @@
+Your task is to write a "Long-Term Funding Strategy" for the "Grant Writing - Animal Welfare" industry, specifically for a "Shelter Manager". Let's start by introducing the document. This introduction should address the purpose and intent of the document and specify the objective: {{funding_objective}}, in clear, concise terms.
+
+Here's some more context about the Long-Term Funding Strategy:
+Funding Objective: {{funding_objective}}
+Current Funding: {{current_funding}}
+Future Costs: {{future_costs}}
+Potential Funding Sources: {{potential_funding_sources}}
+Strategy To Gain Funding: {{strategy_to_gain_funding}}
+Potential Obstacles: {{potential_obstacles}}
+
+->>>>
+
+We now have the introduction of our "Long-Term Funding Strategy":
+
+Introduction:
+{{step_1}}
+
+Let's progress by reviewing and detailing the current state of your animal shelter's funding. This section should outline the source of present funds: {{current_funding}} and describe your current financial situation.
+
+->>>>
+
+We now have the introduction and the current funding state of our "Long-Term Funding Strategy":
+
+Introduction:
+{{step_1}}
+
+Current Funding State:
+{{step_2}}
+
+Next, identify and enumerate future needs. Discuss expected future costs: {{future_costs}} involved in the running and improvement of the shelter, remembering to factor in growth and inflation.
+
+->>>>
+
+In our "Long-Term Funding Strategy", we've detailed our introduction, current funding state, and future needs:
+
+Introduction:
+{{step_1}}
+
+Current Funding State:
+{{step_2}}
+
+Future Needs:
+{{step_3}}
+
+Next, create a section for potential funding sources. This should include information about both current funders who can provide more funding, new funders and additional revenue streams: {{potential_funding_sources}}.
+
+->>>>
+
+The "Long-Term Funding Strategy" now consists of an introduction, current funding state, future needs, and potential funding sources:
+
+Introduction:
+{{step_1}}
+
+Current Funding State:
+{{step_2}}
+
+Future Needs:
+{{step_3}}
+
+Potential Funding Sources:
+{{step_4}}
+
+Consolidating these points, develop a section that strategizes how you will approach these potential funders. Convey the importance of their donations using specific examples of how their funding will help like: {{strategy_to_gain_funding}}.
+
+->>>>
+
+Our "Long-Term Funding Strategy" includes an introduction, an overview on the current and future funding state, potential funding sources, and a strategy to approach these sources:
+
+Introduction:
+{{step_1}}
+
+Current Funding State:
+{{step_2}}
+
+Future Needs:
+{{step_3}}
+
+Potential Funding Sources:
+{{step_4}}
+
+Strategy to Gain Funding:
+{{step_5}}
+
+Next, brainstorm and discuss possible challenges and map out a contingency plan in case of unsuccessful funding rounds. Define potential obstacles: {{potential_obstacles}} and generate strategies to counter them.
+

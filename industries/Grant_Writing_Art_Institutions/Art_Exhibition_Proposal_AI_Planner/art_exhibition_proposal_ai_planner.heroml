@@ -1,0 +1,139 @@
+Start by writing an executive summary for the Exhibition Proposal, providing an engaging overview of the proposed exhibition: {{exhibition_overview}}.
+
+Here's some more context about the Exhibition Proposal:
+Exhibition Overview: {{exhibition_overview}}
+Artwork And Artist Context: {{artwork_and_artist_context}}
+Relation To Institution And Community Benefits: {{relation_to_institution_and_community_benefits}}
+Artist Background And Exhibition Themes: {{artist_background_and_exhibition_themes}}
+Exhibition Layout And Organization: {{exhibition_layout_and_organization}}
+Contemporary Relevance Or Historic Investigation: {{contemporary_relevance_or_historic_investigation}}
+Logistics And Requirements: {{logistics_and_requirements}}
+Grant Use Breakdown: {{grant_use_breakdown}}
+Conclusion And Funding Request: {{conclusion_and_funding_request}}
+
+->>>>
+
+We've created the executive summary for our Exhibition Proposal:
+
+Executive Summary:
+{{step_1}}
+
+Now, draft an introduction that outlines the context of the exhibition, the artists involved, and the specific artworks: {{artwork_and_artist_context}}.
+
+->>>>
+
+We have an Executive Summary and an Introduction for our Exhibition Proposal:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, let's frame the proposal's purpose, explaining how it relates to the mission of the funding institution and the overall benefits it will bring to the art community: {{relation_to_institution_and_community_benefits}}.
+
+->>>>
+
+Our Exhibition Proposal has an Executive Summary, Introduction, and a Purpose:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Now, we can describe the background of the exhibition artists, their works, and the main theme(s) of the exhibition: {{artist_background_and_exhibition_themes}}.
+
+->>>>
+
+Our Exhibition Proposal includes an Executive Summary, an Introduction, the Purpose, and Artist & Work Background:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Artist and Work Background:
+{{step_4}}
+
+Next, let's outline the proposed layout of the exhibition, including specific locations for each piece: {{exhibition_layout_and_organization}}.
+
+->>>>
+
+For our Exhibition Proposal, we have the Executive Summary, the Introduction, the Purpose, the Artist & Work Background, and the exhibit Layout:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Artist and Work Background:
+{{step_4}}
+
+Exhibition Layout:
+{{step_5}}
+
+It's time to articulate the need for this exhibition and its relevance to contemporary art discourse or historical investigation: {{contemporary_relevance_or_historic_investigation}}.
+
+->>>>
+
+Our Exhibition Proposal includes the Executive Summary, Introduction, Purpose, Artist & Work Background, Layout, and Relevance:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Artist and Work Background:
+{{step_4}}
+
+Exhibition Layout:
+{{step_5}}
+
+Relevance and Significance:
+{{step_6}}
+
+Next, let's address the logistics, including the estimated budget, timeline, resources required, and any potential risks: {{logistics_and_requirements}}.
+
+->>>>
+
+So far in our Exhibition Proposal, we have the Executive Summary, Introduction, Purpose, Artist & Work Background, Layout, Relevance, and Logistics:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Artist and Work Background:
+{{step_4}}
+
+Exhibition Layout:
+{{step_5}}
+
+Relevance and Significance:
+{{step_6}}
+
+Logistics:
+{{step_7}}
+
+Now, let's specify what the grant funding will be used for, by outlining how each dollar will be allocated and how it will contribute to the success of the exhibition: {{grant_use_breakdown}}.
+

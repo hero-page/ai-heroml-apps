@@ -1,0 +1,107 @@
+Your task is to write an "Impact Assessment" for the "Grant Writing - Community Development" industry, specifically for a "Community Planner". 
+
+Let's start with an executive summary outlining what the grant application pertains to: {{grant_subject}}.
+
+Here's some more context about the Impact Assessment:
+Grant Subject: {{grant_subject}}
+Community Challenges: {{community_challenges}}
+Project Description: {{project_description}}
+Impact Areas: {{impact_areas}}
+Measurement Plan: {{measurement_plan}}
+Mitigation Strategies: {{mitigation_strategies}}
+Next Steps: {{next_steps}}
+Citation References: {{citation_references}}
+
+->>>>
+
+We have started our Impact Assessment and have an executive summary. The summary outlines the proposed project for grant application:
+
+Executive Summary:
+{{step_1}}
+
+Next, craft an introduction that provides a background of the community and the challenges it faces: {{community_challenges}}.
+
+->>>>
+
+The Impact Assessment now have an executive summary and an introduction. The introduction provides the context for the project and the need for the grant application:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+The next step is to discuss the proposed project or intervention in detail. This includes discussing its goals, duration, activities, and how it will address the challenges identified in the introduction.
+
+->>>>
+
+Our Impact Assessment now includes details of the proposed project. We have discussed goals, duration, activities, and its relevance to the challenges faced by the community:
+
+Introduction:
+{{step_2}}
+
+Proposed Project Description:
+{{step_3}}
+
+The next step involves performing an Impact Analysis. Assess and write about anticipated impacts of the proposed project on the community's infrastructure, economy, social structure, and environment.
+
+->>>>
+
+Our Impact Assessment now covers the proposed project details and a thorough Impact Analysis. The analysis assesses potential impacts on different facets of the community:
+
+Proposed Project Description:
+{{step_3}}
+
+Impact Analysis:
+{{step_4}}
+
+Next, create a Measurement Plan that elaborates methods to be used to measure the impacts in each area. Underline the criteria to review the progress and success of the proposed project.
+
+->>>>
+
+Our Impact Assessment now includes a Measurement Plan that outlines methods to evaluate the impacts in each area of the community:
+
+Impact Analysis:
+{{step_4}}
+
+Measurement Plan:
+{{step_5}}
+
+Now, discuss strategies to mitigate any potential negative impacts of the project. Demonstrate planning around potential pitfalls.
+
+->>>>
+
+The Impact Assessment has progressed and now includes a discussion on the mitigation strategies:
+
+Measurement Plan:
+{{step_5}}
+
+Mitigation Strategies:
+{{step_6}}
+
+Let's conclude the Impact Assessment by summarizing potential positive and negative effects. Explain the net benefit for the community from the proposed project.
+
+->>>>
+
+The Impact Assessment now has a conclusion that aligns with the proposed project and its potential impact on the community:
+
+Mitigation Strategies:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+The next step is to draft an actionable plan addressing the 'Next Steps', indicating how the project team plans to proceed once the grant is approved.
+
+->>>>
+
+The Impact Assessment now includes an actionable plan outlining the steps the project team will take upon grant approval:
+
+Conclusion:
+{{step_7}}
+
+Next Steps:
+{{step_8}}
+
+Lastly, provide references to any relevant research, articles, or evidence supporting the impact assessment in the citation style most appropriate to the industry.
+

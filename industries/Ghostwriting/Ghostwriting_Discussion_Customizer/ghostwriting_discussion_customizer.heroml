@@ -1,0 +1,86 @@
+Your task is to write a "Ghostwriting Industry Discussion" for the "Ghostwriting" industry, specifically for a "Blogger". 
+Let's begin by crafting an introduction that sets the context of the discussion regarding new trends in the ghostwriting field or issues faced by bloggers about ghostwriting.
+
+Here's some more context about the Ghostwriting Industry Discussion:
+Discussion Context: {{discussion_context}}
+Background On Ghostwriting: {{background_on_ghostwriting}}
+Central Theme Or Problem: {{central_theme_or_problem}}
+Specifics Of The Theme Or Problem: {{specifics_of_the_theme_or_problem}}
+Current State Analysis: {{current_state_analysis}}
+Potential Solutions: {{potential_solutions}}
+
+->>>>
+
+For the "Ghostwriting Industry Discussion", this is the context-setting introduction:
+
+Introduction:
+{{step_1}}
+
+Next, provide a background on the ghostwriting industry as it pertains to this discussion. You could include information such as the size of the industry, common practices, and how it has evolved over time.
+
+->>>>
+
+For our discussion on the ghostwriting industry, we have an introduction and some background information:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+In the body of the discussion, let's introduce the central theme or problem bloggers face. This could be ethical implications, financial considerations, or visibility of women in the ghostwriting industry.
+
+->>>>
+
+For our "Ghostwriting Industry Discussion", we have our introduction, some background information, and a central theme or problem introducing:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Central theme or problem:
+{{step_3}}
+
+Next, delve into the specifics of this central theme or problem. Use real-life examples and personal anecdotes to provide a deeper understanding.
+
+->>>>
+
+In our "Ghostwriting Industry Discussion", with an introduction, background information, and central theme/problem, we expanded on the details related to the central theme or problem:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Central theme or problem:
+{{step_3}}
+
+Specifics of the theme or problem:
+{{step_4}}
+
+Keeping the obtained specifics in mind, provide an analysis or critique of the current state of the issue within the ghostwriting industry. Be sure to contrast this with practices in other writing industries if that's relevant.
+
+->>>>
+
+For our "Ghostwriting Industry Discussion", we now have an introduction, background, the central theme or problem, its specifics, and an analysis of the present situation:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Central theme or problem:
+{{step_3}}
+
+Specifics of the theme or problem:
+{{step_4}}
+
+Current state analysis:
+{{step_5}}
+
+Now, introduce potential solutions or methods of dealing with the problem in the ghostwriting industry. Fuel a discussion about the pros and cons of each solution.
+

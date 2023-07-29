@@ -1,0 +1,80 @@
+Your task is to write a "Grant Application" for the "Grant Writing - Education Institutions" industry, specifically for a "Grant Writer". Let's begin by drafting a compelling summary of your institution and the proposed project.
+
+Here's some more context about the Grant Application:
+Institution And Project Summary: {{institution_and_project_summary}}
+Educational Institution Description: {{educational_institution_description}}
+Project Details: {{project_details}}
+Problems And Beneficiaries: {{problems_and_beneficiaries}}
+Project Timeline: {{project_timeline}}
+Project Budget: {{project_budget}}
+Sustainability Plan: {{sustainability_plan}}
+
+->>>>
+
+Now that we have a compelling summary:
+
+Institution and Project Summary:
+{{step_1}}
+
+Next, craft an organisation background section providing an in-depth description of your educational institution, its mission, and its key achievements. Be sure to mention any noteworthy partnerships with reputable organisations, success stories that show your institution’s commitment towards better education, and your various educational offerings.
+
+->>>>
+
+We have a compelling summary and a background for our educational institution:
+
+Institution and Project Summary:
+{{step_1}}
+
+Education Institution Description:
+{{step_2}}
+
+Moving forward, let's design a detailed project description that includes rationale, objectives, methods, and expected outcomes. Highlight the unique, innovative strategies, or educational techniques you plan to utilise, emphasising their potential for achieving the proposed objective effectively.
+
+->>>>
+
+Here's what we have so far:
+
+Education Institution Description:
+{{step_2}}
+
+Project Details:
+{{step_3}}
+
+In the upcoming segment, elucidate on the need or beneficiaries for the project. Explain the problems the project will solve, and specify the demographic or community that stands to benefit from the project. Use statistics to quantify the problem and provide evidence that your project is targeting a significant issue in education.
+
+->>>>
+
+Our project details and explanation of problems and beneficiaries are as follows:
+
+Project Details:
+{{step_3}}
+
+Problems and Beneficiaries:
+{{step_4}}
+
+Next, draft a project timeline, outlining how the project will be implemented over time, and marking when critical milestones will be achieved. Ensure this section presents a realistic and achievable project schedule.
+
+->>>>
+
+Here are our project's beneficiaries and its timeline:
+
+Problems and Beneficiaries:
+{{step_4}}
+
+Project Timeline:
+{{step_5}}
+
+Next, we need to create a budget section with a detailed overview of costs associated with the project. Detail any co-funding or partnership with other organizations to carry out your project and explain how you'll leverage this grant to achieve maximum impact.
+
+->>>>
+
+Now we have a project timeline and a detailed budget for the project:
+
+Project Timeline:
+{{step_5}}
+
+Project Budget:
+{{step_6}}
+
+Last but not least, compose a sustainability plan explaining how the project will sustain itself in the long term after the grant period has ended.
+

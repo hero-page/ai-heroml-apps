@@ -1,0 +1,64 @@
+Your task is to write a "Budget Summary" for the "Grant Writing - Cultural Organizations" industry, specifically for a "Grant Writer". Let's begin with the Introduction, where we give a brief overview explaining what the "Budget Summary" contains, introducing the request for funds from the grant-awarding body. Use {{organization_name}} and {{grant_body}} for specificity.
+
+Here's some more context about the Budget Summary:
+Organization Name: {{organization_name}}
+Grant Body: {{grant_body}}
+Cultural Initiatives: {{cultural_initiatives}}
+Expenses Categories: {{expenses_categories}}
+Other Funding Sources: {{other_funding_sources}}
+Sustainability Plan: {{sustainability_plan}}
+
+->>>>
+
+For the "Budget Summary", we have an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's present the purpose or necessity of the grant for {{organization_name}}. Highlight the specific cultural projects, events, or programs for which funding is needed, and justify why this is necessary and valuable for the community. Describe these initiatives using the {{cultural_initiatives}} dynamic variable.
+
+->>>>
+
+Our "Budget Summary" now includes the purpose and justification:
+
+Introduction:
+{{step_1}}
+
+Purpose and Justification:
+{{step_2}}
+
+Now, we need to give a detailed itemized account of how the funds will be used. We'll separate it into categories such as salaries, equipment, facility maintenance, etc., based on {{expenses_categories}}. Be sure to include specifics about the costs of each proposed expenditure.
+
+->>>>
+
+In the "Budget Summary", we now have the introduction, purpose and justification, and a detailed budget:
+
+Introduction:
+{{step_1}}
+
+Purpose and Justification:
+{{step_2}}
+
+Detailed Budget:
+{{step_3}}
+
+Next, let's discuss other sources of funding apart from the grant for which the "Budget Summary" is being prepared. These might include individual donations, membership dues, ticket sales etc. - falling under {{other_funding_sources}}. A detailed disclosure will provide a complete picture of the financial situation of {{organization_name}}.
+
+->>>>
+
+In our "Budget Summary", we've discussed the introduction, purpose, detailed budget, and additional sources of funding:
+
+Introduction:
+{{step_1}}
+
+Purpose and Justification:
+{{step_2}}
+
+Detailed Budget:
+{{step_3}}
+
+Sources of Funding:
+{{step_4}}
+
+Now, let's discuss the plans to maintain or increase these funding sources in the future. Position {{organization_name}} as a sustainable entity even as it requests grant funding, using {{sustainability_plan}} 
+

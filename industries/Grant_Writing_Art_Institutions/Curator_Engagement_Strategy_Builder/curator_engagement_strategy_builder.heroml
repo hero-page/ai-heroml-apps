@@ -1,0 +1,85 @@
+Your task is to write a "Public Engagement Strategy" for the "Grant Writing - Art Institutions" industry, specifically for a "Curator". 
+Start with creating an introductory section that explains the overall goals and vision of the art institution: {{institution_goals}}. 
+
+Here's some more context about the Public Engagement Strategy:
+Institution Goals: {{institution_goals}}
+Art Initiatives: {{art_initiatives}}
+Audience Traits: {{audience_traits}}
+Engagement Methods: {{engagement_methods}}
+Engagement Measure: {{engagement_measure}}
+
+->>>>
+
+Now that we have a clear explanation of the overall goals and vision of the art institution:
+
+Institution goals and vision:
+{{step_1}}
+
+Next, provide an overview of the specific art initiatives or exhibitions that need public engagement: {{art_initiatives}}.
+
+->>>>
+
+Now we have the goals and vision of the institution and an overview of the art initiatives or exhibitions:
+
+Institution goals and vision:
+{{step_1}}
+
+Art initiatives/exhibitions needing public engagement:
+{{step_2}}
+
+Moving forward, we need to identify and describe the target audience for these initiatives, including their demographic, behaviors, and art interests: {{audience_traits}}.
+
+->>>>
+
+For our public engagement strategy, we have described the art institution's goals, the art initiatives, and the target audience:
+
+Institution goals and vision:
+{{step_1}}
+
+Art initiatives/exhibitions needing public engagement:
+{{step_2}}
+
+Target audience:
+{{step_3}}
+
+Let's now outline different engagement channels and techniques suitable for the target audience and the specific initiatives: {{engagement_methods}}.
+
+->>>>
+
+In developing a public engagement strategy, we've identified the art institution's goals, the art initiatives, the target audience, and suitable engagement methods:
+
+Institution goals and vision:
+{{step_1}}
+
+Art initiatives/exhibitions needing public engagement:
+{{step_2}}
+
+Target audience:
+{{step_3}}
+
+Engagement methods:
+{{step_4}}
+
+Next, let's discuss how these engagement activities align with the wider mission of the institution and the specific objectives of the curated content: {{institution_goals}} & {{art_initiatives}}.
+
+->>>>
+
+We have developed an outline for a public engagement strategy, including goals, initiatives, target audience, engagement methods, and their alignment:
+
+Institution goals and vision:
+{{step_1}}
+
+Art initiatives/exhibitions needing public engagement:
+{{step_2}}
+
+Target audience:
+{{step_3}}
+
+Engagement methods:
+{{step_4}}
+
+Engagement activities alignment:
+{{step_5}}
+
+Next, discuss measures to assess the level of engagement and the impact of these activities on audience interest and attendance: {{engagement_measure}}.
+

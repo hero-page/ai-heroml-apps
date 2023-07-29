@@ -1,0 +1,77 @@
+Let's start the "Community Needs Assessment" for the "Grant Writing - Community Development" industry, aimed at a "Grant Writer". 
+We will begin with an executive summary that overviews the main findings of the assessment: {{assessment_overview}}. This executive summary should capture the reader's interest and offer a concise snapshot of the following report.
+
+Here's some more context about the Community Needs Assessment:
+Assessment Overview: {{assessment_overview}}
+Community Context: {{community_context}}
+Current State: {{current_state}}
+Needs Analysis: {{needs_analysis}}
+Development Opportunities: {{development_opportunities}}
+Strategic Recommendations: {{strategic_recommendations}}
+
+->>>>
+
+Using the executive summary above,
+Title: Executive Summary
+{{step_1}}
+
+Next, craft an introduction that offers the community context: {{community_context}}. Elucidate why this assessment was undertaken, the community it addresses, the assessment's scope, and the methodology applied.
+
+->>>>
+
+Giving context to the community assessment's introduction from the first step,
+Executive Summary: 
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, describe the community's current state. Be sure to include key demographic information, economic data, and details of infrastructure: {{current_state}}. Keep the description objective and reliant on data-driven points.
+
+->>>>
+
+Having established the current state of the community, we have:
+Introduction: 
+{{step_2}}
+
+Current State of the Community:
+{{step_3}}
+
+Proceed with a robust analysis of the community's needs. This should be the most detailed section of your assessment. Discuss the challenges faced by the community and the effects on different socio-economic groups: {{needs_analysis}}.
+
+->>>>
+
+After examining the community's needs, we have:
+Current State of the Community:
+{{step_3}}
+
+Needs Analysis:
+{{step_4}}
+
+Following the deep analysis, identify potential opportunities for community development. Highlight areas where intervention could result in significant improvements. List these opportunities: {{development_opportunities}}.
+
+->>>>
+
+Post identifying the community's needs and proposing potential developmental opportunities, we have:
+Needs Analysis:
+{{step_4}}
+
+Development Opportunities:
+{{step_5}}
+
+Draw the assessment to a close with strategic recommendations based on your analysis. Detail specific projects or initiatives that could be financed with grants and how they address the identified community needs: {{strategic_recommendations}}.
+
+->>>>
+
+Post detailed analysis and identification of development opportunities, we've come up with some strategic recommendations:
+Development Opportunities:
+{{step_5}}
+
+Strategic Recommendations:
+{{step_6}}
+
+The next step is to raise the reliability and relevance of your assessment with potent industry-specific elements, such as:
+- Applying established community development theories and practices to reinforce your findings and recommendations.
+- Detail your suggestions’ alignment with the priorities of popular grant providers in the community development arena.
+- Presenting relevant case studies to prove the potential impact of your proposed interventions.
+

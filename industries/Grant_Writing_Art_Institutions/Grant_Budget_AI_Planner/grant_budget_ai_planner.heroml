@@ -1,0 +1,93 @@
+Your task is to write a "Budget Outline" for a "Grant Writer" working in the "Grant Writing - Art Institutions" industry. Let's start with an introduction that outlines the purpose of the grant proposal: {{grant_purpose}}. This should provide a high-level summary of the major cost factors and the rationale behind their inclusion in the budget.
+
+Here's some more context about the Budget Outline:
+Grant Purpose: {{grant_purpose}}
+Revenue List: {{revenue_list}}
+Cost Categories: {{cost_categories}}
+Expense Items: {{expense_items}}
+Indirect Costs: {{indirect_costs}}
+Cost Justifications: {{cost_justifications}}
+Contingency Line: {{contingency_line}}
+Budget Summary: {{budget_summary}}
+
+->>>>
+
+We raise a compelling introduction to the budget outline:
+
+Introduction:
+{{step_1}}
+
+Progressing, we need to enumerate all income sources as part of the Revenue summary which includes the requested grant amount, income from ticket sales, donations, memberships, advertisement revenue, etc. Modify these inputs according to the nature of your institution: {{revenue_list}}.
+
+->>>>
+
+For our budget outline, we have introduction and Revenue summary:
+
+Introduction:
+{{step_1}}
+
+Revenue Summary:
+{{step_2}}
+
+Next, we need to itemize the project costs by categorizing them into broad segments like Personnel Costs, Operations Costs, and Programming Costs. Each of these categories should be further broken down, like the Personnel Costs may include salaries, benefits, and taxes: {{cost_categories}}.
+
+->>>>
+
+For our budget outline, we have Revenue Summary and categorized Project Costs:
+
+Revenue Summary:
+{{step_2}}
+
+Project Costs:
+{{step_3}}
+
+Now, within each category, supply a bullet-point list of expense items. For Personnel Costs, this could include: salaries and wages, employee benefits, taxes, and consultants' fees. Each item should have an associated cost estimate: {{expense_items}}.
+
+->>>>
+
+For the budget outline, we have Project Costs and detailed Expense Items:
+
+Project Costs:
+{{step_3}}
+
+Expense Items:
+{{step_4}}
+
+As the next step, we are to add a section addressing indirect costs, if applicable. Indirect costs could be costs that are not readily identifiable with a specific project, but are nevertheless necessary to the operation of the organization and the performance of the project. Examples might include utilities, general insurance, and administrative salaries: {{indirect_costs}}.
+
+->>>>
+
+For our budget outline, we have Expense Items and Indirect Costs:
+
+Expense Items:
+{{step_4}}
+
+Indirect Costs:
+{{step_5}}
+
+Now, we are to present a justification for each cost. This implies not only enumerating what funds will be spent on, but also explaining why these expenses are integral for achieving the grant objectives. For example, if a part of the grant is to fund an educational program at the museum, detail what the program entails including the cost of personnel and materials: {{cost_justifications}}.
+
+->>>>
+
+The budget outline presently has Indirect Costs and Cost Justifications:
+
+Indirect Costs:
+{{step_5}}
+
+Cost Justifications:
+{{step_6}}
+
+We must include a line for contingency to cover unexpected costs: {{contingency_line}}.
+
+->>>>
+
+The sections thus far in the budget outline includes Cost Justifications and a Contingency Line:
+
+Cost Justifications:
+{{step_6}}
+
+Contingency Line:
+{{step_7}}
+
+Finally, we conclude the Budget Outline with a summary that revisits the total income and total expenditure. This demonstrates that the budget balances (or the degree of deficit, to be covered by the planned income). Add a note asserting that the proposed budget is realistic, directly relates to the funding request, and aligns with the organization's goal of providing enriching art experiences: {{budget_summary}}.
+

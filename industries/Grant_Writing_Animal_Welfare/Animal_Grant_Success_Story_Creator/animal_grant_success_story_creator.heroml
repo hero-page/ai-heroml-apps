@@ -1,0 +1,102 @@
+Your task is to write a Beneficiary Success Story for the Grant Writing - Animal Welfare industry, specifically for a Shelter Manager. 
+
+Let's start with an introduction that gives a brief overview of the animal welfare shelter named {{animal_shelter}}.
+
+Here's some more context about the Beneficiary Success Story:
+Animal Shelter: {{animal_shelter}}
+Grant Description: {{grant_description}}
+Animal Story: {{animal_story}}
+Animal Journey: {{animal_journey}}
+Lessons Learned: {{lessons_learned}}
+Future Plans: {{future_plans}}
+
+->>>>
+
+Now we have an introduction to our animal welfare shelter:
+
+Introduction:
+{{step_1}}
+
+Considering this overview, let's describe the specific grant money received, its purpose, and its impact on {{animal_shelter}}.
+
+->>>>
+
+Now we have a detailed description of the grant money received by the {{animal_shelter}}:
+
+Grant Description:
+{{step_2}}
+
+We understand how the shelter works and how the grant was utilized. Let's introduce the beneficiary; create an engaging narrative about one or a few specific animal(s) that directly benefitted from the grant.
+
+->>>>
+
+For our Beneficiary Success Story, we have:
+
+Introduction:
+{{step_1}}
+
+Grant Description:
+{{step_2}}
+
+Beneficiary Introduction:
+{{step_3}}
+
+Now we know who the beneficiary is. Let's start narrating their journey by describing the problem, that is, the animal's life before it arrived at the shelter. Share any challenges or struggles the animal faced and how they were a direct consequence of the problem the grant was meant to address.
+
+->>>>
+
+In our Beneficiary Success Story, we have:
+
+Introduction:
+{{step_1}}
+
+Grant Description:
+{{step_2}}
+
+Beneficiary Introduction:
+{{step_3}}
+
+Start of the animal's journey (Problem description):
+{{step_4}}
+
+Next, let's focus on the intervention. Explain what the shelter did to help the animal and how the grant was utilized in this process.
+
+->>>>
+
+Our Beneficiary Success Story's narrative is unfolding:
+
+Beneficiary Introduction:
+{{step_3}}
+
+Start of the animal's journey (Problem description):
+{{step_4}}
+
+Shelter Intervention:
+{{step_5}}
+
+Now, let's report on the outcomes of such efforts, detailing how the animal's life improved because of the intervention funded by the grant.
+
+->>>>
+
+In our Beneficiary Success Story, we have:
+
+Shelter Intervention:
+{{step_5}}
+
+Results of the Intervention:
+{{step_6}}
+
+We have a compelling narrative describing the animal's journey. Let's conclude with how the success story can serve as a model for other animal welfare shelters, focusing on lessons learned, best practices, or anecdotes.
+
+->>>>
+
+In our Beneficiary Success Story, we have captured:
+
+Results of the Intervention:
+{{step_6}}
+
+Lessons Learned:
+{{step_7}}
+
+Now, let's end this process by providing an overview of future plans for the shelter and how additional funding would be used to further improve the lives of animals in its care.
+

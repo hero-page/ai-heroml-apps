@@ -1,0 +1,99 @@
+Your task is to write a "Budget Details" for the "Grant Writing - Animal Welfare" industry, specifically for a "Grant Writer".
+Let's start with an introduction that underscores the objective of the grant application: {{grant_objective}}. This can help give context to the budget details and their importance to the animal welfare project.
+
+Here's some more context about the Budget Details:
+Grant Objective: {{grant_objective}}
+
+->>>>
+
+We've started our "Budget Details" with an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, create a category-wise breakdown of the projected expenses which should include categories such as animal care expenses, staff costs, operational costs, and admin costs. Make sure each category is elaborately explained with specifics to {{grant_objective}}.
+
+->>>>
+
+We have laid out our categories of projected expenses:
+
+Introduction:
+{{step_1}}
+
+Projected Expenses:
+{{step_2}}
+
+Now, incorporate an itemized list of all the cost elements present in each of the categories. Each item should include its estimated cost and a short description of its necessity for the project.
+
+->>>>
+
+We've itemized all cost elements:
+
+Projected Expenses:
+{{step_2}}
+
+Itemized Cost Elements:
+{{step_3}}
+
+Next, provide detailed explanations of cost estimates, detailing how the amounts were arrived at. This should be done for all the categories of expenses listed.
+
+->>>>
+
+We have details for each cost estimate:
+
+Itemized Cost Elements:
+{{step_3}}
+
+Cost Estimate Details:
+{{step_4}}
+
+Now, incorporate a section detailing any funds already secured for the animal welfare project, if any. Be sure to include information about the sources of these funds, amounts secured from each source, and how they will be used in the project.
+
+->>>>
+
+For our "Budget Details", we now have information on secured funds:
+
+Cost Estimate Details:
+{{step_4}}
+
+Secured Funds:
+{{step_5}}
+
+Further, detail any in-kind contributions for the project, such as volunteer time, donated services, materials or space. Assign a monetary value to these contributions to represent their contribution to the budget.
+
+->>>>
+
+We've added in-kind contributions to our budget:
+
+Secured Funds:
+{{step_5}}
+
+In-kind Contributions:
+{{step_6}}
+
+Now, describe any future funding prospects, if any. Explain how they will be secured and what they will be used for.
+
+->>>>
+
+For our "Budget Details", we now have an account of future funding prospects:
+
+In-kind Contributions:
+{{step_6}}
+
+Future Funding Prospects:
+{{step_7}}
+
+To conclude the budget, sum up the total costs, considering all the categories, and explain how the budget aligns with the project's purpose - {{grant_objective}}.
+
+->>>>
+
+Our "Budget Details" now include a summary of the total costs and its alignment with the project's purpose:
+
+Future Funding Prospects:
+{{step_7}}
+
+Budget Summary:
+{{step_8}}
+
+Finally, outline a contingency plan that explains the approach to dealing with unexpected and ancillary costs that might arise during the project execution related to {{grant_objective}}. 
+

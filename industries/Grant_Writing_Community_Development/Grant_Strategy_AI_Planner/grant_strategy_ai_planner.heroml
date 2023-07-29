@@ -1,0 +1,86 @@
+Your task is to write a "Project Implementation Strategy" for the "Grant Writing - Community Development" industry, specifically for a "Community Planner". 
+
+Let's start with an executive summary that overviews the project topic: {{project_topic}}. This is where you briefly summarize your intended project and its goals to hook the reader.
+
+Here's some more context about the Project Implementation Strategy:
+Project Topic: {{project_topic}}
+Community Need: {{community_need}}
+Development Trends: {{development_trends}}
+Beneficiaries Description: {{beneficiaries_description}}
+Project Measures: {{project_measures}}
+Success Indicators: {{success_indicators}}
+Implementation Timeline: {{implementation_timeline}}
+Project Budget: {{project_budget}}
+
+->>>>
+
+For a "Project Implementation Strategy", we have started off with the Executive Summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, we need an introduction focusing on the community's need: {{community_need}}. The introduction should also outline the project objectives.
+
+->>>>
+
+For this "Project Implementation Strategy", we have an Executive Summary and an Introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Let's continue the strategy by defining the project's background and its rationale with respect to the current development trends within the community: {{development_trends}}.
+
+->>>>
+
+In the "Project Implementation Strategy", we have an Executive Summary, an Introduction, and a section on Background and Rationale:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Background and Rationale:
+{{step_3}}
+
+Let's now introduce our target beneficiaries and their demographic characteristics and current challenges: {{beneficiaries_description}}.
+
+->>>>
+
+For the "Community Development" project, we have a Background and Rationale, and a section introducing our target Beneficiaries:
+
+Background and Rationale:
+{{step_3}}
+
+Target Beneficiaries:
+{{step_4}}
+
+Next, we'll formulate the actual strategy for the project, detailing the planned measures, activities, or interventions to meet the project objectives, represented by {{project_measures}}.
+
+->>>>
+
+In the "Project Implementation Strategy", we have descriptions for the Target Beneficiaries and the Planned Measures:
+
+Target Beneficiaries:
+{{step_4}}
+
+Planned Measures:
+{{step_5}}
+
+Next, we'll focus on the anticipated project outcomes and indicators of success: {{success_indicators}}. This involves explaining what successful implementation looks like and how it will be measured.
+
+->>>>
+
+In the "Project Implementation Strategy", following the Planned Measures, we've defined the Outcomes and Success Indicators:
+
+Planned Measures:
+{{step_5}}
+
+Outcomes and Success Indicators:
+{{step_6}}
+
+Let's continue by detailing the project implementation timeline: {{implementation_timeline}}, and provide a budget necessary for the project: {{project_budget}}. This offers a realistic look at when and how the project will happen, and the financial resources it would require.
+

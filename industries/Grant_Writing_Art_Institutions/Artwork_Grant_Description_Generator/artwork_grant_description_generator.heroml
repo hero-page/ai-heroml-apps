@@ -1,0 +1,50 @@
+Your task is to write an "Artwork Description" for the "Grant Writing - Art Institutions" industry, tailored specifically for a "Curator". Let's start with a captivating opening sentence that succinctly introduces the artwork: {{artwork}}. This introduction should ideally hint at the artwork's purpose, creators, or central themes without revealing too much.
+
+Here's some more context about the Artwork Description:
+Artwork: {{artwork}}
+
+->>>>
+
+For our "Artwork Description", we have crafted an intriguing opening sentence:
+
+Artwork Introduction:
+{{step_1}}
+
+Next, let's expand on a comprehensive description of the artwork: {{artwork}}. This should cover physical attributes, such as size, medium, style, color, textures, and unique features. Make sure to use vivid, engaging language to help the reader visualize the artwork.
+
+->>>>
+
+The description of our artwork is now complete:
+
+Artwork Introduction:
+{{step_1}}
+
+Artwork Description:
+{{step_2}}
+
+Next, let's delve into the contextual analysis of the artwork: {{artwork}}. Here, we will connect the art to its historical, social, cultural, or political context. Add information about when and why it was created, who the artist was, and what messages or symbolism it might contain.
+
+->>>>
+
+For our artwork, we now have a detailed contextual analysis:
+
+Artwork Description:
+{{step_2}}
+
+Contextual Analysis:
+{{step_3}}
+
+Moving on, it’s time to discuss the relevance and significance of the artwork: {{artwork}} to the institution you're creating a grant proposal for. Explain how the artwork ties into the institution’s mission, values, or collection focus.
+
+->>>>
+
+Our artwork's importance to the institution is summarized as follows:
+
+Contextual Analysis:
+{{step_3}}
+
+Artwork Significance to the Institution:
+{{step_4}}
+
+Next, let's bring it all together by summarizing the impact and importance of this artwork: {{artwork}}, highlighting its potential to enrich the institution's collection, engage audiences, or contribute to broader cultural or historical conversations.
+

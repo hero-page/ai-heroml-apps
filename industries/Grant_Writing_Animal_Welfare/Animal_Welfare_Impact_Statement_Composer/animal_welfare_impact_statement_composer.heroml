@@ -1,0 +1,97 @@
+Your task is to write an "Animal Welfare Impact Statement" for the "Grant Writing - Animal Welfare" industry, specifically for a "Grant Writer". Let's begin with an introduction that includes information on the organization, the animal welfare project: {{organization_project}}, the reason behind the project, and its anticipated societal value.
+
+Here's some more context about the Animal Welfare Impact Statement:
+Organization Project: {{organization_project}}
+Animal Welfare Purpose: {{animal_welfare_purpose}}
+Project Methods: {{project_methods}}
+Animal Welfare Impacts: {{animal_welfare_impacts}}
+Evaluation Plan: {{evaluation_plan}}
+Industry References: {{industry_references}}
+
+->>>>
+
+The introduction for our "Animal Welfare Impact Statement" has been generated:
+
+Introduction:
+{{step_1}}
+
+Next, we will discuss the purpose of the {{organization_project}} in relation to improving animal welfare. Highlight the primary goal(s) of your project and its importance to animal welfare.
+
+->>>>
+
+Up to this point, we have an introduction and a statement of purpose for our "Animal Welfare Impact Statement":
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Now, let's include a section discussing the methods that will be employed in the {{organization_project}} aimed at achieving better animal welfare. This part should detail the key procedures and protocols to be followed.
+
+->>>>
+
+At this stage, in our "Animal Welfare Impact Statement", we have a focused explanation of the purpose and methods for the {{organization_project}}:
+
+Purpose:
+{{step_2}}
+
+Methods:
+{{step_3}}
+
+Next, describe the impacts of the {{organization_project}} on various aspects of animal welfare. Outlining both the direct and indirect ramifications of the project is crucial here.
+
+->>>>
+
+So far, we have outlined the purpose, methods, and impacts of the project in our "Animal Welfare Impact Statement":
+
+Purpose:
+{{step_2}}
+
+Methods:
+{{step_3}}
+
+Impacts:
+{{step_4}}
+
+Now, please write an evaluation plan for the project's success on improving animal welfare. This plan will define success and explain how the project results will be measured, particularly in terms of animal welfare.
+
+->>>>
+
+From this point, for our "Animal Welfare Impact Statement", we have discussed the purpose, methods, impacts, and an evaluation plan:
+
+Purpose:
+{{step_2}}
+
+Methods:
+{{step_3}}
+
+Impacts:
+{{step_4}}
+
+Evaluation Plan:
+{{step_5}}
+
+Before we conclude, let's remind the reader of the overall expected influence of the project on animal welfare. Reiterate the {{organization_project}}'s importance for both animals and the community at large.
+
+->>>>
+
+We are close to finalizing our "Animal Welfare Impact Statement". We now have the purpose, methods, impacts, an evaluation plan, and a reminder of the project's relevance:
+
+Purpose:
+{{step_2}}
+
+Methods:
+{{step_3}}
+
+Impacts:
+{{step_4}}
+
+Evaluation Plan:
+{{step_5}}
+
+Project's Importance:
+{{step_6}}
+
+Finally, include a comprehensive list of references and sources that strengthen the validity of your impact statement, adhering to the industry standards.
+

@@ -1,0 +1,81 @@
+Your task is to write a "Cultural Significance Statement" for the "Grant Writing - Cultural Organizations" industry, with a focus on a "Grant Writer". 
+Let's start by crafting an introductory paragraph. Set the context and highlight the purpose of the statement along with the cultural significance of the {{cultural_organization}}.
+
+Here's some more context about the Cultural Significance Statement:
+Cultural Organization: {{cultural_organization}}
+
+->>>>
+
+You wrote an introductory paragraph providing context for our "Cultural Significance Statement":
+
+Introduction:
+{{step_1}}
+
+Next, draft a paragraph showcasing the historical significance of the {{cultural_organization}} -- its establishment, key milestones, and any major figures or community leaders associated with it.
+
+->>>>
+
+So far in the cultural significance statement, we have an introduction and a section on historical significance:
+
+Introduction:
+{{step_1}}
+
+Historical Significance:
+{{step_2}}
+
+Now, outline a narrative about the {{cultural_organization}}'s unique identity. Discuss its role in preserving, promoting, and celebrating local or national culture, and how it's influencing or contributing to its surrounding community.
+
+->>>>
+
+We have written the introduction and historical significance, and crafted a narrative on the unique identity:
+
+Introduction:
+{{step_1}}
+
+Historical Significance:
+{{step_2}}
+
+Unique Identity:
+{{step_3}}
+
+Next, present the cultural impacts of the {{cultural_organization}} on society. Detail the tangible and intangible contributions and the influence of the organization in the domain of arts, culture, or heritage.
+
+->>>>
+
+We have established the organization's unique identity and now will continue with a discussion of its cultural impact:
+
+Introduction:
+{{step_1}}
+
+Historical Significance:
+{{step_2}}
+
+Unique Identity:
+{{step_3}}
+
+Cultural Impact:
+{{step_4}}
+
+Next, convey the potential cultural loss if the {{cultural_organization}} does not receive the grant or is unable to continue its work. Consider the effects on the community, culture, heritage preservation, and other related areas.
+
+->>>>
+
+Our cultural significance statement now includes a section that addresses the potential cultural loss:
+
+Introduction:
+{{step_1}}
+
+Historical Significance:
+{{step_2}}
+
+Unique Identity:
+{{step_3}}
+
+Cultural Impact:
+{{step_4}}
+
+Potential Cultural Loss:
+{{step_5}}
+
+Now, describe how the requested grant will support the mission and goals of the {{cultural_organization}}. Specify in detail how the funds will be used and what the expected outcomes are.
+

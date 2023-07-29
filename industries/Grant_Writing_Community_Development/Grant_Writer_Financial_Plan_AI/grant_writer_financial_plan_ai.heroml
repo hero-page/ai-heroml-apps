@@ -1,0 +1,88 @@
+Your task is to write a financial plan for the "Grant Writing - Community Development" industry, specifically for a "Grant Writer". 
+
+Let's start by creating an introduction that explains the financial goals linked to the community development project, and outlines how the project aligns with the funding organization's interests. This introduction should be framed based on the community's needs that the project wishes to address: {{community_needs}}.
+
+Here's some more context about the Financial Plan:
+Community Needs: {{community_needs}}
+Project Expenses: {{project_expenses}}
+Funding Sources: {{funding_sources}}
+Long Term Sustainability Plan: {{long_term_sustainability_plan}}
+Budget Management: {{budget_management}}
+Risk Management Strategy: {{risk_management_strategy}}
+Value Of Project: {{value_of_project}}
+
+->>>>
+
+Now we have an introduction for our financial plan:
+
+Introduction:
+{{step_1}}
+
+Next, we need to detail all the individual costs associated with the community project: {{project_expenses}}. This should include direct costs such as equipment, materials, staff salaries and indirect costs like administration, utilities. Make sure to be as transparent and detailed as possible with these estimations.
+
+->>>>
+
+The introduction and project expenses for our financial plan are:
+
+Introduction:
+{{step_1}}
+
+Project Expenses:
+{{step_2}}
+
+Next, identify the distinct sources of income that will fund the project, including the requested grant, internal funds, donations, or other grants: {{funding_sources}}.
+
+->>>>
+
+In our financial plan, we have the introduction, project expenses, and now the identified sources of funding:
+
+Introduction:
+{{step_1}}
+
+Project Expenses:
+{{step_2}}
+
+Funding Sources:
+{{step_3}}
+
+Now, address how the project will remain functional and financially sustainable once the grant's duration expires: {{long_term_sustainability_plan}}. This should include a plan for future fundraising, potential partnership building, or monetization methods.
+
+->>>>
+
+The introduction, project expenses, funding sources, and sustainability plan for our financial plan are as follows:
+
+Introduction:
+{{step_1}}
+
+Project Expenses:
+{{step_2}}
+
+Funding Sources:
+{{step_3}}
+
+Long-term Financial Sustainability:
+{{step_4}}
+
+Next, provide a detailed guide on how the grant money will be managed once received: {{budget_management}}. This should cover points such as the use of financial software, regular financial audits and reviews, adherence to financial controls etc.
+
+->>>>
+
+In our financial plan, we have the introduction, project expenses, funding sources, our sustainability plan, and finally, budget management:
+
+Introduction:
+{{step_1}}
+
+Project Expenses:
+{{step_2}}
+
+Funding Sources:
+{{step_3}}
+
+Long-term Financial Sustainability:
+{{step_4}}
+
+Budget Management:
+{{step_5}}
+
+Now, let's do a risk analysis. Highlight the potential financial risks that could be faced, such as unexpected cost overruns, inflation impacts, or reduction in other funding sources, and detail how you plan to manage these risks: {{risk_management_strategy}}.
+

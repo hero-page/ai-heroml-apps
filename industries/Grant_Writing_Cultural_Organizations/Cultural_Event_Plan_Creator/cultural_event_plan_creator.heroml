@@ -1,0 +1,78 @@
+Your task is to write an "Event Plan" for the "Grant Writing - Cultural Organizations" industry, specifically for a "Cultural Coordinator". Begin by developing a compelling introduction for the event plan.
+
+Here's some more context about the Event Plan:
+Event Context: {{event_context}}
+Event Goals: {{event_goals}}
+Event Activities: {{event_activities}}
+Event Timeline: {{event_timeline}}
+Resource Requirements: {{resource_requirements}}
+
+->>>>
+
+Now, we have started the plan for our event:
+
+Event Introduction:
+{{step_1}}
+
+Let's formulate the goals and objectives we want to attain by the end of the event.
+
+->>>>
+
+Our event plan has an introduction and a set of objectives:
+
+Event Introduction:
+{{step_1}}
+
+Event Goals and Objectives:
+{{step_2}}
+
+Next, we should outline the primary activities to be included in the event. Provide details on how these underline the cultural relevance of the event.
+
+->>>>
+
+Our event plan has specified objectives and planned activities:
+
+Event Goals and Objectives:
+{{step_2}}
+
+Event Activities:
+{{step_3}}
+
+The next step is to create a timeline that details when and how each event activity will occur.
+
+->>>>
+
+Our event plan now has objectives, activities, and a detailed timeline:
+
+Event Activities:
+{{step_3}}
+
+Event Timeline:
+{{step_4}}
+
+Now let's compile a list of all resource requirements necessary for the event. Be sure to highlight any culturally-sensitive resources needed.
+
+->>>>
+
+We have an event plan with activities, a timeline, and resource requirements:
+
+Event Timeline:
+{{step_4}}
+
+Resource Requirements:
+{{step_5}}
+
+Next, draft a comprehensive marketing plan for the event. Explain how it targets the intended audience and promotes the cultural spectacle of the event.
+
+->>>>
+
+Our event plan includes a timeline, resource requirements, and a marketing strategy:
+
+Resource Requirements:
+{{step_5}}
+
+Marketing Plan:
+{{step_6}}
+
+Now, develop a risk management strategy that addresses potential problems or changes to the event plan. Prioritize the most likely known risks in the cultural events field.
+

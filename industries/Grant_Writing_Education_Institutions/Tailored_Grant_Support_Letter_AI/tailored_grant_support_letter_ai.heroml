@@ -1,0 +1,104 @@
+Let's start creating a "Letter of Support" for the "Grant Writing - Education Institutions" industry for a "Grant Writer". 
+
+The first step is to start with a salutation, addressing the person involved in the grant application process: {{salutation_recipient}}.
+
+Here's some more context about the Letter of Support:
+Salutation Recipient: {{salutation_recipient}}
+Education Institution: {{education_institution}}
+Grant Purpose And Impact: {{grant_purpose_and_impact}}
+Project Details: {{project_details}}
+Industry Specific Elements: {{industry_specific_elements}}
+
+->>>>
+
+Now, we have the salutation for our letter:
+
+Salutation:
+{{step_1}}
+
+Next, let's write the introduction, where we mention your name, title or role, and express your support for the grant application submitted by the educational institution: {{education_institution}}.
+
+->>>>
+
+So far, we have a salutation and introduction for our letter:
+
+Salutation:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, it is time to discuss the necessity for and potential impact of the grant. Highlight its importance and how it aligns with the mission and goals of the educational institution: {{grant_purpose_and_impact}}.
+
+->>>>
+
+For our letter, we have an introduction and a discussion on the necessity and potential impact of the grant:
+
+Introduction:
+{{step_2}}
+
+Necessity and Potential Impact:
+{{step_3}}
+
+Next, provide details about the project, including an overview of the project design and objectives, why your institution supports the project, and why the funds are important to its successful implementation: {{project_details}}.
+
+->>>>
+
+For our support letter, we have a discussion on the necessity and potential impact of the grant, and the project details:
+
+Necessity and Potential Impact:
+{{step_3}}
+
+Project Details:
+{{step_4}}
+
+For the next step, incorporate industry-specific elements such as educational terms, curriculum details, or student success indicators relevant to the grant. This showcases your knowledge of the educational field and the specific grant application: {{industry_specific_elements}}.
+
+->>>>
+
+In our letter, we have project details and industry-specific elements:
+
+Project Details:
+{{step_4}}
+
+Industry-Specific Elements:
+{{step_5}}
+
+Next, include a paragraph about the credibility of the education institution. Discuss past successes and achievements, and consider mentioning any past successful grant projects, if applicable.
+
+->>>>
+
+So far in our support letter, we have industry-specific elements and a paragraph on the credibility of the education institution:
+
+Industry-Specific Elements:
+{{step_5}}
+
+Credibility of Education Institution:
+{{step_6}}
+
+To reinforce your endorsement for the application, reiterate your belief in the beneficial outcome of the project and the competence of the educational institution in executing the proposed plan.
+
+->>>>
+
+Now, in our letter of support, we have a paragraph on the credibility of the education institution and a reinforced endorsement of the grant application:
+
+Credibility of Education Institution:
+{{step_6}}
+
+Reinforced Endorsement:
+{{step_7}}
+
+Next, it's time to formally conclude the letter with a closing statement, your full name and contact information.
+
+->>>>
+
+In our letter of support, we have a reinforced endorsement and a formal conclusion with a closing statement and contact information:
+
+Reinforced Endorsement:
+{{step_7}}
+
+Formal Conclusion:
+{{step_8}}
+
+Finally, we need to create a formal sign off, which is a crucial element of a Letter of Support. 
+

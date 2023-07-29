@@ -1,0 +1,100 @@
+Let's start by crafting an engaging introduction that encapsulates the essence of your project and states the reason for needing the grant. This should touch on the {{brief_project_description}} for your "Funding Needs Statement".
+
+Here's some more context about the Funding Needs Statement:
+Brief Project Description: {{brief_project_description}}
+Detailed Project Description: {{detailed_project_description}}
+Funding Breakdown: {{funding_breakdown}}
+Positive Outcomes: {{positive_outcomes}}
+Negative Outcomes: {{negative_outcomes}}
+Summary: {{summary}}
+
+->>>>
+
+We've come up with an engaging introduction for the "Funding Needs Statement":
+
+Introduction:
+{{step_1}}
+
+Next, delve deeper into the project description. Detail out the importance of the project and how it aligns with the mission of the education institution in the background information section. This is where we'll outline the {{detailed_project_description}}.
+
+->>>>
+
+Having an engaging introduction, we now have a detailed description of the project:
+
+Introduction:
+{{step_1}}
+
+detailed_project_description:
+{{step_2}}
+
+Moving forward, let's dwell into the funding aspect. Define the specific amount the institution needs and breakdown the funds into various categories like materials, equipment, staff salary, and other administrative costs. This will form the {{funding_breakdown}} section of our "Funding Needs Statement".
+
+->>>>
+
+We have an engaging introduction, a detailed project description, and now a breakdown of the funding needs:
+
+Introduction:
+{{step_1}}
+
+Detailed Project Description:
+{{step_2}}
+
+Funding Breakdown:
+{{step_3}}
+
+Now let's discuss the potential impacts if the funding need is met. Elucidate the positive outcomes that your project will bring to the education institution and stakeholders forming the part of {{positive_outcomes}}.
+
+->>>>
+
+For our "Funding Needs Statement", we have covered our project description, the funding needs and the positive outcomes if funding is provided:
+
+Detailed Project Description:
+{{step_2}}
+
+Funding Breakdown:
+{{step_3}}
+
+Positive Outcomes:
+{{step_4}}
+
+Now let's delve into what would happen if the funding need isn't met. Describe the challenges, setbacks, and delays that your institution and project would face. This introduces the section of {{negative_outcomes}}.
+
+->>>>
+
+So far in our "Funding Needs Statement", we have the project description, the funding needs, the positive outcomes if funding is met and the negative outcomes if it is not met:
+
+Detailed Project Description:
+{{step_2}}
+
+Funding Breakdown:
+{{step_3}}
+
+Positive Outcomes:
+{{step_4}}
+
+Negative Outcomes:
+{{step_5}}
+
+Now, with the explanation of both the positive and negative outcomes, let's incorporate some education-specific details into this statement. Demonstrate how the project supports educational objectives, improves student achievement, or addresses educational inequality.
+
+->>>>
+
+Now in our "Funding Needs Statement", we have our introduction, project description, a funding breakdown, potential outcomes and the education-specific elements:
+
+Detailed Project Description:
+{{step_2}}
+
+Funding Breakdown:
+{{step_3}}
+
+Positive Outcomes:
+{{step_4}}
+
+Negative Outcomes:
+{{step_5}}
+
+Education-Specific Elements:
+{{step_6}}
+
+Lastly, conclude the "Funding Needs Statement". Restate the key points, the amount requested, and the expected positive impacts post-implementation. This forms our {{summary}}.
+
