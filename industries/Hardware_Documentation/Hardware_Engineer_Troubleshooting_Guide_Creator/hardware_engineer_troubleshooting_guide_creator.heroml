@@ -1,0 +1,78 @@
+Your task is to write a "Troubleshooting Guide" for the "Hardware Documentation" industry, specifically for a "Hardware Engineer". Let's start with creating an introduction that summarizes the {{hardware_device}} under consideration.
+
+Here's some more context about the Troubleshooting Guide:
+Hardware Device: {{hardware_device}}
+System Components: {{system_components}}
+Component Function: {{component_function}}
+Diagnosis Procedure: {{diagnosis_procedure}}
+Correction Procedure: {{correction_procedure}}
+
+->>>>
+
+We have an introduction for our "Troubleshooting Guide":
+
+Introduction:
+{{step_1}}
+
+Next, organize the guide into sections based on the major system components or known problem areas of the hardware using the {{system_components}} as a guide.
+
+->>>>
+
+We now have an organized structure for our "Troubleshooting Guide":
+
+Introduction:
+{{step_1}}
+
+Sections:
+{{step_2}}
+
+In each section, describe the function and significance of each component using the dynamic variable {{component_function}}.
+
+->>>>
+
+Our "Troubleshooting Guide" now has a detailed discussion on the function and significance of each component:
+
+Sections:
+{{step_2}}
+
+Component Function and Significance:
+{{step_3}}
+
+Now, provide detailed procedures for diagnosing specific issues related to each component using {{diagnosis_procedure}}. Ensure each is situation-specific and comprehensive for each possible hardware fault.
+
+->>>>
+
+In our "Troubleshooting Guide", we now have detailed diagnosis procedures:
+
+Component Function and Significance:
+{{step_3}}
+
+Diagnosis Procedures:
+{{step_4}}
+
+Next, demonstrate ways that possible issues can be fixed effectively using {{correction_procedure}}.
+
+->>>>
+
+We have included problem solving techniques in our 'Troubleshooting Guide':
+
+Diagnosis Procedures:
+{{step_4}}
+
+Correction Procedures:
+{{step_5}}
+
+Incorporate a segment detailing preventative best practices to avoid common issues, referencing {{system_components}}.
+
+->>>>
+
+We have preventive measures included in the 'Troubleshooting Guide':
+
+Correction Procedures:
+{{step_5}}
+
+Preventive Measures:
+{{step_6}}
+
+Finally, conclude the guide with a glossary of technical terms and list additional resources such as manufacturer websites and industry forums where the engineer can get more information about the {{hardware_device}}.
+

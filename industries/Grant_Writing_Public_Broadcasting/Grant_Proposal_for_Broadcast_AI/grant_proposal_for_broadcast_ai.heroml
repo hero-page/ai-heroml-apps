@@ -1,0 +1,71 @@
+Your task is to write a "Program Description" for the "Grant Writing - Public Broadcasting" industry, specifically for a "Broadcast Manager".
+
+Let's begin by crafting an engaging introduction that outlines the purpose of the program: {{program_purpose}}.
+
+Here's some more context about the Program Description:
+Program Purpose: {{program_purpose}}
+Core Content: {{core_content}}
+Target Audience: {{target_audience}}
+Program Impacts: {{program_impacts}}
+Technical Aspects: {{technical_aspects}}
+
+->>>>
+
+Below is an engaging introduction to our program indicating its purpose:
+
+Introduction:
+{{step_1}}
+
+Now, describe this program in detail, focusing on the thematic elements and core content, that will shape the broadcast: {{core_content}}.
+
+->>>>
+
+We have introduced our program and explained its purpose:
+
+Introduction:
+{{step_1}}
+
+And detailed our core content:
+
+Core Content:
+{{step_2}}
+
+Next, let's elaborate on our target audience for this program and explain why this program will appeal to them: {{target_audience}}.
+
+->>>>
+
+Following is what we have so far:
+
+Introduction:
+{{step_1}}
+
+Core Content:
+{{step_2}}
+
+Here is the information about our target audience:
+
+Target Audience:
+{{step_3}}
+
+Next, discuss the potential benefits and impacts that the broadcast will have on the target audience and why it is unique or necessary: {{program_impacts}}.
+
+->>>>
+
+So far, we have built the introduction, core content, and target audience for our program:
+
+Introduction:
+{{step_1}}
+
+Core Content:
+{{step_2}}
+
+Target Audience:
+{{step_3}}
+
+Additionally, we have also detailed the impacts our program will have on the target audience:
+
+Program Impacts:
+{{step_4}}
+
+Let's now capture the industry's unique requirements by incorporating information about the technical aspects, such as the required broadcasting equipment or technology, crew and broadcasting times for this program: {{technical_aspects}}.
+

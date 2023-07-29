@@ -1,0 +1,117 @@
+Your task is to write an "Art Exhibition Proposal" for the "High School Students - Arts" industry, specifically for an "Art Club Member". Let's structure this proposal methodically. 
+
+We start by discussing the idea behind the exhibition: {{exhibition_idea}}.
+  - Remember, it's essential to express the artistic vision that inspired the proposal, and the purpose of it. For example, are we showcasing student talent, exploring a particular theme, or doing this for a charitable cause?
+
+Here's some more context about the Art Exhibition Proposal:
+Exhibition Idea: {{exhibition_idea}}
+Exhibition Theme: {{exhibition_theme}}
+Exhibition Details: {{exhibition_details}}
+Proposed Audience: {{proposed_audience}}
+Expected Outcomes: {{expected_outcomes}}
+
+->>>>
+
+We've begun the proposal with a clear explanation of the idea behind the exhibition:
+
+Exhibition Idea:
+{{step_1}}
+
+Now, provide background information about the Art Club you're representing.
+  - Discuss the club's history, mission, and significant achievements. Highlight remarkable past exhibitions, if any. Detail the passion the club has towards artistic expression, the role of art in the school, and ways the club contributes to enrich the school community.
+
+->>>>
+
+Thus far, in our proposal we've established the exhibition idea and provided some background on the club:
+
+Exhibition Idea:
+{{step_1}}
+
+Art Club Background:
+{{step_2}}
+
+Next, describe the exhibition's theme and content: {{exhibition_theme}}.
+  - Deeply explore the specific theme or concept at the center of the exhibition. Elucidate how the pieces relate to this theme and each other. Also, discuss whether the exhibition will contain various forms of art such as paintings, drawings, sculptures, photography, etc.
+
+->>>>
+
+Our proposal so far contains the idea behind the exhibition, details about the Art Club, and an explanation of the exhibition's theme:
+
+Exhibition Idea:
+{{step_1}}
+
+Art Club Background:
+{{step_2}}
+
+Exhibition Theme and Content:
+{{step_3}}
+
+Now detail the logistics of the exhibition: {{exhibition_details}}.
+  - Provide important details such as the proposed location, duration, and dates of the exhibition. Describe how the artwork will get displayed, any unique requirements for setting up the exhibition, and the projected setup and teardown times.
+
+->>>>
+
+Our proposal now includes the idea, the Art Club's history, the exhibition's theme, and the logistics of the exhibition:
+
+Exhibition Idea:
+{{step_1}}
+
+Art Club Background:
+{{step_2}}
+
+Exhibition Theme and Content:
+{{step_3}}
+
+Exhibition Logistics:
+{{step_4}}
+
+Next, discuss the proposed audience: {{proposed_audience}}.
+ - Outline your target audience. Is it mainly for the student body, parents, local community, or art enthusiasts? Explain why this exhibition would draw their interest.
+
+->>>>
+
+Our proposal has been expanded to include the target audience:
+
+Exhibition Idea:
+{{step_1}}
+
+Art Club Background:
+{{step_2}}
+
+Exhibition Theme and Content:
+{{step_3}}
+
+Exhibition Logistics:
+{{step_4}}
+
+Proposed Audience:
+{{step_5}}
+
+Now, discuss the expected outcomes of the exhibition: {{expected_outcomes}}.
+  - This could include increased awareness and appreciation of art within the school and wider community, engagement with the school's arts program, fostering school spirit, raising funds, etc.
+
+->>>>
+
+We're approaching the end of the proposal. So far, we've defined the idea, club background, theme, logistics, audience, and the expected outcomes of the exhibition:
+
+Exhibition Idea:
+{{step_1}}
+
+Art Club Background:
+{{step_2}}
+
+Exhibition Theme and Content:
+{{step_3}}
+
+Exhibition Logistics:
+{{step_4}}
+
+Proposed Audience:
+{{step_5}}
+
+Expected Outcomes:
+{{step_6}}
+
+Finally, end with a request for approval and offer to answer any questions or to provide more information if necessary.
+  - Express your enthusiasm for the potential of this exhibition and thank the reader for their consideration. Indicate your willingness to answer any further questions or provide any additional details.
+

@@ -1,0 +1,46 @@
+Your task is to write a "Budget Proposal" for the "Grant Writing - Public Broadcasting" industry, specifically for a "Grant Writer". Let's begin by drafting an abstract or executive summary that provides an overview of the project: {{project_overview}}, and explains why the grant is needed.
+
+Here's some more context about the Budget Proposal:
+Project Overview: {{project_overview}}
+Program Title: {{program_title}}
+Program Audience And Impact: {{program_audience_and_impact}}
+Program Costs: {{program_costs}}
+Budget Justification: {{budget_justification}}
+Sustainability Plan: {{sustainability_plan}}
+
+->>>>
+
+We have an executive summary that outlines our project and the necessity of the grant:
+
+Abstract/Executive Summary:
+{{step_1}}
+
+Next, introduce the program to be proposed, the title you are assigning {{program_title}}, how it will address the audience, its likely impact {{program_audience_and_impact}}, and detail its scope.
+
+->>>>
+
+We now have a program proposal for our grant:
+
+Program Proposal:
+{{step_2}}
+
+With the program firmly established, let's proceed to the budget narrative. Here, specify the program's financial needs, including staff costs, production expenses, marketing efforts, and any other industry-specific costs: {{program_costs}}.
+
+->>>>
+
+Our initial budget narrative, detailing the necessary expenses for our program, is as follows:
+
+Budget Narrative:
+{{step_3}}
+
+Having defined the overall costs, let's now break these down into detailed categories. Urge the AI to explain the justification for each line item within the budget: {{budget_justification}}.
+
+->>>>
+
+Our detailed budget, along with justification for each line item, now looks like this:
+
+Budget Breakdown and Justification:
+{{step_4}}
+
+Moving on, describe the sustainability plan of the project, detailing how funds will be managed effectively and responsibly, and how the project can continue beyond the period of the grant: {{sustainability_plan}}.
+

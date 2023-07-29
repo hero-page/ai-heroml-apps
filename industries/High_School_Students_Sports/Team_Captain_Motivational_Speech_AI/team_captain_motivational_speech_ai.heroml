@@ -1,0 +1,85 @@
+Your task is to write a "Motivational Speech" for the "High School Students - Sports" industry, particularly for a "Team Captain". Let's break down the sequence of instructions:
+
+Firstly, start the "Motivational Speech" by generating an engaging introduction. Make sure to include a personal experience or story that inspires and resonates with the team.
+
+Here's some more context about the Motivational Speech:
+Personal Story: {{personal_story}}
+Past Achievements: {{past_achievements}}
+Current Challenges: {{current_challenges}}
+Sport Name: {{sport_name}}
+Dynamic Variable: {{dynamic_variable}}
+Team Goals: {{team_goals}}
+Team Motto: {{team_motto}}
+
+->>>>
+
+Our "Motivational Speech" for the "High School Students - Sports" now has an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+With the introduction in place, the second step is to acknowledge the team's previous achievements and efforts. Also, address the current challenges or obstacles that the team is facing to give the speech authenticity and relevance.
+
+->>>>
+
+The "Motivational Speech" now has an introduction as well as a section acknowledging the team's past achievements and current challenges:
+
+Introduction:
+{{step_1}}
+
+Past achievements and Current challenges:
+{{step_2}}
+
+As we have addressed the past and present, moving forward let's inspire the team by focusing on the power of positive thinking, determination, hard work, teamwork, and sportsmanship, related to their specific sport.
+
+->>>>
+
+In the "Motivational Speech", introduction, past achievements and current challenges are managed, and we have motivated the team for the future:
+
+Introduction:
+{{step_1}}
+
+Past Achievements and Current Challenges:
+{{step_2}}
+
+Motivation: 
+{{step_3}}
+
+Now, design a section that includes inspiring figures or anecdotes from the world of sports, specifically ones that could inspire the team members in their specific sport.
+
+->>>>
+
+The "Motivational Speech" is coming together well. After laying down the initial motivation, we have added inspiration from the world of sports:
+
+Inspiring Figures/Anecdotes:
+{{step_4}}
+
+With the team adequately inspired, let's transition to the role of the "Team Captains", emphasizing their importance to the team's successes. Make points about leadership, decision-making, motivation, and their contribution towards the team spirit.
+
+->>>>
+
+The "Motivational Speech" now addresses the importance of the "Team Captains":
+
+Team Captains' Role:
+{{step_5}}
+
+Now, include dynamic variables, like the opponent team name, tournament name, or a relevant personal story, which can arouse enthusiasm and passion among the team members.
+
+->>>>
+
+The "Motivational Speech" now has the dynamic elements to provide a personalized feel:
+
+Dynamic Variables:
+{{step_6}}
+
+Next, lay out the vision, the goals, and strategies for the team. These should be action plans that will help the team overcome challenges, progress, and succeed.
+
+->>>>
+
+The "Motivational Speech" now includes the vision and goals for the team:
+
+Team's Vision and Goals:
+{{step_7}}
+
+Following this, conclude the speech with an inspirational call to action. Express confidence in the team, encourage them to give their best effort, and reiterate the team's motto.
+

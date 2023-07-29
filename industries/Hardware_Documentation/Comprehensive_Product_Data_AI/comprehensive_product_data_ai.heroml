@@ -1,0 +1,84 @@
+Let's begin by creating a "Product Data Sheet" for the "Hardware Documentation" industry for a "Product Manager".
+Start with a product overview that clearly describes the hardware product: {{hardware_product}}. 
+
+Here's some more context about the Product Data Sheet:
+Hardware Product: {{hardware_product}}
+Product Features Benefits: {{product_features_benefits}}
+Technical Specifications: {{technical_specifications}}
+Certifications Awards: {{certifications_awards}}
+Application Areas: {{application_areas}}
+Availability Warranty Support Info: {{availability_warranty_support_info}}
+Contact Information: {{contact_information}}
+
+->>>>
+
+With the following product overview:
+
+Product Overview:
+{{step_1}}
+
+Now, provide the product specifications in detail such as dimensions, weight, materials used, and more for the {{hardware_product}}.
+
+->>>>
+
+Our Product Data Sheet has a product overview and detailed specifications as follows:
+
+Product Overview:
+{{step_1}}
+
+Product Specifications:
+{{step_2}}
+
+Next, outline the key features and benefits which make the {{hardware_product}} stand out in the market.
+
+->>>>
+
+Our product data sheet includes a product overview, specifications, and key features and benefits as follows:
+
+Product Overview:
+{{step_1}}
+
+Product Specifications:
+{{step_2}}
+
+Key Features and Benefits:
+{{step_3}}
+
+Now, present the technical specifications or technological aspects of the {{hardware_product}}.
+
+->>>>
+
+Our product data sheet includes key features and benefits, and technical specifications as follows:
+
+Key Features and Benefits:
+{{step_3}}
+
+Technical Specifications:
+{{step_4}}
+
+Next, discuss any certifications, awards, or standards compliance related to the {{hardware_product}}, adding to its credibility.
+
+->>>>
+
+Our product data sheet includes technical specifications and relevant certifications, awards, or standards compliance:
+
+Technical Specifications:
+{{step_4}}
+
+Certifications, Awards, and Standards Compliance:
+{{step_5}}
+
+Now, detail application areas or use-case scenarios where the {{hardware_product}} can be used effectively, appealing to the target audience.
+
+->>>>
+
+Our product data sheet now has certifications, awards, standards compliance, and application areas or use-case scenarios:
+
+Certifications, Awards, and Standards Compliance:
+{{step_5}}
+
+Application Areas or Use-Case Scenarios:
+{{step_6}}
+
+Next, include a section on the {{hardware_product}}'s availability, warranty, and support services information.
+

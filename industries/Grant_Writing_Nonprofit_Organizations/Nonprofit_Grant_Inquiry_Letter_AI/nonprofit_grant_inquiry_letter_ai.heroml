@@ -1,0 +1,62 @@
+Your task is to write a "Letter of Inquiry" for the "Grant Writing - Nonprofit Organizations" industry, specifically for a "Grant Writer". Here are step-by-step instructions to complete the task:
+
+Your first task is to begin with an introductory section. This should start with a brief introduction focusing on your organization's name, purpose, and mission. Use the dynamic variable {{organization_name}}, and include the phrase: "We, {{organization_name}}, are dedicated to..."
+
+Here's some more context about the Letter of Inquiry:
+Organization Name: {{organization_name}}
+Project Need: {{project_need}}
+Project Description: {{project_description}}
+Project Goals: {{project_goals}}
+Funding Request: {{funding_request}}
+
+->>>>
+
+Now that we've established an introductory section for our organization under the name:
+
+Organization Name:
+{{step_1}}
+
+Your next task is to illustrate the need for your project or program. Discuss the problem your organization aims to solve or the need it addresses. Provide compelling evidence to illustrate the magnitude of the problem. Use the dynamic variable, {{project_need}}, and create a sentence like "There is a considerable need for {{project_need}}, and this is why our organization exists."
+
+->>>>
+
+With our organization properly introduced,
+
+Organization Name and Purpose:
+{{step_1}}
+
+We've also highlighted the need for our project, discussing why it exists:
+
+Project Need:
+{{step_2}}
+
+Next, describe your organization's intended project or program to address the need. Explain broadly how activities will be implemented and who will benefit. Describe how your solution addresses the need differently or more effectively than other entities. Use the variable {{project_description}} and formulate it in the following way: "Our proposed project, {{project_description}}, addresses these needs by..."
+
+->>>>
+
+The need for our project is established:
+
+Project Need:
+{{step_2}}
+
+And now we have a description of the project and how it aims to address that need:
+
+Project Description:
+{{step_3}}
+
+Your next task is to define the goals and expected outcomes of your project. Summarize these, as well as the expected outcomes that can be measured, align with the identified need, and are realistic within the proposed timeline. Use the variable {{project_goals}} for a statement such as: "Our primary goals, {{project_goals}}, are targeted towards achieving..."
+
+->>>>
+
+With a clear description of our project:
+
+Project Description:
+{{step_3}}
+
+We now have outlined our goals and objectives, as well as what outcomes we expect:
+
+Goals and Expected Outcomes:
+{{step_4}}
+
+Next, mention the funding request and provide a budget estimate. State the amount of funding you're seeking and provide a brief estimate of the total project budget. No need to detail the budget here; interested parties will ask for it later. Use the dynamic variable {{funding_request}} for a sentence such as: "We are inquiring for funding in the amount of {{funding_request}} that will contribute to our project's success."
+

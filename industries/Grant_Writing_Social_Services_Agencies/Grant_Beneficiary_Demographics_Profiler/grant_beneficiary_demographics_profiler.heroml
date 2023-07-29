@@ -1,0 +1,70 @@
+Your task is to write a "Beneficiary Demographics" for the "Grant Writing - Social Services Agencies" industry, specifically for a "Grant Writer". 
+
+Let's begin by identifying the beneficiary group that your grant proposal aims to serve: {{beneficiary_group}}.
+
+Here's some more context about the Beneficiary Demographics:
+Beneficiary Group: {{beneficiary_group}}
+
+->>>>
+
+With the beneficiary group identified, we have:
+
+Beneficiary Group:
+{{step_1}}
+
+Next, let's give an overview of the {{beneficiary_group}}'s demographic traits, including details like age range, gender distribution, household size, income category, ethnicity, and employment status.
+
+->>>>
+
+Our {{beneficiary_group}} is outlined as follows:
+
+Demographic Traits:
+{{step_2}}
+
+Moving onwards, we must address the economic circumstances of the {{beneficiary_group}}. Remember to use fact-based, non-subjective data.
+
+->>>>
+
+Our {{beneficiary_group}}'s economic circumstances are:
+
+Economic Circumstances:
+{{step_3}}
+
+Let's uncover the housing situation of the {{beneficiary_group}}, disclosing their residential distribution and housing needs, if required.
+
+->>>>
+
+The housing scenario of our {{beneficiary_group}} is as follows:
+
+Housing Situation:
+{{step_4}}
+
+Next, delve into the social and community context of the {{beneficiary_group}}. Include relevant details on family structure, education status, prevalent social issues, crime rates, service availability, and community involvement.
+
+->>>>
+
+Our {{beneficiary_group}}'s social and community context is:
+
+Social and Community Context:
+{{step_5}}
+
+Now, illustrate any health-related traits of the {{beneficiary_group}} including prevailing health conditions, access to healthcare facilities, health insurance coverage, and any specific health needs they may have.
+
+->>>>
+
+The {{beneficiary_group}}'s health-related traits are as follows:
+
+Health-Related Traits:
+{{step_6}}
+
+Break down the unique needs of the {{beneficiary_group}} as it relates to the social services that will be provided through the grant project.
+
+->>>>
+
+Uncovered are the {{beneficiary_group}}'s unique needs in relation to the social services:
+
+Unique Needs of {{beneficiary_group}}:
+{{step_7}}
+
+Finally, write a summary that revisits the unique aspects and needs of the {{beneficiary_group}}, reinforcing their importance with respect to the grant proposal.
+

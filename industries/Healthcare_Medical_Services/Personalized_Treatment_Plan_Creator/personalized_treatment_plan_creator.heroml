@@ -1,0 +1,110 @@
+Your task is to write a "Treatment Plan" for the "Healthcare & Medical Services" industry for a "Healthcare Provider". Let's start by introducing the primary health concern of the patient: {{primary_health_concern}}.
+
+Here's some more context about the Treatment Plan:
+Primary Health Concern: {{primary_health_concern}}
+Medical History: {{medical_history}}
+Treatment Objective: {{treatment_objective}}
+Proposed Treatments: {{proposed_treatments}}
+Treatment Risks: {{treatment_risks}}
+Recovery Expectations: {{recovery_expectations}}
+Follow Up: {{follow_up}}
+
+->>>>
+
+At this stage of our "Treatment Plan" we have an introduction that details the patient's primary health concern:
+
+Patient's Primary health concern:
+{{step_1}}
+
+Now, create a summary of the patient's medical history, taking into account any pre-existing conditions or potential complications.
+
+->>>>
+
+Our "Treatment Plan" currently includes the patient's primary health concern and a summary of their medical history:
+
+Patient's Primary health concern:
+{{step_1}}
+
+Patient's Medical History:
+{{step_2}}
+
+Next, let's elaborate on the objective of the proposed treatment. Make sure to detail what this treatment intends to achieve regarding the patient's health status.
+
+->>>>
+
+The "Treatment Plan" we are creating now has the primary concern, medical history, and objective of the proposed treatment:
+
+Patient's Primary health concern:
+{{step_1}}
+
+Patient's Medical History:
+{{step_2}}
+
+Treatment Objective:
+{{step_3}}
+
+Let's move on to introducing a detailed section on the specific proposed treatment. This should provide information on the treatment process, its frequency, and duration.
+
+->>>>
+
+The "Treatment Plan" includes:
+
+Patient's Primary health concern:
+{{step_1}}
+
+Patient's Medical History:
+{{step_2}}
+
+Treatment Objective:
+{{step_3}}
+
+Proposed Treatments:
+{{step_4}}
+
+The next step is to provide an overview of the potential risks and side effects of the proposed treatment. Be explicit about what the patient might expect during the treatment process.
+
+->>>>
+
+We have in our "Treatment Plan": 
+
+Patient's Primary health concern:
+{{step_1}}
+
+Patient's Medical History:
+{{step_2}}
+
+Treatment Objective:
+{{step_3}}
+
+Proposed Treatments:
+{{step_4}}
+
+Treatment Risks:
+{{step_5}}
+
+Let's detail the expectations for recovery following the treatment, including a timeline, if possible, and any special instructions the patient must follow.
+
+->>>>
+
+The "Treatment Plan" up till now includes:
+
+Patient's Primary health concern:
+{{step_1}}
+
+Patient's Medical History:
+{{step_2}}
+
+Treatment Objective:
+{{step_3}}
+
+Proposed Treatments:
+{{step_4}}
+
+Treatment Risks:
+{{step_5}}
+
+Recovery Expectations:
+{{step_6}}
+
+Now, create a section on follow-up visits, regular check-ups, or adjustments in the treatment plan over time.
+

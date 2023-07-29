@@ -1,0 +1,83 @@
+Your task is to write a "Math Competition Solution" for the "High School Students - Mathematics" industry, specifically for a "Math Club Member". 
+
+Let's start by writing an introduction that explains the problem to be solved: {{problem_statement}}.
+
+Here's some more context about the Math Competition Solution:
+Problem Statement: {{problem_statement}}
+Variables And Constants: {{variables_and_constants}}
+Approach: {{approach}}
+Solution Steps: {{solution_steps}}
+Verification: {{verification}}
+
+->>>>
+
+Now, we have introduced the problem:
+
+Problem statement:
+{{step_1}}
+
+Proceeding further, let's decipher the problem, outlining the understood variables and constants: {{variables_and_constants}}.
+
+->>>>
+
+We have introduced the problem and outlined the variables and constants in it:
+
+Problem statement:
+{{step_1}}
+
+Variables and constants:
+{{step_2}}
+
+Next, lay out your thought process leading to the solution. Discuss assumptions made, any identified patterns or repetitions, and how they informed your approach to the problem: {{approach}}.
+
+->>>>
+
+So far, we have outlined the problem and our approach to solving it:
+
+Problem statement:
+{{step_1}}
+
+Approach to the problem:
+{{step_3}}
+
+Now, provide a detailed step-by-step guide to the solution, thoroughly explaining any utilized mathematical concepts, principles, or formulas: {{solution_steps}}.
+
+->>>>
+
+We have derived the solution using the following steps:
+
+Problem statement:
+{{step_1}}
+
+Solution steps:
+{{step_4}}
+
+Moving forward, include a detailed verification section to confirm the legitimacy of your solution. This could involve plug-and-check, comparison with alternative solutions, or contradiction checks: {{verification}}.
+
+->>>>
+
+Currently, we have the problem, the solution and the validation of the solution:
+
+Problem statement:
+{{step_1}}
+
+Solution steps:
+{{step_4}}
+
+Verification of the solution:
+{{step_5}}
+
+Next, let's write a conclusion that recaps the core learnings from the problem and the solution process, reiterating the problem statement: {{problem_statement}}.
+
+->>>>
+
+We have the problem, its solution, the validation, and the conclusion derived from them:
+
+Problem statement:
+{{step_1}}
+
+Conclusion:
+{{step_6}}
+
+Next, let's encourage others to share their alternative solutions or perspectives to the problem.
+

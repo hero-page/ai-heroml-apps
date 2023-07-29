@@ -1,0 +1,66 @@
+Creating a "Set Design Description" in the "High School Students - Performing Arts" industry for a "Drama Club Member". 
+Let's start by writing an introduction that provides the context of the stage play: {{play_context}}. This should include the name of the play, its genre, and a brief overview of its general plot.
+
+Here's some more context about the Set Design Description:
+Play Context: {{play_context}}
+Overall Set Design: {{overall_set_design}}
+Set Pieces: {{set_pieces}}
+Lighting Sound: {{lighting_sound}}
+Transitions: {{transitions}}
+
+->>>>
+
+For our Set Design Description, we've provided context about the play:
+
+Play Context:
+{{step_1}}
+
+Now, provide a detailed description of the overall set design: {{overall_set_design}}. In this section, describe the key elements that make up the set, how they interact to form a cohesive ambiance, and consider the scale of the set within the performance space.
+
+->>>>
+
+We have the context as well as the overall set design for our stage play:
+
+Play Context:
+{{step_1}}
+
+Overall Set Design:
+{{step_2}}
+
+Moving forward, describe in detail each main set piece: {{set_pieces}}. Elaborate on the materials used, colors, positions, and any specific features each piece has, especially in the context of their relevance to the narrative of the play.
+
+->>>>
+
+For our play with the context:
+
+Play Context: 
+{{step_1}}
+
+We have described the overall set design and the main set pieces:
+
+Overall Set Design:
+{{step_2}}
+
+Main Set Pieces:
+{{step_3}}
+
+Now, let's delve into the lighting and sound: {{lighting_sound}}. Explain how these elements will enhance the set design and contribute to the overall immersive experience.
+
+->>>>
+
+Here is the concept of our set design so far:
+
+Play Context: 
+{{step_1}}
+
+Overall Set Design:
+{{step_2}}
+
+Main Set Pieces:
+{{step_3}}
+
+Lighting and Sound:
+{{step_4}}
+
+We must now discuss the transitions: {{transitions}}. Describe how the set will change between different scenes or acts, detailing any movable set pieces or transformations in the set's layout.
+

@@ -1,0 +1,124 @@
+Your task is to write a "Data Analysis" for the "High School Students - Sciences" industry, specifically for a "Student".
+
+We'll start by generating an introduction where you will establish the scientific context and talk about the significance of conducting this specific data analysis: {{scientific_context}}.
+
+Here's some more context about the Data Analysis:
+Scientific Context: {{scientific_context}}
+Data Source And Collection: {{data_source_and_collection}}
+Analysis Objective: {{analysis_objective}}
+Analysis Methods: {{analysis_methods}}
+Analysis Results: {{analysis_results}}
+Result Interpretation: {{result_interpretation}}
+Conclusion Ideas: {{conclusion_ideas}}
+
+->>>>
+
+We now have a scientific context and the significance of conducting our Data Analysis:
+
+Scientific Context:
+{{step_1}}
+
+Next, briefly describe the data source(s), collection methods, and any important context about the data: {{data_source_and_collection}}.
+
+->>>>
+
+With the scientific context and data source information in place, let's examine what we have so far:
+
+Scientific Context:
+{{step_1}}
+
+Data Source and Collection:
+{{step_2}}
+
+Now let's proceed to highlight the objectives or questions the analysis is designed to answer: {{analysis_objective}}.
+
+->>>>
+
+We now have the objectives of our data analysis:
+
+Scientific Context:
+{{step_1}}
+
+Analysis Objective:
+{{step_3}}
+
+Next, we present the methods of analysis that will be applied to your data, providing a detailed account of procedures, computational tools, and statistical methods used in the analysis: {{analysis_methods}}.
+
+->>>>
+
+Now we have described the methods to be used in our data analysis:
+
+Scientific Context:
+{{step_1}}
+
+Analysis Objective:
+{{step_3}}
+
+Analysis methods:
+{{step_4}}
+
+Next, we will detail the results of the analysis, ensuring to clearly represent the outcomes, summarizing the key patterns or trends observed in the data: {{analysis_results}}
+
+->>>>
+
+We have detailed the results of our analysis:
+
+Analysis Objective:
+{{step_3}}
+
+Analysis methods:
+{{step_4}}
+
+Analysis results:
+{{step_5}}
+
+Moving forward, let's provide an interpretation of the results in an analysis and discussion section. Discuss what the results indicate in relation to your objectives or questions: {{result_interpretation}}.
+
+->>>>
+
+Our results have been interpreted:
+
+Analysis results:
+{{step_5}}
+
+Result Interpretation:
+{{step_6}}
+
+Now, let's add a conclusion, summarizing the major findings, their implications, and suggesting potential areas for further research: {{conclusion_ideas}}.
+
+->>>>
+
+We now have a conclusion for our study:
+
+Result Interpretation:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Now, we need to tailor our citation style and format according to industry practices, referencing any sources used in constructing your analysis.
+
+->>>>
+
+Our data analysis now has appropriately formatted citations:
+
+Conclusion:
+{{step_7}}
+
+Citations:
+{{step_8}}
+
+Let's incorporate some high school-related elements, such as contextualizing data and interpretation in terms of high school science curriculum topics, possible school project implications, and so on.
+
+->>>>
+
+Our data analysis now includes elements related to high school:
+
+Citations:
+{{step_8}}
+
+High School Related Elements:
+{{step_9}}
+
+Finally, let's form an open-ended question about the data analysis that encourages peer discussion, offering an interactive way for other students to engage with the data and its implications.
+

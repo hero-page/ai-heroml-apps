@@ -1,0 +1,82 @@
+Your task is to write a "Staff Memo" for the "Healthcare & Medical Services" industry, specifically for a "Healthcare Administrator". 
+
+Let's first generate a proper salutation that addresses the healthcare staff and establish the date and subject of the memo.
+
+Here's some more context about the Staff Memo:
+Staff Salutation: {{staff_salutation}}
+Memo Purpose: {{memo_purpose}}
+Key Updates: {{key_updates}}
+Staff Actions: {{staff_actions}}
+Industry Specific Info: {{industry_specific_info}}
+Contact Info: {{contact_info}}
+Sign Off: {{sign_off}}
+
+->>>>
+
+For our "Staff Memo" in the "Healthcare & Medical Services" industry, we have a salutation, date, and a subject:
+
+Salutation, Date, and Subject:
+{{step_1}}
+
+Next, let's write an introduction to clearly convey the purpose of the memo.
+
+->>>>
+
+For the "Staff Memo", we have a salutation, date, subject, and introduction:
+
+Salutation, Date, and Subject:
+{{step_1}}
+
+Introduction for the Memo:
+{{step_2}}
+
+Let's move to the central part of the memo. We'll structure this information into subsections for easy comprehension. Cover the background or context and the key updates or changes driving the need for this memo.
+
+->>>>
+
+In our "Staff Memo", we have formulated an introduction and the main body. 
+
+Introduction:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Now, list the specific instructions or actions required from the staff in response to this memo. Be clear about the associated deadlines or timelines.
+
+->>>>
+
+In our "Staff Memo", we have detailed the main body of information and specified the actions needed from the staff. 
+
+Main Body:
+{{step_3}}
+
+Staff actions and deadlines:
+{{step_4}}
+
+Now, let's add industry-specific elements in line with healthcare and medical services. Consider aspects such as patient care protocols, health and safety procedures, and relevant updates in healthcare legislation.
+
+->>>>
+
+Our "Staff Memo" now includes a clear direction for the staff and information on industry-specific elements:
+
+Staff Actions & Deadlines:
+{{step_4}}
+
+Industry-Specific Info:
+{{step_5}}
+
+Now, let's conclude the memo. Include contact information for further inquiries, ensuring this belongs to the relevant person or department responsible for the subject matter.
+
+->>>>
+
+Maintaining the flow from the earlier steps, we now have a conclusion for our "Staff Memo" that includes contact information for further inquiries:
+
+Industry-Specific Information:
+{{step_5}}
+
+Conclusion & Contact Information:
+{{step_6}}
+
+Lastly, close the memo with a professional sign-off and your name as the "Healthcare Administrator".
+

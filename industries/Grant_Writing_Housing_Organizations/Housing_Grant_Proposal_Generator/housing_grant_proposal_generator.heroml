@@ -1,0 +1,98 @@
+Your task is to write a "Funding Proposal" for the "Grant Writing - Housing Organizations" industry, specifically for a "Grant Writer". 
+
+Let's start by drafting an executive summary of the funding proposal. It should quickly illustrate the necessity of the grant: {{need_for_grant}}. 
+
+Here's some more context about the Funding Proposal:
+Need For Grant: {{need_for_grant}}
+Area Of Focus: {{area_of_focus}}
+Project Description: {{project_description}}
+Grant Amount: {{grant_amount}}
+Budget Allocation: {{budget_allocation}}
+Sustainability Plan: {{sustainability_plan}}
+Partners Contributors: {{partners_contributors}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+For the funding proposal, we have an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, focus on creating a detailed introduction that expands on the need for the grant: {{need_for_grant}}. It should provide context and explain the existing problem or opportunity that the grant will address.
+
+->>>>
+
+For the funding proposal, we have an executive summary and a detailed introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, let's describe the organization profile of the housing association that is submitting the proposal. Make sure to include a brief history, mission, and track record, emphasizing past successes related to the area that the grant will support: {{area_of_focus}}.
+
+->>>>
+
+For the funding proposal, we have an executive summary, a detailed introduction, and an organization profile:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Organization Profile:
+{{step_3}}
+
+We need to detail the specific project or initiative for which funds are being requested. Describe the objectives, the implementation process, schedule, and expected outcomes in the context of the housing industry: {{project_description}}. Don't forget to clearly communicate the direct impact the project will have on local communities or housing sector development.
+
+->>>>
+
+For the funding proposal, we have an organization profile and a detailed project description:
+
+Organization Profile:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+Next, let's describe the financial necessity for the project by providing a comprehensive budget breakdown. The budget should clarify how the {{grant_amount}} will be allocated: {{budget_allocation}}.
+
+->>>>
+
+For the funding proposal, we have a detailed project description and a comprehensive budget for the project:
+
+Project Description:
+{{step_4}}
+
+Budget:
+{{step_5}}
+
+Now, we need to formulate a sustainability plan that explains how the project or initiative will continue after the grant period has ended. Specifically, focus on projecting the impact in the housing sector: {{sustainability_plan}}.
+
+->>>>
+
+For the funding proposal, we have a comprehensive budget and a sustainability plan:
+
+Budget:
+{{step_5}}
+
+Sustainability Plan:
+{{step_6}}
+
+Next, list partners and collaborators that will participate in this project. Make references to leaders in the housing industry, governmental entities, or non-profit partners that will contribute or help shape the project: {{partners_contributors}}.
+
+->>>>
+
+For the funding proposal, we have a sustainability plan and a list of partners & contributors:
+
+Sustainability Plan:
+{{step_6}}
+
+Partners & Contributors:
+{{step_7}}
+
+Now, wrap up the funding proposal with a summary that emphasizes the need for the grant: {{need_for_grant}}, the unique qualifications of the housing organization, and the lasting impact that the grant will facilitate in the housing community.
+

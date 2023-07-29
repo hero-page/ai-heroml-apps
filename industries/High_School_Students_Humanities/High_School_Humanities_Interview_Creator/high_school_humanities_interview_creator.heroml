@@ -1,0 +1,68 @@
+Let's generate an "Interview" for the "High School Students - Humanities" industry, specifically for a "Newspaper Club Member". 
+
+To start, let's create an introduction for the person you are interviewing. Including their name: {{interviewee_name}}, their role in the humanities community, and a brief description of their relevance to the topic of the interview: {{relevance_to_topic}}.
+
+Here's some more context about the Interview:
+Interviewee Name: {{interviewee_name}}
+Relevance To Topic: {{relevance_to_topic}}
+Academic Interests: {{academic_interests}}
+Specific Humanities Interests: {{specific_humanities_interests}}
+Significant Project: {{significant_project}}
+Recommended Resources: {{recommended_resources}}
+Future Plans: {{future_plans}}
+Key Points: {{key_points}}
+
+->>>>
+
+Great! Now we've set the scene for our interview:
+
+Introduction:
+{{step_1}}
+
+With the background set, we will open with a few discussion points relating to the general background of the interviewee. Incorporate their academic pursuits: {{academic_interests}}, any specific interests in the humanities: {{specific_humanities_interests}}, and their involvement in extracurricular activities, especially their role in the newspaper club.
+
+->>>>
+
+Excellent! Now, we have some background about our interviewee: 
+
+Background Discussion:
+{{step_2}}
+
+Next, let's delve deeper into specific topics relevant to our interviewee’s expertise or experiences. Discuss a significant project they have undertaken or contributed to: {{significant_project}}, talk about any challenges faced and their learning experience from it, and gather their opinions on the impact of their work on the high school or broader community.
+
+->>>>
+
+We now have a deep-dive into the interviewee's experiences:
+
+Deep-Dive:
+{{step_3}}
+
+Now, ask our interviewee to share tips or advice relating to humanities. These can include their strategies for success in high school humanities courses, how to balance schoolwork, club responsibilities and other extracurricular activities, and any book or resource recommendations for fellow students interested in humanities: {{recommended_resources}}.
+
+->>>>
+
+We've gathered some tips and advice from our interviewee:
+
+Advice:
+{{step_4}}
+
+Next, approach community interests or issues relevant to high school students and get the interviewee's perspective on them. Discuss the role of humanities in shaping a well-rounded high school education, how humanities foster critical thinking and cultural understanding, and its significance in the current society or world events.
+
+->>>>
+
+We've discussed community interests or issues with our interviewee:
+
+Community Interests Discussion:
+{{step_5}}
+
+Near the end of our interview, come to asking about their future plans: {{future_plans}}. Talk about plans after high school: College studies, potential career paths in humanities, future contributions to the newspaper club or other community services.
+
+->>>>
+
+We've discussed the interviewee's future plans:
+
+Future Plans:
+{{step_6}}
+
+Finally, conclude the interview with a thank you note to the interviewee for their time and insights. Summarize the key points: {{key_points}} and give a short preview of your next work for the newspaper club.
+

@@ -1,0 +1,165 @@
+Your task is to write a "Research Paper" for "High School Students - Mathematics", specifically for a "Student". 
+Let's kick off the "Research Paper" by creating an abstract that summarises the entire paper: {{paper_summary}}.
+
+Here's some more context about the Research Paper:
+Paper Summary: {{paper_summary}}
+Math Concept: {{math_concept}}
+Research Results: {{research_results}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+We are writing a research paper for high school math students. We have started with an abstract for our paper:
+
+Abstract:
+{{step_1}}
+
+Next, let's introduce the mathematical concept or problem we plan to explore: {{math_concept}}. Explain why this concept or problem is relevant and how it connects with previous research or real-life applications.
+
+->>>>
+
+Our research paper for high school math students has an abstract and an introduction:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, prepare the literature review. Highlight and evaluate previous studies or mathematical proofs that pertain to {{math_concept}}, and comment on any gaps your research will fill.
+
+->>>>
+
+We have the abstract, introduction, and the literature review for our research paper:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+After that, describe your methodology. Explain how you will investigate or troubleshoot {{math_concept}}, elaborate on the mathematical theories or formulas you used, and justify why you chose these tools.
+
+->>>>
+
+Our research paper's methodology part is ready. We now have an abstract, introduction, literature review, and methodology:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Now, conduct your research or experiments according to the methodology and record the results: {{research_results}}.
+
+->>>>
+
+With the research results, our research paper now includes an abstract, introduction, literature review, methodology, and research results:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Research Results:
+{{step_5}}
+
+Next, discuss the results of your experiments or research, comparing them with the previous study and exploring what new insights your {{research_results}} add to the discipline.
+
+->>>>
+
+After discussing the results, our research paper now includes an abstract, introduction, literature review, methodology, results, and a discussion:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Discussion:
+{{step_6}}
+
+The final section of your "Research Paper" should be the conclusion. Write a conclusion that encapsulates the research process, from your initial hypothesis to the results and their significance: {{conclusion}}.
+
+->>>>
+
+Our research paper includes a conclusion in addition to the abstract, introduction, literature review, methodology, results, and discussion:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Discussion:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+A list of references is crucial. Include all the sources you consulted while researching and writing your paper.
+
+->>>>
+
+Now, our research paper also includes references:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Discussion:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+References:
+{{step_8}}
+
+In the paper, wherever possible, use real-life scenarios to explain your {{math_concept}} or problems. This will make your paper more engaging and easier to understand for your peers.
+

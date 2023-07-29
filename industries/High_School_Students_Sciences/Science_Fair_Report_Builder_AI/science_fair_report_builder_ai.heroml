@@ -1,0 +1,109 @@
+Your task is to write an "Experiment Report" for the "High School Students - Sciences" industry, specifically for a "Science Fair Participant". Let's begin by drafting an "Introduction" that clearly defines the scientific question your experiment addresses: {{scientific_question}}. Add an explanation of the purpose of your experiment: {{experiment_purpose}}. This introduction will set the framework for your report.
+
+Here's some more context about the Experiment Report:
+Scientific Question: {{scientific_question}}
+Experiment Purpose: {{experiment_purpose}}
+Experiment Process: {{experiment_process}}
+Experiment Data: {{experiment_data}}
+Results Analysis: {{results_analysis}}
+Conclusion Statement: {{conclusion_statement}}
+
+->>>>
+
+With our introduction written, we now have:
+
+Introduction:
+{{step_1}}
+
+Proceed with compiling the "Research Overview", by detailing the research that guided the design of your experiment. Include the background information that allows the reader to understand the rationale behind the experiment, mentioning key resources used for your research.
+
+->>>>
+
+So far in the report, we have details on:
+
+Introduction:
+{{step_1}}
+
+Research Overview:
+{{step_2}}
+
+Next, describe the "Experimental Design". Write step-by-step of the exact process followed in conducting your experiment: {{experiment_process}}. Be clear in providing specifics like the experimental set-up, the materials used, and the data collection methods.
+
+->>>>
+
+For the report, we now have:
+
+Introduction:
+{{step_1}}
+
+Research Overview:
+{{step_2}}
+
+Experimental Design:
+{{step_3}}
+
+Moving forward, present the "Results" section that outlines the data collected in the experiment: {{experiment_data}}. This should include a factual description of the observations made and measurements taken, highlighting any trends or patterns seen in the data.
+
+->>>>
+
+Our report details so far are:
+
+Introduction:
+{{step_1}}
+
+Research Overview:
+{{step_2}}
+
+Experimental Design:
+{{step_3}}
+
+Results:
+{{step_4}}
+
+In the "Discussion/Analysis" part, provide an analysis of the experiment results. Elucidate on what the results mean concerning your scientific question and why they happened the way they did: {{results_analysis}}. Discuss explicitly whether your results support your initial hypothesis or not.
+
+->>>>
+
+Our report now includes:
+
+Introduction:
+{{step_1}}
+
+Research Overview:
+{{step_2}}
+
+Experimental Design:
+{{step_3}}
+
+Results:
+{{step_4}}
+
+Discussion/Analysis:
+{{step_5}}
+
+Now, conclude the report with a "Conclusion/Reflection" section. Infuse this section with a final statement about your findings, how conclusively they answer the scientific question, and specify any next steps or further studies that could be initiated based on your experiment: {{conclusion_statement}}.
+
+->>>>
+
+The elements in our report so far:
+
+Introduction:
+{{step_1}}
+
+Research Overview:
+{{step_2}}
+
+Experimental Design:
+{{step_3}}
+
+Results:
+{{step_4}}
+
+Discussion/Analysis:
+{{step_5}}
+
+Conclusion/Reflection:
+{{step_6}}
+
+Finally, create a "References" section to credit your sources and show the breadth of your research. This will add credibility to your report, demonstrating that your experiment was informed by established scientific theories and studies. Make sure to follow an appropriate citation style.
+

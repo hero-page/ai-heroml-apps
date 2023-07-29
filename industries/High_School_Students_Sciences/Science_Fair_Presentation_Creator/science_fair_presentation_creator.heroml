@@ -1,0 +1,112 @@
+Let's create a scientific presentation for a science fair participant in the "High School Students - Sciences" industry. Start by writing an engaging introduction that clearly outlines the project's main aim: {{project_aim}} and the hypothesis to be tested: {{hypothesis}}.
+
+Here's some more context about the Presentation:
+Project Aim: {{project_aim}}
+Hypothesis: {{hypothesis}}
+Scientific Principles: {{scientific_principles}}
+Experimental Procedure: {{experimental_procedure}}
+Data Collection: {{data_collection}}
+Results: {{results}}
+Limitations: {{limitations}}
+
+->>>>
+
+We have an engaging introduction for our presentation:
+
+Introduction:
+{{step_1}}
+
+Now, write a context or background section. Explain the scientific knowledge or principles that the project is based on, filling out the variable {{scientific_principles}}.
+
+->>>>
+
+On top of our introduction:
+
+Introduction:
+{{step_1}}
+
+We now have a context/background section:
+
+Context/Background:
+{{step_2}}
+
+Next, let's detail the methodology. Use a step-by-step format to explain how the experiment was carried out and how data was collected. This will involve two dynamic variables: {{experimental_procedure}} and {{data_collection}}.
+
+->>>>
+
+We have an introduction, context, and now a detailed methodology:
+
+Introduction:
+{{step_1}}
+
+Context/Background:
+{{step_2}}
+
+Methodology:
+{{step_3}}
+
+After detailing the methodology, present the results obtained from the experiment. This fulfils the dynamic variable of {{results}}. Then, offer a detailed analysis of these results in relation to the hypothesis and scientific principles.
+
+->>>>
+
+We have our introduction, context, methodology, and now the results and analysis:
+
+Introduction:
+{{step_1}}
+
+Context/Background:
+{{step_2}}
+
+Methodology:
+{{step_3}}
+
+Results and Analysis:
+{{step_4}}
+
+Next, discuss possible interpretations of the collected data and implications of these results on {{scientific_principles}}.
+
+->>>>
+
+Our presentation so far includes an introduction, context, methodology, results and analysis, and now, data interpretation:
+
+Introduction:
+{{step_1}}
+
+Context/Background:
+{{step_2}}
+
+Methodology:
+{{step_3}}
+
+Results and Analysis:
+{{step_4}}
+
+Data Interpretation:
+{{step_5}}
+
+Then, address the potential limitations and hurdles encountered during the course of the project, satisfying the dynamic variable known as {{limitations}}.
+
+->>>>
+
+Our presentation now includes an introduction, context, methodology, results and analysis, data interpretation, and limitations:
+
+Introduction:
+{{step_1}}
+
+Context/Background:
+{{step_2}}
+
+Methodology:
+{{step_3}}
+
+Results and Analysis:
+{{step_4}}
+
+Data Interpretation:
+{{step_5}}
+
+Limitations:
+{{step_6}}
+
+Finally, write a conclusion that sums up the presentation. Reiterate the {{project_aim}}, confirm whether the {{hypothesis}} was supported or refuted by the {{results}}, and discuss potential future research.
+

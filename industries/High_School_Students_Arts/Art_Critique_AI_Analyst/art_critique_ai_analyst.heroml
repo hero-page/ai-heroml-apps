@@ -1,0 +1,79 @@
+Your task is to create an "Art Critique" for the "High School Students - Arts" industry, specifically for a "Student". 
+Let's start by creating an introduction that provides context and discusses the art piece you'll be critiquing: {{art_piece}}.
+
+Here's some more context about the Art Critique:
+Art Piece: {{art_piece}}
+Artist: {{artist}}
+
+->>>>
+
+Creating an "Art Critique" and we have an introduction for the critique:
+
+Introduction:
+{{step_1}}
+
+Now, briefly describe the visual appearance of the {{art_piece}}, covering aspects such as colors, textures, shapes, or the use of white space.
+
+->>>>
+
+We are describing the visual appearance of the {{art_piece}} as follows:
+
+Art Piece Description:
+{{step_2}}
+
+Next, introduce the artist, mentioning what's publicly known about them and their artistry: {{artist}}.
+
+->>>>
+
+We have introduced the artist:
+
+Artist Introduction:
+{{step_3}}
+
+Now, analyze the artistic composition and subject matter of the {{art_piece}}. Discuss how these elements contribute to the overall aesthetics and message.
+
+->>>>
+
+We have analyzed the artistic composition and subject matter of the {{art_piece}}:
+
+Artistic Composition Analysis:
+{{step_4}}
+
+Next, discuss the cultural, historical, or personal context of the {{art_piece}}. Share any specific knowledge you have about the period in which the artist {{artist}} created the piece.
+
+->>>>
+
+Based on our discussion, we have provided a context for the {{art_piece}}:
+
+Context of Art Piece:
+{{step_5}}
+
+Now, analyze the techniques used by the {{artist}}, and how they have contributed to the effect of the {{art_piece}}. This could include the use of color, line, texture, space, and other art elements.
+
+->>>>
+
+We have analyzed the techniques used by the {{artist}}:
+
+Artistic Techniques Analysis:
+{{step_6}}
+
+After analyzing the techniques, express your interpretation of the {{art_piece}}. What message do you think the artist was trying to communicate? How does the piece make you feel? Remember, this part is largely subjective and personal.
+
+->>>>
+
+Based on our interpretation, this is how we perceive the {{art_piece}}:
+
+Art Piece Interpretation:
+{{step_7}}
+
+Now, evaluate the effect of the {{art_piece}}. Is it powerful, moving, or thought-provoking? Discuss how effectively you believe the artist communicated their intended message or emotion.
+
+->>>>
+
+Getting closer to the end, this is our evaluation of the {{art_piece}}:
+
+Art Piece Evaluation:
+{{step_8}}
+
+Finally, summarize your thoughts on the {{art_piece}}, giving an overall impression of the work. If applicable, compare this piece to others by the same artist, or describe how it fits into the artist's body of work. Make sure your critique is professional and respectful, using appropriate terminology and language related to the art industry.
+

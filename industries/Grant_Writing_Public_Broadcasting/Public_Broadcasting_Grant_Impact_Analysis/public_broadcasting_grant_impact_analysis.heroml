@@ -1,0 +1,77 @@
+Your task is to write an "Audience Impact Statement" for the "Grant Writing - Public Broadcasting" industry, specifically for a "Grant Writer". 
+
+Let's start by writing an introduction that outlines the purpose of the grant: {{grant_purpose}}. 
+
+Here's some more context about the Audience Impact Statement:
+Grant Purpose: {{grant_purpose}}
+Audience Interests And Benefits: {{audience_interests_and_benefits}}
+Initiative Description: {{initiative_description}}
+Impact On Audience: {{impact_on_audience}}
+Public Interest Benefits: {{public_interest_benefits}}
+
+->>>>
+
+We now have an introduction for our Audience Impact Statement specifying the purpose of the grant:
+
+Introduction:
+{{step_1}}
+
+Next, let's articulate the unique needs, interests, and potential benefits for our target audience: {{audience_interests_and_benefits}}.
+
+->>>>
+
+Our Audience Impact Statement now has an introduction and a section detailing the audience's needs, interests, and benefits:
+
+Introduction:
+{{step_1}}
+
+Audience Interests and Benefits:
+{{step_2}}
+
+Moving forward, describe how your public broadcasting initiative (program, project, or service) aligns with the audience’s needs and interests: {{initiative_description}}.
+
+->>>>
+
+We now have details on how our public broadcasting initiative aligns with the audience’s needs and interests:
+
+Introduction:
+{{step_1}}
+
+Audience Interests and Benefits:
+{{step_2}}
+
+Initiative Description:
+{{step_3}}
+
+Next, let's explain how this initiative will impact the target audience - educationally, culturally, socially, or economically: {{impact_on_audience}}.
+
+->>>>
+
+Our Audience Impact Statement currently includes information on how the public broadcasting initiative will impact the target audience:
+
+Introduction:
+{{step_1}}
+
+Initiative Description:
+{{step_3}}
+
+Audience Impact:
+{{step_4}}
+
+Now, use commercial ratings, market surveys or any other reliable data source to estimate the number of people your initiative will reach or has reached. Include the expected or actual reach numbers for both rural and urban areas.
+
+->>>>
+
+Our Audience Impact Statement now has estimated reach data based on reliable sources:
+
+Initiative Description:
+{{step_3}}
+
+Audience Impact:
+{{step_4}}
+
+Estimated Reach:
+{{step_5}}
+
+Then, elucidate how your initiative better serves the public interest than commercial broadcasting. Specifically, describe the uniqueness and value of the non-commercial content being proposed, and its role in maintaining diversity and plurality in the broadcasting sector: {{public_interest_benefits}}.
+

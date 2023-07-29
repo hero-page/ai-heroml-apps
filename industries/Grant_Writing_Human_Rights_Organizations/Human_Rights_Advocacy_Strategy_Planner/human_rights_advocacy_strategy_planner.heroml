@@ -1,0 +1,72 @@
+Your task is to write an "Advocacy Strategy" for the "Grant Writing - Human Rights Organizations" industry, specifically for a "Program Director". Let's start by drafting an executive summary that outlines the purpose of the advocacy strategy: {{strategy_purpose}}. Be concise and make sure you introduce the main aspects of the system.
+
+Here's some more context about the Advocacy Strategy:
+Strategy Purpose: {{strategy_purpose}}
+Human Rights Context: {{human_rights_context}}
+
+->>>>
+
+We have an Executive Summary for our Advocacy Strategy:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that provides the human rights context: {{human_rights_context}}. Explicitly mention the desire for change, the current challenges, your organization's role, and the objectives of the strategy.
+
+->>>>
+
+Our Advocacy Strategy so far is structured as follows:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+In the next step, identify the targeted stakeholders. They could be political figures, international bodies, or public audiences. Describe their roles, interests, and potential influence in the context of {{human_rights_context}}.
+
+->>>>
+
+Our Advocacy Strategy now includes the identified stakeholders:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Stakeholders:
+{{step_3}}
+
+Next, develop the strategy section. This should detail the key advocacy tactics and methods designed to achieve the strategy's objectives within the stated human rights context: {{human_rights_context}}. Outline practical steps which could range from organizing campaigns, building alliances, or conducting research.
+
+->>>>
+
+Our Advocacy Strategy's structure is as follows:
+
+Introduction:
+{{step_2}}
+
+Stakeholders:
+{{step_3}}
+
+Strategy:
+{{step_4}}
+
+Now, work on the resource allocation section. Describe the human, financial, and logistical resources that will be used to execute each part of the strategy. This section should also address any potential risks or challenges and provide measures to mitigate them.
+
+->>>>
+
+We are progressing with our Advocacy Strategy:
+
+Stakeholders:
+{{step_3}}
+
+Strategy:
+{{step_4}}
+
+Resource Allocation:
+{{step_5}}
+
+Next, conclude the advocacy strategy with an evaluation plan. Detail how the effectiveness of the strategy will be measured. This might include benchmarks, progress indicators, or success stories linked to {{human_rights_context}}.
+

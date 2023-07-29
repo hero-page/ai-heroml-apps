@@ -1,0 +1,110 @@
+Your task is to write an "Article" for the "High School Students - Humanities" industry, specifically for a "Newspaper Club Member". We start by crafting an engaging headline about the {{article_subject}}.
+
+Here's some more context about the Article:
+Article Subject: {{article_subject}}
+
+->>>>
+
+For our newspaper article, the following is the engaging headline:
+
+Headline:
+{{step_1}}
+
+Next, we need to formulate an introduction for the article. The introduction should provide an overview of the {{article_subject}} and generate interest for the reader.
+
+->>>>
+
+Our article now has a headline and introduction:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving forward, let's develop the body content that elucidates the key aspects of the {{article_subject}}.
+
+->>>>
+
+For the body of our article, we have:
+
+Introduction:
+{{step_2}}
+
+Body Content:
+{{step_3}}
+
+Now, we need to enrich the article by incorporating relevant historical or current facts related to the {{article_subject}}.
+
+->>>>
+
+Our article enriched with relevant facts looks like this:
+
+Body Content:
+{{step_3}}
+
+Relevant Information:
+{{step_4}}
+
+Next, we need to involve multiple perspectives as it relates to the article. This might include those of experts, educators, students or others with differing viewpoints on {{article_subject}}.
+
+->>>>
+
+For our article, we now have:
+
+Relevant Information:
+{{step_4}}
+
+Diverse Perspectives:
+{{step_5}}
+
+Now, let's include quotations or perspectives from interviews or credible sources to substantiate the points made about the {{article_subject}}.
+
+->>>>
+
+Our article now includes diverse perspectives and credible sources:
+
+Diverse Perspectives:
+{{step_5}}
+
+Quotes and Sources:
+{{step_6}}
+
+If it's relevant, let's also discuss how the {{article_subject}} corresponds to broader themes in the humanities, like culture, society, politics, or philosophy.
+
+->>>>
+
+The article now includes broader humanities implications:
+
+Quotes and Sources:
+{{step_6}}
+
+Themes in Humanities:
+{{step_7}}
+
+Let's bring closure by writing a conclusion to summarize the discussion about {{article_subject}}. If applicable, pose some thought-provoking questions or talk about its broader implications.
+
+->>>>
+
+Our article now includes a conclusion:
+
+Themes in Humanities:
+{{step_7}}
+
+Conclusion:
+{{step_8}}
+
+Next, include a bibliography or references section, crediting the sources used for gathering information on the {{article_subject}}.
+
+->>>>
+
+Our article with added references:
+
+Conclusion:
+{{step_8}}
+
+References:
+{{step_9}}
+
+Lastly, thoroughly edit and proofread your article for grammar, punctuation, and spelling. Also ensure that it meets all the necessary school rules and journalistic ethical principles.
+

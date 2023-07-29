@@ -1,0 +1,91 @@
+
+Your task is to write a "Social Media Post" for the "Health & Wellness Product Marketing" industry, specifically for a "Content Creator". 
+
+To start, please compose an engaging opener for the post, which could include a posed health or wellness question or statement to grab readers' interest.
+
+Here's some more context about the Social Media Post:
+Engaging Opener: {{engaging_opener}}
+Product Name: {{product_name}}
+Product Features: {{product_features}}
+Product USPs: {{product_USPs}}
+Product Benefits: {{product_benefits}}
+Supporting Evidence: {{supporting_evidence}}
+User Relevance: {{user_relevance}}
+Call To Action: {{call_to_action}}
+Future Teaser: {{future_teaser}}
+
+->>>>
+
+Great, our social media post has the following engaging opener:
+
+Opener:
+{{step_1}}
+
+Next, introduce the health and wellness product that the post will focus on. Remember to mention its name, key features, and unique selling points.
+
+->>>>
+
+The social media post now has an engaging opener and an introduction for the product:
+
+Opener:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+For the next part, elaborate on the specific wellness benefits of the product. Include elements such as the problem or condition it alleviates, how it improves health or wellness, and any supportive scientific research or statistics.
+
+->>>>
+
+Our social media post currently includes:
+
+Opener:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Product Benefits:
+{{step_3}}
+
+Next, draw a connection between the product and the user's needs or desires. Discuss how the product fits into the user's lifestyle, daily routines, wellness goals or solves a specific health problem they might face.
+
+->>>>
+
+We now have the following sections of the social media post:
+
+Opener:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Product Benefits:
+{{step_3}}
+
+User Relevance:
+{{step_4}}
+
+Now, please add a call-to-action, encouraging followers to purchase the product, visit the website for more information, or engage with other desired behavior.
+
+->>>>
+
+The social media post so far:
+
+Opener:
+{{step_1}}
+
+Product Introduction:
+{{step_2}}
+
+Product Benefits:
+{{step_3}}
+
+User Relevance:
+{{step_4}}
+
+Call-to-Action:
+{{step_5}}
+
+To wrap up, conclude the post with a teaser of future content or upcoming product launches, ensuring to keep your audience intrigued and looking forward to future communications.
+

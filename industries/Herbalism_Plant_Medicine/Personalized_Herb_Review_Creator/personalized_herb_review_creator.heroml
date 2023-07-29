@@ -1,0 +1,77 @@
+Your task is to write a "Herb Review" for the "Herbalism & Plant Medicine" industry, as a "Wellness Blogger". Start by creating an introductory paragraph about {{herb_name}}.
+
+Here's some more context about the Herb Review:
+Herb Name: {{herb_name}}
+
+->>>>
+
+With the introductory paragraph concisely written, we have:
+
+Introduction:
+{{step_1}}
+
+Now, detail the origin, history, and traditional uses of {{herb_name}}.
+
+->>>>
+
+With an introductory paragraph and the history of the herb, we have:
+
+Introduction:
+{{step_1}}
+
+Origin, History, and Traditional Uses:
+{{step_2}}
+
+Next, describe the appearance, aroma, texture, and taste of {{herb_name}}. Also, provide recommendations on when and how to use the herb in a daily wellness routine.
+
+->>>>
+
+We have described {{herb_name}} and its uses as follows:
+
+Introduction:
+{{step_1}}
+
+Origin, History, and Traditional Uses:
+{{step_2}}
+
+Appearance, Aroma, and Use Recommendation:
+{{step_3}}
+
+Now, let's dive into studying {{herb_name}}'s medicinal benefits and potential side effects, citing credible sources.
+
+->>>>
+
+So far, this is what we know about {{herb_name}}:
+
+Appearance, Aroma, and Use Recommendation:
+{{step_3}}
+
+Medicinal Benefits and Potential Side Effects:
+{{step_4}}
+
+Next, illustrate how {{herb_name}} can be incorporated into various wellness rituals or products.
+
+->>>>
+
+Here's how far we have progressed in reviewing {{herb_name}}:
+
+Medicinal Benefits and Potential Side Effects:
+{{step_4}}
+
+Incorporation into wellness rituals:
+{{step_5}}
+
+Now, develop a comparative analysis of {{herb_name}} with similar herbs considering their healing properties, price, and availability.
+
+->>>>
+
+At this point in our review, we have:
+
+Incorporation into wellness rituals:
+{{step_5}}
+
+Comparative Analysis:
+{{step_6}}
+
+Let's wrap up the review by giving a final verdict on {{herb_name}}, sharing its key features, benefits and potential uses. Also, include a reminder to consult healthcare practitioners before incorporating new herbs.
+

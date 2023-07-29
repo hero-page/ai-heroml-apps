@@ -1,0 +1,95 @@
+Your task is to write an "Impact Assessment" for the "Grant Writing - Human Rights Organizations" industry, specifically for a "Program Director". 
+
+Let's start by generating an executive summary that succinctly outlines the purpose of the assessment, its key findings, and decisive recommendations. 
+
+Here's some more context about the Impact Assessment:
+Summary Content: {{summary_content}}
+Project Background: {{project_background}}
+Evaluation Methodology: {{evaluation_methodology}}
+Program Objectives: {{program_objectives}}
+Analysis Content: {{analysis_content}}
+Stakeholder Implications: {{stakeholder_implications}}
+Recommendations Content: {{recommendations_content}}
+Conclusion Content: {{conclusion_content}}
+
+->>>>
+
+Now, we have an executive summary for the "Impact Assessment":
+
+Executive Summary:
+{{step_1}}
+
+Next, consider providing an introduction that details the background of the project or initiative implemented: {{project_background}}, and the reason for performing the impact assessment.
+
+->>>>
+
+For the "Impact Assessment", we have an executive summary and an introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving forward, describe the evaluation methodology used in the assessment, including the use of qualitative or quantitative data to assess the impact.
+
+->>>>
+
+In our impact assessment, we have an introduction and covered the evaluation methodology:
+
+Introduction:
+{{step_2}}
+
+Evaluation Methodology:
+{{step_3}}
+
+Now, outline the program objectives, detailing how they align with the organizational mission and the human rights context.
+
+->>>>
+
+So far, we have detailed the evaluation methodology and stated the program objectives in the "Impact Assessment":
+
+Evaluation Methodology:
+{{step_3}}
+
+Program Objectives:
+{{step_4}}
+
+Based on this, present the findings and analysis of the impact assessment, focusing on the extent to which the program has achieved its objectives and contributed to human rights.
+
+->>>>
+
+The "Impact Assessment" currently has program objectives and an analysis section:
+
+Program Objectives:
+{{step_4}}
+
+Findings and Analysis:
+{{step_5}}
+
+Let's continue by discussing the implications of the findings for the stakeholders involved: {{stakeholder_implications}}. This should include an analysis of the effects of the project or initiative on different stakeholder groups, including any potential adverse impacts.
+
+->>>>
+
+Our "Impact Assessment" consist of the findings and a section discussing the stakeholders implications till now:
+
+Findings and Analysis:
+{{step_5}}
+
+Stakeholder Implications:
+{{step_6}}
+
+Next, provide specific, actionable recommendations based on the findings of the impact assessment, aligned with the organization's objectives and the needs of the stakeholders.
+
+->>>>
+
+Our "Impact Assessment" now includes discussions about stakeholders and recommendations:
+
+Stakeholder Implications:
+{{step_6}}
+
+Recommendations:
+{{step_7}}
+
+Now, let's write a conclusion summarizing the key findings and recommendations, tying back to the overall human rights landscape and the organization's mission.
+

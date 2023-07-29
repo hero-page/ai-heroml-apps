@@ -1,0 +1,89 @@
+To begin with, let's write an introduction that summarizes the current state of the organization: {{organization_status}}.
+
+Here's some more context about the Situation Analysis:
+Organization Status: {{organization_status}}
+Mission Alignment: {{mission_alignment}}
+Challenges Analysis: {{challenges_analysis}}
+Initiatives Review: {{initiatives_review}}
+Funding Status: {{funding_status}}
+Opportunities Examination: {{opportunities_examination}}
+Critical Points: {{critical_points}}
+
+->>>>
+
+We've started our situation analysis with an overview including:
+
+Introduction:
+{{step_1}}
+
+Next, dive into the organization's mission and describe how it aligns with human rights principles. This section will be labeled as {{mission_alignment}}.
+
+->>>>
+
+We now have two sections of our analysis:
+
+Introduction:
+{{step_1}}
+
+Mission Alignment:
+{{step_2}}
+
+Moving on, analyze and describe the challenges the organization currently faces in the context of the broader human rights landscape. This should be under the {{challenges_analysis}} section.
+
+->>>>
+
+Now our situation analysis includes:
+
+Introduction:
+{{step_1}}
+
+Mission Alignment:
+{{step_2}}
+
+Challenges Analysis:
+{{step_3}}
+
+Following that, compile a review of past and ongoing initiatives taken by the organization to address these challenges, discuss their impacts, and the lessons learned under the {{initiatives_review}} section.
+
+->>>>
+
+We have now added more depth to our situation analysis with:
+
+Introduction:
+{{step_1}}
+
+Challenges Analysis:
+{{step_3}}
+
+Initiatives Review:
+{{step_4}}
+
+Next, scrutinize the funding status of the organization, highlighting sources of current funding, funding trends, and any identified gaps. Label this section as {{funding_status}}.
+
+->>>>
+
+Our situation analysis of the organization should now consist of:
+
+Introduction:
+{{step_1}}
+
+Initiatives Review:
+{{step_4}}
+
+Funding Status:
+{{step_5}}
+
+Then, examine potential opportunities that could be explored to support the organization’s mission in the future. This should be referred to as the {{opportunities_examination}} section.
+
+->>>>
+
+We now have most of the parts of our situation analysis for the organization:
+
+Funding Status:
+{{step_5}}
+
+Opportunities Examination:
+{{step_6}}
+
+Concluding, let's summarize the overall current situation of the organization. It should highlight the critical points affecting the organization under the {{critical_points}} section.
+

@@ -1,0 +1,114 @@
+Your task is to write a "Research Paper" for the "High School Students - Arts" industry, specifically for a "Student". 
+
+Let's begin with the introduction. Write a section that provides an overview of the art subject: {{art_subject}}. It should include the relevance of this subject in your high school's art curriculum and why you chose it for your research.
+
+Here's some more context about the Research Paper:
+Art Subject: {{art_subject}}
+Historical Context: {{historical_context}}
+Cultural Impact: {{cultural_impact}}
+Trends: {{trends}}
+
+->>>>
+
+Now that we have the introduction, let's proceed with the literature review. Discuss existing literature on the {{art_subject}}, which should include references to various sources such as books, academic articles, and credible online references involving the art subject.
+
+->>>>
+
+With an introduction and literature review:
+
+Introduction:
+{{step_1}}
+
+Literature review:
+{{step_2}}
+
+Now, let's proceed to the Purpose of the Study section. In this section, explain your intention to uncover or understand better about the {{art_subject}} through your research, and then pose your research question or hypothesis.
+
+->>>>
+
+For our research paper, we have:
+
+Introduction:
+{{step_1}}
+
+Literature review:
+{{step_2}}
+
+Purpose of the Study:
+{{step_3}}
+
+The next section is the Methodology. In this section, elaborate how you conducted the research on the {{art_subject}}. Include details such as the types of sources used, data collection and analysis. If interviews or surveys were conducted, do include that here without any individual references to ensure privacy.
+
+->>>>
+
+Based on the previous sections of the research paper:
+
+Introduction:
+{{step_1}}
+
+Literature review:
+{{step_2}}
+
+Purpose of the Study:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+The next section is the Findings/Results. Present what you've learned from your research on the {{art_subject}}. Do not draw conclusions or interpret results here, simply report the findings.
+
+->>>>
+
+With the research findings available, let's interpret these in the Analysis/Discussion section. Analyze and interpret your findings, answering the research questions or confirming/rejecting the hypothesis. Compare your findings with the literature reviewed earlier, and discuss whether it matches, contradicts, or adds something new to existing knowledge.
+
+->>>>
+
+Completed sections of research paper include:
+
+Introduction:
+{{step_1}}
+
+Literature review:
+{{step_2}}
+
+Purpose of the Study:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Findings/Results:
+{{step_5}}
+
+Analysis/Discussion:
+{{step_6}}
+
+Now, write a conclusion that summarizes what was learned about the {{art_subject}} from your research, and suggest potential next steps for future research. Restate the importance of the subject in a broader education or societal context.
+
+->>>>
+
+Now that the main sections of our research paper are in place:
+
+Introduction:
+{{step_1}}
+
+Literature review:
+{{step_2}}
+
+Purpose of the Study:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Findings/Results:
+{{step_5}}
+
+Analysis/Discussion:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Next, we will work on the bibliography. Incorporate the index of sources used for your research. Follow the citation style recommended by your teacher.
+

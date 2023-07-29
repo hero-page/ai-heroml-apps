@@ -1,0 +1,108 @@
+Let's start this task to write a "Play Script" for the "High School Students - Arts" industry, specifically for a "Drama Club Member". We will start with an introduction that outlines the premise of the play: {{play_premise}}. This will provide the foundation for the rest of your content. Please write a brief description of the overall plot, themes, setting (time, and place).
+
+Here's some more context about the Play Script:
+Play Premise: {{play_premise}}
+Character List: {{character_list}}
+Stage Directions: {{stage_directions}}
+Prop List: {{prop_list}}
+Set Design: {{set_design}}
+
+->>>>
+
+We have a premise for our play:
+
+Play Premise:
+{{step_1}}
+
+Now, let's craft a list of main and supporting characters for the play script. For each character, provide a name, their role in the story, and a brief description of their personality.
+
+->>>>
+
+The characters for our play are as follows:
+
+Character List:
+{{step_2}}
+
+Next, let's follow the classic five-act structure to write the major plot points of the play. Begin with Act 1: Setup. In this act, introduce the characters and the conflict of the story based on the play premise.
+
+->>>>
+
+We have the setup for our play:
+
+Act 1 - Setup:
+{{step_3}}
+
+Next, let's move on to Act 2: Confrontation. In this act, deepen the conflict and create complications in the story.
+
+->>>>
+
+We now have the confrontation for our play:
+
+Act 2 - Confrontation:
+{{step_4}}
+
+Now, writing Act 3: Climax. The main character should face a significant challenge based on the plot.
+
+->>>>
+
+Our play now has reached its climax:
+
+Act 3 - Climax:
+{{step_5}}
+
+Let's move on to Act 4: Fallout. This part should show the consequences of Act 3.
+
+->>>>
+
+The fallout of our play is:
+
+Act 4 - Fallout:
+{{step_6}}
+
+Now, write Act 5: Resolution. This is where loose ends should be tied up, and the story comes to an end based on the play premise.
+
+->>>>
+
+Our play now has a resolution:
+
+Act 5 - Resolution:
+{{step_7}}
+
+Time to incorporate stage directions that guide actors, specify movements and positions on the stage, describe character's actions and reactions, and create the proper atmosphere.
+
+->>>>
+
+We have incorporated stage directions to our play:
+
+Stage Directions:
+{{step_8}}
+
+Next, give key pointers for dialogues. These dialogues should sound natural and engaging while driving the plot, revealing character traits, and maintaining the theme of the play.
+
+->>>>
+
+We have now enriched our play with dialogues:
+
+Dialogues:
+{{step_9}}
+
+Now, let's include a prop list and set design ideas as part of the play script. Define a list of props that would be required and describe what the stage will look like in various scenes.
+
+->>>>
+
+Our play now has a list of props and set design:
+
+Props & Set Design:
+{{step_10}}
+
+To wrap up our play script, let's provide a cast list that includes all characters in order of appearance, and a final thought that recaps the purpose of the play and its relevance.
+
+->>>>
+
+We have conclude our play script with a detailed cast list and a strong final thought:
+
+Cast List & Final Thought:
+{{step_11}}
+
+Finally, it's time to revise the script. Check for any inconsistencies in the plot and character behavior, improve dialogues, and refine stage directions.
+

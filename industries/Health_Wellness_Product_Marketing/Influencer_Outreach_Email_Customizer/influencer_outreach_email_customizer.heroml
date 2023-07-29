@@ -1,0 +1,137 @@
+
+Your task is to write an "Influencer Outreach Email" for the "Health & Wellness Product Marketing" industry, specifically for a "Brand Manager".
+
+Let's begin by generating a catchy and industry-specific subject line that can pique the interest of the "Brand Manager".
+
+Here's some more context about the Influencer Outreach Email:
+Brand Name: {{brand_name}}
+Social Media Platform: {{social_media_platform}}
+Product Name: {{product_name}}
+Unique Qualities: {{unique_qualities}}
+
+->>>>
+
+We have our subject line for our outreach email:
+
+Subject Line:
+{{step_1}}
+
+Now, create an introduction where you introduce yourself with a warm and polite greeting. Explain who you are, the company's name and the role of your organization in the health and wellness industry.
+
+->>>>
+
+Influencer Outreach Email begins as such:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, explain why you're reaching out and how you discovered their brand.
+
+->>>>
+
+Our Outreach Email so far consists of:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Now let's elaborate on what values they will derive from this collaboration, such as free products, paid sponsorship or brand partnership.
+
+->>>>
+
+Influencer Outreach Email has these main points:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Offered Values:
+{{step_4}}
+
+Next, describe the specific health and wellness product/service your company provides and why it aligns with the targeted brand's mission.
+
+->>>>
+
+At this point, our Outreach Email covers:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Offered Values:
+{{step_4}}
+
+Product/Service Description:
+{{step_5}}
+
+Now, provide an overview of the positive impact your product/service has made in the market. Discuss supporting facts and figures.
+
+->>>>
+
+So far, Influencer Outreach Email contains:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Offered Values:
+{{step_4}}
+
+Product/Service Description:
+{{step_5}}
+
+Impact and Statistics:
+{{step_6}}
+
+We now need to propose how you'd like to work with their brand, be it through influencer marketing campaigns, brand ambassadorship, or guest posting on each other’s blogs.
+
+->>>>
+
+At this far our Outreach Email to the influencer includes:
+
+Subject Line:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Offered Values:
+{{step_4}}
+
+Product/Service Description:
+{{step_5}}
+
+Impact and Statistics:
+{{step_6}}
+
+Proposed Collaboration:
+{{step_7}}
+
+To conclude the email, let's appreciate their time and express your interest to establish a mutually beneficial relationship.
+

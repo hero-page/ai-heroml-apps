@@ -1,0 +1,104 @@
+Your task is to write a "Social Impact Report" for the "Grant Writing - Social Services Agencies" industry, specifically for an "Agency Director". 
+
+We'll begin by writing an executive summary that provides a brief overview of the intent, methods, and results of the report. It should also outline high-impact accomplishments of your agency in relation to the {{social_impact_goal}}.
+
+Here's some more context about the Social Impact Report:
+Social Impact Goal: {{social_impact_goal}}
+Social Context: {{social_context}}
+
+->>>>
+
+We have generated an executive summary for our Social Impact Report:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's focus on writing an introduction that elaborates on the social context: {{social_context}}, and the necessity of your agency's work in this area.
+
+->>>>
+
+For our Social Impact Report, we have an executive summary and introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, we should articulate the organization's mission, goals, and the specific social impact goals your agency aims to achieve – {{social_impact_goal}}, in the purpose section.
+
+->>>>
+
+We have an executive summary, introduction, and a clearly articulated purpose for our Social Impact Report:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Purpose:
+{{step_3}}
+
+Now, let's describe the implementation process in detail. This should include specific social programs or services your agency implemented, methodologies adopted, number of people affected, geographical areas covered, volunteers/workers involved and any external collaborations to address the {{social_impact_goal}}.
+
+->>>>
+
+In our Social Impact Report, we now have the purpose and a detailed account of the implementation process:
+
+Purpose:
+{{step_3}}
+
+Implementation Process:
+{{step_4}}
+
+Next, we need to compile and report the outcomes in relation to the {{social_impact_goal}}. Use empirical evidence, data, and anecdotes to highlight the change that occurred due to your agency's work.
+
+->>>>
+
+Our Social Impact Report contains the following sections:
+
+Implementation Process:
+{{step_4}}
+
+Outcomes:
+{{step_5}}
+
+Now, it's time for us to analyze the impact data and provide an interpretation. Discuss how the data aligns with the {{social_impact_goal}} and any surprises or challenges encountered along the way.
+
+->>>>
+
+Our Social Impact Report includes the outcomes and an interpretation of the impact data:
+
+Outcomes:
+{{step_5}}
+
+Data Interpretation:
+{{step_6}}
+
+Our following focus is to incorporate a self-evaluation and lessons learned section which details any hurdles faced, lessons learned and the improvements planned for future actions related to the {{social_impact_goal}}.
+
+->>>>
+
+Our Social Impact Report now consists of:
+
+Data Interpretation:
+{{step_6}}
+
+Self-evaluation and Lessons Learned:
+{{step_7}}
+
+Next, let's conclude the report with a perspective referencing the future. Indicate the future plans and measures your agency intends to undertake to further the {{social_impact_goal}}. This might include revised strategies, scaling up of successful initiatives, or expansion into new areas.
+
+->>>>
+
+Our Social Impact Report has the following sections:
+
+Self-evaluation and Lessons Learned:
+{{step_7}}
+
+Conclusion:
+{{step_8}}
+
+Now, let's thank all involved parties in an acknowledgment section. Credit every stakeholder, funder, worker, volunteer, and the community who contributed to achieving the {{social_impact_goal}}.
+

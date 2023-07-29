@@ -1,0 +1,46 @@
+Your task is to write a "Brand Mission Statement" for the "Health & Wellness Product Marketing" industry, specifically for a "Brand Manager". 
+Let's start with an introduction that describes the purpose and the values of the brand: {{brand_purpose_and_values}}.
+
+Here's some more context about the Brand Mission Statement:
+Brand Purpose And Values: {{brand_purpose_and_values}}
+Brand Promises: {{brand_promises}}
+Customer Impact: {{customer_impact}}
+Product Standards: {{product_standards}}
+Future Vision: {{future_vision}}
+
+->>>>
+
+We now have an introduction that sets the stage for our brand's mission statement in the health and wellness sector:
+
+Introduction:
+{{step_1}}
+
+Next, let's move to the core of the mission statement, by detailing the promises that your brand makes to its customers in providing health and wellness products: {{brand_promises}}.
+
+->>>>
+
+We've established the introduction and the fundamental promises our brand aims to deliver:
+
+Introduction:
+{{step_1}}
+
+Brand Promises:
+{{step_2}}
+
+Moving on, let's focus on the impact that your brand aims to have on its customers' lives, specifically in relation to their health and wellness: {{customer_impact}}.
+
+->>>>
+
+So far, we've covered our brand's introduction, promises, and impact:
+
+Introduction:
+{{step_1}}
+
+Brand Promises:
+{{step_2}}
+
+Customer Impact:
+{{step_3}}
+
+Next, let's describe the standards for quality and efficacy your brand pledges to uphold for your products in the health and wellness industry: {{product_standards}}.
+

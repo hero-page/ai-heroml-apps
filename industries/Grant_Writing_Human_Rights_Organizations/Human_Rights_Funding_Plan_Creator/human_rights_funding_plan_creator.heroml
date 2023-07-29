@@ -1,0 +1,86 @@
+Your task is to write a "Future Funding Plan" for the "Grant Writing - Human Rights Organizations" industry, specifically for a "Program Director". Let's start by creating an executive summary that outlines the purpose and primary elements of the funding plan for your human rights organization.
+
+Here's some more context about the Future Funding Plan:
+Organization Purpose: {{organization_purpose}}
+Mission And History: {{mission_and_history}}
+Funding Needs: {{funding_needs}}
+Financial Plan: {{financial_plan}}
+Expected Impact: {{expected_impact}}
+Risk Management: {{risk_management}}
+Recap And Call To Action: {{recap_and_call_to_action}}
+
+->>>>
+
+We have an Executive Summary for our Future Funding Plan:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that provides an overview of your organization's mission, its history, achievements, and the outline of the human rights issues being addressed.
+
+->>>>
+
+We have both the Executive Summary and an Introduction for our Future Funding Plan:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, provide a detailed description of the funding needs for specific programs or initiatives, explain why this funding is essential, and what it will enable your human rights organization to achieve.
+
+->>>>
+
+We have the Executive Summary, Introduction, and a detailed description of Funding Needs in our Future Funding Plan:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Funding Needs:
+{{step_3}}
+
+Next, design a section that provides a detailed and transparent view of the organization's current financial state and future outlook. It should also include how much funding you're seeking, how the funds will be allocated, a timeline for securing the funds, prospective donors and your outreach strategy to them.
+
+->>>>
+
+We now have a comprehensive Financial Plan to go along with our Executive Summary, Introduction, and description of Funding Needs:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Funding Needs:
+{{step_3}}
+
+Financial Plan:
+{{step_4}}
+
+Let's now address the potential impact of this funding. This should encompass both quantitative and qualitative impact, including metrics like the number of people served, systemic changes enacted, or advancements in the human rights field.
+
+->>>>
+
+At this point, our Future Funding Plan includes an Executive Summary, Introduction, Funding Needs, Financial Plan, and a section that addresses the Expected Impact:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Funding Needs:
+{{step_3}}
+
+Financial Plan:
+{{step_4}}
+
+Expected Impact:
+{{step_5}}
+
+Next, write a section for risk management that addresses any potential risks or challenges your human rights organization may face in the implementation of its programs or initiatives and how you plan to mitigate them.
+

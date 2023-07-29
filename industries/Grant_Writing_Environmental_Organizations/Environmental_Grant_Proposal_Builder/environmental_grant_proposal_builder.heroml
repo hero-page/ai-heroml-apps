@@ -1,0 +1,132 @@
+Start by writing an introduction detailing the problem that the project is aiming to solve within the environmental sector: {{environmental_issue}}.
+
+Here's some more context about the Project Design:
+Environmental Issue: {{environmental_issue}}
+Project Aims And Objectives: {{project_aims_and_objectives}}
+Funding Organization Goals: {{funding_organization_goals}}
+Project Methodology: {{project_methodology}}
+Project Timeline: {{project_timeline}}
+Project Budget: {{project_budget}}
+Project Benefits: {{project_benefits}}
+Evaluation Plan: {{evaluation_plan}}
+Project Supplementary Information: {{project_supplementary_information}}
+
+->>>>
+
+We have initiated a Project Design in the "Grant Writing - Environmental Organizations" sector with an introduction outlining the environmental issue:
+
+Introduction:
+{{step_1}}
+
+Now, articulate the purpose of the project, outlining its specific aims and objectives: {{project_aims_and_objectives}}.
+
+->>>>
+
+For the project in the "Grant Writing - Environmental Organizations" industry, we have a clear introduction and outlined project purpose:
+
+Introduction:
+{{step_1}}
+
+Project Purpose:
+{{step_2}}
+
+Next, develop a section describing how these aims and objectives align with the mission and goals of the funding organization: {{funding_organization_goals}}.
+
+->>>>
+
+In the design for this project:
+
+Project Purpose:
+{{step_2}}
+
+We have a description of the alignment with the funding organization's goals:
+
+Alignment with Funding Organization:
+{{step_3}}
+
+Moving on, present the methodology of the project, indicating what specific actions will be implemented to reach the aims and objectives: {{project_methodology}}.
+
+->>>>
+
+After defining the alignment with the funding organization's goals:
+
+Alignment with Funding Organization:
+{{step_3}}
+
+We have the project's methodology:
+
+Project Methodology:
+{{step_4}}
+
+Subsequently, include a section on the projected timeline for the project, detailing key milestones and deliverables: {{project_timeline}}.
+
+->>>>
+
+Given the project methodology:
+
+Project Methodology:
+{{step_4}}
+
+We have established a timeline for the project:
+
+Project Timeline:
+{{step_5}}
+
+Now design an estimated budget section for the project, specifying the funding required and breaking down the expenses: {{project_budget}}.
+
+->>>>
+
+After setting out the timeline for the project:
+
+Project Timeline:
+{{step_5}}
+
+We have developed an estimated budget for the project:
+
+Project Budget:
+{{step_6}}
+
+Next, incorporate a section that highlights the potential benefits and positive impact the project will have on the environment and society: {{project_benefits}}.
+
+->>>>
+
+With the project's budget determined:
+
+Project Budget:
+{{step_6}}
+
+We have described the potential benefits of the project:
+
+Project Benefits:
+{{step_7}}
+
+Moving forward, detail a measurement and evaluation plan, explaining how the success of the project will be efficiently tracked, measured, and reported: {{evaluation_plan}}.
+
+->>>>
+
+With the project's benefits clearly defined:
+
+Project Benefits:
+{{step_7}}
+
+We have laid out a plan for evaluation:
+
+Evaluation Plan:
+{{step_8}}
+
+Wrap up with a persuasive summary, emphasizing the urgency of addressing the identified environmental issue: {{environmental_issue}}, and reiterating the potential benefits from the successful execution of the project: {{project_benefits}}.
+
+->>>>
+
+With an evaluation plan in place:
+
+Evaluation Plan:
+{{step_8}}
+
+We have a persuasive summary:
+
+Project Summary:
+{{step_9}}
+
+Finally, include an appendix with any supplementary information such as letters of support, references, or relevant certifications: {{project_supplementary_information}}.
+

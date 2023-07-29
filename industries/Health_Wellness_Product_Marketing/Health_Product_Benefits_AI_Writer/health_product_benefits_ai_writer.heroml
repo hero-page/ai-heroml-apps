@@ -1,0 +1,75 @@
+Your task is to write a "Product Benefits" for the "Health & Wellness Product Marketing" industry, specifically for a "Product Marketer". 
+
+Start with the creation of an engaging introduction that highlights the product's relevance in the health & wellness industry.
+
+Here's some more context about the Product Benefits:
+Product Intro: {{product_intro}}
+Product Features: {{product_features}}
+Feature Benefits: {{feature_benefits}}
+Scientific Proof: {{scientific_proof}}
+User Feedback: {{user_feedback}}
+Unique Advantages: {{unique_advantages}}
+
+->>>>
+
+We have an engaging introduction for our product:
+
+Product Introduction:
+{{step_1}}
+
+Next, detail the product's features. This should include specifics on how it works, its unique characteristics, and how these augment health and wellness.
+
+->>>>
+
+Our health & wellness product features are as follows:
+
+Product Features:
+{{step_2}}
+
+Moving forward, for each feature, describe its direct benefit to the user. This will help potential customers connect the product's features to their personal health and wellness goals.
+
+->>>>
+
+We have detailed the product's features and their respective benefits:
+
+Product Features:
+{{step_2}}
+
+Feature Benefits:
+{{step_3}}
+
+To provide further credibility, expand on the benefits based on credible research or scientific proof. Explain why the product benefits health and wellness, and ensure to cite sources for claims made.
+
+->>>>
+
+We have the product's features, their benefits, and the scientific reasoning:
+
+Feature Benefits:
+{{step_3}}
+
+Scientific Proof:
+{{step_4}}
+
+With the scientific backing in place, it's time to incorporate testimonials and reviews for enhancing credibility. Use feedback from previous users and experts to prove the product's efficacy.
+
+->>>>
+
+We have user testimonials and reviews to support our product's claim:
+
+User Feedback:
+{{step_5}}
+
+Next, differentiate your product from the competition. Discuss what makes your product unique and why potential customers should choose your product over others.
+
+->>>>
+
+We have user feedback and our product's unique advantages:
+
+User Feedback:
+{{step_5}}
+
+Unique Advantages:
+{{step_6}}
+
+Finally, craft a compelling call to action that encourages potential customers to choose the product by highlighting its overall benefits. It may entail general health improvements, wellness boosts, or solutions to specific health concerns.
+

@@ -1,0 +1,76 @@
+Your task is to create a "Translation Exercise" for the "High School Students - Languages" industry for a "Student". Let's start by framing an introduction that outlines the purpose of this exercise: {{exercise_purpose}}.
+
+Here's some more context about the Translation Exercise:
+Exercise Purpose: {{exercise_purpose}}
+Target Text: {{target_text}}
+Text Sections: {{text_sections}}
+Exercise Summary: {{exercise_summary}}
+
+->>>>
+
+The introduction for the translation exercise is:
+
+Introduction:
+{{step_1}}
+
+Next, select a relevant text or series of sentences that aligns with the current proficiency level and learning objectives of the student: {{target_text}}.
+
+->>>>
+
+The selected text for our translation exercise is:
+
+Selected Text:
+{{step_2}}
+
+Now let's break down this selected text into manageable sections: {{text_sections}}.
+
+->>>>
+
+After partitioning the text, the breakdown is as follows:
+
+Text Sections:
+{{step_3}}
+
+Let's provide a comprehensive list of vocabulary and idiomatic expressions present in the {{target_text}} with their meanings and usage in the target language.
+
+->>>>
+
+The vocab list from our text is:
+
+Vocabulary List: 
+{{step_4}}
+
+Next, instruct the student to translate the {{text_sections}} into the target language, stimulating them to utilize the provided vocabulary and expressions.
+
+->>>>
+
+With the vocab list handy:
+
+Vocabulary List:
+{{step_4}}
+
+Let's create an accurate translation of each {{text_sections}} for the student to use as a reference.
+
+->>>>
+
+We have a translation for each section:
+
+Translation:
+{{step_6}}
+
+Now, let's frame follow-up questions for each {{text_sections}} to check understanding and gauge the student's application of newly learned vocabulary or sentence structures.
+
+->>>>
+
+Using the translation:
+
+Translation:
+{{step_6}}
+
+We've made follow-up questions:
+
+Follow-up Questions:
+{{step_7}}
+
+To wrap up, let's form a summary that reviews the main lessons and vocabulary from the translated text: {{exercise_summary}} along with motivation for students to employ this new learning in future language practice.
+

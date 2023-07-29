@@ -1,0 +1,65 @@
+Your task is to write a "Workout Description" for the "Health & Fitness Blogs" industry, specifically for a "Personal Trainer". 
+
+- Start by crafting a captivating introduction that outlines the workout and its purpose: {{workout_purpose}}. The introduction should entice the reader and provide an overview of what they can expect from the upcoming workout.
+
+Here's some more context about the Workout Description:
+Workout Purpose: {{workout_purpose}}
+Workout Exercises: {{workout_exercises}}
+Workout Duration Frequency: {{workout_duration_frequency}}
+Target Areas: {{target_areas}}
+Trainer Tips: {{trainer_tips}}
+
+->>>>
+
+At this point, we have a compelling introduction that sets the stage for the workout:
+
+Introduction:
+{{step_1}}
+
+Next, we need to breakdown the workout routine into sections that explain each exercise in the list: {{workout_exercises}}. Detail the name of the exercise, the correct way to perform it, its benefits, and any safety precautions required.
+
+->>>>
+
+Now, we have the introduction and an exercise breakdown for the workout:
+
+Introduction:
+{{step_1}}
+
+Exercise Breakdown:
+{{step_2}}
+
+Moving on, let's add a section that explains the workout's duration and frequency: {{workout_duration_frequency}}. Make sure to specify the optimal time it should take to complete one full repetition of the workout and recommend how frequently the workout should be performed for best results.
+
+->>>>
+
+So far, we have an introduction, an exercise breakdown, and information about the workout's duration and frequency:
+
+Introduction:
+{{step_1}}
+
+Exercise Breakdown:
+{{step_2}}
+
+Workout Duration and Frequency:
+{{step_3}}
+
+Let's now discuss the target muscle groups or fitness areas that the workout will primarily affect: {{target_areas}}. Describe the impact the workout will have on these areas and link them to the general objectives of the workout.
+
+->>>>
+
+Our workout description now includes an introduction, an exercise breakdown, duration and frequency, and details about the workout's target areas: 
+
+Introduction:
+{{step_1}}
+
+Exercise Breakdown:
+{{step_2}}
+
+Workout Duration and Frequency:
+{{step_3}}
+
+Target Areas:
+{{step_4}}
+
+Next, fuse professional personal trainer tips or advice that can assist in executing the workout: {{trainer_tips}}. Include tips about the correct exercise form, proper breathing, or injury prevention strategies.
+

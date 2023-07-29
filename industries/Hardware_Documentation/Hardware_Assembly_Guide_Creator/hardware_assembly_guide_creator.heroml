@@ -1,0 +1,89 @@
+Your task is to write "Assembly Instructions" for the "Hardware Documentation" industry, specifically for a "Hardware Engineer". Let's start by creating an introduction that describes the hardware component to be assembled: {{hardware_component}}.
+
+Here's some more context about the Assembly Instructions:
+Hardware Component: {{hardware_component}}
+Necessary Parts And Tools: {{necessary_parts_and_tools}}
+Preliminary Steps: {{preliminary_steps}}
+Verification And Testing Methods: {{verification_and_testing_methods}}
+Troubleshooting And Additional Notes: {{troubleshooting_and_additional_notes}}
+Support Contact Information: {{support_contact_information}}
+
+->>>>
+
+Now we have a detailed introduction for the hardware component to be assembled:
+
+Introduction:
+{{step_1}}
+
+Moving on, we need to list out all the necessary parts and tools associated with the hardware component which the Hardware Engineer needs to assemble the hardware: {{necessary_parts_and_tools}}.
+
+->>>>
+
+With a description of the hardware and a list of necessary parts and tools in place:
+
+Introduction:
+{{step_1}}
+
+Required parts and tools:
+{{step_2}}
+
+Let's proceed with the "Before Getting Started" section. This section will describe the preliminary steps that a hardware engineer must take before beginning the assembly process, such as safety precautions and ensuring all necessary parts are available: {{preliminary_steps}}.
+
+->>>>
+
+Now we have the introduction, list of required parts and tools and preliminary steps:
+
+Introduction:
+{{step_1}}
+
+Required parts and tools:
+{{step_2}}
+
+Before Getting Started:
+{{step_3}}
+
+With all of that in mind, let's proceed to the "Step-by-Step Assembly Process". This is where the main assembly instructions will be presented. All instructions should be sequenced and be easy to understand.
+
+->>>>
+
+For this hardware component, we have the introduction, list of parts and the preliminary steps:
+
+
+Introduction:
+{{step_1}}
+
+Required parts and tools:
+{{step_2}}
+
+Before Getting Started:
+{{step_3}}
+
+Assembly Process:
+{{step_4}}
+
+Now let's move towards the "Verification and Testing" section. This advises the hardware engineer on how to test functionality and verify that the {{hardware_component}} has been correctly assembled: {{verification_and_testing_methods}}.
+
+->>>>
+
+For the hardware component, we have the assembly steps and the verification methods:
+
+Assembly Process:
+{{step_4}}
+
+Verification and Testing:
+{{step_5}}
+
+Let's proceed to the "Troubleshooting and Additional Notes" segment. This segment should offer guidance to the hardware engineer on how to troubleshoot common problems that might occur during the assembly of the {{hardware_component}}: {{troubleshooting_and_additional_notes}}.
+
+->>>>
+
+For the hardware component, we now have the verification methods along with the troubleshooting and additional notes:
+
+Verification and Testing:
+{{step_5}}
+
+Troubleshooting and Additional Notes:
+{{step_6}}
+
+Finally, we need to provide necessary contact information for additional support, in case the Hardware Engineer faces any issues while assembling the hardware component: {{support_contact_information}}. 
+

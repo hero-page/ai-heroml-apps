@@ -1,0 +1,74 @@
+Your task as a "Grant Writer" is to write a "Budget Narrative" in the "Grant Writing - Healthcare Facilities" industry.
+
+Let's start by introducing the total budget amount to be requested - {{total_budget_amount}}, and provide a brief summary of the purpose of the grant - {{purpose_of_grant}}.
+
+Here's some more context about the Budget Narrative:
+Total Budget Amount: {{total_budget_amount}}
+Purpose Of Grant: {{purpose_of_grant}}
+Cost Categories: {{cost_categories}}
+Proposed Program: {{proposed_program}}
+Future Funding Plan: {{future_funding_plan}}
+
+->>>>
+
+In constructing our "Budget Narrative" as a "Grant Writer", we have an introduction and an overview of the purpose of the grant.
+
+Purpose of Grant:
+{{step_1}}
+
+Now, break down the budget according to the primary cost categories - {{cost_categories}}, such as salaries and wages, equipment, supplies, services, and travel. For each category, provide a brief description of what the funds will be used for, why they are necessary, and how the cost was calculated.
+
+->>>>
+
+Now, we have the cost breakdown for our budget:
+
+Purpose of Grant:
+{{step_1}}
+
+Cost Breakdown:
+{{step_2}}
+
+Express in each cost category the direct connection to the proposed project or program - {{proposed_program}}, to show the review committee that each budget item is essential and not an inflationary.
+
+->>>>
+
+At this stage, we have the direct costs associated with our proposed program:
+
+Cost Breakdown:
+{{step_2}}
+
+Projected Costs for Program:
+{{step_3}}
+
+Include a detailed explanation for the more significant costs, such as high-priced equipment, top-level expert consultation, or a comprehensive service contract. Demonstrate the need for these expenses in relation to the {{proposed_program}}.
+
+->>>>
+
+We now have a more detailed view of our significant costs:
+
+Projected Costs for Program:
+{{step_3}}
+
+Details on Significant Costs:
+{{step_4}}
+
+Acknowledge any variations from standard budget percentages or unusual items with a well-rounded and justified explanation.
+
+->>>>
+
+We have now explained the variations from the standard budget percentage along with other unusual items:
+
+Details for Variations and Unusual Items:
+{{step_5}}
+
+In the case of an ongoing program or project, detail how the costs will be sustained over time. Where possible, specify a plan for future funding, including anticipated partnerships or collaborations: {{future_funding_plan}}.
+
+->>>>
+
+We have a plan on how to sustain the budget over time:
+
+Sustainability Plan:
+{{step_6}}
+
+Conclude with a summary of the budget that reiterates the total amount requested, restates the net effect that the funding will have on improving healthcare in your facility, and ensures the budget aligns with the grant's purpose: {{purpose_of_grant}}.
+

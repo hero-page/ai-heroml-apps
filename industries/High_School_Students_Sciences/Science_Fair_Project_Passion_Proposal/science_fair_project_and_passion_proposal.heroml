@@ -1,0 +1,86 @@
+Your task is to write a "Project Proposal" for the "High School Students - Sciences" industry, specifically for a "Science Fair Participant".
+Let's begin with an introduction that provides an overview of the project: {{project_topic}}. You should briefly explain why you chose this topic and its relevance to the broader scientific community.
+
+Here's some more context about the Project Proposal:
+Project Topic: {{project_topic}}
+Project Objective: {{project_objective}}
+Project Hypothesis: {{project_hypothesis}}
+Project Method: {{project_method}}
+Expected Results: {{expected_results}}
+Project Summary: {{project_summary}}
+
+->>>>
+
+Now, we have the introduction for our project proposal:
+
+Introduction:
+{{step_1}}
+
+Next, provide the objective or goal of your project: {{project_objective}}. Make sure to relate this to the science fair's theme or focus, if any.
+
+->>>>
+
+With the introduction and the project objective, our proposal now reads:
+
+Introduction:
+{{step_1}}
+
+Project Objective:
+{{step_2}}
+
+Moving on, describe the research hypothesis or research question: {{project_hypothesis}}. This should elaborate what you hope to discover or achieve with your project.
+
+->>>>
+
+Our project proposal has an introduction, objective, and a research hypothesis:
+
+Introduction:
+{{step_1}}
+
+Project Objective:
+{{step_2}}
+
+Research Hypothesis:
+{{step_3}}
+
+Next up, detail the methodology or procedure: {{project_method}}. Include information on the materials needed, the procedural steps, and safety measures for conducting your experiment or investigation.
+
+->>>>
+
+This is how our project proposal looks with the introduction, objective, hypothesis, and the methodology:
+
+Introduction:
+{{step_1}}
+
+Project Objective:
+{{step_2}}
+
+Research Hypothesis:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Now, dedicate a section to anticipated results: {{expected_results}}. Discuss what you expect to find based on your initial research, and how you plan to interpret the data.
+
+->>>>
+
+Our project proposal now has an introduction, objective, hypothesis, methodology, and anticipated results:
+
+Introduction:
+{{step_1}}
+
+Project Objective:
+{{step_2}}
+
+Research Hypothesis:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Anticipated Results:
+{{step_5}}
+
+Next, write a section on the project timeline. Provide the time frame for completing each component of your project and meeting each milestone.
+

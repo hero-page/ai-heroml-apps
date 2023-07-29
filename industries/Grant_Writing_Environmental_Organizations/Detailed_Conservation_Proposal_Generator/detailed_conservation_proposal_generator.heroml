@@ -1,0 +1,78 @@
+Your main task is to write a "Conservation Project Proposal" for the "Grant Writing - Environmental Organizations" industry, specifically designed for a "Grant Writer". Start by drafting an executive summary that provides an overview of the project, emphasizing the conservation concerns, the project's purpose, and your proposed solution.
+
+Here's some more context about the Conservation Project Proposal:
+Executive Summary: {{executive_summary}}
+Environmental Context: {{environmental_context}}
+Project Goals: {{project_goals}}
+Project Details: {{project_details}}
+Project Timeline: {{project_timeline}}
+Monitoring Evaluation: {{monitoring_evaluation}}
+Project Budget: {{project_budget}}
+Project Justification: {{project_justification}}
+
+->>>>
+
+In our proposal, we have an Executive Summary outlining the project:
+
+Executive Summary:
+{{step_1}}
+
+Next, construct an introduction that provides the environmental context, highlighting the conservation and environmental issues your project aims to address. Remember to reference specific geographical location(s) and species, if applicable.
+
+->>>>
+
+Our proposal now includes an introduction providing the environmental context:
+
+Environmental Context:
+{{step_2}}
+
+For the next phase, describe the aim and objectives of your conservation project. Ensure to clearly define the goals, covering both immediate and long-term impacts.
+
+->>>>
+
+Our project proposal includes specified goals, including both immediate and long-term impacts:
+
+Project Goals:
+{{step_3}}
+
+Let's further develop this proposal by writing an in-depth project description that details:
+1. The rationale behind the project: why this project is necessary and how it syncs with the grant organization's focus.
+2. The proposed actions or measures: Detail the activities to be undertaken and how they are expected to achieve the project's goals.
+3. The intended beneficiaries or benefactors of the project: This could include local communities, native flora and fauna, or specific ecosystems.
+
+->>>>
+
+Our proposal now contains an in-depth description of the project:
+
+Project Description:
+{{step_4}}
+
+Next, we need a work plan and timeline that offers a clear guide on how and when each phase of the project will be implemented.
+
+->>>>
+
+In our project proposal, we have a detailed work plan and timeline:
+
+Work Plan and Timeline:
+{{step_5}}
+
+To make this proposal more robust, write a section that describes the monitoring and evaluation process. This should detail how the project’s progress and outcomes will be measured throughout and after its execution.
+
+->>>>
+
+For our project proposal, we've included a plan for monitoring and evaluation:
+
+Monitoring and Evaluation:
+{{step_6}}
+
+The next task is to include a detailed budget that precisely breaks down the project’s financial requirements - This will ensure transparency and accountability.
+
+->>>>
+
+Now, our project proposal also includes a detailed budget breakdown:
+
+Project Budget:
+{{step_7}}
+
+Lastly, write a wrap-up section that persuades and justifies the need for this project. This should emphasize the significant positive impact the project will have on conservation efforts, the urgency of the need, and why the funding organization should support your project.
+

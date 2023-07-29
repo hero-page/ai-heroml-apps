@@ -1,0 +1,88 @@
+Your task is to write a "Leadership Speech" for the "High School Students - Business & Economics" industry, specifically for a "Future Business Leaders of America Member". Let's start by creating an introduction that grabs attention. The introduction should explain why leadership is essential in the Business & Economics sector briefly mentioning the contents of your speech. State your speech purpose: {{speech_purpose}} and lay the groundwork for your intended message map.
+
+Here's some more context about the Leadership Speech:
+Speech Purpose: {{speech_purpose}}
+Important Points For Members: {{important_points_for_members}}
+Three Crucial Industry Trends: {{three_crucial_industry_trends}}
+
+->>>>
+
+We have an engaging introduction for our "Leadership Speech":
+
+Introduction:
+{{step_1}}
+
+Now, investigate the aspirations and challenges of fellow "Future Business Leaders of America" members. Draft a list of the important points you believe they need to know.
+
+->>>>
+
+We have an introduction and a list of vital points for the members:
+
+Introduction:
+{{step_1}}
+
+Important Points for Members:
+{{step_2}}
+
+Now, construct the body of the speech. Segregation of the main topics into specific sections is required. The body should be rooted in achievements you've had relating to the important points for members, educating the audience accordingly.
+
+->>>>
+
+For a "Leadership Speech", we have an introduction and body:
+
+Introduction:
+{{step_1}}
+
+Body of the Speech (Important Points related to Achievements):
+{{step_3}}
+
+Next, add your understanding of three crucial industry trends, specific to the business and economics realm, which will add relevance to your speech. Discuss how these trends influence leadership roles and future challenges in the industry.
+
+->>>>
+
+In our "Leadership Speech", we have the body and three industry trends:
+
+Body of the Speech:
+{{step_3}}
+
+Three Crucial Industry Trends:
+{{step_4}}
+
+Following this, incorporate a motivational segment where you share stories of successful individuals who made significant contributions to the Business & Economics industry. These inspiring insights should align with your {{speech_purpose}}.
+
+->>>>
+
+For our "Leadership Speech", we have the industry trends and motivational segment:
+
+Three Crucial Industry Trends:
+{{step_4}}
+
+Motivational Segment:
+{{step_5}}
+
+Next, connect your speech to the growth journey of "Future Business Leaders of America". Discuss the progress of the organization based on the current achievements and future goals, always relating it to the important points for the members.
+
+->>>>
+
+In our "Leadership Speech", we have a motivational segment and a segment on the growth and potential of "Future Business Leaders of America":
+
+Motivational Segment:
+{{step_5}}
+
+Growth Journey of "Future Business Leaders of America":
+{{step_6}}
+
+To conclude, bring focus back to leadership in the Business & Economics sector. Reiterate the {{speech_purpose}}, prompting listeners to act based on what they've learned from your speech.
+
+->>>>
+
+We have a speech's conclusion focusing on the leadership role:
+
+Growth Journey of "Future Business Leaders of America":
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Finally, prepare potential responses for a subsequent Q&A session. It will give the audience a chance to interact and clarify doubts, which enhances the impact of your speech.
+

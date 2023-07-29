@@ -1,0 +1,127 @@
+Write a "Research Methodology" for the "Grant Writing - Research Institutions" industry, specifically for a "Researcher". 
+
+Firstly, begin by introducing the research topic: {{research_topic}}. 
+Provide a contextual background and emphasize the importance of the research project, clarifying its relation to the field of study.
+
+Here's some more context about the Research Methodology:
+Research Topic: {{research_topic}}
+Research Objectives: {{research_objectives}}
+Research Questions Or Hypotheses: {{research_questions_or_hypotheses}}
+
+->>>>
+
+We have an introductory passage that lays out the research topic:
+
+Research Topic Introduction:
+{{step_1}}
+
+Now, establish your research objectives: {{research_objectives}}. 
+Clearly articulate what you intend to accomplish through the course of your research.
+
+->>>>
+
+Having introduced the research topic:
+
+Research Topic Introduction:
+{{step_1}}
+
+We now have laid-out research objectives:
+
+Research Objectives:
+{{step_2}}
+
+Next, present your research questions or hypotheses: {{research_questions_or_hypotheses}}. 
+These should be a direct reflection of what you aim to answer or validate through your research.
+
+->>>>
+
+We have defined our research objectives:
+
+Research Objectives:
+{{step_2}}
+
+Here are the research questions or hypotheses that we intend to address:
+
+Research Questions or Hypotheses:
+{{step_3}}
+
+Describe your research design next. 
+This should include the delineation of whether your study will be qualitative, quantitative, or mixed-method, and why this selection is made in relation to your {{research_topic}}. 
+Furthermore, explain how this design will assist in answering your {{research_questions_or_hypotheses}}.
+
+->>>>
+
+Following defined research questions or hypotheses:
+
+Research Questions or Hypotheses:
+{{step_3}}
+
+Here's the detailed research design:
+
+Research Design:
+{{step_4}}
+
+Next, provide a comprehensive detail about your data collection methods. 
+Identify your sources, the kinds of data you'll gather, and the methods utilized to collect it. 
+These details should abide by your study design and help achieve your {{research_objectives}}. 
+If there are unique industry specific methodologies, such as certain lab practices or predictive modeling software, incorporate those here.
+
+->>>>
+
+Having sketched out our research design:
+
+Research Design:
+{{step_4}}
+
+Here's the comprehensive detail about the data collection methods:
+
+Data Collection Details:
+{{step_5}}
+
+Now, explain the methods of data analysis you intend to use. 
+Describe how you will parse your data to derive insights that answer your {{research_questions_or_hypotheses}}. 
+If there are unique industry analysis techniques, like particular statistical methods or data visualization techniques, incorporate them here.
+
+->>>>
+
+Having detailed our data collection methods:
+
+Data Collection Details:
+{{step_5}}
+
+Here's a description of the methods of data analysis we intend to use:
+
+Data Analysis Methods:
+{{step_6}}
+
+Discuss the ethical considerations relevant to your research methodology, given the {{research_topic}}. 
+If there are particular ethical norms or guidelines in your field, they should be included in this section.
+
+->>>>
+
+Building upon the data analysis methods identified:
+
+Data Analysis Methods:
+{{step_6}}
+
+Here's the discussion of ethical considerations involved in this research:
+
+Ethical Considerations:
+{{step_7}}
+
+Now, detail any potential limitations inherent to your research methodology.
+
+->>>>
+
+After discussing the ethical considerations:
+
+Ethical Considerations:
+{{step_7}}
+
+Here are the potential limitations of the research methodology:
+
+Methodology limitations:
+{{step_8}}
+
+Finally, wrap up by summarizing key points about the {{research_topic}}, {{research_objectives}}, and the methodology's capability to address them, as well as its potential benefits for the industry.
+

@@ -1,0 +1,79 @@
+Your task is to write a "Lab Report on Environmental Sample" for the "High School Students - Environmental Sciences" industry, specifically for a "Student". Let's start by creating an introduction which outlines the environmental problem or situation that is being analyzed, why the experiment was chosen, and its significance to the context of the experiment: {{context_of_experiment}}.
+
+Here's some more context about the Lab Report on Environmental Sample:
+Context Of Experiment: {{context_of_experiment}}
+Hypothesis: {{hypothesis}}
+Materials And Methods: {{materials_and_methods}}
+Results And Analysis: {{results_and_analysis}}
+Discussion: {{discussion}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+For the lab report, we have written the introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's frame the hypothesis and objectives of the experiment, describing what is expected to be discovered from the environmental sample collected. Use the variable {{hypothesis}} to explain the prediction based on prior knowledge or observation.
+
+->>>>
+
+In the lab report, this is the hypothesis and objectives:
+
+Introduction:
+{{step_1}}
+
+Hypothesis and Objectives:
+{{step_2}}
+
+Next, describe the "Materials and Methods" used in the experiment. Pay special attention to the techniques used for sample collection, preservation, and procedures related to environmental sampling, using {{materials_and_methods}} to detail them as much as possible.
+
+->>>>
+
+For the lab report, these are the hypothesis and objectives as well as the materials and methods:
+
+Hypothesis and Objectives:
+{{step_2}}
+
+Materials and Methods:
+{{step_3}}
+
+The following step, we need to present the "Results and Analysis." Taking the variable {{results_and_analysis}}, detail the outcomes of the sample testing and interpret these results in a manner that reconnects them back to the initial environmental problem or situation.
+
+->>>>
+
+In our lab report, we have the materials and methods as well as the results and analysis:
+
+Materials and Methods:
+{{step_3}}
+
+Results and Analysis:
+{{step_4}}
+
+Now, let's write the "Discussion" section. Here, speculate on why your results may have come out the way they did. Discuss the implications of sample analysis and link it back to the larger environmental context using variable {{discussion}}.
+
+->>>>
+
+For the lab report, we have the results and analysis and now also the discussion:
+
+Results and Analysis:
+{{step_4}}
+
+Discussion:
+{{step_5}}
+
+For the "Conclusion," restate the hypothesis and objectives, summarize the findings using {{conclusion}}.
+
+->>>>
+
+In our lab report, following the discussion section, we have the conclusion:
+
+Discussion:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+Let's move on to the "Recommendations" section. Suggest areas for further study or additional tests that could be performed to expand the research on the environmental sample.
+

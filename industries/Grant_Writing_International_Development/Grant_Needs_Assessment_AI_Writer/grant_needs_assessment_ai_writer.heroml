@@ -1,0 +1,68 @@
+Your assignment is to write a "Needs Assessment Report" for the "Grant Writing - International Development" industry, specifically for a "Grant Writer". 
+
+We will start by crafting an executive summary for the "Needs Assessment Report". This should introduce the purpose of the report and the specific project or program: {{project_or_program}} in question.
+
+Here's some more context about the Needs Assessment Report:
+Project Or Program: {{project_or_program}}
+Region Context: {{region_context}}
+Beneficiaries Context: {{beneficiaries_context}}
+Identified Needs: {{identified_needs}}
+Potential Resources: {{potential_resources}}
+
+->>>>
+
+We have generated an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's provide an introduction that offers the geopolitical and socio-economic context of the region where the project is to be executed: {{region_context}}.
+
+->>>>
+
+We've now created an introduction for our Needs Assessment Report:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, let's describe the current situation of the targeted beneficiaries. Include details on their demographics and the challenges they are facing: {{beneficiaries_context}}.
+
+->>>>
+
+The current situation of the targeted beneficiaries of our project or program is described as follows:
+
+Introduction:
+{{step_2}}
+
+Current Situation of Beneficiaries:
+{{step_3}}
+
+The next step is to present the identified needs and gaps that your project or program intends to fill in the "Needs Assessment Findings" section. These should be derived from community surveys, stakeholder interviews, or external reports: {{identified_needs}}.
+
+->>>>
+
+Now, we have the "Needs Assessment Findings" for our Needs Assessment Report:
+
+Current Situation of Beneficiaries:
+{{step_3}}
+
+Needs Assessment Findings:
+{{step_4}}
+
+We should now discuss potential resources - local, national, or international - that we can leverage to meet the identified needs: {{potential_resources}}.
+
+->>>>
+
+The Needs Assessment Report now contains a list of resources that can be leveraged:
+
+Needs Assessment Findings:
+{{step_4}}
+
+Potential Resources:
+{{step_5}}
+
+Let's move on to the "Implications for Project Design" section. Here, we need to explain how the identified needs and available resources directly influence the design of the proposed project or program: {{project_or_program}}.
+

@@ -1,0 +1,85 @@
+Your task is to write a "Client Progress Report" for the "Health & Fitness Blogs" industry, specifically for a "Personal Trainer". We'll start with an introduction summarizing the client's overall progress, referencing their unique goals and objectives: {{client_goals}}.
+
+Here's some more context about the Client Progress Report:
+Client Goals: {{client_goals}}
+Reporting Period: {{reporting_period}}
+Client KPIs: {{client_KPIs}}
+Performance Summary: {{performance_summary}}
+Notable Events: {{notable_events}}
+Future Recommendations: {{future_recommendations}}
+
+->>>>
+
+Now, we have an introduction summarizing the client's overall progress:
+
+Introduction:
+{{step_1}}
+
+Let's turn to the period of coverage i.e the specific timeframe the report addresses. This could be weekly, monthly, or quarterly: {{reporting_period}}.
+
+->>>>
+
+For the "Client Progress Report" we have:
+
+Introduction:
+{{step_1}}
+
+Reporting Period:
+{{step_2}}
+
+Now, let's talk about key performance indicators (KPIs) aligning with the client's goals such as changes in weight, improvement in strength, endurance, flexibility, or any other measurable factor: {{client_KPIs}}.
+
+->>>>
+
+The "Client Progress Report" structure now includes:
+
+Introduction:
+{{step_1}}
+
+Reporting Period:
+{{step_2}}
+
+Client KPIs:
+{{step_3}}
+
+Next, detail the client's performance for each KPI comparing the current metrics with those from the previous reporting period and the baseline metrics at the start of training. Summarize the changes and explain what might have contributed to them: {{performance_summary}}.
+
+->>>>
+
+The "Client Progress Report" for the Personal Trainer includes:
+
+Introduction:
+{{step_1}}
+
+Reporting Period:
+{{step_2}}
+
+Client KPIs:
+{{step_3}}
+
+Performance Summary:
+{{step_4}}
+
+Let's discuss any notable events or challenges during the reporting period that may have impacted the client's performance. This could range from increases in training intensity to personal circumstances that affected their commitment to the plan: {{notable_events}}.
+
+->>>>
+
+The "Client Progress Report" now includes:
+
+Introduction:
+{{step_1}}
+
+Reporting Period:
+{{step_2}}
+
+Client KPIs:
+{{step_3}}
+
+Performance Summary:
+{{step_4}}
+
+Notable Events:
+{{step_5}}
+
+To conclude, propose adjustments for the upcoming period based on the analysis of the report. Suggest improvements to the training regime, nutrition, rest, or any other area: {{future_recommendations}}.
+

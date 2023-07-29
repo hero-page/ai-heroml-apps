@@ -1,0 +1,71 @@
+Your task is to write a "Book Report" for the "High School Students - Humanities" industry, specifically for a "Student". 
+
+To commence this task, let's start with an introduction that presents the title of the book, its author, and a brief overview of the story without revealing too much of the plot: {{book_title}}, {{author}}, {{story_overview}}.
+
+Here's some more context about the Book Report:
+Book Title: {{book_title}}
+Author: {{author}}
+Story Overview: {{story_overview}}
+Plot Summary: {{plot_summary}}
+Characters Description: {{characters_description}}
+Themes Symbols: {{themes_symbols}}
+Personal Opinion: {{personal_opinion}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+For the book report, we have composed an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, write a detailed summary of the book's plot, focusing on the major events and turning points without any personal interpretations or opinions.
+
+->>>>
+
+In our book report, we now have an introduction and a detailed summary of the book's plot:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Let's move forward to discuss the main characters and their relationships. Describe their role in the story, their personal traits, motivations, and changes they undergo throughout the story.
+
+->>>>
+
+In our book report, we now have a summary of the book's plot and a detailed description of the main characters:
+
+Plot Summary:
+{{step_2}}
+
+Character Descriptions:
+{{step_3}}
+
+Next, we need to analyze and explain the book's primary themes, symbols or messages, and how they are portrayed through the plot and characters.
+
+->>>>
+
+Next up in our book report, we have a discussion of the main characters and analysis of the primary themes, symbols or messages:
+
+Character Descriptions:
+{{step_3}}
+
+Themes, Symbols, and Messages:
+{{step_4}}
+
+Moving on, write a section reflecting your personal opinions and responses to the book. Share how the book made you feel, whether you agreed with the author's views, and how the book fits into its historical or societal context.
+
+->>>>
+
+Our book report now contains descriptions of the main characters, an analysis of the primary themes, symbols, or messages, and a personal opinion section:
+
+Themes, Symbols, and Messages:
+{{step_4}}
+
+Personal Opinion:
+{{step_5}}
+
+Finally, conclude the book report with a summary of the book's significance, its impact on you as a reader, and whether or not you would recommend it to others. Make sure to remain respectful to the author's work and view, even if they differ from your own.
+

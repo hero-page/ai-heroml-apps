@@ -1,0 +1,103 @@
+Your task is to write a "Project Plan" for the "High School Students - Mathematics" industry, specifically for a "Coding Club Member". 
+
+We will begin by generating an introductory section that specifies the project's objective: {{project_objective}}. This section should connect the project with the needs and interests of the Coding Club members.
+
+Here's some more context about the Project Plan:
+Project Objective: {{project_objective}}
+Mathematical Context: {{mathematical_context}}
+Coding Techniques: {{coding_techniques}}
+Math Concepts: {{math_concepts}}
+Members Role: {{members_role}}
+Progress Metrics: {{progress_metrics}}
+Learning Outcomes: {{learning_outcomes}}
+Project Timeline: {{project_timeline}}
+Club Benefits: {{club_benefits}}
+Assessment Strategy: {{assessment_strategy}}
+
+->>>>
+
+Here is the initialized project plan for our Coding Club:
+
+Objective:
+{{step_1}}
+
+Now, let's create a background context section that describes the current state of the particular element of mathematics or programming that the project will focus on: {{mathematical_context}}. This section should also contain a brief summary of what existing knowledge or programming skills are necessary for the club members to engage in the project.
+
+->>>>
+
+Our project plan for the Coding Club now has an objective and a background context:
+
+Objective:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Next, let's develop a project description section that outlines the scope of the project. This should include the key math concepts and programming techniques: {{coding_techniques}} and {{math_concepts}}, that the project will explore.
+
+->>>>
+
+The project plan for our Coding Club continues to take shape with an objective, background context, and project description:
+
+Objective:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Project Description:
+{{step_3}}
+
+Now, in the method section, please explain how the club members will be involved and what role they will play: {{members_role}}. Also describe how the progress of the project will be measured: {{progress_metrics}}.
+
+->>>>
+
+Our project plan for the Coding Club has:
+
+Objective:
+{{step_1}}
+
+Project Description:
+{{step_3}}
+
+Method:
+{{step_4}}
+
+Next, we need to outline the learning outcomes and skills that the Coding Club members will gain from participating in the project: {{learning_outcomes}}.
+
+->>>>
+
+The project plan for our Coding Club includes:
+
+Method:
+{{step_4}}
+
+Learning Outcomes:
+{{step_5}}
+
+Now, we need a timeline section for the project that includes milestones and deadlines: {{project_timeline}}. This timeline should detail specific coding tasks and math concepts that the members need to master.
+
+->>>>
+
+Our project plan for the Coding Club has:
+
+Learning Outcomes:
+{{step_5}}
+
+Timeline:
+{{step_6}}
+
+Let's now move on to include a section that details how the project will benefit the club: {{club_benefits}} and how it has potential for wider impact on the school and beyond.
+
+->>>>
+
+Our project plan for the Coding Club, now includes:
+
+Timeline:
+{{step_6}}
+
+Club benefits:
+{{step_7}}
+
+Finally, we need to add a feedback and evaluation section that outlines how club members' learning and the effectiveness of the project will be assessed: {{assessment_strategy}}.
+

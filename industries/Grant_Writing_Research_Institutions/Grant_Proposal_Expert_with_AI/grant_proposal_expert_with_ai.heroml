@@ -1,0 +1,79 @@
+Your task is to write a "Research Project Proposal" for the "Grant Writing - Research Institutions" industry, specifically for a "Grant Writer". Begin by drafting an introduction for the research project: {{research_project}}.
+
+Here's some more context about the Research Project Proposal:
+Research Project: {{research_project}}
+Problem Statement: {{problem_statement}}
+Project Objectives: {{project_objectives}}
+Research Methodology: {{research_methodology}}
+Project Budget: {{project_budget}}
+Timeline: {{timeline}}
+
+->>>>
+
+At the beginning of our "Research Project Proposal" for the industry "Grant Writing - Research Institutions" as a "Grant Writer":
+
+Introduction:
+{{step_1}}
+
+Now, let's provide a detailed overview of the project. Remember to highlight the purpose, significance, problems which this project seeks to address, and potential results and their implications for the concerned field.
+
+->>>>
+
+With the introduction and overview:
+
+Introduction:
+{{step_1}}
+
+Project Overview:
+{{step_2}}
+
+Next, it is important to articulate the problem statement: {{problem_statement}}. Explain what issues your project aims to resolve, clearly define the problem and justify why it is worth researching.
+
+->>>>
+
+After explaining the problem statement, we now have:
+
+Project Overview:
+{{step_2}}
+
+Problem Statement:
+{{step_3}}
+
+Subsequently, create the project objectives: {{project_objects}}. State what exactly you hope to achieve and how it coincides with the broader objectives of the research institution or the field at large.
+
+->>>>
+
+The statement of problem and project objectives to tackle that problem are as follow:
+
+Problem Statement:
+{{step_3}}
+
+Project Objectives:
+{{step_4}}
+
+After establishing the project's objectives, the next crucial step is to provide details about the methodology: {{research_methodology}}. Describe the research techniques to be employed, the nature of the data required and the analysis approaches to be used.
+
+->>>>
+
+In the proposed "Research Project Proposal", we have our project objectives and research methodology account for the following:
+
+Project Objectives:
+{{step_4}}
+
+Research Methodology:
+{{step_5}}
+
+Next, compile an estimated budget and resource needs: {{project_budget}}. Include everything from personnel salary to materials. Provide cost details for every item associated with the project and justify each cost.
+
+->>>>
+
+In our research proposal, the described research methodology and projected budget are as follows:
+
+Research Methodology:
+{{step_5}}
+
+Project Budget:
+{{step_6}}
+
+Now, propose a practical project timeline: {{timeline}}. This timeline should provide a breakdown of each phase of the research, including significant milestones and target dates.
+

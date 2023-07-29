@@ -1,0 +1,63 @@
+Let's write a "Beneficiary Case Study" for the "Grant Writing - Nonprofit Organizations" industry, specifically for a "Program Manager". 
+
+First, let's create an introduction that frames the context of the case study. We need to describe the project for which the grant was awarded and the target recipient, which is the beneficiary: {{beneficiary_description}}. Remember to highlight the importance and the uniqueness of the situation.
+
+Here's some more context about the Beneficiary Case Study:
+Beneficiary Description: {{beneficiary_description}}
+Beneficiary Preliminary Condition: {{beneficiary_preliminary_condition}}
+Organization Intervention Process: {{organization_intervention_process}}
+Beneficiary Post Intervention Condition: {{beneficiary_post_intervention_condition}}
+Broader Impact: {{broader_impact}}
+Concluding Notes: {{concluding_notes}}
+
+->>>>
+
+Now we have an introduction to our Beneficiary Case Study for a program manager in the Grant Writing - Nonprofit Organizations industry:
+
+Introduction:
+{{step_1}}
+
+Next, introduce the beneficiary. We need to describe them in detail to provide an understanding of the life circumstances they were in prior to receiving assistance from your organization: {{beneficiary_preliminary_condition}}.
+
+->>>>
+
+In our Beneficiary Case Study's context intake we have:
+
+Introduction:
+{{step_1}}
+
+Beneficiary Preliminary Condition:
+{{step_2}}
+
+Now, let's discuss the intervention. We need to detail the steps the organization took towards aiding the beneficiary, what was the process involved, and how did it get funded (mention the grant): {{organization_intervention_process}}.
+
+->>>>
+
+We've established the:
+
+Introduction:
+{{step_1}}
+
+Beneficiary Preliminary Condition:
+{{step_2}}
+
+Organization Intervention Process:
+{{step_3}}
+
+Next, let's focus on the outcome of the intervention. Describe how this specific intervention has made a significant difference in the life of the beneficiary. It is important to emphasize how the grant has directly or indirectly benefitted the beneficiary: {{beneficiary_post_intervention_condition}}.
+
+->>>>
+
+For our Beneficiary Case Study, we've narrated:
+
+Beneficiary Preliminary Condition:
+{{step_2}}
+
+Organization Intervention Process:
+{{step_3}}
+
+Beneficiary Post-Intervention Condition:
+{{step_4}}
+
+Now, let's detail the broader impact. Talk about the ripple effects or the broader impact of the change not only on the beneficiary but also on the beneficiary's immediate community, family, or the regular functioning of your organization: {{broader_impact}}.
+

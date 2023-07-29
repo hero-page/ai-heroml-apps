@@ -1,0 +1,87 @@
+Your task is to write a "Herb Description" for the "Herbalism & Plant Medicine" industry, specifically for a "Herbalist".
+
+Let's begin by creating an engaging introduction that piques the reader's interest about the herb. Describe the herb's characteristics and appearance in a way that forms a vivid image in the reader's mind.
+
+Here's some more context about the Herb Description:
+Introduction To Herb: {{introduction_to_herb}}
+Habitat Description: {{habitat_description}}
+Harvest Information: {{harvest_information}}
+Sensory Description: {{sensory_description}}
+Medicinal Benefits: {{medicinal_benefits}}
+Precautions And Interactions: {{precautions_and_interactions}}
+
+->>>>
+
+For our herb description, we have begun with a captivating introduction:
+
+Introduction:
+{{step_1}}
+
+Now, it's time to discuss the herb's native region, habitat and common locations where it can be found. This is important as it lets the herbalist know where to source the herb.
+
+->>>>
+
+So far, in describing the herb we have:
+
+Introduction:
+{{step_1}}
+
+Habitat Description:
+{{step_2}}
+
+Let's proceed by detailing the optimal harvest time and process for the herb. Mention when the herb is at its peak and identify what parts of the plant are used, be it the leaves, flowers, roots, or seeds.
+
+->>>>
+
+Our herb description so far is taking shape:
+
+Introduction:
+{{step_1}}
+
+Habitat Description:
+{{step_2}}
+
+Harvest Information:
+{{step_3}}
+
+Next, provide a sensory description of the herb, focusing on its taste and smell. This sensory information is invaluable for herbalists as it influences the overall taste and aroma of herbal concoctions.
+
+->>>>
+
+We're progressing well with the herb description:
+
+Introduction:
+{{step_1}}
+
+Habitat Description:
+{{step_2}}
+
+Harvest Information:
+{{step_3}}
+
+Sensory Description:
+{{step_4}}
+
+As we move towards concluding the description, let's discuss the known medicinal properties and benefits of the herb. Include traditional usage, and refer to any modern scientific studies that back these uses.
+
+->>>>
+
+With the addition of medicinal benefits, our herb description currently looks like:
+
+Introduction:
+{{step_1}}
+
+Habitat Description:
+{{step_2}}
+
+Harvest Information:
+{{step_3}}
+
+Sensory Description:
+{{step_4}}
+
+Medicinal Benefits:
+{{step_5}}
+
+Now, take time to outline any precautions, side effects, or interactions that the herb might have when used medicinally. This provides a complete picture of the herb's safety profile.
+

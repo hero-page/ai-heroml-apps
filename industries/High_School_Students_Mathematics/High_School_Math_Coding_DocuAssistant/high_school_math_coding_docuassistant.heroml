@@ -1,0 +1,91 @@
+Write a "Code Documentation" for the "High School Students - Mathematics" industry, specifically for a "Coding Club Member". 
+
+First off, write an introduction that explains the purpose and functionalities of the mathematical program you coded:
+
+Here's some more context about the Code Documentation:
+Program Purpose Functionality: {{program_purpose_functionality}}
+Variables Data Structures: {{variables_data_structures}}
+Code Navigation: {{code_navigation}}
+Algorithms Formulae: {{algorithms_formulae}}
+Function Descriptions: {{function_descriptions}}
+Common Issues: {{common_issues}}
+Key Takeaways: {{key_takeaways}}
+
+->>>>
+
+We're starting a "Code Documentation", and our introduction provides information about the program's purpose and functionalities:
+
+Introduction:
+{{step_1}}
+
+Next, create a section that covers the different variables and data structures used in the code. Define each one distinctly and describe the roles they serve in your program.
+
+->>>>
+
+In our "Code Documentation", we now have an overview of the program and a detailed definition of the variables and data structures:
+
+Introduction:
+{{step_1}}
+
+Variables and Data Structures:
+{{step_2}}
+
+Let's continue with the next step - providing a structured guide for navigating through the code. This explanation should align with the logical flow of the code.
+
+->>>>
+
+So far, we have an introduction, an explanation of the variables and data structures, and a guide for code navigation:
+
+Introduction:
+{{step_1}}
+
+Variables and Data Structures:
+{{step_2}}
+
+Code Navigation:
+{{step_3}}
+
+Now, let's focus on the key algorithms and mathematical formulae used in the code. Describe them in a way that would make sense to a high school student, linking them with mathematical concepts covered in their syllabus.
+
+->>>>
+
+With what we have so far, we can see an overview, the roles of the data structures, how to navigate the code, and an understanding of the key algorithms and formulae:
+
+Introduction:
+{{step_1}}
+
+Variables and Data Structures:
+{{step_2}}
+
+Code Navigation:
+{{step_3}}
+
+Algorithms and Formulae:
+{{step_4}}
+
+For the next step, describe each function in your code. Include comments explaining what the function does, its inputs, and its outputs.
+
+->>>>
+
+We have now described key aspects of our code, including its functions:
+
+Introduction:
+{{step_1}}
+
+Functions:
+{{step_5}}
+
+Next, conduct a walkthrough of an example run of the program, demonstrating what each line of code does in the context of overall program functionality.
+
+->>>>
+
+In our Code Documentation so far, we have important function explanations and a sample run of the program:
+
+Functions:
+{{step_5}}
+
+Example Run:
+{{step_6}}
+
+Let's go ahead and discuss common issues or error cases your program might encounter, along with possible solutions.
+

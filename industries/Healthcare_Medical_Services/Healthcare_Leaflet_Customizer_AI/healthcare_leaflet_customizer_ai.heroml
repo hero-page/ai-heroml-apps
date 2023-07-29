@@ -1,0 +1,73 @@
+Start your journey of creating a "Patient Information Leaflet" for a "Healthcare Provider" with an introduction. Compose a brief explanation about the healthcare provider, such as a hospital or clinic, and specify the purpose of the leaflet: {{leaflet_purpose}}.
+
+Here's some more context about the Patient Information Leaflet:
+Leaflet Purpose: {{leaflet_purpose}}
+Service Categories: {{service_categories}}
+Service Procedure: {{service_procedure}}
+Healthcare Precautions: {{healthcare_precautions}}
+Professional Details: {{professional_details}}
+Contact Details: {{contact_details}}
+
+->>>>
+
+An introduction has been developed:
+
+Introduction:
+{{step_1}}
+
+Next, delve into the services provided by this healthcare provider. Provide a detailed description of the services in the various categories available: {{service_categories}}.
+
+->>>>
+
+An overview of the services has been generated:
+
+Introduction:
+{{step_1}}
+
+Services:
+{{step_2}}
+
+Now, focus on the procedure or process for availing each of the above-mentioned services. Ensure that the steps for availing each service are present in a comprehensible and stepwise format: {{service_procedure}}.
+
+->>>>
+
+We have information for availing the services, as follows:
+
+Services:
+{{step_2}}
+
+Service Procedure:
+{{step_3}}
+
+Subsequently, include a section on essential healthcare precautions or preventive measures that patients should know about the services being provided: {{healthcare_precautions}}.
+
+->>>>
+
+We've created a healthcare precautions section:
+
+Services:
+{{step_2}}
+
+Service Procedure:
+{{step_3}}
+
+Healthcare Precautions:
+{{step_4}}
+
+Proceed to create a brief section on the team of healthcare professionals. Describe their expertise and experience: {{professional_details}}.
+
+->>>>
+
+Now we have profiled the expertise involved:
+
+Service Procedure:
+{{step_3}}
+
+Healthcare Precautions:
+{{step_4}}
+
+Professional Details:
+{{step_5}}
+
+It's crucial to add emergency contact details, along with information on how, when, and where patients can utilize them: {{contact_details}}.
+

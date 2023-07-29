@@ -1,0 +1,163 @@
+Your task is to write a "Play Review" for the "High School Students - Performing Arts" industry, specifically for a "Drama Club Member". 
+Let's start by drafting an opening paragraph introducing the play being reviewed: {{play_title}}, its playwright: {{playwright}}, the production you watched, and the reason why this play is significant. This will set the context for the rest of the review.
+ 
+Here's some more context about the Play Review:
+Play Title: {{play_title}}
+Playwright: {{playwright}}
+
+->>>>
+
+For our play review, here's the introductory paragraph:
+
+Introduction:
+{{step_1}}
+
+Next, let's provide a precise, but non-revealing, summary of the plot, based on {{play_title}}'s official synopsis and your own observations without spoiling the plot or the ending.
+
+->>>>
+
+In our play review, we have:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Now, analyze key performances in terms of acting and delivery. Mention specific scenes or dialogues in {{play_title}} that were particularly impactful, showcasing the performer's prowess.
+
+->>>>
+
+In the next parts of our review:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Performance Analysis:
+{{step_3}}
+
+The next step is to evaluate the direction of the play: comment on the vision of the director, their interpretation of {{playwright}}'s work, and how effectively they brought it to life through actors and technical aspects of the production.
+
+->>>>
+
+So far, our review includes:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Performance Analysis:
+{{step_3}}
+
+Direction Evaluation:
+{{step_4}}
+
+Next, examine the production aspects such as set design, costume, lighting, and sound effects. Explain how these elements contributed to the overall experience of watching {{play_title}}.
+
+->>>>
+
+The parts of our review now include:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Performance Analysis:
+{{step_3}}
+
+Direction Evaluation:
+{{step_4}}
+
+Production Aspects Review:
+{{step_5}}
+
+Reflect on the themes and symbolism in the play, and discuss their resonance with the audience. Use this section to connect the play to broader conversations, making {{playwright}}'s work relevant to the current context.
+
+->>>>
+
+Our review now contains:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Performance Analysis:
+{{step_3}}
+
+Direction Evaluation:
+{{step_4}}
+
+Production Aspects Review:
+{{step_5}}
+
+Themes and Symbolism:
+{{step_6}}
+
+Now, move on to a criticism section where you constructively point out what didn't work in the play. Be fair but honest in your assessment, considering all aspects from performances to the execution of the production.
+
+->>>>
+
+The sections of our review thus far include:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Performance Analysis:
+{{step_3}}
+
+Direction Evaluation:
+{{step_4}}
+
+Production Aspects Review:
+{{step_5}}
+
+Themes and Symbolism:
+{{step_6}}
+
+Criticism:
+{{step_7}}
+
+Now, let's draft a conclusion that provides an overall evaluation of the play, discussing if the play's message came across clearly and whether the audience was engaged.
+
+->>>>
+
+The parts of our play review currently include:
+
+Introduction:
+{{step_1}}
+
+Plot Summary:
+{{step_2}}
+
+Performance Analysis:
+{{step_3}}
+
+Direction Evaluation:
+{{step_4}}
+
+Production Aspects Review:
+{{step_5}}
+
+Themes and Symbolism:
+{{step_6}}
+
+Criticism:
+{{step_7}}
+
+Conclusion:
+{{step_8}}
+
+Conclude the review with a recommendation on whether the play is worth watching for our intended readers: Drama Club Members. Consider the play's value specific to their interest in performing arts. 
+

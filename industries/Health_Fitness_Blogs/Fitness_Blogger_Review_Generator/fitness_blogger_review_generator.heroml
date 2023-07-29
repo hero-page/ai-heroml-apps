@@ -1,0 +1,134 @@
+Your task is to write a "Product Review" for the "Health & Fitness Blogs" industry, specifically for a "Fitness Blogger". 
+
+Let's begin by creating a pleasant introduction that states the name and manufacturer of the product {{product_name}} and {{manufacturer_name}} respectively.
+
+Here's some more context about the Product Review:
+Product Name: {{product_name}}
+Manufacturer Name: {{manufacturer_name}}
+
+->>>>
+
+Now, we have a pleasant introduction for our review:
+
+Introduction:
+{{step_1}}
+
+Next, let's provide a brief overview and background details of the product, {{product_name}}, which covers its purpose and the general expectations in the fitness community.
+
+->>>>
+
+Now we have a brief overview of the product:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+In the next step, describe your first impression of the product {{product_name}} considering aspects such as packaging, initial observations, and any initial testing.
+
+->>>>
+
+So far, we have:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+First Impressions:
+{{step_3}}
+
+Let's continue by discussing our comprehensive experience of using the product {{product_name}} on a regular basis. This should include changes in health or fitness routines, ease of use, and any noticeable effects or benefits.
+
+->>>>
+
+For our product review, so far we have:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+First Impressions:
+{{step_3}}
+
+Experience:
+{{step_4}}
+
+Let's proceed to discuss the pros and cons of the product {{product_name}}, highlighting any drawbacks, potential side effects or restrictions, as well as the positive aspects and benefits.
+
+->>>>
+
+Up to this point, we have:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+First Impressions:
+{{step_3}}
+
+Experience:
+{{step_4}}
+
+Pros and Cons:
+{{step_5}}
+
+We now incorporate any technical specifications and features that the product {{product_name}} has. The context for this task should demonstrate an understanding and consideration of the product's fitness-related functionalities.
+
+->>>>
+
+The components of our product review include:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+First Impressions:
+{{step_3}}
+
+Experience:
+{{step_4}}
+
+Pros and Cons:
+{{step_5}}
+
+Specifications:
+{{step_6}}
+
+In our final sections, we will first draft a summary and provide an overall rating for the product {{product_name}}. We should also recommend whether the product is worth buying or not.
+
+->>>>
+
+The details of our product review are as follows:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+First Impressions:
+{{step_3}}
+
+Experience:
+{{step_4}}
+
+Pros and Cons:
+{{step_5}}
+
+Specifications:
+{{step_6}}
+
+Summary and Recommendations:
+{{step_7}}
+
+Lastly, we will encourage interaction by asking readers to leave comments with their thoughts on the product {{product_name}}, or if they find our review helpful. This final step creates an open invitation for discussion.
+

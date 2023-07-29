@@ -1,0 +1,237 @@
+Your task is to write a "Country Profile" for the "High School Students - Social Sciences" industry, specifically for a "Model United Nations Participant". First, let's start with an introduction that provides a brief context and outlines the scope of the country profile.
+
+Here's some more context about the Country Profile:
+Country Intro: {{country_intro}}
+Country Geography: {{country_geography}}
+Country History: {{country_history}}
+Country Politics: {{country_politics}}
+Country Economy: {{country_economy}}
+Country Culture: {{country_culture}}
+Country Human Rights: {{country_human_rights}}
+Country UN Role: {{country_UN_role}}
+
+->>>>
+
+We have started with a brief introduction of the country:
+
+Introduction:
+{{step_1}}
+
+Next up, expand on the geographical overview of the country including its location, topography, and climate.
+
+->>>>
+
+We now have an introduction and geographical overview of the country:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Moving forward, dig into the historical background of the country, discussing notable events, historical periods, and figures.
+
+->>>>
+
+We've gathered an introduction, geographical overview and historical background of the country:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Let's now discuss the political system. Incorporate information on type of government, electoral system, political parties, the country's foreign policy, and its relations with neighbors and significant world powers.
+
+->>>>
+
+So far, we've covered the introduction, geography, history and political system of the country:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Political System:
+{{step_4}}
+
+Next, detail out the country's economic standings. Discuss GDP, main industries, trade partners, economic challenges and opportunities.
+
+->>>>
+
+We've sketched out the introduction, geography, history, political system, and economics of the country:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Political System:
+{{step_4}}
+
+Economic Standings:
+{{step_5}}
+
+Now, explain the socio-cultural aspects of the country. Discuss culture, religion, language, ethnic groups, and societal norms.
+
+->>>>
+
+At this point, we've outlined the introduction, geography, history, political system, economics, and socio-cultural aspects of the country:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Political System:
+{{step_4}}
+
+Economic Standings:
+{{step_5}}
+
+Socio-Cultural Aspects:
+{{step_6}}
+
+Following this, highlight the country's record on human rights and issues pertaining to inclusivity.
+
+->>>>
+
+We now have key aspects of the country laid out including introduction, geography, history, political system, economics, socio-cultural aspects, and human rights:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Political System:
+{{step_4}}
+
+Economic Standings:
+{{step_5}}
+
+Socio-Cultural Aspects:
+{{step_6}}
+
+Human Rights:
+{{step_7}}
+
+Move on to talk about the country's major environmental policies and its stance on climate change.
+
+->>>>
+
+We have analyzed the country through its introduction, geography, history, political system, economics, socio-cultural aspects, human rights, and environmental policies:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Political System:
+{{step_4}}
+
+Economic Standings:
+{{step_5}}
+
+Socio-Cultural Aspects:
+{{step_6}}
+
+Human Rights:
+{{step_7}}
+
+Environmental Policies:
+{{step_8}}
+
+Now, talk about the country's involvement in any conflicts, peacekeeping missions, and international sanctions.
+
+->>>>
+
+So far, we have the introduction, geography, history, political system, economics, socio-cultural aspects, human rights, environmental policies, and conflict involvement of the country:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Political System:
+{{step_4}}
+
+Economic Standings:
+{{step_5}}
+
+Socio-Cultural Aspects:
+{{step_6}}
+
+Human Rights:
+{{step_7}}
+
+Environmental Policies:
+{{step_8}}
+
+Conflict Involvement:
+{{step_9}}
+
+Next, emphasize the country's contributions to and utilization of the United Nations resources and agencies.
+
+->>>>
+
+Now we have an overview of introduction, geography, history, political system, economics, socio-cultural aspects, human rights, environmental policies, conflict involvement, and UN participation of the country:
+
+Introduction:
+{{step_1}}
+
+Geographical Overview:
+{{step_2}}
+
+Historical Background:
+{{step_3}}
+
+Political System:
+{{step_4}}
+
+Economic Standings:
+{{step_5}}
+
+Socio-Cultural Aspects:
+{{step_6}}
+
+Human Rights:
+{{step_7}}
+
+Environmental Policies:
+{{step_8}}
+
+Conflict Involvement:
+{{step_9}}
+
+UN Participation:
+{{step_10}}
+
+Finally, pinpoint areas of interest or controversy for the country within the United Nations.
+

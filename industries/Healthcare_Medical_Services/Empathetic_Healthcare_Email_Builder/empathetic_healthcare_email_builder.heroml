@@ -1,0 +1,109 @@
+Your task is to write a "Patient Email" for the "Healthcare & Medical Services" industry, specifically for a "Healthcare Administrator". 
+
+To start, create a polite and respectful greeting that addresses the patient: {{patient_name}}.
+
+Here's some more context about the Patient Email:
+Patient Name: {{patient_name}}
+Healthcare Administrator: {{healthcare_administrator}}
+Patient: {{patient}}
+Medical Information: {{medical_information}}
+Appointment Details: {{appointment_details}}
+FAQ: {{FAQ}}
+Call To Action: {{call_to_action}}
+
+->>>>
+
+For the "Patient Email", we have a polite greeting:
+
+Greeting:
+{{step_1}}
+
+Next, draft a brief introduction where you identify yourself as the {{healthcare_administrator}}, and explain the reason for this email and its relevance to the {{patient}}.
+
+->>>>
+
+In our "Patient Email", we now have a greeting and a brief introduction:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, form the main body of the email. This should provide clear and concise information relevant to the patient's health plan or medical condition of concern: {{medical_information}}.
+
+->>>>
+
+In our "Patient Email", we have a greeting, an introduction, and a main body:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Body:
+{{step_3}}
+
+Now, include any important appointment details, such as the date, time, and location, along with any necessary preparations: {{appointment_details}}.
+
+->>>>
+
+So far, in our "Patient Email", we have a main body and appointment details:
+
+Main Body:
+{{step_3}}
+
+Appointment Details:
+{{step_4}}
+
+Next, draft a section to address frequently asked questions, providing answers to typical patient queries concerning their health plan or condition: {{FAQ}}.
+
+->>>>
+
+In our "Patient Email", we now have appointment details and an FAQ section:
+
+Appointment Details:
+{{step_4}}
+
+FAQ Section:
+{{step_5}}
+
+Now, generate a call to action, asking them to confirm reception of the email, to get back to you with any doubts, or to act according to the instructions provided, if necessary: {{call_to_action}}.
+
+->>>>
+
+In our "Patient Email", we have an FAQ section and a call to action:
+
+FAQ Section:
+{{step_5}}
+
+Call to Action:
+{{step_6}}
+
+Next, write a closing message assuring the patient of the healthcare facility's eagerness to address their healthcare needs and empathize with their possible concerns.
+
+->>>>
+
+In the "Patient Email", we have a call to action and a closing message:
+
+Call to Action:
+{{step_6}}
+
+Closing Message:
+{{step_7}}
+
+Then, add your contact information where patients can reach out for further support or with additional questions. Include your official email, the hospital's helpline number, etc.
+
+->>>>
+
+In our "Patient Email", there's a closing message and your contact information:
+
+Closing Message:
+{{step_7}}
+
+Contact Information:
+{{step_8}}
+
+Lastly, sign off the email professionally. Use terms like 'Kind Regards', 'Yours Faithfully', followed by your name and title as a Healthcare Administrator.
+

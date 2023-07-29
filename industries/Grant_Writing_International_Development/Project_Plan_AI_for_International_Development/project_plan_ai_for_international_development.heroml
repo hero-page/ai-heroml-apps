@@ -1,0 +1,80 @@
+Start by writing an executive summary for the "Project Implementation Plan" in the "Grant Writing - International Development" sector:
+
+Here's some more context about the Project Implementation Plan:
+Project Overview: {{project_overview}}
+Problem Description: {{problem_description}}
+Project Objectives: {{project_objectives}}
+Project Phases: {{project_phases}}
+Team Responsibilities: {{team_responsibilities}}
+Potential Risks: {{potential_risks}}
+Measuring Progress: {{measuring_progress}}
+
+->>>>
+
+Now, we have an executive summary for the project:
+
+Executive Summary:
+{{step_1}}
+
+Next, provide context and justification for the project. This will explain the problem the project aims to address, using data and real-world examples where relevant.
+
+->>>>
+
+Our project has an executive summary and a context and justification section:
+
+Executive Summary:
+{{step_1}}
+
+Context and Justification:
+{{step_2}}
+
+We can now move to describe the project objectives. These objectives should be measurable and correlate with the problem or opportunity identified in the context and justification section.
+
+->>>>
+
+For a project in the "Grant Writing - International Development" sector, we started with an executive summary and provided context and justification. We have now defined the project objectives:
+
+Executive Summary:
+{{step_1}}
+
+Project Objectives:
+{{step_3}}
+
+Now, detail the implementation plan. This includes breaking down the project into phases, listing the tasks to be completed in each phase, assigning team responsibilities, and providing a timeline for completion.
+
+->>>>
+
+Here is our project plan so far. We have an executive summary, project objectives, and an implementation plan:
+
+Executive Summary:
+{{step_1}}
+
+Implementation Plan:
+{{step_4}}
+
+Identify the risk management plan next. Discuss potential risks and challenges that might come up during the project implementation and how these will be addressed.
+
+->>>>
+
+The current structure of the "Project Implementation Plan" includes an executive summary, project objectives, an implementation plan, and a risk management plan:
+
+Executive Summary:
+{{step_1}}
+
+Risk Management Plan:
+{{step_5}}
+
+Now, define the monitoring and evaluation plan. Describe how progress will be measured and evaluated, and define the key performance indicators (KPIs) used to assess whether the project's objectives are being met on time and within the budget.
+
+->>>>
+
+So far, the "Project Implementation Plan" includes an executive summary, project objectives, an implementation plan, a risk management plan, and a monitoring and evaluation plan:
+
+Executive Summary:
+{{step_1}}
+
+Monitoring and Evaluation Plan:
+{{step_6}}
+
+To conclude, re-emphasize the project's importance and communicate its value. Summarize the points made in the previous sections and include an appeal to the grant agency for funding support. 
+

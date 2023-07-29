@@ -1,0 +1,113 @@
+Your task is to write a "Research Grant Proposal" for the "Grant Writing - Healthcare Facilities" industry, specifically for a "Grant Writer". Let's start with creating an executive summary that encapsulates the primary objectives of the research: {{primary_objectives}}.
+
+Here's some more context about the Research Grant Proposal:
+Primary Objectives: {{primary_objectives}}
+Research Topic: {{research_topic}}
+Background Info: {{background_info}}
+Issue Addressed: {{issue_addressed}}
+Purpose Of Research: {{purpose_of_research}}
+Research Approach: {{research_approach}}
+Research Techniques: {{research_techniques}}
+Team Qualifications: {{team_qualifications}}
+Anticipated Expenses: {{anticipated_expenses}}
+Resource Allocation: {{resource_allocation}}
+Personnel Expenses: {{personnel_expenses}}
+Potential Risks: {{potential_risks}}
+Risk Mitigation Strategy: {{risk_mitigation_strategy}}
+Project Timeline: {{project_timeline}}
+Key Deliverables: {{key_deliverables}}
+Project Relevance: {{project_relevance}}
+
+->>>>
+
+We have an executive summary for our proposal:
+
+Executive Summary:
+{{step_1}}
+
+Based on the objectives outlined in the executive summary, introduce the research topic, providing background information, the reason for its selection and explain the issue it addresses: {{research_topic}}, {{background_info}}, and {{issue_addressed}}.
+
+->>>>
+
+For our proposal, we have established the executive summary and the research topic details:
+
+Executive Summary:
+{{step_1}}
+
+Research Topic and Background:
+{{step_2}}
+
+Moving forward, precisely define the purpose of the proposed research, highlighting its relevance and potential impact on healthcare: {{purpose_of_research}}.
+
+->>>>
+
+Having introduced our research topic, we now also have the purpose of the proposed research:
+
+Research Topic and Background:
+{{step_2}}
+
+Research Purpose:
+{{step_3}}
+
+Next, detail your research methodology, offering a brief appraisal of the approach and techniques to be used: {{research_approach}} and {{research_techniques}}.
+
+->>>>
+
+So far, we have defined the research topic and its purpose. Now, we have defined the research methodology:
+
+Research Purpose:
+{{step_3}}
+
+Research Methodology:
+{{step_4}}
+
+Further on, describe the qualifications of your team and the unique strengths that make them suitable candidates for this research project: {{team_qualifications}}.
+
+->>>>
+
+With our research methodology established, moving forward we have described the qualifications of our team:
+
+Research Methodology:
+{{step_4}}
+
+Team Qualifications:
+{{step_5}}
+
+In the next step, develop the budget section by enumerating the anticipated expenses and the allocation of funds amongst resources, personnel, and other costs: {{anticipated_expenses}}, {{resource_allocation}}, and {{personnel_expenses}}.
+
+->>>>
+
+Our proposal now includes details about the research methodology and the team's qualifications. Additionally, we have prepared the budget section:
+
+Team Qualifications:
+{{step_5}}
+
+Budget:
+{{step_6}}
+
+Next, anticipate and discuss how potential challenges and risks will be managed in your project: {{potential_risks}} and {{risk_mitigation_strategy}}.
+
+->>>>
+
+We have now detailed the budget requirements for the project and developed a plan for foreseeing possible challenges:
+
+Budget:
+{{step_6}}
+
+Risk Management:
+{{step_7}}
+
+Now, provide a comprehensive timeline for the project emphasizing key deliverables and milestones: {{project_timeline}} and {{key_deliverables}}.
+
+->>>>
+
+For our Research Grant Proposal, the budgetary requirements, the team's qualifications, and a strategy to mitigate risks are now clearly articulated. Furthermore, we have outlined the project timeline:
+
+Risk Management:
+{{step_7}}
+
+Project Timeline and Deliverables:
+{{step_8}}
+
+Next, conclude the proposal with a clear statement emphasizing the relevance of the project, how it improves health outcomes, fosters innovation or aids in policy decision making: {{project_relevance}}.
+

@@ -1,0 +1,82 @@
+Your task is to write a "Project Plan" for the "High School Students - Sciences" industry, specifically for a "Robotics Club Member".
+
+Let's start by writing an introduction that explains the goal of the project: {{project_goal}}.
+
+Here's some more context about the Project Plan:
+Project Goal: {{project_goal}}
+Project Challenge: {{project_challenge}}
+Project Solution Idea: {{project_solution_idea}}
+Project Methodology: {{project_methodology}}
+Project Resources: {{project_resources}}
+Project Timeline: {{project_timeline}}
+Project Evaluation Criteria: {{project_evaluation_criteria}}
+
+->>>>
+
+We now have an introduction and the project goal for our plan:
+
+Introduction & Project Goal:
+{{step_1}}
+
+Next, describe the problem or challenge the project is aiming to address: {{project_challenge}}. Frame this in terms of a question you're attempting to answer or a solution you're working towards.
+
+->>>>
+
+We have the project goal and the defined challenge our project aims to solve:
+
+Project Goal:
+{{step_1}}
+
+Project Challenge:
+{{step_2}}
+
+Now, provide an overview of the proposed solution or idea for the project: {{project_solution_idea}}. This might be a blueprint or concept of a robot you plan to build or a software algorithm you want to develop.
+
+->>>>
+
+We have our project challenge and a proposed solution:
+
+Project Challenge:
+{{step_2}}
+
+Project Solution/Idea:
+{{step_3}}
+
+Next, design a methodology section that outlines the steps to execute the project: {{project_methodology}}. This should guide the work of the club from the start to finish, detailing tasks such as designing, building, testing, and refining the robot.
+
+->>>>
+
+Based on the project solution or idea, here is our methodology for the execution:
+
+Project Solution/Idea:
+{{step_3}}
+
+Project Methodology:
+{{step_4}}
+
+Now, identify the resources required for the project: {{project_resources}}. These might range from physical materials for the robot, software tools, or specific expertise from club members or mentors.
+
+->>>>
+
+After defining the project methodology, we have also identified the resources needed for the project: 
+
+Project Methodology:
+{{step_4}}
+
+Project Resources:
+{{step_5}}
+
+Proceed to outline a timeline for the project. Break down the project into smaller tasks, assign tasks to specific team members, and set deadlines for each task: {{project_timeline}}. This will account for progress tracking and timely task completion.
+
+->>>>
+
+Based on the resources we have, this is our projected timeline:
+
+Project Resources:
+{{step_5}}
+
+Project Timeline:
+{{step_6}}
+
+Finally, detail how the results of the project will be evaluated: {{project_evaluation_criteria}}. This could be based on aspects like the robot's performance, level of innovation, and functionality.
+

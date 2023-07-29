@@ -1,0 +1,93 @@
+Here is a "Product Brochure" for the "Hardware Documentation" industry, specifically for a "Product Manager". 
+
+[[step_1]]:
+Start by generating an introduction. Your introduction should provide an engaging summary of the hardware product: {{product}}.
+
+Here's some more context about the Product Brochure:
+Product: {{product}}
+Distinguishing Features: {{distinguishing_features}}
+Technical Specs: {{technical_specs}}
+Product Use Cases: {{product_use_cases}}
+Maintenance Safety Information: {{maintenance_safety_information}}
+Product Support Info: {{product_support_info}}
+
+->>>>
+
+We have created an introduction for our product brochure:
+
+Introduction:
+{{step_1}}
+
+[[step_2]]:
+Next, let's write a brief section talking about the distinguishing features of the product: {{distinguishing_features}}. The distinguishing features should describe the key selling points, superior functionalities, and unique design attributes which differentiate this product from its competitors.
+
+->>>>
+
+We now have an introduction and a section highlighting the distinguishing features of our product:
+
+Introduction:
+{{step_1}}
+
+Distinguishing Features:
+{{step_2}}
+
+[[step_3]]:
+Now, delve deeper into the technical specifications of the hardware product: {{technical_specs}}. Here, you should discuss information such as product dimensions, weight, materials used, performance parameters, and operational requirements.
+
+->>>>
+
+We have an introduction, a section on distinguishing features, and another one on technical specifications of our product:
+
+Introduction:
+{{step_1}}
+
+Distinguishing Features:
+{{step_2}}
+
+Technical Specifications:
+{{step_3}}
+
+[[step_4]]:
+Moving forward, let's create a section outlining different use cases of the product: {{product_use_cases}}. This particular section should describe different scenarios where this product can be effectively utilized, and how it can benefit the end user in each scenario.
+
+->>>>
+
+We now have an introduction, sections on distinguishing features, technical specifications, and different use cases of our product:
+
+Introduction:
+{{step_1}}
+
+Distinguishing Features:
+{{step_2}}
+
+Technical Specifications:
+{{step_3}}
+
+Product Use Cases:
+{{step_4}}
+
+[[step_5]]:
+Next, discuss the maintenance procedures and safety precautions related to the product: {{maintenance_safety_information}}. This important section should inform the customers about routine maintenance, part replacements, safety hazards and precautions that should be taken while using the product.
+
+->>>>
+
+Our brochure now has sections covering the introduction, distinguishing features, technical specifications, product use cases, and maintenance and safety information:
+
+Introduction:
+{{step_1}}
+
+Distinguishing Features:
+{{step_2}}
+
+Technical Specifications:
+{{step_3}}
+
+Product Use Cases:
+{{step_4}}
+
+Maintenance and Safety Information:
+{{step_5}}
+
+[[step_6]]:
+Finally, wrap up the brochure with after-sales support information: {{product_support_info}}. This section should provide information about customer support details, warranty information, and service centers, etc., to assure the customers of your after-sales services and help build trust.
+

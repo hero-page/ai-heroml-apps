@@ -1,0 +1,83 @@
+Your task is to write a "Progress Report" for a "Robotics Club Member" in the "High School Students - Sciences" industry. Let's start with creating an introductory paragraph that sets the scene with the report timeframe and purpose.
+
+Here's some more context about the Progress Report:
+Report Timeframe: {{report_timeframe}}
+Report Purpose: {{report_purpose}}
+Accomplishments: {{accomplishments}}
+Developed Skills: {{developed_skills}}
+Club Challenges: {{club_challenges}}
+Team Involvement: {{team_involvement}}
+Future Goals: {{future_goals}}
+
+->>>>
+
+We are preparing a "Progress Report" for the "High School Students - Sciences" industry for a "Robotics Club Member". We have set the scene with the report's introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's establish the "Accomplishments" section, listing down the tasks or projects that the member has completed during the specified timeframe. Each accomplishment needs to be detailed with its name, description, goal, and result.
+
+->>>>
+
+Our "Progress Report" so far includes the introduction and a completed list of accomplishments:
+
+Introduction:
+{{step_1}}
+
+Accomplishments:
+{{step_2}}
+
+Now, create the "Skills" section and highlight the specific technical and non-technical skills the member has developed or enhanced while working on club projects.
+
+->>>>
+
+We have the introduction, accomplishments and a list of developed skills for our "Progress Report":
+
+Introduction:
+{{step_1}}
+
+Accomplishments:
+{{step_2}}
+
+Developed Skills:
+{{step_3}}
+
+Moving on, let's draft the "Challenges" section and describe the key obstacles or issues faced by the member and how they were addressed. This section should demonstrate problem-solving capabilities and resilience.
+
+->>>>
+
+Our "Progress Report" currently includes introduction, a list of accomplishments, developed skills and challenges:
+
+Introduction:
+{{step_1}}
+
+Accomplishments:
+{{step_2}}
+
+Developed Skills:
+{{step_3}}
+
+Challenges:
+{{step_4}}
+
+The second last section in our report is the "Involvement" section. Please mention the member's role in team collaborations, and how they contributed to the overall team effort. Recognise their contribution to discussions, planning stages, project execution.
+
+->>>>
+
+Our accomplishments, developed skills, challenges, and team involvement in the club are ready:
+
+Accomplishments:
+{{step_2}}
+
+Developed Skills:
+{{step_3}}
+
+Challenges:
+{{step_4}}
+
+Team Involvement:
+{{step_5}}
+
+Following this, let's generate a "Future Goals" section summarizing the member's objectives for the future in the club – ranging from leadership roles to mastery of specific aspects of robotics, to noting down specific projects they wish to undertake.
+

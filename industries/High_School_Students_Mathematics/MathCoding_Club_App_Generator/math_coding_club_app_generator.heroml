@@ -1,0 +1,112 @@
+Here is how you can break down the prompt:
+
+Your task is to write an "App Description" for the "High School Students - Mathematics" industry, specifically for a "Coding Club Member".
+
+Let's begin with an engaging opening statement that captures the unique selling point of the app: {{app_unique_value}}. This can be a brief sentence or two highlighting the app's main selling point.
+
+Here's some more context about the App Description:
+App Unique Value: {{app_unique_value}}
+App Function: {{app_function}}
+App Features: {{app_features}}
+App Benefits: {{app_benefits}}
+Install Info Support: {{install_info_support}}
+
+->>>>
+
+We're creating an "App Description" for a coding club member in the "High School Students - Mathematics" industry, and we have our opening statement:
+
+Opening Statement:
+{{step_1}}
+
+Next, provide a comprehensive overview of the app's purpose and function: {{app_function}}. This should be a broad summary explaining how the app will help high school students to improve their mathematical capabilities.
+
+->>>>
+
+In our app description specifically for high school coding club members, these are the opening statement and the app's general purpose and function:
+
+Opening Statement:
+{{step_1}}
+
+App's General Purpose and Function:
+{{step_2}}
+
+Now, discuss the features of the app: {{app_features}}. Highlight elements that would help the users in managing their coding tasks and enhancing their mathematical and coding skills.
+
+->>>>
+
+For our app targeting high school coding club members, we have an engaging opening statement, a general purpose and function, and highlighted features:
+
+Opening Statement:
+{{step_1}}
+
+App's General Purpose and Function:
+{{step_2}}
+
+App's Highlighted Features:
+{{step_3}}
+
+Following that, highlight the interactive and user-friendly elements of the app. Remembering that our target users are high school students interested in mathematics and coding.
+
+->>>>
+
+For this app description, we have an opening statement, the app's general purpose, its highlighted features, and some interactive, user-friendly elements:
+
+Opening Statement:
+{{step_1}}
+
+App's General Purpose and Function:
+{{step_2}}
+
+App's Highlighted Features:
+{{step_3}}
+
+User-friendly Elements:
+{{step_4}}
+
+We will now explain the benefits of the app: {{app_benefits}}. Make sure to emphasize how the app will provide added value to the high school student's mathematical education.
+
+->>>>
+
+In the app description, we've described the opening statement, the app's general purpose, highlighted features, user-friendly elements, and the benefits of this app:
+
+Opening Statement:
+{{step_1}}
+
+App's General Purpose and Function:
+{{step_2}}
+
+App's Highlighted Features:
+{{step_3}}
+
+User-friendly Elements:
+{{step_4}}
+
+App Benefits:
+{{step_5}}
+
+Next, include some testimonials or user reviews if available.
+
+->>>>
+
+In the app description, we have an opening statement, the general purpose of the app, highlighted features, user-friendly elements, app benefits, and some testimonials or user reviews:
+
+Opening Statement:
+{{step_1}}
+
+App's General Purpose and Function:
+{{step_2}}
+
+App's Highlighted Features:
+{{step_3}}
+
+User-friendly Elements:
+{{step_4}}
+
+App Benefits:
+{{step_5}}
+
+Testimonials or User Reviews:
+{{step_6}}
+
+To conclude, provide information on how to download, install the app, and where users can find additional information or support for the app: {{install_info_support}}.
+

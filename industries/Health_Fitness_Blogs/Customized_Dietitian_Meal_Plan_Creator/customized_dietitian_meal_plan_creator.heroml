@@ -1,0 +1,61 @@
+Let's begin the creation of a "Meal Plan" in the "Health & Fitness Blogs" industry for a "Dietitian". Initiate this process by writing an introduction that sets the context. Define the {{meal_plan_purpose}} of the plan - it could be for losing weight, building muscle, or improving general health. Remember to adjust your language to suit a variety of audiences.
+
+Here's some more context about the Meal Plan:
+Meal Plan Purpose: {{meal_plan_purpose}}
+Nutritional Requirements: {{nutritional_requirements}}
+Meal Plan Duration And Structure: {{meal_plan_duration_and_structure}}
+Meal Contents: {{meal_contents}}
+Hydration Requirements: {{hydration_requirements}}
+Meal Plan Flexibility: {{meal_plan_flexibility}}
+
+->>>>
+
+Thus far, the purpose is set for the "Meal Plan" we are developing:
+
+Meal Plan Purpose:
+{{step_1}}
+
+Now, describe the nutritional requirements for the specific type of individual or group the meal plan is targeting. Be precise and elaborate on the macronutrient distribution (proteins, fats, and carbohydrates) and micronutrient needs: {{nutritional_requirements}}. Remember, these needs can differ based on the purpose of the meal plan.
+
+->>>>
+
+The context for our "Meal Plan" has been set as such:
+
+Meal Plan Purpose:
+{{step_1}}
+
+Nutritional Requirements:
+{{step_2}}
+
+Following this, cover the duration of the meal plan, including each meal (breakfast, lunch, dinner), and the snacks to be included per day: {{meal_plan_duration_and_structure}}. Remember that a clear structure assists individuals in planning and increases adherence to the plan.
+
+->>>>
+
+The underlying foundation for our "Meal Plan" is established:
+
+Meal Plan Purpose:
+{{step_1}}
+
+Nutritional Requirements:
+{{step_2}}
+
+Meal Plan Duration and Structure:
+{{step_3}}
+
+In the next step, list food items and recipes for each meal and snack that fulfil these nutritional needs: {{meal_contents}}. Consider different taste preferences and dietary restrictions in your recommendations.
+
+->>>>
+
+At this point, our "Meal Plan" includes:
+
+Nutritional Requirements:
+{{step_2}}
+
+Meal Plan Duration and Structure:
+{{step_3}}
+
+Meal Contents:
+{{step_4}}
+
+Next, consider the importance of water intake and hydration. Describe the {{hydration_requirements}} by recommending suitable beverage choices and daily consumption amounts.
+

@@ -1,0 +1,101 @@
+Start by generating a specific topic for the research paper that will be both interesting and manageable. This topic should fall within the context of "Social Sciences" and be suitable for the "High School Students - Social Sciences" industry and a "Student".
+
+Here's some more context about the Research Paper:
+Research Topic: {{research_topic}}
+Thesis Statement: {{thesis_statement}}
+Key Aspects: {{key_aspects}}
+Research Data: {{research_data}}
+Sources: {{sources}}
+Societal Issues: {{societal_issues}}
+
+->>>>
+
+The topic for our research paper is:
+
+Topic:
+{{step_1}}
+
+Now, let's draft an introduction for the research paper where we provide a brief background about the {{step_1}} topic and indicate the scope and significance of our study.
+
+->>>>
+
+We have successfully drafted an introduction based on our topic:
+
+Topic:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, let's formulate a clear and concise thesis statement that expresses the main idea or argument of our research paper. This thesis statement will be placed towards the end of the introduction.
+
+->>>>
+
+With the introduction written:
+
+Introduction:
+{{step_2}}
+
+The thesis statement for our research paper is:
+
+Thesis Statement:
+{{step_3}}
+
+Subset the main body of the paper into various sections based on key aspects or sub-topics related to our main topic. Each section should provide detailed information, evidence, or examples that support our thesis statement.
+
+->>>>
+
+The structure for the main body of our research paper, including the key aspects to cover, based on our thesis statement:
+
+Thesis Statement:
+{{step_3}}
+
+Structure for Main Body:
+{{step_4}}
+
+Include a section where we analyse primary or secondary data related to our topic. This data should be presented clearly and directly support our thesis statement.
+
+->>>>
+
+The structure for the data analysis section of our research paper, based on our thesis statement, is:
+
+Thesis Statement:
+{{step_3}}
+
+Data Analysis Structure:
+{{step_5}}
+
+Now summarize the main points of the paper, restate our thesis statement, and indicate the relevance or implications of our findings in a well-crafted conclusion.
+
+->>>>
+
+For the conclusion of our research paper, based on our thesis statement, we have:
+
+Thesis Statement:
+{{step_3}}
+
+Conclusion:
+{{step_6}}
+
+After the conclusion, let's list all the sources used in our research paper in a bibliography or reference section. Follow the citation style (APA, MLA, etc.) as specified by your instructor or school.
+
+->>>>
+
+With our thesis statement, main body and conclusion in place:
+
+Thesis Statement:
+{{step_3}}
+
+Main Body:
+{{step_4}}
+
+Conclusion:
+{{step_6}}
+
+We now have a Reference List for our Research Paper:
+
+References:
+{{step_7}}
+
+Lastly, let's discuss societal or local issues related to our chosen topic to make our research paper more engaging and relevant to our peers.
+

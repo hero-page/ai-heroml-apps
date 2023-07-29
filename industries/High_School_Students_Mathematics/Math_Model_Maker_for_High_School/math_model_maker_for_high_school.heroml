@@ -1,0 +1,95 @@
+Your task is to write a "Mathematical Model" for the "High School Students - Mathematics" industry, specifically for a "Math Club Member". 
+
+Let's start with an introduction that outlines the problem or question your mathematical model will tackle: {{model_problem}}. This introduces the relevance and context to your audience of Math Club members.
+
+Here's some more context about the Mathematical Model:
+Model Problem: {{model_problem}}
+Model Variables: {{model_variables}}
+Model Equations: {{model_equations}}
+Model Assumptions: {{model_assumptions}}
+Model Validity: {{model_validity}}
+Model Conclusion: {{model_conclusion}}
+
+->>>>
+
+You are creating a Mathematical Model:
+
+Introduction:
+{{step_1}}
+
+Next, identify and define all relevant variables: {{model_variables}}. These are typically quantities we think will affect or be affected by the problem you introduced.
+
+->>>>
+
+You've introduced the problem, now let's define the variables.
+
+Introduction:
+{{step_1}}
+
+Variables:
+{{step_2}}
+
+Now, formulate the relationships between the defined variables using mathematical equations: {{model_equations}}. This step outlines the core of the mathematical model, showing how the variables interact.
+
+->>>>
+
+In your Mathematical Model, you have defined the problem and the associated variables:
+
+Problem:
+{{step_1}}
+
+Variables:
+{{step_2}}
+
+Now, you have formulated the relationships between these variables with Mathematical equations:
+
+Equations:
+{{step_3}}
+
+Next, carefully select the assumptions to simplify your model: {{model_assumptions}}. High school models should be straightforward and understandable, so try limiting your assumptions for a clean and clear model.
+
+->>>>
+
+In your Mathematical Model, you have developed mathematical equations establishing relationships between your variables:
+
+Equations:
+{{step_3}}
+
+You have also identified the assumptions made to simplify your model:
+
+Assumptions:
+{{step_4}}
+
+Discuss the validity of your model by comparing it to empirical data or logical reasoning: {{model_validity}}. This gives Math Club members the chance to understand the strengths and weaknesses of your model.
+
+->>>>
+
+You've defined the variables, developed the equations, and made assumptions in your Mathematical Model:
+
+Assumptions:
+{{step_4}}
+
+Equations:
+{{step_3}}
+
+Now, you have discussed the validity of your model:
+
+Validity:
+{{step_5}}
+
+Use your mathematical model to answer the initial problem or question, making sure to highlight the logical thought process: {{model_conclusion}}. This ties in the relevance of your model to Math Club members and invokes discussion.
+
+->>>>
+
+After discussing the validity of your Mathematical Model:
+
+Validity:
+{{step_5}}
+
+You have used the model to answer the initial problem, explaining the logical thought process:
+
+Answer:
+{{step_6}}
+
+Finally, summarize the model with a conclusion, restating the initial problem, the key equations formed, assumptions made, its validity, and the answer derived: {{model_conclusion}}. This should help to solidify the understanding and purpose of your model.
+

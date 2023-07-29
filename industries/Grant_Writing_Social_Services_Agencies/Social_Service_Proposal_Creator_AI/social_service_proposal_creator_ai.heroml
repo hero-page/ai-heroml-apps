@@ -1,0 +1,82 @@
+Your task is to write a "Social Service Program Proposal" in the "Grant Writing - Social Services Agencies" industry for a "Grant Writer". Begin the process with a compelling executive summary.
+
+Here's some more context about the Social Service Program Proposal:
+Program Overview: {{program_overview}}
+Social Issues: {{social_issues}}
+Problem Evidence: {{problem_evidence}}
+Program Description: {{program_description}}
+Program Impact: {{program_impact}}
+Budget Details: {{budget_details}}
+
+->>>>
+
+Our draft proposal starts with an Executive Summary:
+
+Executive Summary:
+{{step_1}}
+
+Now, let's provide an introduction that sets the context, including the social issues this program aims to address.
+
+->>>>
+
+Our draft proposal now includes a detailed introduction:
+
+Introduction:
+{{step_2}}
+
+Next, we need to present a needs assessment section. This should offer evidence that supports the identified social issue, including key facts and data.
+
+->>>>
+
+Our proposal now includes a Needs Assessment section:
+
+Needs Assessment:
+{{step_3}}
+
+It’s time to describe the proposed social service program in detail including its objectives, activities, and methodologies.
+
+->>>>
+
+Our proposal now describes the proposed Social Service Program:
+
+Program Description:
+{{step_4}}
+
+Let's discuss the implementation plan, including how the program will be executed, the timeline, personnel involved, and required resources.
+
+->>>>
+
+Our proposal now has a detailed Implementation Plan:
+
+Implementation Plan:
+{{step_5}}
+
+Let's next highlight the program's potential impact, including both immediate and long-term benefits for the target group and broader community.
+
+->>>>
+
+Our proposal now emphasizes the Potential Impact of the program:
+
+Potential Impact:
+{{step_6}}
+
+Now, proceed to the evaluation plan which outlines how the program's effectiveness will be measured - key performance indicators, data collection methodologies, analysis approaches, and how feedback will be used.
+
+->>>>
+
+Our proposal now incorporates an Evaluation Plan:
+
+Evaluation Plan:
+{{step_7}}
+
+Next, let's summarize the proposal, emphasizing the significance of the problem that the program plans to tackle and reiterating the unique benefits of our proposal.
+
+->>>>
+
+Our proposal includes a comprehensive Summary:
+
+Summary:
+{{step_8}}
+
+Lastly, provide a detailed budget breakdown that covers projected costs, including salaries, administrative and operational costs, and any other necessary expenses. Explain why each cost is necessary for the program's success.
+

@@ -1,0 +1,131 @@
+Begin by crafting an introduction for the "Environmental Impact Statement". This should provide a clear and concise overview of the {{project}} and the purpose of the project.
+
+Here's some more context about the Environmental Impact Statement:
+Project: {{project}}
+
+->>>>
+
+Now we have an introduction for the "Environmental Impact Statement":
+
+Introduction:
+{{step_1}}
+
+Next, detail the purpose and needs of the {{project}}. We need to clearly identify the specific environmental issue or concern the {{project}} is addressing, and describe why the {{project}} is needed in relation to this concern.
+
+->>>>
+
+We have an introduction and the purpose and needs for the {{project}}:
+
+Introduction:
+{{step_1}}
+
+Purpose and Needs:
+{{step_2}}
+
+Moving on, discuss alternatives to the proposed {{project}}. We should describe what other potential ways are there to address the environmental issue and analyze the environmental impact these alternatives might have.
+
+->>>>
+
+For the {{project}}, we have an introduction, purpose, needs, and alternatives:
+
+Introduction:
+{{step_1}}
+
+Purpose and Needs:
+{{step_2}}
+
+Alternatives:
+{{step_3}}
+
+Let's provide a detailed description of the {{project}}. We need to describe the techniques and methods that will be used in the {{project}} and discuss any potential environmental concerns associated with these techniques.
+
+->>>>
+
+For the {{project}}, we have covered the Introduction, Purpose and Needs, Alternatives, and a Description of the project:
+
+Introduction:
+{{step_1}}
+
+Purpose and Needs:
+{{step_2}}
+
+Alternatives:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+Next, discuss the anticipated environmental impact of the {{project}}. Analyze both the positive and negative environmental effects the {{project}} will have in both the short term and long term.
+
+->>>>
+
+For the {{project}}, we have the Introduction, Purpose and Needs, Alternatives, Project Description, and its Anticipated Environmental Impact:
+
+Introduction:
+{{step_1}}
+
+Purpose and Needs:
+{{step_2}}
+
+Alternatives:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+Anticipated Environmental Impact:
+{{step_5}}
+
+Proceed by outlining the proposed strategies to mitigate any negative environmental impacts of the {{project}}. Discuss how these strategies will be implemented and maintained.
+
+->>>>
+
+We now have the Mitigation Strategies, along with the Introduction, Purpose and Needs, Alternatives, Project Description, and Anticipated Environmental Impact for the {{project}}:
+
+Introduction:
+{{step_1}}
+
+Purpose and Needs:
+{{step_2}}
+
+Alternatives:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+Anticipated Environmental Impact:
+{{step_5}}
+
+Mitigation Strategies:
+{{step_6}}
+
+Write a conclusion that briefly summarizes the key points from the previous sections. All key points such as the purpose and needs of the {{project}}, the anticipated environmental impacts, and proposed mitigation strategies should be revisited.
+
+->>>>
+
+We already have the Introduction, Purpose and Needs, Alternatives, Project Description, Anticipated Environmental Impact, Mitigation Strategies, and we have added the Conclusion for the {{project}}:
+
+Introduction:
+{{step_1}}
+
+Purpose and Needs:
+{{step_2}}
+
+Alternatives:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+Anticipated Environmental Impact:
+{{step_5}}
+
+Mitigation Strategies:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Lastly, provide a list of references and appendices that offer further supporting information about the {{project}} and its environmental impacts.
+

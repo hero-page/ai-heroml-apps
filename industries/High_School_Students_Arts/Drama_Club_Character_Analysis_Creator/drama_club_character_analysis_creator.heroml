@@ -1,0 +1,82 @@
+Your task is to write a "Character Analysis" for the "High School Students - Arts" industry, specifically for a "Drama Club Member". 
+
+Start by providing an introduction with the character's basic information: {{character_name}}, their role in the story (protagonist, antagonist etc), and a brief about the play: {{play_name}}. This section should pique the audience's interest in the character.
+
+Here's some more context about the Character Analysis:
+Character Name: {{character_name}}
+Play Name: {{play_name}}
+Character Traits: {{character_traits}}
+Character Background: {{character_background}}
+Character Role: {{character_role}}
+Character Development: {{character_development}}
+Character Presentation: {{character_presentation}}
+Character Significance: {{character_significance}}
+
+->>>>
+
+We have an interesting introduction for our character:
+
+Introduction:
+{{step_1}}
+
+Next, let's delve into the character description, discussing their physical appearance, behavioral traits, and notable attributes: {{character_traits}}.
+
+->>>>
+
+With our introduction in place:
+
+Introduction:
+{{step_1}}
+
+We have created a detailed description of the character:
+
+Character Description:
+{{step_2}}
+
+Following this, let's write a section on the character's background including their family, history, and any key events that have shaped their personality: {{character_background}}. This section should provide insights into why the character behaves the way they do.
+
+->>>>
+
+In our character analysis for a drama club member, we have created a description:
+
+Character Description:
+{{step_2}}
+
+We have also detailed the character's background:
+
+Character Background:
+{{step_3}}
+
+Now, let's elaborate on the character's role in the story: {{character_role}}. Consider how the character interacts with other actors, their motivations, and their conflicts.
+
+->>>>
+
+Our character analysis includes a description and background:
+
+Character Description:
+{{step_2}}
+
+Character Background:
+{{step_3}}
+
+We have also detailed the character's role in the story:
+
+Character Role:
+{{step_4}}
+
+Next, we need to explore the character's development throughout the story: {{character_development}}. Consider whether the character changes or evolves, the reasons for these changes, and how these developments impact the story.
+
+->>>>
+
+With our character's role established:
+
+Character Role:
+{{step_4}}
+
+We have an analysis of the character's development throughout the story:
+
+Character Development:
+{{step_5}}
+
+To ensure that the analysis is relevant to the drama club, let's focus on how the character is presented on stage: {{character_presentation}}. Talk about their dialogue delivery, facial expressions, body language, and overall performance.
+

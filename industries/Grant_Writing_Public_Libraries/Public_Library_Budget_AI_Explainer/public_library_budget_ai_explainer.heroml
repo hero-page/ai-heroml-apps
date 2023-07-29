@@ -1,0 +1,94 @@
+Let's write a "Budget Explanation" for the "Grant Writing - Public Libraries" industry for a "Grant Writer". 
+Start by crafting an overview that explains the purpose of the budget and how it aligns with the library's mission: {{library_mission}}.
+
+Here's some more context about the Budget Explanation:
+Library Mission: {{library_mission}}
+Main Budget Categories: {{main_budget_categories}}
+Budget Category Details: {{budget_category_details}}
+Budget Category Significance: {{budget_category_significance}}
+Budget Changes Explanation: {{budget_changes_explanation}}
+Industry Specific Elements: {{industry_specific_elements}}
+Community Impact: {{community_impact}}
+Library Mission Conclusion: {{library_mission_conclusion}}
+
+->>>>
+
+We begin with an overview for the budget explanation:
+
+Overview:
+{{step_1}}
+
+Now, present the total budget number and break it down into the main categories as per their demands: {{main_budget_categories}}.
+
+->>>>
+
+Following the overview, we now have the total budget amount and the main categories:
+
+Overview:
+{{step_1}}
+
+Total Budget and Main Categories:
+{{step_2}}
+
+Next, unfold each budget category, listing how much money is assigned, why it is necessary, and how it will be used to meet the library's needs: {{budget_category_details}}.
+
+->>>>
+
+We now know about each budget category:
+
+Total Budget and Main Categories:
+{{step_2}}
+
+Budget Category Details:
+{{step_3}}
+
+Next, delve into the significance of each allocation, furnishing an explanation of why these numbers are instrumental in achieving the library goals: {{budget_category_significance}}.
+
+->>>>
+
+Now, we have detailed descriptions of each budget category and their significance:
+
+Budget Category Details:
+{{step_3}}
+
+Budget Category Significance:
+{{step_4}}
+
+If there are significant amendments compared to previous budgets, pen down a section dedicated to explaining these changes and the reasons behind them: {{budget_changes_explanation}}.
+
+->>>>
+
+At this point, we have profiles of each budget category, their significance, and any changes from previous budgets:
+
+Budget Category Significance:
+{{step_4}}
+
+Budget Changes Explanation:
+{{step_5}}
+
+If appropriate, incorporate industry-specific elements like the average cost of library materials, librarian salaries, and maintenance costs, to support the presented figures and make the budget explanation more comprehensive and relatable: {{industry_specific_elements}}.
+
+->>>>
+
+Now, we have a comprehensive profile of the budget that includes industry-specific elements:
+
+Budget Changes Explanation:
+{{step_5}}
+
+Industry-Specific Elements:
+{{step_6}}
+
+Include a section detailing how the budget props up the growth and sustainability of the libraries and the communities they serve. Explain how effective fund allocation enables undisturbed library services: {{community_impact}}.
+
+->>>>
+
+Following the industry-specific elements, we're now also equipped with how the budget supports the libraries and their communities:
+
+Industry-Specific Elements:
+{{step_6}}
+
+Community Impact:
+{{step_7}}
+
+Conclude the piece at this step by summarizing, underscoring how the proposed budget aligns with the library’s mission and empowers the library to fulfill its goals and serve the community: {{library_mission_conclusion}}.
+  

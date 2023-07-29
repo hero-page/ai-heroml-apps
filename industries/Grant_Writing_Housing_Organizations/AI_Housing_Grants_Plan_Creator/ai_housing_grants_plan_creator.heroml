@@ -1,0 +1,86 @@
+Your task is to write an "Ongoing Funding Plan" for the "Grant Writing - Housing Organizations" industry, specifically for a "Housing Director". Start off by creating an executive summary encapsulating your organization's mission, vision, and the funding objectives: {{mission_and_funding_objectives}}.
+
+Here's some more context about the Ongoing Funding Plan:
+Mission And Funding Objectives: {{mission_and_funding_objectives}}
+Organizational Overview: {{organizational_overview}}
+Housing Context And Needs: {{housing_context_and_needs}}
+Funding Strategy And Objectives: {{funding_strategy_and_objectives}}
+Grant Sources: {{grant_sources}}
+Execution Plan: {{execution_plan}}
+Evaluative Component: {{evaluative_component}}
+
+->>>>
+
+For the "Ongoing Funding Plan", we now have an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Continuing with the plan, let's provide the historical overview of the organization, introducing key people such as the 'Housing Director', and highlighting past accomplishments. We should also detail past funding and how it has benefited the organization's work: {{organizational_overview}}.
+
+->>>>
+
+So far in our "Ongoing Funding Plan", we have:
+
+Executive Summary:
+{{step_1}}
+
+Organizational Overview:
+{{step_2}}
+
+Next, we need to sketch the context and necessities of our organization and the housing issues we're concentrating on, the specific populations we're serving, and the wider community impact: {{housing_context_and_needs}}.
+
+->>>>
+
+This "Ongoing Funding Plan" has:
+
+Executive Summary:
+{{step_1}}
+
+Organizational Overview:
+{{step_2}}
+
+Housing Context and Needs:
+{{step_3}}
+
+Moving on, let's articulate the funding strategy and objectives in detail. This includes the amount of funding needed, the planned usage of it, and the expected results. Make certain to outline how this funding will support ongoing projects, spur new ones, or broaden operations: {{funding_strategy_and_objectives}}.
+
+->>>>
+
+So far in the "Ongoing Funding Plan", we've elaborated on:
+
+Executive Summary:
+{{step_1}}
+
+Housing Context and Needs:
+{{step_3}}
+
+Funding Strategy and Objectives:
+{{step_4}}
+
+Next, describe the grant resources you're considering tapping for funding. Consider every prospective source such as government grants, corporate sponsorship, individual donors, or foundations. Include strategies for maintaining existing donors and recruiting new ones: {{grant_sources}}.
+
+->>>>
+
+In our "Ongoing Funding Plan" till now, we've discussed:
+
+Funding Strategy and Objectives:
+{{step_4}}
+
+Potential Grant Sources:
+{{step_5}}
+
+Up next, formulate an execution plan detailing how you're planning to identify and apply to grant opportunities, manage grants, and measure your funding strategy's success. Additionally, etch out timelines for crucial milestones and fallbacks for potential obstacles: {{execution_plan}}.
+
+->>>>
+
+We've included the following in the "Ongoing Funding Plan":
+
+Potential Grant Sources:
+{{step_5}}
+
+Execution Plan:
+{{step_6}}
+
+Now, present a robust evaluative component of your plan by clarifying the performance metrics you'll be using to assess the success of your funding approach. Also, delineate your method for tracking and reporting these metrics back to donors: {{evaluative_component}}.
+

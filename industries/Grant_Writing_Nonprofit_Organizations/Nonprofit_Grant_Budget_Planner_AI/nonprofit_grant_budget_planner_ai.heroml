@@ -1,0 +1,79 @@
+Your task is to write a "Budget Proposal" for the "Grant Writing - Nonprofit Organizations" industry, specifically for a "Grant Writer". 
+Firstly, start by writing an executive summary that provides an overview of the budget proposal: {{budget_overview}}.
+
+Here's some more context about the Budget Proposal:
+Budget Overview: {{budget_overview}}
+Organization Mission: {{organization_mission}}
+Program Details: {{program_details}}
+Requested Funds Distribution: {{requested_funds_distribution}}
+Program Value: {{program_value}}
+
+->>>>
+
+For the "Budget Proposal", we now have an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that articulates the mission of the nonprofit organization: {{organization_mission}} and why the grant is necessary for its objectives.
+
+->>>>
+
+In the "Budget Proposal", we have the following segments:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, detail the project or program for which the grant is requested. Define its goals, objectives, and significance: {{program_details}}.
+
+->>>>
+
+In the "Budget Proposal", we have described the following areas:
+
+Introduction:
+{{step_2}}
+
+Project Details:
+{{step_3}}
+
+Let's move to the budget section. Detail how the requested grant funds will be distributed: {{requested_funds_distribution}}.
+
+->>>>
+
+In the "Budget Proposal", these are the sections we have prepared:
+
+Project Details:
+{{step_3}}
+
+Budget Distribution:
+{{step_4}}
+
+Next, provide a detailed breakdown of all the costs associated with the project or program, including direct costs (salaries, equipment, supplies) and indirect costs (overhead expenses).
+
+->>>>
+
+So far, in the "Budget Proposal", we have prepared the following sections:
+
+Budget Distribution:
+{{step_4}}
+
+Budget Breakdown:
+{{step_5}}
+
+Moving ahead, list each expense category and provide a justification for each, explaining why the costs listed are necessary for the project or program.
+
+->>>>
+
+In the "Budget Proposal", these are the components we have prepared:
+
+Budget Breakdown:
+{{step_5}}
+
+Expense Justification:
+{{step_6}}
+
+Include a section on project sustainability, detailing how the project or program will continue once the grant ends. This should highlight plans for future funding, revenue generation, partnerships, and other strategies implying the organization's financial sustainability.
+

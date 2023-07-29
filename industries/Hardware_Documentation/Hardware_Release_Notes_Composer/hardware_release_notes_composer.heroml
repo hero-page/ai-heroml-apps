@@ -1,0 +1,81 @@
+Your task is to write a "Release Notes" for the "Hardware Documentation" industry, specifically for a "Product Manager". 
+
+Let's begin by crafting an introduction that provides a brief overview of the current version of the hardware product: {{product_version}}. This introduction should include a high-level summary of the main changes and improvements introduced in this release.
+
+Here's some more context about the Release Notes:
+Product Version: {{product_version}}
+Feature Updates: {{feature_updates}}
+Known Issues: {{known_issues}}
+Compatibility Changes: {{compatibility_changes}}
+Upgrade Instructions: {{upgrade_instructions}}
+Support Reference: {{support_reference}}
+
+->>>>
+
+We now have an introduction for our release notes:
+
+Introduction:
+{{step_1}}
+
+Next, let's create a detailed section that describes the significant changes introduced with this release. This section should cover new features, improvements to existing features, and fixes. Please include a breakdown of these elements based on their significance in the hardware of the product: {{feature_updates}}.
+
+->>>>
+
+Now, here is a detailed description of the significant changes for our hardware product:
+
+Introduction:
+{{step_1}}
+
+Significant Changes:
+{{step_2}}
+
+Following this, identify and describe any known issues and workarounds that exist within the current product release: {{known_issues}}. This step is crucial as it will show transparency and a commitment to continuous improvement.
+
+->>>>
+
+We now have a section detailing known issues for our hardware product:
+
+Significant Changes:
+{{step_2}}
+
+Known Issues:
+{{step_3}}
+
+Continuing to the next section, let's focus on 'Compatibility and Compliance'. Detail any changes to hardware compatibility, standards, or certifications associated with the release: {{compatibility_changes}}. Remember that this is an industry-specific aspect that can significantly impact the application and usage of the hardware.
+
+->>>>
+
+We have the introduction, significant changes, and known issues. Now, we also have a section on compatibility and compliance:
+
+Known Issues:
+{{step_3}}
+
+Compatibility and Compliance:
+{{step_4}}
+
+Let's now conclude with upgrade instructions explaining how to upgrade to the new release version from previous versions: {{upgrade_instructions}}.
+
+->>>>
+
+We are progressing well with our release notes. Now, we have Upgrade Instructions:
+
+Compatibility and Compliance:
+{{step_4}}
+
+Upgrade Instructions:
+{{step_5}}
+
+Now that we have discussed the upgrade instructions, provide a reference to where customers can get further support and provide feedback about the product: {{support_reference}}.
+
+->>>>
+
+Following the upgrade instructions, we also have a reference for customer support:
+
+Upgrade Instructions:
+{{step_5}}
+
+Customer Support Reference:
+{{step_6}}
+
+Finally, we need to add a disclaimer that covers warranties, the end of life of previous product versions, and legal bindings specific to the product.
+

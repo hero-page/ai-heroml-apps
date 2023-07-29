@@ -1,0 +1,86 @@
+Your task is to write a "Medical Report" for the "Healthcare & Medical Services" industry, specifically for a "Healthcare Provider". Begin by creating a detailed patient profile.
+
+Here's some more context about the Medical Report:
+Patient Information: {{patient_information}}
+Medical History: {{medical_history}}
+Clinical Findings: {{clinical_findings}}
+Diagnosis: {{diagnosis}}
+Treatment Plan: {{treatment_plan}}
+Prognosis: {{prognosis}}
+Additional Notes: {{additional_notes}}
+
+->>>>
+
+For our Medical Report, we now have a detailed patient profile:
+
+Patient Profile:
+{{step_1}}
+
+Next, write a Medical History section that includes past diagnoses, surgeries, allergies, and current medications the patient is taking.
+
+->>>>
+
+In our Medical Report, we have a detailed Patient Profile and Medical History:
+
+Patient Profile:
+{{step_1}}
+
+Medical History:
+{{step_2}}
+
+Now, we need a Clinical Findings section that lists the outcomes from physical examinations, laboratory tests, radiological findings, and other diagnostic techniques.
+
+->>>>
+
+In our Medical Report, we have Patient Profile, Medical History and now Clinical Findings:
+
+Patient Profile:
+{{step_1}}
+
+Medical History:
+{{step_2}}
+
+Clinical Findings:
+{{step_3}}
+
+Next, write a Diagnosis section that concludes from the Clinical Findings and takes into account the patient's symptoms and medical history.
+
+->>>>
+
+Our Medical Report now includes Patient Profile, Medical History, Clinical Findings, and a Diagnosis:
+
+Patient Profile:
+{{step_1}}
+
+Medical History:
+{{step_2}}
+
+Clinical Findings:
+{{step_3}}
+
+Diagnosis:
+{{step_4}}
+
+Moving on, form a Treatment Plan section that details the recommended course of therapy, medication, or surgery for the patient, including dosage, duration, and frequency.
+
+->>>>
+
+Our Medical Report now includes a Patient Profile, Medical History, Clinical Findings, Diagnosis, and Treatment Plan:
+
+Patient Profile:
+{{step_1}}
+
+Medical History:
+{{step_2}}
+
+Clinical Findings:
+{{step_3}}
+
+Diagnosis:
+{{step_4}}
+
+Treatment Plan:
+{{step_5}}
+
+Next, write a Prognosis section that predicts the anticipated outcome of the patient’s disease and prospect for recovery based on the current conditions and the proposed treatment.
+

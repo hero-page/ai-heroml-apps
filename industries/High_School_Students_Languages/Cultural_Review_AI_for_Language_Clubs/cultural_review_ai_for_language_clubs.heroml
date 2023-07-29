@@ -1,0 +1,92 @@
+Your task is to write a "Cultural Review" for the "High School Students - Languages" industry, specifically for a "Language Club Member". 
+
+Let's start by writing an engaging introduction that sets the context for the "Cultural Review". 
+Give a brief overview on the specific culture you are going to discuss, which is in relation to the studied language: {{studied_language_culture}}.
+
+Here's some more context about the Cultural Review:
+Studied Language Culture: {{studied_language_culture}}
+
+->>>>
+
+With an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Now, discuss the cultural background of the {{studied_language_culture}} in a historical context. Remember to provide key dates, events, and people that have shaped the culture.
+
+->>>>
+
+We have an introduction and a section discussing the cultural background:
+
+Introduction:
+{{step_1}}
+
+Historical Overview:
+{{step_2}}
+
+Now, delve into the unique language features of the {{studied_language_culture}}. 
+Discuss aspects such as syntax, phonetics, common phrases, and colloquialisms that characterise the language.
+
+->>>>
+
+We have a historical overview and a section discussing the unique language features:
+
+Historical Overview:
+{{step_2}}
+
+Language Features:
+{{step_3}}
+
+Now, analyze how the {{studied_language_culture}}'s traditions, cultural customs, and belief systems tie into the language. 
+Shed light on how these aspects influence verbal and non-verbal communication within the culture.
+
+->>>>
+
+Our review so far includes the unique language features and a section discussing traditions, cultural customs, and belief systems:
+
+Language Features:
+{{step_3}}
+
+Cultural Customs, Traditions, and Beliefs:
+{{step_4}}
+
+Next, focus on the literature and arts related to the {{studied_language_culture}}. 
+Highlight well-known works, authors, or artists contributing to the culture and how these works provide insights into the cultural norms and values.
+
+->>>>
+
+We have a section discussing the customs, traditions, and beliefs of the studied culture as well as insights into its literature and arts:
+
+Customs, Traditions, and Beliefs:
+{{step_4}}
+
+Literature and Arts:
+{{step_5}}
+
+Now, take time to detail societal norms, etiquette, communication styles and unique behavioral traits of the {{studied_language_culture}} as it will help language club members better connect to the language.
+
+->>>>
+
+The review includes a section on the studied culture's literature and arts, as well as a section on societal norms and etiquette:
+
+Literature and Arts:
+{{step_5}}
+
+Societal Norms and Etiquette:
+{{step_6}}
+
+Now, summarize all the previous sections by reiterating key points discussed. Additionally, connect the {{studied_language_culture}} to the students' own cultural contexts to foster understanding and relatability.
+
+->>>>
+
+For the "Cultural Review", we have a section on societal norms and a summary connecting all the points discussed:
+
+Societal Norms and Etiquette:
+{{step_6}}
+
+Summary and Connections:
+{{step_7}}
+
+Conclude this review by recommending books, films, music, or events related to the {{studied_language_culture}}. This will deepen the understanding of the culture while keeping the students engaged after the review.
+

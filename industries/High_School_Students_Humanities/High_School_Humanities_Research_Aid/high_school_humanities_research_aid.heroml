@@ -1,0 +1,126 @@
+Your task is to write a "Research Paper" for the "High School Students - Humanities" industry, specifically for a "Student". 
+Start by developing an introduction that presents the research topic: {{research_topic}}. 
+The introduction should provide a concise explanation of the research question and explain its significance.
+
+Here's some more context about the Research Paper:
+Research Topic: {{research_topic}}
+Related Topics: {{related_topics}}
+Research Methods: {{research_methods}}
+Research Findings: {{research_findings}}
+Findings Discussion: {{findings_discussion}}
+Research Summary: {{research_summary}}
+Cited Sources: {{cited_sources}}
+
+->>>>
+
+Here is the introduction of our research paper involving the research topic:
+
+Introduction:
+{{step_1}}
+
+Next, formulate a literature review, summarizing previous research on similar or related topics: {{related_topics}}. 
+This will help set the context for your research question and demonstrate how your study will contribute to the existing body of knowledge.
+
+->>>>
+
+For a research paper involving the research topic:
+
+Introduction: 
+{{step_1}}
+
+We have drawn up a comprehensive literature review:
+
+Literature Review:
+{{step_2}}
+
+Now, it's time to write the methodology section that explains how the research: {{research_methods}} was conducted. 
+This will detail your information sources, data collection methods, and analysis process.
+
+->>>>
+
+In our research paper:
+
+Introduction: 
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+We have explained our research methods:
+
+Methodology: 
+{{step_3}}
+
+Next, write a results section that discusses what you've found out from the research: {{research_findings}}. 
+In humanities, these findings might come from primary sources like historical documents or an analysis of literature.
+
+->>>>
+
+For our research paper:
+
+Introduction: 
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Methodology: 
+{{step_3}}
+
+We have dissected our research findings:
+
+Results: 
+{{step_4}}
+
+Now, proceed to the discussion or analysis section. Here, you will interpret the results in relation to the research question and existing literature: {{findings_discussion}}, keeping in mind the broader implications for the chosen field.
+
+->>>>
+
+In our research paper:
+
+Introduction: 
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Methodology: 
+{{step_3}}
+
+Results: 
+{{step_4}}
+
+We have provided a detailed interpretation and analysis of our findings:
+
+Discussion/Analysis: 
+{{step_5}}
+
+Now, construct a conclusion for the paper by summarizing your research, pointing out its limitations, and offering suggestions for future research: {{research_summary}}. 
+The conclusion should reiterate the research's significance and how it contributes to the broader academic discussion.
+
+->>>>
+
+Here is what we have so far in our research paper:
+
+Introduction: 
+{{step_1}}
+
+Literature Review:
+{{step_2}}
+
+Methodology: 
+{{step_3}}
+
+Results: 
+{{step_4}}
+
+Discussion/Analysis: 
+{{step_5}}
+
+We have summarized our research in a comprehensive conclusion:
+
+Conclusion: 
+{{step_6}}
+
+Lastly, add a reference section. This is where you list all the sources you referred to in your paper: {{cited_sources}}.
+

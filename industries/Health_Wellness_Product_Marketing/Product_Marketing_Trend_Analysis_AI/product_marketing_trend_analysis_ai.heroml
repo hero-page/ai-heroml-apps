@@ -1,0 +1,137 @@
+Your task is to write a "Market Trend Analysis" for the "Health & Wellness Product Marketing" industry, specifically for a product marketer.
+
+Let's start with an introduction that briefly describes the current market trends: {{current_trends}} and their significance to the health & wellness product marketing industry.
+
+Here's some more context about the Market Trend Analysis:
+Current Trends: {{current_trends}}
+Key Market Drivers: {{key_market_drivers}}
+Latest Trends: {{latest_trends}}
+Previous Trends: {{previous_trends}}
+Future Trends: {{future_trends}}
+
+->>>>
+
+We have an introductory section giving an overview of the current market trends:
+
+Introduction:
+{{step_1}}
+
+Next, explore the wider context of the market by discussing both global and domestic trends.
+
+->>>>
+
+Now, we have an introduction and a discussion on the wider market context:
+
+Introduction:
+{{step_1}}
+
+Global and Domestic Trends:
+{{step_2}}
+
+Let's move on to identify key market drivers behind the health & wellness product industry which may include customer demand, technological advancements, environmental factors, and more.
+
+->>>>
+
+For our trend analysis, we have an introduction, a discussion on wider market context, and a section on key market drivers:
+
+Introduction:
+{{step_1}}
+
+Global and Domestic Trends:
+{{step_2}}
+
+Key Market Drivers:
+{{step_3}}
+
+Next, detail a comprehensive analysis of the latest trends in health & wellness product marketing. This should also include key findings and insights.
+
+->>>>
+
+Up to now, we have an introduction, a discussion on wider market context, key market drivers, and a comprehensive analysis of the latest trends:
+
+Introduction:
+{{step_1}}
+
+Global and Domestic Trends:
+{{step_2}}
+
+Key Market Drivers:
+{{step_3}}
+
+Latest Trends Analysis:
+{{step_4}}
+
+Now, let's compare and contrast these recent trends with the previous trends. This comparison should highlight progress or changes in the industry.
+
+->>>>
+
+Currently, we have compared and contrasted recent trends with previous ones:
+
+Introduction:
+{{step_1}}
+
+Global and Domestic Trends:
+{{step_2}}
+
+Key Market Drivers:
+{{step_3}}
+
+Latest Trends Analysis:
+{{step_4}}
+
+Comparison of Recent and Previous Trends:
+{{step_5}}
+
+Next, discuss the impact of these trends on product marketers. This might include shifts in product preferences, new marketing platforms, and changes in customer behavior.
+
+->>>>
+
+So far, we have analyzed the impact of these trends on product marketers:
+
+Introduction:
+{{step_1}}
+
+Global and Domestic Trends:
+{{step_2}}
+
+Key Market Drivers:
+{{step_3}}
+
+Latest Trends Analysis:
+{{step_4}}
+
+Comparison of Recent and Previous Trends:
+{{step_5}}
+
+Impact on Product Marketers:
+{{step_6}}
+
+Now, use a combination of industry data, historical trends, and expert predictions to anticipate future market trends.
+
+->>>>
+
+At this point, we have anticipated future market trends:
+
+Introduction:
+{{step_1}}
+
+Global and Domestic Trends:
+{{step_2}}
+
+Key Market Drivers:
+{{step_3}}
+
+Latest Trends Analysis:
+{{step_4}}
+
+Comparison of Recent and Previous Trends:
+{{step_5}}
+
+Impact on Product Marketers:
+{{step_6}}
+
+Anticipated Future Trends:
+{{step_7}}
+
+Lastly, wrap up the analysis with a compelling conclusion that reiterates the significant insights gleaned and reflects upon potential implications and opportunities for a product marketer in the health & wellness product industry.
+

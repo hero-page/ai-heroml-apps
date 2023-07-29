@@ -1,0 +1,110 @@
+Start by writing a brief introduction for the "Health & Wellness Product Marketing" meeting minutes. This should include the date, time, location, present personnel, and purpose of the meeting: {{meeting_details}}.
+
+Here's some more context about the Meeting Minutes:
+Meeting Details: {{meeting_details}}
+Agenda Topics: {{agenda_topics}}
+Discussion Points: {{discussion_points}}
+Actions And Decisions: {{actions_and_decisions}}
+Industry Trends: {{industry_trends}}
+Challenges And Opportunities: {{challenges_and_opportunities}}
+Next Steps: {{next_steps}}
+
+->>>>
+
+Now we have the introduction to our meeting minutes:
+
+Introduction:
+{{step_1}}
+
+Next, develop an agenda review. This should capture each topic that was discussed during the meeting, as well as the person who led the discussion: {{agenda_topics}}.
+
+->>>>
+
+With the meeting's introduction and agenda, we now have:
+
+Introduction:
+{{step_1}}
+
+Agenda review:
+{{step_2}}
+
+Proceed to describe in detail the discussion points for each topic. Focus on their relevance to wellness product marketing and their alignment with the brand management strategy: {{discussion_points}}.
+
+->>>>
+
+Here are the main components of our meeting minutes so far:
+
+Introduction:
+{{step_1}}
+
+Agenda review:
+{{step_2}}
+
+Detailed discussion points:
+{{step_3}}
+
+Include a section for actions and decisions. Highlight what decisions were made during the meeting and who is responsible for follow-up activities. Make sure to connect these to the brand's current wellness product range and future marketing plans: {{actions_and_decisions}}.
+
+->>>>
+
+Our meeting minutes now include introduction, agenda review, detailed discussion points, and actions and decisions:
+
+Introduction:
+{{step_1}}
+
+Agenda review:
+{{step_2}}
+
+Detailed discussion points:
+{{step_3}}
+
+Actions and decisions:
+{{step_4}}
+
+Add a section encompassing industry trends to keep abreast of competitive activity, market dynamics, and consumer preferences within the health and wellness industry: {{industry_trends}}.
+
+->>>>
+
+At this point, our meeting minutes include:
+
+Introduction:
+{{step_1}}
+
+Agenda review:
+{{step_2}}
+
+Detailed discussion points:
+{{step_3}}
+
+Actions and decisions:
+{{step_4}}
+
+Industry trends:
+{{step_5}}
+
+Now, incorporate a section that highlights challenges and opportunities to amplify brand messaging and product visibility: {{challenges_and_opportunities}}.
+
+->>>>
+
+Our meeting minutes now include:
+
+Introduction:
+{{step_1}}
+
+Agenda review:
+{{step_2}}
+
+Detailed discussion points:
+{{step_3}}
+
+Actions and decisions:
+{{step_4}}
+
+Industry trends:
+{{step_5}}
+
+Challenges and opportunities:
+{{step_6}}
+
+Close the "Meeting Minutes" with a summary of next steps, clearly indicating action items, the person responsible, deadlines, and the date and time for the next meeting: {{next_steps}}.
+

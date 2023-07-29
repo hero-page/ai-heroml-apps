@@ -1,0 +1,88 @@
+Your task is to write a "Clinical Trial Report" for the "Healthcare & Medical Services" industry, specifically for a "Medical Researcher". 
+
+Let's start by creating an Executive Summary that provides a comprehensive yet concise overview of the clinical trial {{trial_overview}}, which includes the primary objective, trial design, and major findings.
+
+Here's some more context about the Clinical Trial Report:
+Trial Overview: {{trial_overview}}
+Trial Objectives Hypotheses: {{trial_objectives_hypotheses}}
+Trial Design: {{trial_design}}
+Trial Results: {{trial_results}}
+Trial Interpretation: {{trial_interpretation}}
+Ethics Considerations: {{ethics_considerations}}
+Scientific References: {{scientific_references}}
+
+->>>>
+
+Now, we have a comprehensive overview of clinical trial:
+
+Executive Summary:
+{{step_1}}
+
+Next, create an introduction that details the background and objectives of the trial. This section should review the disease or condition, explain the relevance of the study, and clearly state the trial’s objectives and hypotheses {{trial_objectives_hypotheses}}.
+
+->>>>
+
+We have the Executive Summary and Introduction for the clinical trial report:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Proceed with the creation of the Methods section. This should provide an in-depth description of the trial design {{trial_design}}, including details about the trial population, patient enrollment, criteria for inclusion and exclusion, the intervention used, and study endpoints.
+
+->>>>
+
+Now, we have the Executive Summary, Introduction and Methods sections:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Methods:
+{{step_3}}
+
+The next task will be to write the Results section of the trial. This part should provide comprehensive data about the participants' characteristics and the trial’s outcomes {{trial_results}}.
+
+->>>>
+
+The Executive Summary, Introduction, Methods, and Results sections are ready:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Methods:
+{{step_3}}
+
+Results:
+{{step_4}}
+
+Next, draft the Discussion and Conclusion sections. The discussion should include the interpretation and implications of the trial findings {{trial_interpretation}}, while the conclusion should summarize the primary findings of the trial, discussing their clinical relevance and potential practical applications.
+
+->>>>
+
+The main sections of the Clinical Trial Report are ready, including the Discussion and Conclusion:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Methods:
+{{step_3}}
+
+Results:
+{{step_4}}
+
+Discussion and Conclusion:
+{{step_5}}
+
+Subsequently, incorporate an Ethics section where you detail how ethical considerations and patient safety were taken into account throughout the trial {{ethics_considerations}}.
+

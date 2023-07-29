@@ -1,0 +1,95 @@
+Your task is to write a "Technical Specification" for the "High School Students - Sciences" industry, specifically for a "Robotics Club Member". 
+
+Let's start by crafting an introduction that explains the purpose of the robot, its primary tasks, and its potential applications in the real world.
+
+Here's some more context about the Technical Specification:
+Purpose Of Robot: {{purpose_of_robot}}
+Physical Specs: {{physical_specs}}
+Power Source: {{power_source}}
+Control System: {{control_system}}
+Safety Features: {{safety_features}}
+Maintenance: {{maintenance}}
+Troubleshooting: {{troubleshooting}}
+
+->>>>
+
+For our "Technical Specification" geared towards "High School Students - Sciences", we have the introduction:
+
+Introduction:
+{{step_1}}
+
+Next, provide the general specifications of the robot, such as:
+
+- Mechanical Design (Physical specifications like weight, size, and the material used.)
+- Power Source (Detail the type of power source for your robot.)
+- Control System (Describe the type of control system and interfaces implemented in the robot.)
+
+->>>>
+
+We are writing a "Technical Specification" for high school students, and our general specifications are:
+
+Introduction:
+{{step_1}}
+
+General Specifications:
+{{step_2}}
+
+Moving on, let's focus on the specific features and function of the robot. This is where you should elaborate on how the robot is meant to perform the tasks defined in the introduction.
+
+->>>>
+
+In our "Technical Specification", we have elaborated on the specific features and functionality of the robot:
+
+Introduction:
+{{step_1}}
+
+General Specifications:
+{{step_2}}
+
+Specific Features and Functions:
+{{step_3}}
+
+Next, write about the robot's safety measures - the mechanisms it has in place for error detection, user warnings, and emergency stops.
+
+->>>>
+
+In our specification document for high school students, we have described the safety mechanisms of the robot:
+
+Introduction:
+{{step_1}}
+
+General Specifications:
+{{step_2}}
+
+Specific Features and Functions:
+{{step_3}}
+
+Safety Mechanisms:
+{{step_4}}
+
+Now, let's draft the maintenance and care instructions for the robot. You might include expected maintenance schedules, cleaning procedures, and any specific safeguards that should be taken.
+
+->>>>
+
+For our technical specification document, we now have a section dedicated to robot maintenance and care:
+
+Safety Mechanisms:
+{{step_4}}
+
+Maintenance and Care:
+{{step_5}}
+
+The next section we need to tackle is troubleshooting. Identify possible problems or malfunctions the robot may encounter, and provide potential solutions or steps for resolution.
+
+->>>>
+
+For our "Technical Specification", the troubleshooting guidelines are as follows:
+
+Maintenance and Care:
+{{step_5}}
+
+Troubleshooting:
+{{step_6}}
+
+Finally, conclude the "Technical Specification" document with references to relevant documentation or resources that can aid in a better understanding of the robot, its operation, and its applications.
+

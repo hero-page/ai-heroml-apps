@@ -1,0 +1,111 @@
+Write a detailed "Community Need Statement" for the "Grant Writing - Public Libraries" industry, targeting a "Grant Writer". Let's start by crafting an introduction that provides a concise overview about the community: {{community_overview}}.
+
+Here's some more context about the Community Need Statement:
+Community Overview: {{community_overview}}
+Library Role: {{library_role}}
+Demographic Analysis: {{demographic_analysis}}
+Community Needs: {{community_needs}}
+Library Capacity: {{library_capacity}}
+Consequences And Benefits: {{consequences_and_benefits}}
+Anticipated Outcomes: {{anticipated_outcomes}}
+Summary: {{summary}}
+
+->>>>
+
+This is the introductory section of our "Community Need Statement":
+
+Community Overview:
+{{step_1}}
+
+Next, let's define the public library's role within the community: {{library_role}}, including brief details on existing library services, programs, and resources, and their impact on the community.
+
+->>>>
+
+So far, we have the community overview and the role of the public library defined:
+
+Community Overview:
+{{step_1}}
+
+Public Library's Role:
+{{step_2}}
+
+Now, let's present an analysis of the community's demographics: {{demographic_analysis}}, discussing the population the public library serves - age ranges, income levels, educational background, and other relevant demographic details.
+
+->>>>
+
+Now we have an introduction, role of the public library, and a demographic analysis of the community:
+
+Community Overview:
+{{step_1}}
+
+Public Library's Role:
+{{step_2}}
+
+Demographic Analysis:
+{{step_3}}
+
+Now, let's state the clear evidence-supported needs of the community where the public library could play a significant role: {{community_needs}}. This should discuss how these needs affect community members and why they ought to be resolved.
+
+->>>>
+
+Here's what we've drafted so far - an overview, role of the library, demographics analysis, and community needs:
+
+Community Overview:
+{{step_1}}
+
+Public Library's Role:
+{{step_2}}
+
+Demographic Analysis:
+{{step_3}}
+
+Community Needs:
+{{step_4}}
+
+Next, we must demonstrate the public library's capacity to meet these needs: {{library_capacity}}. Share any existing programs or resources that are aligned with these needs, or potential ones that could be implemented if the grant is obtained.
+
+->>>>
+
+At this point, our "Community Need Statement" provides an overview of the community, the role of the library, a demographics analysis, identified community needs and the library's capacity to address these needs:
+
+Community Overview:
+{{step_1}}
+
+Public Library's Role:
+{{step_2}}
+
+Demographic Analysis:
+{{step_3}}
+
+Community Needs:
+{{step_4}}
+
+Public Library's Capacity:
+{{step_5}}
+
+Let's now explain the consequences of not meeting these needs and the potential benefits that could result from meeting them: {{consequences_and_benefits}}.
+
+->>>>
+
+Our "Community Need Statement" now includes an overview of the community, the role of the library, a demographics analysis, community needs, the library's capacity, and the consequences and benefits of addressing these needs:
+
+Community Overview:
+{{step_1}}
+
+Public Library's Role:
+{{step_2}}
+
+Demographic Analysis:
+{{step_3}}
+
+Community Needs:
+{{step_4}}
+
+Public Library's Capacity:
+{{step_5}}
+
+Consequences and Benefits:
+{{step_6}}
+
+Next, we need to describe the anticipated outcomes of the public library's interventions: {{anticipated_outcomes}}. Share realistic projections of how the public library's actions can better the community welfare, if the stated needs are handled.
+

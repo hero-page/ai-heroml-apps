@@ -1,0 +1,121 @@
+Your task is to write a "Development Project Proposal" for the "Grant Writing - International Development" industry. 
+Let's start by drafting an executive summary that outlines the key areas and objectives of the development project.
+
+Here's some more context about the Development Project Proposal:
+Project Summary: {{project_summary}}
+Project Background: {{project_background}}
+Project Objectives: {{project_objectives}}
+Project Activities: {{project_activities}}
+Beneficiary Analysis: {{beneficiary_analysis}}
+Management Plan: {{management_plan}}
+Project Budget: {{project_budget}}
+Project Impact: {{project_impact}}
+
+->>>>
+
+In our "Development Project Proposal", we begin with:
+
+Executive Summary:
+{{step_1}}
+
+Next, provide a background or context to the development project detailing the pressing issues or problems that the project aims to address within the specific region or community.
+
+->>>>
+
+Our "Development Project Proposal" continues with:
+
+Executive Summary:
+{{step_1}}
+
+Project Background:
+{{step_2}}
+
+The next step is to specify the project's objectives. Detail what you hope to achieve by the end of the project.
+
+->>>>
+
+Our "Development Project Proposal" has an Executive Summary, Project Background, and Objectives:
+
+Executive Summary:
+{{step_1}}
+
+Project Background:
+{{step_2}}
+
+Project Objectives:
+{{step_3}}
+
+Now, elaborate on the proposed strategies or activities for achieving your project objectives. Break down these activities according to their purpose, the target group, and the timeline for completion.
+
+->>>>
+
+Our "Development Project Proposal" is developing:
+
+Project Objectives:
+{{step_3}}
+
+Project Activities:
+{{step_4}}
+
+Let's now provide a detailed analysis of the project beneficiaries. This should include their demographic data, their current state in relation to the problem being addressed, and how the project will benefit them.
+
+->>>>
+
+In our "Development Project Proposal", we have detailed Project Activities and Beneficiary Analysis:
+
+Project Activities:
+{{step_4}}
+
+Beneficiary Analysis:
+{{step_5}}
+
+Next, include a section on project management and oversight. Detail how the project will be monitored, who will handle day-to-day operations, and who will be responsible for strategic decisions and financial management.
+
+->>>>
+
+Our "Development Project Proposal" covers Project Beneficiary Analysis and Management Plan:
+
+Beneficiary Analysis:
+{{step_5}}
+
+Management Plan:
+{{step_6}}
+
+Now, prepare a detailed budget for the project. Include categories such as personnel, equipment, training, and operating costs, breaking it down as much as possible to help the reader understand.
+
+->>>>
+
+In our "Development Project Proposal", we have a Project Management Plan and a Detailed Budget:
+
+Management Plan:
+{{step_6}}
+
+Project Budget:
+{{step_7}}
+
+Next, discuss possible collaboration with local, regional, or international development agencies operating in the same field. This can showcase potential synergies and make your proposal competitive.
+
+->>>>
+
+Our "Development Project Proposal" has a Detailed Budget and a section on Collaborations:
+
+Project Budget:
+{{step_7}}
+
+Collaborations:
+{{step_8}}
+
+Include specific social, economic, environmental, or political indicators that can help quantify the problem your project aims to address which is relevant to international development issues.
+
+->>>>
+
+Our "Development Project Proposal" includes Collaborations and Impact Indicators:
+
+Collaborations:
+{{step_8}}
+
+Impact Indicators:
+{{step_9}}
+
+Refer to relevant international development policies, treaties, or agreements that pertain to your project. This step will demonstrate alignment with broader development frameworks and enhance the relevance of your proposal.
+

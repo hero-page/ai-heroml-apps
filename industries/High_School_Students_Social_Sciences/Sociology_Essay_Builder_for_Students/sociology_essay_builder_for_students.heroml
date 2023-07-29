@@ -1,0 +1,101 @@
+To begin your "Sociology Essay" for the "High School Students - Social Sciences" industry, specifically for a "Student", start with an introduction to your sociology topic: {{sociology_topic}}. This introduction should give a brief overview of the subject and explain its significance.
+
+Here's some more context about the Sociology Essay:
+Sociology Topic: {{sociology_topic}}
+First Point: {{first_point}}
+Second Point: {{second_point}}
+Third Point: {{third_point}}
+
+->>>>
+
+Now we have an introduction for our sociology essay:
+
+Introduction:
+{{step_1}}
+
+The next step is to generate a compelling thesis statement that serves as the central argument of your essay. This thesis statement should be specific to the {{sociology_topic}} we are discussing in the essay.
+
+->>>>
+
+Equipped with an introduction, we now also have a specific thesis statement for our essay:
+
+Introduction:
+{{step_1}}
+
+Thesis Statement:
+{{step_2}}
+
+Moving forward with the body of the essay, provide details of three main points that effectively support the thesis statement. Each of these points should be closely related to the {{sociology_topic}}:
+    - First point: {{first_point}}
+    - Second point: {{second_point}}
+    - Third point: {{third_point}}
+
+->>>>
+
+We now have an introduction, a thesis statement, and three main points that will form the body of our essay:
+
+Introduction:
+{{step_1}}
+
+Thesis Statement:
+{{step_2}}
+
+Main Points:
+{{step_3}}
+
+For each of the main points described above, delve deeper by providing sociological evidence. This can include relevant research findings, sociological theories, or substantiated facts and statistics. It's essential that these evidences are based on sociological analysis, not personal viewpoints.
+
+->>>>
+
+We now have supporting evidence for our main points:
+
+Main Points:
+{{step_3}}
+
+Evidence:
+{{step_4}}
+
+Build on this structure by discussing counter-arguments that might go against your thesis. This should encompass alternate suggestions or arguments that may conflict with your thesis, indicating a well-rounded understanding of the {{sociology_topic}}, even if you do not necessarily agree with these perspectives.
+
+->>>>
+
+Now, we have counter-arguments, complementing our main points and evidence:
+
+Main Points and Evidence:
+{{step_3}}
+{{step_4}}
+
+Counter-arguments:
+{{step_5}}
+
+Let's now review and summarize the key points of your essay, linking them back to the thesis statement. Following that, generate a conclusive statement on the {{sociology_topic}}.
+
+->>>>
+
+With the main body and counter-arguments:
+
+{{step_3}}
+{{step_4}}
+{{step_5}}
+
+We now have a comprehensive essay conclusion:
+
+Conclusion:
+{{step_6}}
+
+The essay should incorporate elements specific to the sociology industry, such as contemporary societal issues, relevant theories, real-life examples or case studies, and empirical research findings applicable to the {{sociology_topic}}.
+
+->>>>
+
+Following the conclusion:
+
+Conclusion:
+{{step_6}}
+
+We have incorporated specific elements related to the sociology industry into the essay:
+
+Industry-specific Elements:
+{{step_7}}
+
+Finally, ensure all your sources are cited in the desired citation style (APA, MLA, Chicago, etc.) to avoid plagiarism and uphold academic integrity. 
+

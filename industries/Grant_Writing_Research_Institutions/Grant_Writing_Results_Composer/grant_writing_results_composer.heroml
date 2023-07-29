@@ -1,0 +1,79 @@
+Your task is to write an "Expected Results" section for the "Grant Writing - Research Institutions" industry, specifically for a "Researcher". 
+
+To kick things off, let's present an overview of the research project that discusses the nature, aims, and scope of the investigation.
+
+Here's some more context about the Expected Results:
+Research Overview: {{research_overview}}
+Hypothesis Or Research Question: {{hypothesis_or_research_question}}
+Measurable Outcomes: {{measurable_outcomes}}
+Impact On Field: {{impact_on_field}}
+Societal Or Industrial Relevance: {{societal_or_industrial_relevance}}
+
+->>>>
+
+Our task begins by generating an overview of the research project:
+
+Research Overview:
+{{step_1}}
+
+Next, it's time to highlight the hypothesis or research question we are investigating. Remember, this would serve as the guiding principle of our expected outcomes.
+
+->>>>
+
+With the overview of our research project:
+
+Research Overview:
+{{step_1}}
+
+We have set the guiding hypothesis or research question for our expected results:
+
+Hypothesis or Research Question:
+{{step_2}}
+
+The next step in outlining the "Expected Results" is to detail the measurable outcomes we expect from the research project. Ensure to align each outcome with the research overview and hypothesis.
+
+->>>>
+
+Our research project with its overview and guiding question:
+
+Research Overview:
+{{step_1}}
+
+Hypothesis or Research Question:
+{{step_2}}
+
+Generates these measurable outcomes:
+
+Measurable Outcomes:
+{{step_3}}
+
+Next, let's discuss the potential impact of these outcomes on the existing body of knowledge in the field. This is about addressing how the research can advance or fill gaps in the current understanding.
+
+->>>>
+
+Based on our measurable outcomes:
+
+Measurable Outcomes:
+{{step_3}}
+
+We anticipate these impacts on the existing body of knowledge in the field:
+
+Impact on Field:
+{{step_4}}
+
+Continuing our narrative, it's time to discuss how the expected results will contribute to the broader society or relevant industries. Consider the policies, practices, or beliefs that the research could influence.
+
+->>>>
+
+Based on our projected impact on the field:
+
+Impact on Field:
+{{step_4}}
+
+We predict these contributions to broader society and relevant industries:
+
+Societal or Industrial Relevance:
+{{step_5}}
+
+To wrap things up, let's conclude by summarizing the projected impact of the research and reiterate the importance of achieving the expected outcomes.
+

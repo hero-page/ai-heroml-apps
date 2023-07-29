@@ -1,0 +1,113 @@
+Your task is to write a "Grant Proposal" for the "Healthcare & Medical Services" industry, specifically for a "Medical Researcher".
+Begin by writing an executive summary for your proposal that concisely encapsulates the problem, intended project, potential impact, and funding request.
+
+Here's some more context about the Grant Proposal:
+Executive Summary: {{executive_summary}}
+Medical Condition: {{medical_condition}}
+Research Outcome: {{research_outcome}}
+
+->>>>
+
+You've completed the executive summary for the grant proposal:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that provides context about the problem or issue you aim to tackle. Use {{medical_condition}} to state the medical condition or public health issue being addressed.
+
+->>>>
+
+You've completed the introduction for your grant proposal:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+In the following section, expand upon the problem discussion by focusing on the significance of your work in context of {{medical_condition}} and the current state of research.
+
+->>>>
+
+With an introduction and problem discussion in place, we have:
+
+Introduction:
+{{step_2}}
+
+Problem Discussion:
+{{step_3}}
+
+Your next step is to present the significance of your research. Focus on the potential impact on the medical field or public health, and emphasize how solving {{medical_condition}} will change patient care, contribute to the knowledge base or inform policy.
+
+->>>>
+
+So far, we have defined the problem and the significance of solving it:
+
+Problem Discussion:
+{{step_3}}
+
+Significance:
+{{step_4}}
+
+Next, define the project objective, which should be a clear, measurable statement of the outcome you intend to achieve with your research: {{research_outcome}}.
+
+->>>>
+
+Now, our grant proposal includes a clear project objective:
+
+Significance:
+{{step_4}}
+
+Project Objective:
+{{step_5}}
+
+Following the objective, detail the specific aims or goals of your research in relation to {{research_outcome}}.
+
+->>>>
+
+The grant proposal now outlines specific aims in the context of the project objective:
+
+Project Objective:
+{{step_5}}
+
+Specific Aims:
+{{step_6}}
+
+Next, provide a complete methodology describing your proposed approach for accomplishing the research goals in light of {{medical_condition}} and {{research_outcome}}.
+
+->>>>
+
+With a methodology in place, here's what we have so far:
+
+Specific Aims:
+{{step_6}}
+
+Methodology:
+{{step_7}}
+
+Continue by designing a detailed work plan and timeline to illustrate how you plan to accomplish your specific aims within the grant funding duration.
+
+->>>>
+
+Now, our grant proposal includes a detailed work plan and timeline:
+
+Methodology:
+{{step_7}}
+
+Work Plan and Timeline:
+{{step_8}}
+
+Your next task is to detail the budget for the project. Explain how the grant funding will be allocated to various components of the research and provide strong justification for each expense.
+
+->>>>
+
+With the addition of a detailed budget, our grant proposal stands as follows:
+
+Work Plan and Timeline:
+{{step_8}}
+
+Budget:
+{{step_9}}
+
+To conclude your proposal, reinforce the potential impact of your work on {{medical_condition}}, the unique merits of your proposal, the capability of your team, and your commitment to achieving {{research_outcome}}.
+

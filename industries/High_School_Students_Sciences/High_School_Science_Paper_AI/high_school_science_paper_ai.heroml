@@ -1,0 +1,165 @@
+Let's start by creating an engaging abstract for the research paper adding a brief overview about the research topic: {{research_topic}}.
+
+Here's some more context about the Research Paper:
+Research Topic: {{research_topic}}
+Scientific Principle: {{scientific_principle}}
+Research Objective: {{research_objective}}
+Study Methodology: {{study_methodology}}
+Research Data: {{research_data}}
+
+->>>>
+
+Now, we have an abstract for our Research Paper:
+
+Abstract:
+{{step_1}}
+
+On the basis of this abstract, let's design an introduction reflecting upon the scientific principle or theory: {{scientific_principle}} related to our research topic.
+
+->>>>
+
+Our Research Paper has an Abstract and an Introduction:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, under the 'Objectives' or 'Hypothesis' section, outline the main aim of our research: {{research_objective}}, and define the assumptions we are planning to test.
+
+->>>>
+
+By now, we have established the Abstract, Introduction and Objectives of our Research Paper:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Next, create a 'Methodology' section detailing the materials and methods: {{study_methodology}} used in our experiment or study.
+
+->>>>
+
+So far we have:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Moving forward to the 'Results' section, present the precise data collected: {{research_data}} in a clear manner, without resorting to graphical representation.
+
+->>>>
+
+The following sections have been developed for our Research Paper:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Let's interpret these results against our research objectives: {{research_objective}} in the following 'Discussion' or 'Analysis' section.
+
+->>>>
+
+Our Research Paper comprises of thus far:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Discussion:
+{{step_6}}
+
+Now, summarise the results and suggest potential improvements for our 'Methodology': {{study_methodology}} in the 'Conclusion' section.
+
+->>>>
+
+We have built upon our Research Paper with:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Discussion:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Now, let's compile a 'References' section maintaining the academic integrity of the paper.
+
+->>>>
+
+Our Research Paper has the following segments in place:
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Methodology:
+{{step_4}}
+
+Results:
+{{step_5}}
+
+Discussion:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+References:
+{{step_8}}
+
+Let's scan through and enrich the entire Research Paper ensuring the usage of accurate and formal scientific terminology, real-world implications, and a clear writing style.
+

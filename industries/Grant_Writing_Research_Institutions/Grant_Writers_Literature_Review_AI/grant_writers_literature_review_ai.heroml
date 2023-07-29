@@ -1,0 +1,78 @@
+Your task is to write a "Scientific Literature Review" for the "Grant Writing - Research Institutions" industry, specifically for a "Grant Writer". 
+Let's begin with an introduction to present a clear definition and significance of the research project: {{research_topic}}.
+
+Here's some more context about the Scientific Literature Review:
+Research Topic: {{research_topic}}
+Review Methodology: {{review_methodology}}
+Funding Justification: {{funding_justification}}
+Industry Elements: {{industry_elements}}
+
+->>>>
+
+For this "Scientific Literature Review", we have established an introduction for the research project:
+
+Introduction:
+{{step_1}}
+
+Now, please detail the methodology for the literature review. Specify which sources are being scrutinized, how these materials were located and selected, and the processes to review and analyze them: {{review_methodology}}.
+
+->>>>
+
+We have defined the research project and the review methodology:
+
+Introduction:
+{{step_1}}
+
+Review Methodology:
+{{step_2}}
+
+Next, present a comprehensive review of the existing scientific literature related to the {{research_topic}}. Summarize each study, its methodology, and results, and discuss its relevance to your project.
+
+->>>>
+
+Now, we have an introduction, review methodology, and a detailed literature review for the research project:
+
+Introduction:
+{{step_1}}
+
+Review Methodology:
+{{step_2}}
+
+Literature Review:
+{{step_3}}
+
+Now, highlight the research gaps that the current project intends to fill. Detail specifically how existing work falls short in investigating the {{research_topic}} and how the proposed project will address these deficiencies.
+
+->>>>
+
+Now, we have a detailed review and the identified research gaps for the project:
+
+Review and Research Gaps:
+{{step_4}}
+
+Next, discuss the potential impacts of your research project considering the literature reviewed. Illustrate how your research project could add to the current state of knowledge and its potential implications for future research.
+
+->>>>
+
+Now, with the research gaps identified, we can assess the potential impact of our research project:
+
+Review and Research Gaps:
+{{step_4}}
+
+Potential Impact of Research:
+{{step_5}}
+
+Next, let's provide an argument to justify the need for grant funding. Link it with the gaps identified in the literature review and the potential impacts of your research project: {{funding_justification}}.
+
+->>>>
+
+Now that we have identified the potential impact and provided an argument for funding, we have:
+
+Potential Impact of Research:
+{{step_5}}
+
+Funding Justification:
+{{step_6}}
+
+For our conclusion, let's reiterate the importance of the project, the gaps it aims to fill, and its potential implications justifying the funding.
+

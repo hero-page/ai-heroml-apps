@@ -1,0 +1,107 @@
+Your task is to write a "Program Proposal" for the "Grant Writing - Education Institutions" industry, specifically for a "School Administrator". Let's begin the Program Proposal with an Executive Summary that succinctly communicates key details such as the program's purpose, target audience, expected benefits, and budget. Also mention the problem or issue a school is facing and how the program will address it: {{school_issue}}.
+
+Here's some more context about the Program Proposal:
+School Issue: {{school_issue}}
+Beneficiaries: {{beneficiaries}}
+Evaluation Metrics: {{evaluation_metrics}}
+Sustainability Plan: {{sustainability_plan}}
+
+->>>>
+
+For our "Program Proposal", we have generated the following Executive Summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's define the Need or Problem Statement. For this, elaborate on the {{school_issue}} highlighted in the executive summary, providing details about the current state of affairs and rationalizing why the problem needs to be addressed.
+
+->>>>
+
+Our Program Proposal currently has an Executive Summary and a defined Need or Problem Statement:
+
+Executive Summary:
+{{step_1}}
+
+Need or Problem Statement:
+{{step_2}}
+
+Continuing, we need to detail the proposed solution to address the {{school_issue}}. This part should describe the program's goals, objectives, required resources, activities, and timeline. It is imperative to explain why this program is the best course of action in dealing with the issue at hand.
+
+->>>>
+
+We have the key components for our Program Proposal so far - the executive summary, the need or problem statement, and the proposed solution:
+
+Executive Summary:
+{{step_1}}
+
+Need or Problem Statement:
+{{step_2}}
+
+Proposed Solution:
+{{step_3}}
+
+Now, let's identify the key beneficiaries of the proposed program: {{beneficiaries}}. Draft a section that outlines the demographic information, the needs of this audience, and their connection to the school issue named in {{school_issue}}.
+
+->>>>
+
+The Program Proposal so far encompasses an Executive Summary, a Need or Problem Statement, a detailed Proposed Solution, and an Audience Identification section:
+
+Executive Summary:
+{{step_1}}
+
+Need or Problem Statement:
+{{step_2}}
+
+Proposed Solution:
+{{step_3}}
+
+Audience Identification:
+{{step_4}}
+
+Moving on, the Management and Organizational Structure of the program needs to be detailed. Discuss who will be responsible for executing and managing the program, and mention their qualifications and experience relevant to the project.
+
+->>>>
+
+The parts of our Program Proposal so far are the Executive Summary, Need or Problem Statement, Proposed Solution, Audience Identification, and the Management and Organizational Structure:
+
+Executive Summary:
+{{step_1}}
+
+Need or Problem Statement:
+{{step_2}}
+
+Proposed Solution:
+{{step_3}}
+
+Audience Identification:
+{{step_4}}
+
+Management and Organizational Structure:
+{{step_5}}
+
+Now, let's delve into the Evaluation Methods. Write about the metrics you will use to determine the effectiveness of the program: {{evaluation_metrics}}. Be sure to state how and when these measurements will be executed.
+
+->>>>
+
+Our Program Proposal now includes the Executive Summary, Need or Problem Statement, Proposed Solution, Audience Identification, Management and Organizational Structure, and Evaluation Methods:
+
+Executive Summary:
+{{step_1}}
+
+Need or Problem Statement:
+{{step_2}}
+
+Proposed Solution:
+{{step_3}}
+
+Audience Identification:
+{{step_4}}
+
+Management and Organizational Structure:
+{{step_5}}
+
+Evaluation Methods:
+{{step_6}}
+
+Next up, provide a comprehensive budget detailing the funds required for the program. Additionally, provide an explanation for the use of these funds. Also, cover the sustainability of the program beyond the grant period, including your plans for future funding and resources: {{sustainability_plan}}.
+

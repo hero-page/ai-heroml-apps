@@ -1,0 +1,79 @@
+Your task is to write a "Sustainability Statement" for the "Grant Writing - Public Broadcasting" industry, specifically for a "Broadcast Manager". 
+
+Let's start with an introduction that describes the purpose of the "Sustainability Statement". 
+
+The introduction should include your station's commitment to sustainable practices in a broad context. Remember to use the dynamic variable {{station_sustainability_commitment}} to specify your approach towards sustainability and why it's vital for your specific station.
+
+Here's some more context about the Sustainability Statement:
+Station Sustainability Commitment: {{station_sustainability_commitment}}
+Station Sustainability Goals: {{station_sustainability_goals}}
+Station Sustainability Practices: {{station_sustainability_practices}}
+Sustainability Impact Assessment: {{sustainability_impact_assessment}}
+Future Sustainability Plans: {{future_sustainability_plans}}
+
+->>>>
+
+Now, we have an introduction for our "Sustainability Statement":
+
+Introduction:
+{{step_1}}
+
+Next, let's state the station's general sustainability goals. 
+
+These goals should clearly outline the environmental, social, or economic sustainability goals the station aims to achieve. Consider including an assertion of the commitment to reduce environmental footprint, promote diversity and inclusivity, or enhance economic viability. 
+
+Ensure you incorporate the dynamic variable {{station_sustainability_goals}} to specify these exact goals.
+
+->>>>
+
+With the introduction created, followed by the statement of general sustainability goals:
+
+Introduction:
+{{step_1}}
+
+Sustainability Goals:
+{{step_2}}
+
+We should now delve into the specific sustainability practices. 
+
+Here, talk about what practical steps your station is currently undertaking to achieve these goals. Use the dynamic variable {{station_sustainability_practices}} to address practices like reducing waste, investing in energy-efficient equipment, or engaging in community outreach programs.
+
+->>>>
+
+With an introduction, statement of sustainability goals, and specific practices detailed, the "Sustainability Statement" reads as follows:
+
+Introduction:
+{{step_1}}
+
+Sustainability Goals:
+{{step_2}}
+
+Sustainability Practices:
+{{step_3}}
+
+We should now discuss the measurement and impact of these sustainability practices. 
+
+Explain how the station measures the impact of practices and the results seen so far. Remember to use the dynamic variable {{sustainability_impact_assessment}} to talk about any key metrics, significant improvements, or positive outcomes that have occurred as a result of these sustainability practices.
+
+->>>>
+
+Now, the "Sustainability Statement" includes an introduction, sustainability goals, practice methods, and impact assessment as follows:
+
+Introduction:
+{{step_1}}
+
+Sustainability Goals:
+{{step_2}}
+
+Sustainability Practices:
+{{step_3}}
+
+Impact Assessment:
+{{step_4}}
+
+Next, outline the station's future plans for sustainability. 
+
+This should explain further steps the station plans to take in the interest of sustainability. Mention any new strategies, partnerships, or projects that you anticipate will enhance your commitment to sustainability. 
+
+Use the dynamic variable {{future_sustainability_plans}} to describe such future plans.
+

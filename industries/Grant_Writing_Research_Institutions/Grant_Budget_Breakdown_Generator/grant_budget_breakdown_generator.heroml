@@ -1,0 +1,110 @@
+Your task is to write a "Budget Breakdown" for the "Grant Writing - Research Institutions" industry, specifically for a "Grant Writer". 
+
+To start, let's craft an introduction that states the project for which the grant money will be used: {{project}}. Here, provide a brief description of the project, its purpose, and the total cost.
+
+Here's some more context about the Budget Breakdown:
+Project: {{project}}
+Cost Categories: {{cost_categories}}
+
+->>>>
+
+With an introduction, we've given a concise overview of our {{project}}:
+
+Introduction:
+{{step_1}}
+
+Now, breakdown the total cost of the project into relevant cost categories. This might consist of personnel (salaries, benefits), materials and supplies, equipment, travel, and other expenses related to the proposed research.
+
+->>>>
+
+For our {{project}}, we have broken down the total cost into various categories:
+
+Introduction:
+{{step_1}}
+
+Cost Categories:
+{{step_2}}
+
+Proceed by giving specific line items under each cost category, detailing what exactly is to be covered. For instance, under 'Personnel', list every person involved, their role, and their salary.
+
+->>>>
+
+Our project, {{project}}, now has these components:
+
+Introduction:
+{{step_1}}
+
+Cost Categories:
+{{step_2}}
+
+Cost Line Items:
+{{step_3}}
+
+Next, let's dedicate a section to "Direct costs", discussing elements like salaries and wages, equipment, supplies, travel expenses, publication costs, and subcontract costs which directly tie to the project.
+
+->>>>
+
+For our {{project}}, these are the Direct Costs:
+
+Introduction:
+{{step_1}}
+
+Direct Costs:
+{{step_4}}
+
+Moving on, discuss "Indirect Costs" or Facilities and Administrative (F&A) costs. These costs are not directly attributable to the project, but are necessary for its execution.
+
+->>>>
+
+For the proposed project, we've broken down the Direct Costs, and now have the Indirect Costs:
+
+Direct Costs:
+{{step_4}}
+
+Indirect Costs:
+{{step_5}}
+
+Following this, include a Justification section explaining the necessity and reasonability of each cost. It should tie the items in the cost categories to the project goals and objectives, showcasing how they contribute to project success.
+
+->>>>
+
+So far, we've broken down the Direct and Indirect Costs. Now, we're providing a Justification for these costs:
+
+Direct Costs:
+{{step_4}}
+
+Indirect Costs:
+{{step_5}}
+
+Justification:
+{{step_6}}
+
+Now, incorporate any unique budget constraints or requirements specific to the "Grant Writing - Research Institutions" industry.
+
+->>>>
+
+Catering to the specific budgetary requirements of our industry, we have:
+
+Industry-Specific Budget Requirements:
+{{step_7}}
+
+Direct Costs:
+{{step_4}}
+
+Indirect Costs:
+{{step_5}}
+
+At this point, compile a summary table offering an overview of the budget, with every item from the cost categories, their individual costs and the total cost of the project.
+
+->>>>
+
+We've addressed industry-specific budget requirements. Now, we've compiled a comprehensive summary table for our budget:
+
+Industry-Specific Budget Requirements:
+{{step_7}}
+
+Budget Summary Table:
+{{step_8}}
+
+Lastly, conclude the "Budget Breakdown", reaffirming that all costs are necessary and reasonable, and provide reassurance on the responsible and capable management of grant funds.
+

@@ -1,0 +1,117 @@
+Your task is to write an "Oral Presentation Script" for the "High School Students - Languages" industry, specifically for a "Student". 
+
+Let's start by creating an introduction that includes a captivating hook to grab the audience's attention along with a clear thesis statement about {{presentation_subject}}.
+
+Here's some more context about the Oral Presentation Script:
+Presentation Subject: {{presentation_subject}}
+Target Language: {{target_language}}
+Discussion Prompt: {{discussion_prompt}}
+
+->>>>
+
+We have our introductory part of the script:
+
+Introduction:
+{{step_1}}
+
+Next, we need to introduce the language we will be focusing on: {{target_language}}. Provide some general details about the language, such as its origin, number of speakers, and regions where it is commonly spoken.
+
+->>>>
+
+For our oral presentation, we now have the introduction and main language section.
+
+Introduction:
+{{step_1}}
+
+Language Introduction:
+{{step_2}}
+
+Now, let's delve into the key elements of the {{target_language}}, such as its grammatical rules, unique aspects, and significant vocabulary. Make sure to present these in a logical order.
+
+->>>>
+
+Our script so far is shaping up well, including the key elements of the {{target_language}}:
+
+Introduction:
+{{step_1}}
+
+Language Introduction:
+{{step_2}}
+
+Key Language Elements:
+{{step_3}}
+
+Next, we need to incorporate examples of actual sentences or phrases that are commonly used in {{target_language}} to make the presentation more engaging and practical.
+
+->>>>
+
+We have covered the basics and even some examples of sentences in the {{target_language}}:
+
+Key Language Elements:
+{{step_3}}
+
+Common Sentence Examples:
+{{step_4}}
+
+Now, let's discuss cultural aspects relevant to the {{target_language}}, such as communication etiquette, expressions, and any cultural taboos.
+
+->>>>
+
+We have introduced the language and its culture:
+
+Common Sentence Examples:
+{{step_4}}
+
+Cultural Discussion:
+{{step_5}}
+
+Next, let's transition into the critical angle of the presentation: the importance and benefits of learning {{target_language}} relevant to high school students.
+
+->>>>
+
+Our presentation script now includes the benefits of learning the {{target_language}}:
+
+Cultural Discussion:
+{{step_5}}
+
+Importance and Benefits:
+{{step_6}}
+
+Now, let's prepare the conclusion where we revisit the thesis statement and briefly summarise the main points discussed, and argue why the audience should start or continue learning {{target_language}}.
+
+->>>>
+
+The presentation now has a good grounding with its summarized conclusion:
+
+Importance and Benefits:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Let's add a personal touch to the script by introducing some personal anecdotes or experiences with {{target_language}}, making it more relatable and engaging.
+
+->>>>
+
+We have added a personal element:
+
+Conclusion:
+{{step_7}}
+
+Personal Anecdotes:
+{{step_8}}
+
+Next, enhance audience engagement by working on a question or discussion prompt: {{discussion_prompt}} to be introduced at the end of the presentation.
+
+->>>>
+
+We now have a discussion prompt to engage the audience:
+
+Personal Anecdotes:
+{{step_8}}
+
+Discussion Prompt:
+{{step_9}}
+
+Lastly, wrap up the oral presentation with a strong call to action, motivating fellow students to explore, learn, or practice {{target_language}}.
+

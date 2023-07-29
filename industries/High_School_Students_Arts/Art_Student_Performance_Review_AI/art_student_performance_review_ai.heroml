@@ -1,0 +1,80 @@
+Your task is to write a "Performance Review" for the "High School Students - Arts" industry, specifically for a "Student". Let's start with an introduction that briefly outlines the purpose of the performance review and provides some context: {{student_name}}, {{class_name}}, {{review_period}}.
+
+Here's some more context about the Performance Review:
+Student Name: {{student_name}}
+Class Name: {{class_name}}
+Review Period: {{review_period}}
+Level Of Participation: {{level_of_participation}}
+Level Of Engagement: {{level_of_engagement}}
+Contributions To Class Discussions: {{contributions_to_class_discussions}}
+Project Quality: {{project_quality}}
+Parts To Improve On: {{parts_to_improve_on}}
+Technical Skills Gained: {{technical_skills_gained}}
+Technical Skills To Improve: {{technical_skills_to_improve}}
+Creativity Level: {{creativity_level}}
+Artwork Examples: {{artwork_examples}}
+Attendance Record: {{attendance_record}}
+Behavior In Class: {{behavior_in_class}}
+Summary Of Review: {{summary_of_review}}
+Goals For Next Review: {{goals_for_next_review}}
+
+->>>>
+
+We are creating a "Performance Review" for {{student_name}} in the {{class_name}} for the period of {{review_period}}. Our introduction for this review is:
+
+Introduction:
+{{step_1}}
+
+Next, proceed to evaluate the student's overall performance by discussing the class-related dynamics: {{level_of_participation}}, {{level_of_engagement}}, {{contributions_to_class_discussions}}.
+
+->>>>
+
+We have an introduction and an evaluation of the student's overall performance in class:
+
+Introduction:
+{{step_1}}
+
+Class Performance Evaluation:
+{{step_2}}
+
+Now, evaluate the quality of the student's classwork and projects, outlining strengths and areas that need improvement: {{project_quality}}, {{parts_to_improve_on}}.
+
+->>>>
+
+Our review includes an introduction, class performance evaluation, and assessment of classwork and projects:
+
+Introduction:
+{{step_1}}
+
+Class Performance Evaluation:
+{{step_2}}
+
+Project Evaluation:
+{{step_3}}
+
+Next, let's discuss the student's advancement in technical skills specific to the art class they are taking: {{technical_skills_gained}}, {{technical_skills_to_improve}}.
+
+->>>>
+
+The review so far includes an assessment of the student's class work, projects, and a discussion of their technical skills:
+
+Project Evaluation:
+{{step_3}}
+
+Technical Skills Evaluation:
+{{step_4}}
+
+Now, focus on a review of the student's creativity and originality in their artworks, giving specific examples of their pieces: {{creativity_level}}, {{artwork_examples}}.
+
+->>>>
+
+So far, we've evaluated the student's technical skills and their creativity in artwork:
+
+Technical Skills Evaluation:
+{{step_4}}
+
+Creativity Evaluation:
+{{step_5}}
+
+Let's then, include a section on the student's attendance, punctuality and general behavior during the class: {{attendance_record}}, {{behavior_in_class}}.
+

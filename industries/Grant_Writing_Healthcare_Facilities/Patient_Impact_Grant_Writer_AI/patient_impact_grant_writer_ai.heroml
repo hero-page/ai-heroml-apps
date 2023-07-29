@@ -1,0 +1,64 @@
+Your task is to write a "Patient Impact Statement" for the "Grant Writing - Healthcare Facilities" industry, specifically for a "Grant Writer". Let's start with an introduction that centers around the theme of the impact statement. This theme might be the overarching patient benefits or key medical issues addressed: {{theme_of_statement}}.
+
+Here's some more context about the Patient Impact Statement:
+Theme Of Statement: {{theme_of_statement}}
+Current Situation: {{current_situation}}
+Patient Impact: {{patient_impact}}
+Steps Taken: {{steps_taken}}
+Grant Outcomes: {{grant_outcomes}}
+Grant Necessity: {{grant_necessity}}
+
+->>>>
+
+Your introductory paragraph for the "Patient Impact Statement" is as follows:
+
+Introduction: 
+{{step_1}}
+
+Now, seguing into the next section, discuss the healthcare facility's current situation. This includes the problems or challenges faced by the patients and the gaps in service delivery: {{current_situation}}.
+
+->>>>
+
+In your "Patient Impact Statement", we have the introduction and a description of the current situation:
+
+Introduction:
+{{step_1}}
+
+Current Situation:
+{{step_2}}
+
+Moving on, illustrate the measurable impacts of the stated challenges on the patients' health, quality of life, or any other specific aspect that is relevant to the grant application: {{patient_impact}}.
+
+->>>>
+
+Your "Patient Impact Statement" now includes the introduction, the current situation, and the impact on patients:
+
+Introduction:
+{{step_1}}
+
+Current Situation:
+{{step_2}}
+
+Patient Impact:
+{{step_3}}
+
+Next, include a section detailing the steps taken so far by the healthcare facility in addressing these challenges. Emphasize both the successes and areas where further help is necessary: {{steps_taken}}.
+
+->>>>
+
+In your "Patient Impact Statement", we have the introduction, the current situation, the impact on patients, and the steps already taken:
+
+Introduction:
+{{step_1}}
+
+Current Situation:
+{{step_2}}
+
+Patient Impact:
+{{step_3}}
+
+Steps Taken:
+{{step_4}}
+
+Now, present a clear statement on what can be achieved for the patients with the grant's support. Provide tangible, realistic patient outcomes, and improvements in service delivery: {{grant_outcomes}}.
+

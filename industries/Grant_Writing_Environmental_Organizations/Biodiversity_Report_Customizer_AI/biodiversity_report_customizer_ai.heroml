@@ -1,0 +1,91 @@
+Start by preparing an executive summary for the "Biodiversity Report", with a focus on "Grant Writing - Environmental Organizations". The summary should be detailing the essential findings and recommendations for a "Project Manager": {{summary_findings}}. It should not only summarize the main findings but also highlight the relevance and actions to be taken by the Project Manager.
+
+Here's some more context about the Biodiversity Report:
+Summary Findings: {{summary_findings}}
+Intro Subject: {{intro_subject}}
+Study Area Description: {{study_area_description}}
+Data Collection: {{data_collection}}
+Species Inventory: {{species_inventory}}
+Recommended Actions: {{recommended_actions}}
+
+->>>>
+
+The executive summary of our "Biodiversity Report" reads as follows:
+
+Executive Summary:
+{{step_1}}
+
+Next, prepare an introduction detailing the purpose of the biodiversity report, in relation to the specific project or area being examined: {{intro_subject}}. Also, make sure to highlight the importance of biodiversity to the environment and to the organization's environmental goals.
+
+->>>>
+
+Now we have an introduction for our "Biodiversity Report":
+
+Introduction:
+{{step_2}}
+
+Following this, describe the specific geographical location or ecosystem being analyzed for the 'Area of Study' section of the report: {{study_area_description}}. Also, articulate the key characteristics that make this area important for the study of biodiversity.
+
+->>>>
+
+For the "Biodiversity Report", our area of study is described as follows:
+
+Area of Study:
+{{step_3}}
+
+Next, in the 'Methodology' section, provide the procedures and techniques used to gather and analyze data on the species in the area of study: {{data_collection}}.
+
+->>>>
+
+In our "Biodiversity Report", the methodology applied is as follows:
+
+Methodology:
+{{step_4}}
+
+Following the methodology, prepare the 'Species Inventory' section. It should provide a comprehensive list and description of all identified species in the area of study: {{species_inventory}}.
+
+->>>>
+
+Now we have a species inventory for our area of study:
+
+Species Inventory:
+{{step_5}}
+
+Now, develop the 'Findings and Analysis' section. Discuss the results of the data collected and analyzed, covering aspects like the diversity of species present, any rare or endangered species, and the health and diversity of their populations.
+
+->>>>
+
+The findings and analysis in our "Biodiversity Report" are summarized as:
+
+Findings and Analysis:
+{{step_6}}
+
+Following the findings, describe any potential threats to the biodiversity in the area of study for the 'Threats and Pressures' section. This could include factors like climate change, pollution, human encroachment, and invasive species.
+
+->>>>
+
+Now we have detailed the threats to biodiversity in our area of study:
+
+Threats and Pressures:
+{{step_7}}
+
+For the 'Recommendations' section of the report, suggest actions that the organization could take to support biodiversity in the area, including any projects or initiatives that could be undertaken: {{recommended_actions}}.
+
+->>>>
+
+For our "Biodiversity Report", the recommendations for supporting biodiversity are as follows:
+
+Recommendations:
+{{step_8}}
+
+Conclude the report by summarising the key findings, emphasizing the importance of the actions recommended, and reiterating how these actions align with the environmental goals of the organization.
+
+->>>>
+
+Our "Biodiversity Report" concludes as follows:
+
+Report Conclusion:
+{{step_9}}
+
+Last but not least, include an 'Addendum' where you can add any additional relevant information, like supporting research, collaboration opportunities, laws or regulations affecting biodiversity in the area of study.
+

@@ -1,0 +1,128 @@
+Your task is to write a "Biography of Historical Figure" for the "High School Students - Social Sciences" industry, specifically for a "History Club Member". 
+
+Let's start by creating an engaging introduction that captures the essence and significance of the historical figure: {{historical_figure}}.
+
+Here's some more context about the Biography of Historical Figure:
+Historical Figure: {{historical_figure}}
+Historical Period: {{historical_period}}
+Early Life: {{early_life}}
+Major Life Events: {{major_life_events}}
+Historic Debates: {{historic_debates}}
+Reading List: {{reading_list}}
+
+->>>>
+
+Now, we have an engaging introduction section for our historical biography:
+
+Introduction:
+{{step_1}}
+
+Next, let's provide an overview of the historical period in which this figure lived and operated, highlighting its relevance to their life and actions: {{historical_period}}.
+
+->>>>
+
+So far, we have an introduction and an overview of the historical period for our biography:
+
+Introduction:
+{{step_1}}
+
+Historical Period Overview:
+{{step_2}}
+
+Now, as part of the early life section, describe the background and upbringing of the historical figure, indicating if and how these aspects influenced their future course: {{early_life}}.
+
+->>>>
+
+In our biography, we now have the historical figure's early life along with the introduction and historical period overview:
+
+Introduction:
+{{step_1}}
+
+Historical Period Overview:
+{{step_2}}
+
+Early Life of Historical Figure:
+{{step_3}}
+
+In the main body of the biography, let's chronologically narrate the significant events and accomplishments in the life of the historical figure, emphasizing their impact on society: {{major_life_events}}.
+
+->>>>
+
+We now have a main body with significant life events for our biography:
+
+Introduction:
+{{step_1}}
+
+Major Life Events:
+{{step_4}}
+
+Next, delve into their character, beliefs, and motivations, using verifiable examples from the {{historical_figure}}'s life to illustrate.
+
+->>>>
+
+Keeping the key events in mind:
+
+Major Life Events:
+{{step_4}}
+
+We have a character study detailing the historical figure's beliefs and motivations:
+
+Character Analysis:
+{{step_5}}
+
+Let's discuss the lasting legacy of {{historical_figure}}, explaining how their actions or ideas continue to hold relevance today.
+
+->>>>
+
+We have completed the character analysis and now have the lasting legacy of the historical figure:
+
+Character Analysis:
+{{step_5}}
+
+Lasting Legacy:
+{{step_6}}
+
+Let's write a summary, briefly revisiting {{historical_figure}}'s significance, achievements, and impact, and wrapping up any loose ends from the main discussion.
+
+->>>>
+
+Based on the legacy:
+
+Lasting Legacy:
+{{step_6}}
+
+We have prepared a summary for our biography, which concludes all main points:
+
+Historical Summary:
+{{step_7}}
+
+Next, for the History Club Member, discuss key debates concerning the historical figure, presenting any conflicting views held by historians: {{historic_debates}}.
+
+->>>>
+
+In accordance with our summary section:
+
+Historical Summary:
+{{step_7}}
+
+We have presented key debates about the historical figure:
+
+Historical Debates:
+{{step_8}}
+
+Let's provide a recommended reading list where members can delve into more comprehensive biographies or works of {{historical_figure}} for independent study: {{reading_list}}.
+
+->>>>
+
+Once the key debates have been presented:
+
+Historical Debates:
+{{step_8}}
+
+We have prepared a reading list for the History Club Member for further study:
+
+Reading List:
+{{step_9}}
+
+Lastly, pose some open-ended questions about the historical figure, their behavior, decisions, and social impacts which would encourage a discussion on the biography.
+

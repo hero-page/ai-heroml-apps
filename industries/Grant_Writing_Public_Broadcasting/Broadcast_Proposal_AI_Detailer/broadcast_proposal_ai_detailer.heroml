@@ -1,0 +1,110 @@
+
+Your task is to write a "Broadcasting Project Proposal" for the "Grant Writing - Public Broadcasting" industry, specifically for a "Grant Writer". 
+
+Start by establishing an executive overview that outlines your project's reasoning, vision, intended impact and the requested grant amount. Include a catchy project name: {{project_name}}.
+
+Here's some more context about the Broadcasting Project Proposal:
+Project Name: {{project_name}}
+Issue To Be Addressed: {{issue_to_be_addressed}}
+Core Theme: {{core_theme}}
+Programming Schedule: {{programming_schedule}}
+Targeted Demographic: {{targeted_demographic}}
+Implementation Steps: {{implementation_steps}}
+Value Proposition: {{value_proposition}}
+
+->>>>
+
+Your broadcasting project proposal has begun, and you have crafted an enticing project name:
+
+Project Name:
+{{step_1}}
+
+Next, prepare a thorough introduction which details the societal or community issue that your project, {{project_name}}, is designed to address: {{issue_to_be_addressed}}. Ensure you connect the issue strongly with the value proposition of public broadcasting.
+
+->>>>
+
+For our project proposal titled {{project_name}}, we have an executive overview and a compelling introduction:
+
+Executive Overview:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Following that, introduce your broadcasting organization. Specify the mission, vision, previous major works, awards and recognitions, and team background to build credibility.
+
+->>>>
+
+We have generated an introduction and organizational background for our project proposal named, {{project_name}}:
+
+Introduction:
+{{step_2}}
+
+Organizational Background:
+{{step_3}}
+
+Next, delve into an in-depth description of the project. It should include:
+    - The core theme of the broadcasting program: {{core_theme}}. 
+    - Detailed programing plan including proposed shows, their frequency, and time slot: {{programming_schedule}}. 
+    - Description of the targeted demographic: {{targeted_demographic}}. Illustrate how your shows align with their preferences and interests.
+
+->>>>
+
+There's detailed project information and description for our proposal titled {{project_name}}:
+
+Organizational Background:
+{{step_3}}
+
+Project Description:
+{{step_4}}
+
+At this point, articulate the specific, measurable, achievable, relevant, and time-bound (SMART) objectives of your project.
+
+->>>>
+
+We've outlined the organizational background and the SMART objectives for our project proposal {{project_name}}:
+
+Organizational Background:
+{{step_3}}
+
+SMART Objectives:
+{{step_5}}
+
+The next step is to discuss your project's implementation plan. Make sure to explain the step-by-step approach from the start to completion, detailing the necessary resources and timeline: {{implementation_steps}}.
+
+->>>>
+
+For our proposal named, {{project_name}}, there are SMART objectives and a detailed plan of implementation as follows:
+
+SMART Objectives:
+{{step_5}}
+
+Implementation Plan:
+{{step_6}}
+
+Moving forward, prepare a detailed budget outlining how the grant money will be used. Cover all the forecasted expenses such as production costs, staffing, marketing, and others.
+
+->>>>
+
+We have an implementation plan and a comprehensive budget for our broadcasting project proposal {{project_name}}:
+
+Implementation Plan:
+{{step_6}}
+
+Budget:
+{{step_7}}
+
+Subsequently, establish a section on key performance indicators (KPIs). Highlight the metrics that will be used to evaluate the project's progress and effectiveness, such as audience reach and listener feedback.
+
+->>>>
+
+For our proposal named, {{project_name}}, we have a budget plan and a section of key performance indicators:
+
+Budget:
+{{step_7}}
+
+Key Performance Indicators:
+{{step_8}}
+
+End with a compelling conclusion reinforcing the project's ability to meet public broadcasting needs, add value, and merit the grant: {{value_proposition}}. Always consider the unique aspects of public broadcasting - such as the focus on public interest, education, and diverse programming.
+

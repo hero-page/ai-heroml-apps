@@ -1,0 +1,99 @@
+Your task is to write a "Budget Allocation" for the "Grant Writing - International Development" industry, specifically for a "Grant Writer". 
+
+Let's begin with a brief executive summary that includes the total amount of funding requested: {{total_funding_requested}}. 
+This section should give a broad overview of how the funds will be divided among different project components.
+
+Here's some more context about the Budget Allocation:
+Total Funding Requested: {{total_funding_requested}}
+Grant Objective: {{grant_objective}}
+Component1 Cost: {{component1_cost}}
+Component2 Cost: {{component2_cost}}
+Risk Description: {{risk_description}}
+
+->>>>
+
+Now, we have an executive summary for our Budget Allocation:
+
+Executive Summary:
+{{step_1}}
+
+Next, provide an introduction detailing the objective of this grant: {{grant_objective}}. This part should clarify why the budget allocation is essential to achieve the stated goals and its relevance to International Development.
+
+->>>>
+
+Based on the executive summary:
+
+Executive Summary:
+{{step_1}}
+
+We created an introduction about the grant's objective:
+
+Introduction:
+{{step_2}}
+
+The next step is to clearly outline various project component costs ({{component1_cost}}, {{component2_cost}}, etc.) indicating the total amount of money dedicated to each part of the project.
+
+->>>>
+
+Considering the executive summary and the introduction:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+We have outlined the costs of different project components:
+
+Project Components Costs:
+{{step_3}}
+
+Following this, provide a detailed breakdown within each component cost, explaining how the funds will be used specifically, for example for staff salaries, equipment, travel, training, and other logistical expenses specific to the work in International Development.
+
+->>>>
+
+Now, we have an estimated budget about the project components costs:
+
+Project Components Costs:
+{{step_3}}
+
+We also have a detailed financial breakdown for each cost:
+
+Detailed Breakdown of Costs:
+{{step_4}}
+
+Don't forget to add a section that anticipates and allocates funds for potential risks or uncertainties, named as contingency costs. Describe the risk: {{risk_description}}, and allocate a budget accordingly.
+
+->>>>
+
+So far, we have illustrated the detailed breakdown of the project's costs:
+
+Detailed Breakdown of Costs:
+{{step_4}}
+
+And added a contingency section with a justifiable budget:
+
+Contingency Costs:
+{{step_5}}
+
+The final step is to conclude with a cost summary that reiterates the total funding request: {{total_funding_requested}}. 
+In this section, explain how the total amount will be partitioned.
+
+->>>>
+
+Once all elements are considered:
+
+Detailed Breakdown of Costs:
+{{step_4}}
+
+Contingency Costs:
+{{step_5}}
+
+We have written a cost summary that re-states the total funding requested and shows how it will be partitioned:
+
+Cost Summary:
+{{step_6}}
+
+Lastly, preface the detailed budgets with a short statement about responsible use of resources. 
+This is also a great opportunity to address the funders' expectations in terms of efficiency and effectiveness in budget allocation. 
+

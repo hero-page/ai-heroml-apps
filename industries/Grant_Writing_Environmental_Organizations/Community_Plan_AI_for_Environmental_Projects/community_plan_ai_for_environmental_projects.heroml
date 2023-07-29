@@ -1,0 +1,87 @@
+Your task is to write a "Community Engagement Plan" for the "Grant Writing - Environmental Organizations" industry, specifically for a "Project Manager". 
+Let's start by writing an introduction that sets the context for the community engagement plan.
+
+Here's some more context about the Community Engagement Plan:
+Context: {{context}}
+Purpose: {{purpose}}
+Community Description: {{community_description}}
+Engagement Methods: {{engagement_methods}}
+Project Objectives: {{project_objectives}}
+Timeline: {{timeline}}
+Feedback Plan: {{feedback_plan}}
+
+->>>>
+
+We have the introduction that sets the context for community engagement:
+
+Introduction:
+{{step_1}}
+
+Now, let's develop a clear statement of purpose for the community engagement plan and what you aim to achieve.
+
+->>>>
+
+We have set a context for community engagement as well as a purpose:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Next, describe the community including its demographics, interests, and how it connects with the environmental goal.
+
+->>>>
+
+We have a context, a purpose, and a community description:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Community Description:
+{{step_3}}
+
+Now, specify the engagement methods you plan to utilize such as open forums, online surveys, and public consultations.
+
+->>>>
+
+This Community Engagement Plan includes an introduction, purpose, community description, and engagement methods:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Community Description:
+{{step_3}}
+
+Engagement Methods:
+{{step_4}}
+
+Next, describe how these community engagement methods align with the environmental objectives of the project.
+
+->>>>
+
+This Community Engagement Plan includes an introduction, purpose, community description, engagement methods, and how they coincide with the project's environmental objectives:
+
+Introduction:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Community Description:
+{{step_3}}
+
+Engagement Methods:
+{{step_4}}
+
+Project Objectives:
+{{step_5}}
+
+Moving forward, provide a detailed timeline for the community engagement activities.
+

@@ -1,0 +1,62 @@
+Your task is to write a "Dance Routine Description" for the "High School Students - Performing Arts" industry, specifically for a "Student". 
+To get started, create an introduction that explains the purpose of this routine.
+
+Here's some more context about the Dance Routine Description:
+Purpose Of Routine: {{purpose_of_routine}}
+Dance Style: {{dance_style}}
+Sequence Details: {{sequence_details}}
+Music Cues: {{music_cues}}
+Expressive Elements: {{expressive_elements}}
+Performance Expectations: {{performance_expectations}}
+
+->>>>
+
+For our Dance Routine Description, we have an introduction that outlines the purpose of the routine:
+
+Routine Introduction:
+{{step_1}}
+
+Now, let's give a brief synopsis of the dance style (ballet, hip-hop, contemporary, etc.) emphasizing what is unique or characteristic about it.
+
+->>>>
+
+Up to this point, our Dance Routine Description includes an introduction and a brief synopsis of the dance style:
+
+Routine Introduction:
+{{step_1}}
+
+Dance Style Synopsis:
+{{step_2}}
+
+Let's now create a chronological sequence of dance steps or movements. Break down each part of the routine into sections like "starting sequence", "middle sequence", and "end sequence". For each section, provide the step-by-step details.
+
+->>>>
+
+In our Dance Routine Description, we have an introduction, a synopsis of the dance style, and a sequence of dance steps:
+
+Routine Introduction:
+{{step_1}}
+
+Dance Style Synopsis:
+{{step_2}}
+
+Dance Movement Sequence:
+{{step_3}}
+
+Next, specify music cues for each dance step or movement. This will help the student understand which beat or lyrics in the music match which step or movement in the routine.
+
+->>>>
+
+In our Dance Routine Description, we have outlined the music cues that match the dance sequence:
+
+Routine Introduction:
+{{step_1}}
+
+Dance Style Synopsis:
+{{step_2}}
+
+Dance Movement Sequence and Music Cues:
+{{step_4}}
+
+Please include descriptions of expressive elements to be used in the dance such as facial expressions, focus of the eyes, intensity of the movements, and timing subtleties.
+

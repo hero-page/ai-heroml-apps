@@ -1,0 +1,80 @@
+Your task is to write a "Performance Review" for the "High School Students - Arts" industry, specifically for a "Drama Club Member". Let's begin with an introduction. Start with a brief overview of the purpose of the performance review, emphasizing that it provides constructive feedback and insight. For example, "This performance review aims to assess {{StudentName}}'s progress and contribution as a member of the Drama Club during {{ReviewPeriod}}."
+
+Here's some more context about the Performance Review:
+StudentName: {{StudentName}}
+ReviewPeriod: {{ReviewPeriod}}
+PlayName: {{PlayName}}
+CoreSkills: {{CoreSkills}}
+AreaForImprovement: {{AreaForImprovement}}
+NextReviewPeriod: {{NextReviewPeriod}}
+GoalsAndExpectations: {{GoalsAndExpectations}}
+
+->>>>
+
+We have an introduction to our performance review:
+
+Introduction:
+{{step_1}}
+
+Next, evaluate {{StudentName}}'s core skills and talent. This should include an assessment of their acting abilities, script reading and understanding capabilities, and teamwork skills. Describe specific instances demonstrating these abilities. For example, "During the production of {{PlayName}}, {{StudentName}} displayed exceptional {{CoreSkills}}."
+
+->>>>
+
+We have described the skills and talent of the student:
+
+Introduction:
+{{step_1}}
+
+Skills and Talent Evaluation:
+{{step_2}}
+
+Now, discuss the student's performances during rehearsals, club meetings, and drama presentations on stage. Give information on their punctuality, willingness to participate, flexibility, and improvements over the {{ReviewPeriod}}.
+
+->>>>
+
+We have an assessment of the student's performances:
+
+Skills and Talent Evaluation:
+{{step_2}}
+
+Performances and Participation Discussion:
+{{step_3}}
+
+Let's move on to the evaluation of the student's attitudes towards peers and instructors. This should include how they handle constructive criticism, their ability to work cooperatively in a group setting, their respect for others, and their general demeanor during club activities.
+
+->>>>
+
+We have discussed the behavioral attitudes of the student:
+
+Performances and Participation Discussion:
+{{step_3}}
+
+Behavioral Attitudes Evaluation:
+{{step_4}}
+
+Next, identify the challenges observed and areas where the student could improve. These should typically include skills, attitudes, or behaviors that need to be addressed for the student to further improve in the drama club. For example, "A potential area for improvement for {{StudentName}} is the delivery of lines in {{AreaForImprovement}}."
+
+->>>>
+
+We have identified challenges and areas for improvement:
+
+Behavioral Attitudes Evaluation:
+{{step_4}}
+
+Challenges and Improvement Areas:
+{{step_5}}
+
+Now, propose achievable goals and expectations for the student to work towards until the next review. These should be derived from the areas of improvement identified previously. You could say, "For the {{NextReviewPeriod}}, we would like {{StudentName}} to focus on improving {{GoalsAndExpectations}}."
+
+->>>>
+
+We have established proposed goals and expectations:
+
+Challenges and Improvement Areas:
+{{step_5}}
+
+Proposed Goals and Expectations:
+{{step_6}}
+
+Finally, write a conclusion that sums up the review and ends with encouraging remarks. Reiterate the student's strengths and express hope and encouragement for their areas of improvement, like, "With continuous efforts in improving {{GoalsAndExpectations}}, we believe {{StudentName}} will become an invaluable member of our drama club."
+

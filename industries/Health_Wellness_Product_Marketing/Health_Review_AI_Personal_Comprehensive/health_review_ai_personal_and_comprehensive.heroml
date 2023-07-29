@@ -1,0 +1,108 @@
+Your task is to write a "Product Review" for the "Health & Wellness Product Marketing" industry, specifically for a "Content Creator". 
+
+Let's start by crafting an engaging introduction that captures the unique selling proposition (USP) of the product: {{product_USP}}. This should draw in your reader and give them a reason to continue reading.
+
+Here's some more context about the Product Review:
+Product USP: {{product_USP}}
+Product Name: {{product_name}}
+Competitor Product Names: {{competitor_product_names}}
+
+->>>>
+
+Now, we have an engaging introduction to our review:
+
+Introduction:
+{{step_1}}
+
+Next, write a detailed product description that covers all the essential facets of the product: its features, benefits, including the health and wellness impacts. Also, provide information about the manufacturer of {{product_name}}, if applicable.
+
+->>>>
+
+In our product review, we have an introduction and product description:
+
+Introduction:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Let's now share the real experience. Describe your personal experience using the {{product_name}}. Recall its effectiveness, how it positively impacted your health and wellness, and any other relevant experiences. This section should read as a narrative and relate a personal touch.
+
+->>>>
+
+In our product review, we have an introduction, product description, and a shared personal experience:
+
+Introduction:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Personal Experience:
+{{step_3}}
+
+Now, if applicable, add a comparison of the {{product_name}} with similar products from competitors: {{competitor_product_names}}. Highlight the unique features and benefits, pricing, and reasons for preferring the {{product_name}} over others.
+
+->>>>
+
+So far in our review, we have an introduction, product description, personal experience, and now a product comparison:
+
+Introduction:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Personal Experience:
+{{step_3}}
+
+Product Comparison:
+{{step_4}}
+
+Next, offer detailed instructions on how to use the product, outlining optimal use cases if any. Explain how to best utilize the {{product_name}} to achieve the desired health and wellness results.
+
+->>>>
+
+For our product review, we now have an introduction, product description, personal experience, product comparison, and usage instructions:
+
+Introduction:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Personal Experience:
+{{step_3}}
+
+Product Comparison:
+{{step_4}}
+
+Usage Instructions:
+{{step_5}}
+
+Let's advance to the feedback and evaluation, drawing in others' experiences if available. Discuss the general sentiment from other users' reviews regarding {{product_name}}. Also, touch on any concerns or negative feedback and provide a balanced view of the product.
+
+->>>>
+
+In our product review, we now have an introduction, product description, personal experience, product comparison, usage instructions, and feedback and evaluation sections:
+
+Introduction:
+{{step_1}}
+
+Product Description:
+{{step_2}}
+
+Personal Experience:
+{{step_3}}
+
+Product Comparison:
+{{step_4}}
+
+Usage Instructions:
+{{step_5}}
+
+Feedback and Evaluation:
+{{step_6}}
+
+In the conclusion section, offer your final verdict about the {{product_name}} based on your personal experience and reviews from others. Let your audience know if you recommend the product or not and why. Also, consider any potential health or lifestyle factors that might influence this decision.
+

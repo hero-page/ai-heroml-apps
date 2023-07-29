@@ -1,0 +1,112 @@
+Your task is to write a "Health Tips Blog Post" for the "Health & Wellness Product Marketing" industry, specifically for a "Content Creator". 
+
+Start by crafting an eye-catching title that encapsulates the main theme of the post: {{post_theme}}. 
+
+Here's some more context about the Health Tips Blog Post:
+Post Theme: {{post_theme}}
+Health Tips: {{health_tips}}
+Industry Specific Info: {{industry_specific_info}}
+Practical Examples: {{practical_examples}}
+
+->>>>
+
+We have started with an intriguing title for our blog post: 
+
+Title: 
+{{step_1}} 
+
+Next, create an introduction that highlights the importance of the chosen health & wellness topic: {{post_theme}}, and briefly mentions the key points to be covered.
+
+->>>>
+
+We have a title and a compelling introduction for our blog post on {{post_theme}}:
+
+Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, let's introduce the first health tip. State the tip, explain why it's beneficial, and how best to incorporate it into daily life. Do this for each of your health tips: {{health_tips}}.
+
+->>>>
+
+In our blog post, we have an introduction and highlighted health tips on {{post_theme}}:
+
+Introduction:
+{{step_2}}
+
+Health Tips:
+{{step_3}}
+
+Next, incorporate industry-specific information for each tip we have given that accentuates their value in the context of health & wellness: {{industry_specific_info}}.
+
+->>>>
+
+We have provided health tips and enriched them with industry-specific information:
+
+Health Tips:
+{{step_3}}
+
+Industry Information:
+{{step_4}}
+
+After this step, enrich our post's reliability by delving into research studies or facts that strengthen the credibility of your tips. Make sure to source these properly.
+
+->>>>
+
+Our blog post has industry-specific health tips and supportive research data:
+
+Health Tips with Industry Information:
+{{step_4}}
+
+Research and facts:
+{{step_5}}
+
+Now it's time to address common myths or misconceptions related to our post theme: {{post_theme}}. This section should aim to debunk these myths by providing evidence-based information.
+
+->>>>
+
+Our blog post on {{post_theme}} has health tips, supportive research, and a section debunking myths:
+
+Health Tips with Industry Information and Research:
+{{step_5}}
+
+Myths De-bunked:
+{{step_6}}
+
+Next, let's include practical examples of how these health tips can be easily integrated into the lifestyle of the audience: {{practical_examples}}.
+
+->>>>
+
+Integrated into our blog post are health tips, supportive research, debunked myths, and practical examples:
+
+Research, Myths De-bunked, and Practical Examples:
+{{step_6}}
+
+Practical Examples:
+{{step_7}}
+
+Now let's wrap up our post by summarizing the key health tips provided and their benefits, reinforcing the impact on the reader's health and wellness journey.
+
+->>>>
+
+Our blog post now includes health tips, supportive research, debunked myths, practical examples, and a summary:
+
+Summary:
+{{step_8}}
+
+Lastly, incorporate a call-to-action, urging readers to try out the discussed health tips and to engage with the blog by leaving comments or sharing the post.
+
+->>>>
+
+Our blog post now includes a summary and a call-to-action:
+
+Summary:
+{{step_8}}
+
+Call to Action:
+{{step_9}}
+
+Finally, to enhance the credibility of the post, ensure all health and wellness guidelines, norms, and any scientific or industry-related data included are properly referenced. 
+

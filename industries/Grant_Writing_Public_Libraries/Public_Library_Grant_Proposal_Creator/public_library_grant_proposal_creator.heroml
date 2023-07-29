@@ -1,0 +1,137 @@
+Your task is to write a "Library Program Proposal" for the "Grant Writing - Public Libraries" industry, specifically for a "Grant Writer". 
+
+First, let's start with an engaging introduction that highlights the need your program will address.
+
+Here's some more context about the Library Program Proposal:
+Program Need: {{program_need}}
+Program Purpose: {{program_purpose}}
+Program Objectives: {{program_objectives}}
+Program Activities: {{program_activities}}
+Program Budget: {{program_budget}}
+
+->>>>
+
+We are writing a Library Program Proposal and we have a captivating introduction that underscores the program's need:
+
+Introduction:
+{{step_1}}
+
+Next, write an overview that outlines the purpose of your library program.
+
+->>>>
+
+For the Library Program Proposal, we have an introduction and an overview:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Now, in the "Objectives" section, state the specific goals and milestones your library program aims to achieve.
+
+->>>>
+
+In the Library Program Proposal, we have an introduction, overview, and a well-defined objectives section:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Moving forward, detail the specific initiatives (such as events, workshops, seminars, etc.) in the "Proposed Activities" section that establish your program.
+
+->>>>
+
+In the Library Program Proposal, we have the below elements so far:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Proposed Activities:
+{{step_4}}
+
+Now, provide an itemized breakdown of how the program will use the grant funds in the "Budget" section.
+
+->>>>
+
+This is how our Library Program Proposal has shaped up so far:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Proposed Activities:
+{{step_4}}
+
+Budget:
+{{step_5}}
+
+Next, highlight how your program aligns with the mission, values, or strategic priorities of the granting organization. Also mention how your library program fills gaps that are currently left unaddressed or complements existing initiatives within public library services.
+
+->>>>
+
+In the Library Program Proposal, we have built the following sections:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Proposed Activities:
+{{step_4}}
+
+Budget:
+{{step_5}}
+
+Program Alignment / Gaps Addressed:
+{{step_6}}
+
+Next, in the "Evaluation" section, specify the measures you will use to track the progress and effectiveness of your library program.
+
+->>>>
+
+In our Library Program Proposal, we have these essential sections:
+
+Introduction:
+{{step_1}}
+
+Overview:
+{{step_2}}
+
+Objectives:
+{{step_3}}
+
+Proposed Activities:
+{{step_4}}
+
+Budget:
+{{step_5}}
+
+Program Alignment / Gaps Addressed:
+{{step_6}}
+
+Evaluation:
+{{step_7}}
+
+To finish your proposal, write a compelling conclusion that emphasizes the importance of your program, the needs it addresses, your proposed activities, and evaluation methods. 
+

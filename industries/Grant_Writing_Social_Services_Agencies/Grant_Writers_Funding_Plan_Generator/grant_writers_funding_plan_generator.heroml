@@ -1,0 +1,111 @@
+Begin writing a "Funding Plan" in the "Grant Writing - Social Services Agencies" industry for a "Grant Writer". Your task is to write an executive summary capturing an overview of the funding plan (we'll call it {{funding_overview}}). 
+This should touch on the amount required, the sources to be approached, and the overall strategy for securing the funds.
+
+Here's some more context about the Funding Plan:
+Funding Overview: {{funding_overview}}
+Organization Info: {{organization_info}}
+Funding Needs Detail: {{funding_needs_detail}}
+Potential Funding Sources: {{potential_funding_sources}}
+Fund Securing Strategy: {{fund_securing_strategy}}
+Projected Timeline: {{projected_timeline}}
+Next Steps: {{next_steps}}
+
+->>>>
+
+Having written the summary, continue in the "Funding Plan":
+
+Executive Summary:
+{{step_1}}
+
+Next, incorporate into the plan, detailed information about your organization. The details should include your organization's mission, vision, and services offered, and be summarized into the variable {{organization_info}}.
+
+->>>>
+
+Your "Funding Plan" should now include these sections:
+
+Executive Summary:
+{{step_1}}
+
+Organization Information:
+{{step_2}}
+
+Next, you're to provide comprehensive details on the specific funding needs. These should vary depending on the services your agency provides but be sure to structure them according to {{funding_needs_detail}} which includes the purpose of the funding, the amount required, and the expected impact.
+
+->>>>
+
+Your "Funding Plan" now includes these sections:
+
+Executive Summary:
+{{step_1}}
+
+Organization Information:
+{{step_2}}
+
+Funding Needs:
+{{step_3}}
+
+Proceed to the next section of the "Funding Plan" by listing potential funding sources. These sources include government grants, private foundations, individual donors, and corporate partnerships. Rely on {{potential_funding_sources}} to guide the creation of this list, making sure to provide brief details on why each source is a good match for your project/s.
+
+->>>>
+
+Your "Funding Plan" now includes these sections:
+
+Executive Summary:
+{{step_1}}
+
+Organization Information:
+{{step_2}}
+
+Funding Needs:
+{{step_3}}
+
+Potential Funding Sources:
+{{step_4}}
+
+The next section in the "Funding Plan" should outline the strategy for securing funds: {{fund_securing_strategy}}. Specify how you plan to approach and secure the identified funding sources. It may include planned networking activities, presentations, or proposal submissions.
+
+->>>>
+
+Your "Funding Plan" now includes these sections:
+
+Executive Summary:
+{{step_1}}
+
+Organization Information:
+{{step_2}}
+
+Funding Needs:
+{{step_3}}
+
+Potential Funding Sources:
+{{step_4}}
+
+Strategy for Securing Funds:
+{{step_5}}
+
+Continue by adding a projected timeline to the "Funding Plan", labeled {{projected_timeline}}. It should detail the expected timeline for various funding securing activities.
+
+->>>>
+
+Your "Funding Plan" now includes these sections:
+
+Executive Summary:
+{{step_1}}
+
+Organization Information:
+{{step_2}}
+
+Funding Needs:
+{{step_3}}
+
+Potential Funding Sources:
+{{step_4}}
+
+Strategy for Securing Funds:
+{{step_5}}
+
+Timeline:
+{{step_6}}
+
+Finish the "Funding Plan" by clarifying the next steps, under the variable {{next_steps}}. It should detail immediate actions and responsibilities in the grant writing and fund securing process.
+

@@ -1,0 +1,65 @@
+Your task is to write an "Essay" for the "High School Students - Humanities" industry, specifically for a "Student". 
+
+Let's start with writing an engaging introduction that outlines the thesis of your essay: {{thesis_statement}}. This will give readers an understanding of what will be argued or demonstrated throughout the essay.
+
+Here's some more context about the Essay:
+Thesis Statement: {{thesis_statement}}
+Key Points: {{key_points}}
+Relevant Context: {{relevant_context}}
+Counter Argument: {{counter_argument}}
+Citations: {{citations}}
+
+->>>>
+
+After generating the introduction of our essay with a thesis statement:
+
+Introduction:
+{{step_1}}
+
+Next, let's create sections for the main body of the essay, each relating to a key point in your argument: {{key_points}}. These sections should contain an argument, evidence to support it, and a mini-conclusion that ties this back to the main thesis.
+
+->>>>
+
+We have the introduction and body of the essay:
+
+Introduction:
+{{step_1}}
+
+Main Body:
+{{step_2}}
+
+Now, let's incorporate references to relevant historical events or cultural concepts in the analysis sections of the essay to further illustrate the points: {{relevant_context}}. This will help to ground the arguments in real-world examples and shows a well-rounded understanding of the topic.
+
+->>>>
+
+Our essay now has an introduction, body, and integrated references:
+
+Introduction:
+{{step_1}}
+
+Main Body:
+{{step_2}}
+
+Analysis Sections with Relevant Context:
+{{step_3}}
+
+Now, moving towards the end of the essay, we need to present a counter-argument section: {{counter_argument}}. This will show the ability to critically analyze different viewpoints and also reinforce the main argument by effectively countering opposing opinions.
+
+->>>>
+
+We have added a counter-argument to our essay:
+
+Introduction:
+{{step_1}}
+
+Main Body:
+{{step_2}}
+
+Analysis Sections with Relevant Context:
+{{step_3}}
+
+Counter-argument:
+{{step_4}}
+
+Next, let's conclude the essay by summarizing the main arguments and restating the thesis statement: {{thesis_statement}}. This should not introduce new content but should synthesize what has been previously argued.
+

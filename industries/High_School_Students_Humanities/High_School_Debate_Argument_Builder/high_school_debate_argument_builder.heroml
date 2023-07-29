@@ -1,0 +1,63 @@
+Your task is to write a debate argument for a "Debate Club Member" in the "High School Students - Humanities" industry. Let's start by defining the issue you are going to debate: {{issue}} in a concise and clear introduction that highlights its relevance to the audience.
+
+Here's some more context about the Debate Argument:
+Issue: {{issue}}
+Point 1: {{point_1}}
+Point 2: {{point_2}}
+Point 3: {{point_3}}
+
+->>>>
+
+Now, we have clearly defined the issue to be debated:
+
+Issue Definition:
+{{step_1}}
+
+Next, clearly state your position on the {{issue}}. This will serve as your thesis statement.
+
+->>>>
+
+We have defined the issue and state our position on it:
+
+Issue Definition:
+{{step_1}}
+
+Our Stance:
+{{step_2}}
+
+Moving on, provide your reasons for your stance on the {{issue}}. For each distinct point (a maximum of three), provide supporting evidence or examples and explain how they reinforce your thesis.
+
+->>>>
+
+With the issue defined and our stance stated:
+
+Issue Definition:
+{{step_1}}
+
+Our Stance:
+{{step_2}}
+
+We've elaborated on the reasoning behind our stance:
+
+Reasoning and Supporting Evidence:
+{{step_3}}
+
+Having expressed your viewpoints, anticipate possible counterarguments. Identify the strongest potential arguments against your position on the {{issue}}, express them respectfully and refute them using logic or evidence.
+
+->>>>
+
+With our stance and reasoning:
+
+Our Stance:
+{{step_2}}
+
+Reasoning and Supporting Evidence:
+{{step_3}}
+
+We've identified and refuted potential counterarguments:
+
+Counterarguments and Refutations:
+{{step_4}}
+
+Now having presented and refuted all arguments, conclude the debate. This conclusion should sum up your argument, remind the audience of your points, and reiterate your position's correctness.
+

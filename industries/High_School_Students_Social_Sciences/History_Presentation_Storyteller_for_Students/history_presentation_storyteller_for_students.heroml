@@ -1,0 +1,65 @@
+Your task is to write a "Presentation on Historical Event" for the "High School Students - Social Sciences" industry, specifically for a "Student". 
+Start by creating an engaging introduction that highlights the historical event's significance.
+
+Here's some more context about the Presentation on Historical Event:
+Historical Event Intro: {{historical_event_intro}}
+Historical Context: {{historical_context}}
+Event Detail: {{event_detail}}
+Event Impact: {{event_impact}}
+Social Science Elements: {{social_science_elements}}
+Historical Event Conclusion: {{historical_event_conclusion}}
+
+->>>>
+
+The presentation "Introduction" is:
+
+Introduction:
+{{step_1}}
+
+Now, move on to the background of the period in which the event took place, discussing the sociopolitical and economic context, aimed at a high school student's understanding.
+
+->>>>
+
+So far, we have:
+
+Introduction:
+{{step_1}}
+
+Period's Background:
+{{step_2}}
+
+Next, relay a detailed account of the event: who were the key players involved, what led up to the event, how the event unfolded, and any immediate aftermath. Keep in mind that high school students are your target audience, so ensure relevance.
+
+->>>>
+
+The presentation sections up till now are:
+
+Introduction:
+{{step_1}}
+
+Period's Background:
+{{step_2}}
+
+Detailed Event Account:
+{{step_3}}
+
+Following the detailed account of the event, elaborate on the long-term impacts and effects the event had and why it is important to remember today.
+
+->>>>
+
+Our presentation's structure so far is:
+
+Introduction:
+{{step_1}}
+
+Period's Background:
+{{step_2}}
+
+Detailed Event Account:
+{{step_3}}
+
+Event Impact:
+{{step_4}}
+
+Moving forward, let's incorporate elements of social sciences such as political science, sociology, and economics to aid the understanding of the event's impact.
+

@@ -1,0 +1,85 @@
+Your task is to create a "Community Impact Report" for the "Grant Writing - Education Institutions" industry for a "School Administrator". 
+
+Let's start by writing an executive summary that provides a synopsis of the overall impact of the school's activities within the community: {{summary_of_impact}}.
+
+Here's some more context about the Community Impact Report:
+Summary Of Impact: {{summary_of_impact}}
+Mission And Goals: {{mission_and_goals}}
+School Initiatives: {{school_initiatives}}
+Outcomes And Significance: {{outcomes_and_significance}}
+Ongoing Projects: {{ongoing_projects}}
+Stakeholder Impact: {{stakeholder_impact}}
+Future Actions: {{future_actions}}
+
+->>>>
+
+We now have our executive summary for the community impact report:
+
+Executive Summary:
+{{step_1}}
+
+Next, compile a detailed introduction that provides context by outlining the school’s mission and goals: {{mission_and_goals}}. It should also include the purpose and scope of this report.
+
+->>>>
+
+We have our executive summary and the detailed introduction for the community impact report:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Let's now discuss the specific initiatives, actions or programs the school has launched: {{school_initiatives}}. For each initiative, give a brief overview, its goal, and why it was implemented. Also, include any grants received for this initiative.
+
+->>>>
+
+For our community impact report, we have an executive summary, introduction, and a thorough discussion of the school's initiatives:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+School's Initiatives:
+{{step_3}}
+
+Moving on, we need to detail the specific community impact of these initiatives in separate sub-sections. Describe the measurable outcomes (like improved test scores, lower dropout rates, increased attendance, etc) and their significance to the community: {{outcomes_and_significance}}.
+
+->>>>
+
+In our community impact report, we have brought into focus the school's initiatives and their specific impact on the community:
+
+School's Initiatives:
+{{step_3}}
+
+Community Impact:
+{{step_4}}
+
+Next, we will incorporate a section detailing ongoing projects. Explain how these initiatives are set to positively influence the community in the future: {{ongoing_projects}}.
+
+->>>>
+
+For our community impact report, we have detailed the specific community impact and information about ongoing projects:
+
+Community Impact:
+{{step_4}}
+
+Ongoing Projects:
+{{step_5}}
+
+Let's now create a stakeholder analysis category. This should highlight how different stakeholders (students, parents, staff, community leaders, etc.) have been affected or will be impacted by the school’s initiatives: {{stakeholder_impact}}.
+
+->>>>
+
+In our community impact report, we've detailed ongoing projects and analyzed the stakeholder impact:
+
+Ongoing Projects:
+{{step_5}}
+
+Stakeholder Analysis:
+{{step_6}}
+
+Continuing, let's conclude with a ‘Future actions’ section. Discuss plans for future initiatives and how they are expected to further impact the community: {{future_actions}}.
+

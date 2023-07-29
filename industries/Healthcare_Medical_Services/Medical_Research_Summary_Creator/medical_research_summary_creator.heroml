@@ -1,0 +1,79 @@
+Your task is to write a "Research Summary" for the "Healthcare & Medical Services" industry for a "Medical Researcher". 
+Let's start by drafting a concise and comprehensive abstract for the research topic: {{research_topic}}. The abstract should overview the significance of the research and its key findings, making it accessible to a wide range of readers.
+
+Here's some more context about the Research Summary:
+Research Topic: {{research_topic}}
+Background Information: {{background_information}}
+Research Methods: {{research_methods}}
+Key Findings: {{key_findings}}
+Implications: {{implications}}
+
+->>>>
+
+We've created an abstract for our "Research Summary":
+
+Abstract:
+{{step_1}}
+
+Next, let's create a detailed introduction that expands on the background information: {{background_information}}. This should provide the research context, define the research problem, and emphasize its significance in the healthcare and medical field.
+
+->>>>
+
+Now, we have the introduction for the "Research Summary":
+
+Abstract:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving forward, let's detail the research methods: {{research_methods}} used in the study. Remember to include all the key steps of the methodology, highlighting ethical considerations, experimental design, participant demographics, data collection techniques, and data analysis processes.
+
+->>>>
+
+In our "Research Summary", we now have the introduction and the research methods:
+
+Introduction:
+{{step_2}}
+
+Research Methods:
+{{step_3}}
+
+Next, reveal the key findings: {{key_findings}} of the research, connecting these outcomes back to the problem outlined in the introduction.
+
+->>>>
+
+So far in the "Research Summary", we have the research methods and the key findings:
+
+Research Methods:
+{{step_3}}
+
+Key Findings:
+{{step_4}}
+
+Let's describe the implications of this research: {{implications}}. It's crucial to explain the potential impact of these results on advancing knowledge in the medical field and contributing to improved healthcare services.
+
+->>>>
+
+For our "Research Summary", we now have detailed descriptions of key findings and their implications:
+
+Key Findings:
+{{step_4}}
+
+Implications:
+{{step_5}}
+
+To wrap up our research summary, let's compose a conclusion that revisits the research topic: {{research_topic}}, summarizes the key findings along with their implications, and suggests areas for further investigation.
+
+->>>>
+
+We've reached the end of the "Research Summary", containing:
+
+Implications:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+For the optional section, let's compile a list of references that were used throughout the summary. Ensure to follow either the APA or MLA format, according to your preference.
+

@@ -1,0 +1,89 @@
+Your task is to write a "Character Analysis" for the "High School Students - Performing Arts" industry, specifically for a "Student". 
+Let's start by writing an introduction providing a brief overview of the character's role in the play or performance: {{character_role}}.
+
+Here's some more context about the Character Analysis:
+Character Role: {{character_role}}
+Character Background: {{character_background}}
+Character Relationships: {{character_relationships}}
+Character Traits: {{character_traits}}
+Character Evolution: {{character_evolution}}
+
+->>>>
+
+For the character analysis relevant to a high school student, we have an introduction describing the character's role in the show:
+
+Introduction:
+{{step_1}}
+
+Next, present detailed information about the character's background: Where they come from, their family structure, their occupation, and any important life events or experiences that have shaped them. This should cover key demographics and personal traits.
+
+->>>>
+
+In this character analysis, we have introduced the role:
+
+Introduction:
+{{step_1}}
+
+We also have a detailed description of the character's background:
+
+Background:
+{{step_2}}
+
+For the next part of the body, focus on the character's relationships: The other characters they interact with most frequently, the nature of these relationships, and how they influence the overall narrative.
+
+->>>>
+
+The character's role and background information has been laid out:
+
+Background:
+{{step_2}}
+
+Now, we have details on the character's relationships:
+
+Character Relationships:
+{{step_3}}
+
+Moving to another aspect of the character, let's analyze their personality traits and how they navigate their world. Discuss how they react to various situations and what this reveals about their character.
+
+->>>>
+
+So far, the character analysis includes:
+
+Character Relationships:
+{{step_3}}
+
+And the analysis of character's personality:
+
+Character's Personality:
+{{step_4}}
+
+Next, let's focus on the character's evolution throughout the performance. Discuss how the character changes from the beginning to the end of the performance, and identify the key events or moments that catalyzed these changes.
+
+->>>>
+
+We already have character's personality analysis:
+
+Character's Personality:
+{{step_4}}
+
+Now, we also have a detailed account of the character's evolution:
+
+Character's Evolution:
+{{step_5}}
+
+To wrap up the analysis, summarize the key points about the character and how this analysis contributes to a better understanding of the narrative or play as a whole. Discuss the importance of this character in the theatrical performance, using conclusions from the previous sections.
+
+->>>>
+
+After analyzing the character's transformation:
+
+Character's Evolution:
+{{step_5}}
+
+Now, we have a summary that ties all aspects together:
+
+Summary:
+{{step_6}}
+
+In the final part, link this character analysis to the student's personal understanding and interpretation. Discuss how the analysis of the character can inform or influence the performance and what unique acting techniques or performances can the student apply to effectively represent this character.
+

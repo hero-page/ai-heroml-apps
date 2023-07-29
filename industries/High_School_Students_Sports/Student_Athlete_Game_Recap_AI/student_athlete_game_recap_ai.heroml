@@ -1,0 +1,77 @@
+Your task is to write a "Game Recap" for the "High School Students - Sports" industry, specifically for a "Student Athlete". 
+Let's start by creating an engaging introduction that sets the tone for this game recap.
+
+Here's some more context about the Game Recap:
+Sport: {{sport}}
+Game Location: {{game_location}}
+Student Athlete: {{student_athlete}}
+
+->>>>
+
+We have an engaging introduction for our game recap:
+
+Game Recap Introduction:
+{{step_1}}
+
+Next, describe the scene at {{game_location}}, the energy of the crowd, atmosphere, and any unusual circumstances that could have impacted the game.
+
+->>>>
+
+Our game recap begins with an engaging introduction and a vivid description of the scene:
+
+Introduction:
+{{step_1}}
+
+Scene Description:
+{{step_2}}
+
+Now, let's delve into providing a chronological timeline of the game's key moments. Remember to include details about the performance of both teams.
+
+->>>>
+
+Our game recap so far involves an introduction, a scene description, and a captivating timeline of the key moments of the game:
+
+Introduction:
+{{step_1}}
+
+Scene Description:
+{{step_2}}
+
+Gameplay Timeline:
+{{step_3}}
+
+Next, it's time to provide an in-depth analysis of the {{student_athlete}}'s performance. Highlight any specific stats that were significant to the game's outcome.
+
+->>>>
+
+In our game recap, we have an analysis of the student athlete's performance added to the scene description and gameplay timeline:
+
+Scene Description:
+{{step_2}}
+
+Gameplay Timeline:
+{{step_3}}
+
+Student Athlete's Performance:
+{{step_4}}
+
+Let's move on to detailing the key takeaways from the game for the {{student_athlete}} and the team within the context of the season.
+
+->>>>
+
+The game recap now includes the introduction, scene description, gameplay timeline, and key takeaways:
+
+Introduction:
+{{step_1}}
+
+Scene Description:
+{{step_2}}
+
+Gameplay Timeline:
+{{step_3}}
+
+Key Takeaways:
+{{step_5}}
+
+Now, enrich the recap by including direct quotes from the {{student_athlete}}, as well as any from coaches or teammates that provide additional perspective.
+

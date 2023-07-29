@@ -1,0 +1,80 @@
+Your task is to write an "Economics Essay" for the "High School Students - Business & Economics" industry, specifically for a "Student". 
+Let's start by crafting an introduction that presents the main argument or question of your economics essay: {{main_argument}}. State its importance and relevance to modern economics.
+
+Here's some more context about the Economics Essay:
+Main Argument: {{main_argument}}
+Background Context: {{background_context}}
+Specific Example: {{specific_example}}
+
+->>>>
+
+For our economics essay, we've developed an introduction which presents the main argument:
+
+Introduction:
+{{step_1}}
+
+Next, provide a thorough background and context of the topic: {{background_context}}. This section should set up the reader's understanding of the subject matter that your main argument revolves around.
+
+->>>>
+
+We've created an introduction and a detailed background for our economics essay:
+
+Introduction:
+{{step_1}}
+
+Background and Context:
+{{step_2}}
+
+Now, let's expand on the main argument: {{main_argument}}. Break it down into multiple points, explaining each one in separate paragraphs. Present supporting data, information from studies or scholarly articles, and expert opinions to corroborate your argument.
+
+->>>>
+
+We've expanded the main argument of our economics essay, taking into account the introduction and background:
+
+Introduction:
+{{step_1}}
+
+Background and Context:
+{{step_2}}
+
+Main Argument Expansion:
+{{step_3}}
+
+Next up, let's focus on an in-depth analysis of a specific economic model, case study, or real-world example: {{specific_example}}. This will strengthen the relevance of our essay by connecting theory with practice.
+
+->>>>
+
+Our economics essay has a detailed analysis of a specific example which supports our main argument:
+
+Main Argument Expansion:
+{{step_3}}
+
+Specific Example Analysis:
+{{step_4}}
+
+Now, let's address competing viewpoints and potential criticisms of the main argument: {{main_argument}}. Analyze these counterarguments and provide reasons why your argument stands.
+
+->>>>
+
+Our economics essay evaluates our main argument against competing viewpoints:
+
+Specific Example Analysis:
+{{step_4}}
+
+Counterarguments and Criticisms:
+{{step_5}}
+
+Next, let's bring together all the discussed points to present a conclusion. Restate the main argument {{main_argument}} and summarise how it has been substantiated throughout the essay. Also, provide final thoughts or implications of the argument in the larger context of economics.
+
+->>>>
+
+The debated points have been brought together in the conclusion of our economics essay:
+
+Counterarguments and Criticisms:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+Finally, let's finish with a reference list mentioning all the utilized sources in the essay. Follow a specific referencing style such as APA, MLA or Chicago as required. This will enhance the research-based credibility of your essay.
+

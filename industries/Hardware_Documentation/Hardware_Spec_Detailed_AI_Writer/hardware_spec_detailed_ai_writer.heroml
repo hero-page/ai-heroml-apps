@@ -1,0 +1,88 @@
+Your task is to write a "Hardware Specifications" document for the "Hardware Documentation" industry, specifically for a "Hardware Engineer". Follow these steps to write a detailed and structured hardware specifications document about the particular hardware component: {{hardware_component}}.
+
+Let's start by crafting an introductory section providing an overview of the {{hardware_component}}. This introduction should present a summary of its physical attributes, its purpose, and its role in the overall system.
+
+Here's some more context about the Hardware Specifications:
+Hardware Component: {{hardware_component}}
+
+->>>>
+
+Now, we have an introductory section providing an overview of the {{hardware_component}}:
+
+Introduction:
+{{step_1}}
+
+Next, let's dive into a detailed description of the {{hardware_component}}'s attributes. Include information about its dimensions, weight, material composition, color, and other relevant physical features.
+
+->>>>
+
+At this point, we have an introduction and detailed physical description of the {{hardware_component}}:
+
+Introduction:
+{{step_1}}
+
+Physical Description:
+{{step_2}}
+
+The following part should highlight the operational aspects of the {{hardware_component}}. Describe its power requirements, operational conditions (such as temperature, humidity, etc.), and safety measures.
+
+->>>>
+
+We now possess an introduction, physical description, and operation of the {{hardware_component}}:
+
+Physical Description:
+{{step_2}}
+
+Operation:
+{{step_3}}
+
+Next, let's elaborate on the technical specifications of the {{hardware_component}}, such as its electrical and mechanical specifications.
+
+->>>>
+
+So far, we have the introduction, physical description, operation, and technical specifications of the {{hardware_component}}:
+
+Operation:
+{{step_3}}
+
+Technical Specifications:
+{{step_4}}
+
+Following this, include information about the compatibility and connectivity details of the {{hardware_component}}, such as its interfaces, supported protocols, and compatibility with other systems.
+
+->>>>
+
+Consequently, we have the operation, technical specifications, and compatibility details of the {{hardware_component}}:
+
+Technical Specifications:
+{{step_4}}
+
+Compatibility:
+{{step_5}}
+
+The next section should address the performance characteristics of the {{hardware_component}}, describing its capabilities, limitations, and performance benchmarks.
+
+->>>>
+
+We have compiled information on the technical specifications, compatibility, and performance characteristics of the {{hardware_component}}:
+
+Compatibility:
+{{step_5}}
+
+Performance Characteristics:
+{{step_6}}
+
+In the following part, detail the regulatory and compliance information related to the {{hardware_component}}, such as information on regulator certifications, standards followed, and environmental impacts.
+
+->>>>
+
+Currently, we have information on the compatibility, performance characteristics, and regulatory details of the {{hardware_component}}:
+
+Performance Characteristics:
+{{step_6}}
+
+Regulatory Details:
+{{step_7}}
+
+Wrap up the document by summarizing the main features, uses, and advantages of the {{hardware_component}} in the conclusion.
+

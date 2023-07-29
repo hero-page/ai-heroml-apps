@@ -1,0 +1,95 @@
+Your task is to write an "Outcome Measurement" for the "Grant Writing - Nonprofit Organizations" industry, specifically for a "Program Manager". 
+
+Start by generating an introduction that contextualizes {{project_description}}, including a brief summary of the program and the rationale behind it.
+
+Here's some more context about the Outcome Measurement:
+Project Description: {{project_description}}
+Outcome Objectives: {{outcome_objectives}}
+Outcome Indicators: {{outcome_indicators}}
+Data Collection Methods: {{data_collection_methods}}
+Data Analysis Process: {{data_analysis_process}}
+Outcome Findings: {{outcome_findings}}
+Project Success Evaluation: {{project_success_evaluation}}
+Improvement Recommendations: {{improvement_recommendations}}
+
+->>>>
+
+We have an introduction that contextualizes the {{project_description}}:
+
+Introduction:
+{{step_1}}
+
+Next, formulate clear and specific outcome objectives related to your project. These objectives should be measurable, achievable, and relevant to the program's intent.
+
+->>>>
+
+We have the introduction and the specific outcome objectives for our project:
+
+Introduction:
+{{step_1}}
+
+Outcome Objectives:
+{{step_2}}
+
+Now, identify and classify indicators used to measure the outcomes. Indicators could range from quantitative like number of beneficiaries, to qualitative like satisfaction levels or improvements acquired by beneficiaries.
+
+->>>>
+
+We have described the outcome objectives and the corresponding indicators:
+
+Outcome Objectives:
+{{step_2}}
+
+Outcome Indicators:
+{{step_3}}
+
+Next, describe the methods and tools utilized to track and quantify these indicators. Mention surveys, interviews, review of secondary data sources, or software tools utilized. Also, clarify about any specific metric standards applied.
+
+->>>>
+
+We have identified the indicators and described the methods to track and quantify these indicators:
+
+Outcome Indicators:
+{{step_3}}
+
+Data Collection Methods:
+{{step_4}}
+
+Now let's discuss the process employed for data analysis and interpretation related to the outcomes. This could include use of statistical methods, software tools, and how findings were interpreted in relation to goals.
+
+->>>>
+
+For our project, we have outlined the data collection methods and the data analysis process:
+
+Data Collection Methods:
+{{step_4}}
+
+Data Analysis Process:
+{{step_5}}
+
+Next, write the findings, drawn from analyzed data, linking them back to the outcome objectives. Make sure findings are explicit, clear, and relevant to the goals set.
+
+->>>>
+
+We have the data analysis process and the outcome findings for our project:
+
+Data Analysis Process:
+{{step_5}}
+
+Outcome Findings:
+{{step_6}}
+
+Draft a conclusion that assesses the success of the project in relation to the outcomes measured. Discuss if the project seemed to meet, exceed, or fall short of its intended outcomes.
+
+->>>>
+
+Here are the outcome findings and the project success evaluation:
+
+Outcome Findings:
+{{step_6}}
+
+Project Success Evaluation:
+{{step_7}}
+
+Finally, suggest recommendations for future work, based on the evaluation findings. Include suggestions for stronger impact or enhanced efficiency in future programs based on what was learned from the outcome measurement.
+

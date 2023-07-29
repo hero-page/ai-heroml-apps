@@ -1,0 +1,92 @@
+Your task is to write a "Position Paper" for the "High School Students - Humanities" industry, specifically for a "Debate Club Member". For creating this "Position Paper", let's begin with the first part. 
+
+1. Write an introduction that clearly states your position on the debate topic: {{debate_topic}}. Your position should be a part of a strong, declarative statement that summarizes your stance on the issue.
+
+Here's some more context about the Position Paper:
+Debate Topic: {{debate_topic}}
+
+->>>>
+
+We have an introduction for our position paper:
+
+Introduction:
+{{step_1}}
+
+Now, let's move to the first main section. 
+
+2. Summarize the "context of the issue" by providing background information that led to your stance on the {{debate_topic}}.
+
+->>>>
+
+In our Position Paper, we have an Introduction and a summary of the context of the issue now:
+
+Introduction:
+{{step_1}}
+
+Context of the Issue:
+{{step_2}}
+
+Moving on,
+
+3. Write the "defining the problem" section. Detail the problem that you're addressing in relation to the {{debate_topic}}. Be sure to include the social, political, or environmental factors contributing to the problem.
+
+->>>>
+
+Moving forward, our Position Paper now includes the Introduction, Context of the Issue, and the Definition of the Problem:
+
+Introduction:
+{{step_1}}
+
+Context of the Issue:
+{{step_2}}
+
+Defining the Problem:
+{{step_3}}
+
+Next,
+
+4. Establish the "relevance and significance of the problem". Explain why the issue matters in the current societal context and how it affects your target reader, mainly fellow debaters, teachers, or high school students.
+
+->>>>
+
+Our Position Paper includes the Introduction, Context of the Issue, Definition of the Problem, and the Relevance and Significance of the Problem sections now:
+
+Introduction:
+{{step_1}}
+
+Context of the Issue:
+{{step_2}}
+
+Defining the Problem:
+{{step_3}}
+
+Relevance and Significance of the Problem:
+{{step_4}}
+
+Now,
+
+5. Include the "policy proposals or solutions in detail" section where you outline what actions should be taken concerning the {{debate_topic}}. Be sure to include any supportive facts, data, or evidence. Specify who should be responsible for implementing the suggested actions and how these actions will address the problem.
+
+->>>>
+
+Our Position Paper has grown further, including the Introduction, Context of the Issue, Definition of the Problem, Relevance and Significance of the Problem, and Policy Proposals or Solutions sections:
+
+Introduction:
+{{step_1}}
+
+Context of the Issue:
+{{step_2}}
+
+Defining the Problem:
+{{step_3}}
+
+Relevance and Significance of the Problem:
+{{step_4}}
+
+Policy Proposals or Solutions:
+{{step_5}}
+
+Let's continue,
+
+6. Predict and pre-empt possible objections to your position and solutions in the "objections and counter-arguments" section. Refute these counter-arguments using logic and evidence.
+

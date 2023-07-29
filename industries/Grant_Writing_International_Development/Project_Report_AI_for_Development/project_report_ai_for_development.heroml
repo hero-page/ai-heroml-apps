@@ -1,0 +1,107 @@
+Your task is to write a "Beneficiary Report" for the "Grant Writing - International Development" industry, specifically for a "Project Coordinator". 
+
+First, provide an overview that gives the context of the project: {{project_context}}, and a brief summary of its objectives.
+
+Here's some more context about the Beneficiary Report:
+Project Context: {{project_context}}
+Beneficiary Demographics: {{beneficiary_demographics}}
+
+->>>>
+
+For the "Beneficiary Report", we have the project context and its objectives:
+
+Project Context:
+{{step_1}}
+
+Next, create a project description which includes a brief explanation of the project's activities and tasks carried out under the {{project_context}}.
+
+->>>>
+
+We have the project context, its objectives, and a description for the "Beneficiary Report":
+
+Project Context:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Now, list the beneficiaries of the project under a section titled 'Beneficiary Overview'. It should give a specific breakdown of the total number of beneficiaries, and details like their {{beneficiary_demographics}} such as age group, gender, location, socio-economic status, and other factors.
+
+->>>>
+
+For our "Beneficiary Report", we have the project context, project description, and details about the beneficiaries:
+
+Project Context:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Beneficiary Overview:
+{{step_3}}
+
+Let's move on to the 'Beneficiary Engagement' section. Describe the ways in which the beneficiaries were actively involved in the project, and detail community mobilization activities such as meetings, focus groups, workshops tied to the {{project_context}}.
+
+->>>>
+
+Thus far in our "Beneficiary Report", we have the project context, project description, beneficiary demographics, and the beneficiary engagement:
+
+Project Context:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Beneficiary Overview:
+{{step_3}}
+
+Beneficiary Engagement:
+{{step_4}}
+
+We shall now write a section titled 'Beneficiary Feedback'. Here, include the feedback received from the beneficiaries, using direct but anonymized quotes where possible.
+
+->>>>
+
+For our "Beneficiary Report", we have the project context, project description, beneficiary engagement, and beneficiary feedback:
+
+Project Context:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Beneficiary Overview:
+{{step_3}}
+
+Beneficiary Engagement:
+{{step_4}}
+
+Beneficiary Feedback:
+{{step_5}}
+
+Next up is the 'Impact Assessment' section. Here, provide an analysis of the measurable effects that the project had on the beneficiaries. Discuss both qualitative and quantitative impacts, and relate these back to the project's objectives in the {{project_context}}.
+
+->>>>
+
+Up until this point in our "Beneficiary Report", we have the project context, project description, beneficiary engagement, beneficiary feedback, and an impact assessment:
+
+Project Context:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Beneficiary Overview:
+{{step_3}}
+
+Beneficiary Engagement:
+{{step_4}}
+
+Beneficiary Feedback:
+{{step_5}}
+
+Impact Assessment:
+{{step_6}}
+
+Subsequently, generate a section named 'Challenges and Recommendations'. Discuss any difficulties encountered during project implementation that affected the beneficiaries, and propose necessary recommendations.
+

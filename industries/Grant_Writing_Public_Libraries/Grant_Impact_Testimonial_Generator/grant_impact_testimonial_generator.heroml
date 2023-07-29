@@ -1,0 +1,65 @@
+Your task is to write a "Beneficiary Testimonials" for the "Grant Writing - Public Libraries" industry, specifically for a "Library Director". 
+
+We'll first need an introduction where the grant beneficiary: {{beneficiary}}, their relationship with the library, and why their perspective is important are clearly defined. 
+
+Here's some more context about the Beneficiary Testimonials:
+Beneficiary: {{beneficiary}}
+Library Grant Use: {{library_grant_use}}
+Beneficiary Impact: {{beneficiary_impact}}
+Library Experience: {{library_experience}}
+Library Value: {{library_value}}
+
+->>>>
+
+We now have an introduction focusing on the grant beneficiary:
+
+Introduction:
+{{step_1}}
+
+Next, let's detail how the grant was utilised by the library, describing the specific programs, resources or improvements that were facilitated with the grant.
+
+->>>>
+
+Our beneficiary testimonial now has an introduction and details about the grant implementation:
+
+Introduction:
+{{step_1}}
+
+Grant Implementation:
+{{step_2}}
+
+Moving forward, we need to discuss the specific impact of these improvements on the beneficiary such as increased access to resources, educational opportunities, or community empowerment.
+
+->>>>
+
+Our testimonial now has a section detailing the specific impact of the grant on the beneficiary:
+
+Introduction:
+{{step_1}}
+
+Grant Implementation:
+{{step_2}}
+
+Specific Impact:
+{{step_3}}
+
+Next, we need to outline the beneficiary's overall experience with the library and its enhancements due to the grant.
+
+->>>>
+
+We have an introduction, details about the grant implementation, the specific impact, and a reflection on the overall library experience in the testimonial:
+
+Introduction:
+{{step_1}}
+
+Grant Implementation:
+{{step_2}}
+
+Specific Impact:
+{{step_3}}
+
+Overall Library Experience:
+{{step_4}}
+
+Finally, write a closing statement that includes the beneficiary's thoughts on the value of public libraries and why more grants should be given to support them.
+

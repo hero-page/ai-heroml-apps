@@ -1,0 +1,131 @@
+Your task is to write a "Presentation on Conservation" for the "High School Students - Environmental Sciences" industry, specifically for a "Student". Let's start with an engaging introduction that explains the significance and context of conservation relating to the {{chosen_conservation_topic}}. The introduction should include a brief background and the relevance of the topic in environmental sciences.
+
+Here's some more context about the Presentation on Conservation:
+Chosen Conservation Topic: {{chosen_conservation_topic}}
+
+->>>>
+
+We now have an introduction to our "Conservation" presentation:
+
+Introduction:
+{{step_1}}
+
+Next, provide a brief description about what is known and unknown about the {{chosen_conservation_topic}}. This part should present the problem statement or the reason why it is important to learn more about the topic.
+
+->>>>
+
+Our presentation now has an Introduction and Description:
+
+Introduction:
+{{step_1}}
+
+Description:
+{{step_2}}
+
+Following that, we need to discuss the primary issues or challenges linked to the {{chosen_conservation_topic}}. The segment should cover why there are concerns regarding the topic and which aspects are currently under threat.
+
+->>>>
+
+The current sections of our conservation presentation are:
+
+Introduction:
+{{step_1}}
+
+Description:
+{{step_2}}
+
+Primary issues:
+{{step_3}}
+
+Now, include a section about specific case studies or research findings related to the {{chosen_conservation_topic}}. This information should provide a real-world connection to the issues discussed and how the problem is affecting environments or species.
+
+->>>>
+
+We've added a section on case studies to our presentation:
+
+Introduction:
+{{step_1}}
+
+Description:
+{{step_2}}
+
+Primary issues:
+{{step_3}}
+
+Case Studies:
+{{step_4}}
+
+Let's address the impact and importance of conservation in relation to the {{chosen_conservation_topic}}. This part of the presentation should explain how conservation could help overcome or mitigate the identified problems.
+
+->>>>
+
+The sections of our presentation on conservation now include:
+
+Introduction:
+{{step_1}}
+
+Description:
+{{step_2}}
+
+Primary issues:
+{{step_3}}
+
+Case Studies:
+{{step_4}}
+
+Impact and Importance of Conservation:
+{{step_5}}
+
+Now, argue for strategies or solutions that enhance conservation related to the {{chosen_conservation_topic}}. This part should consist of effective measures taken by individuals, communities, or governments, along with their expected benefits.
+
+->>>>
+
+Our presentation has the following sections till now:
+
+Introduction:
+{{step_1}}
+
+Description:
+{{step_2}}
+
+Primary issues:
+{{step_3}}
+
+Case Studies:
+{{step_4}}
+
+Impact and Importance of Conservation:
+{{step_5}}
+
+Strategies for Conservation:
+{{step_6}}
+
+Next, conclude with a synopsis and call to action emphasizing the role of students and the general public in conservation efforts related to the {{chosen_conservation_topic}}. Restate the main issues and encourage the audience to be a part of the solution.
+
+->>>>
+
+So far, we have these sections in our presentation:
+
+Introduction:
+{{step_1}}
+
+Description:
+{{step_2}}
+
+Primary issues:
+{{step_3}}
+
+Case Studies:
+{{step_4}}
+
+Impact and Importance of Conservation:
+{{step_5}}
+
+Strategies for Conservation:
+{{step_6}}
+
+Conclusion and Call to action:
+{{step_7}}
+
+Next, we should supplement the talk with industry-specific terminologies and recent developments to make the presentation both appealing and educational. Use terms specific to environmental science, such as "biodiversity", "ecosystem", "carbon footprint", etc.
+

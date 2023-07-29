@@ -1,0 +1,82 @@
+Your task is to write a "Grant Proposal" for the "Grant Writing - Nonprofit Organizations" industry, specifically for a "Grant Writer". 
+We should start by composing a strong executive summary that provides an overview of the purpose and intended benefits of the proposed project, which we'll refer to as {{project_summary}}. 
+
+Here's some more context about the Grant Proposal:
+Project Summary: {{project_summary}}
+Organization Background: {{organization_background}}
+Needs Statement: {{needs_statement}}
+Project Goals: {{project_goals}}
+Methods And Approach: {{methods_and_approach}}
+Budget Plan: {{budget_plan}}
+Evaluation And Sustainability: {{evaluation_and_sustainability}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+Having defined the project with:
+
+Project Summary:
+{{step_1}}
+
+Now, let's write an introduction that provides background information on the nonprofit organization and its mission, which we'll refer to as {{organization_background}}.
+
+->>>>
+
+Now, we have the project summary and the organization's background:
+
+Project Summary:
+{{step_1}}
+
+Organization Background:
+{{step_2}}
+
+The next step is to articulate the needs your organization is seeking to meet. Clearly draft a "Needs Statement" referencing specific evidences or trends in line with the organization's mission, we'll refer to this segment as our {{needs_statement}}.
+
+->>>>
+
+So far, we have details of:
+
+Organization Background:
+{{step_2}}
+
+Needs Statement:
+{{step_3}}
+
+Now, prepare a comprehensive list of "Goals and Objectives" for the proposed project. These goals should be measurable, realistic and aligned with the needs of the organization, which we'll refer to as {{project_goals}}.
+
+->>>>
+
+So far, for the grant proposal we have:
+
+Needs Statement:
+{{step_3}}
+
+Goals and Objectives:
+{{step_4}}
+
+Next, elaborate on your "Methods and Approach", explaining how your organization plans to achieve the goals stated earlier. Let's illustrate the unique strategies your organization plans to employ, which we'll refer to as {{methods_and_approach}}.
+
+->>>>
+
+The components of our grant proposal include:
+
+Goals and Objectives:
+{{step_4}}
+
+Methods and Approach:
+{{step_5}}
+
+Enumerate a clear and justifiable "Budget" that shows how the grant money will be used. This budget should correlate with the project's timeline and activities, and should show cost-effectiveness. We'll call this section {{budget_plan}}.
+
+->>>>
+
+Our grant proposal's structure thus far includes:
+
+Methods and Approach:
+{{step_5}}
+
+Budget Plan:
+{{step_6}}
+
+We are moving onto describing the "Evaluation and Sustainability" of the proposed project. In this section detail how you'll assess the project's success, what indicators you'll use and how you plan to sustain your efforts beyond the funding period. We'll name this section as {{evaluation_and_sustainability}}.
+

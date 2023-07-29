@@ -1,0 +1,44 @@
+Your task is to write a "Lab Report" for the "High School Students - Sciences" industry, specifically tailored for a "Student".
+
+Begin by crafting an introductory section providing an overview of the lab activity. Explain the purpose of the experiment and what should be achieved: {{experiment_objective}}.
+
+Here's some more context about the Lab Report:
+Experiment Objective: {{experiment_objective}}
+Experiment Process: {{experiment_process}}
+Experiment Data: {{experiment_data}}
+Experiment Analysis: {{experiment_analysis}}
+Experiment Summary: {{experiment_summary}}
+
+->>>>
+
+We have our opening section for the lab report: 
+
+Introduction:
+{{step_1}}
+
+Now, please describe the materials and methods used during the lab session. Ensure to detail each step of the experiment process: {{experiment_process}}.
+
+->>>>
+
+Let's continue with our lab report:
+
+Introduction:
+{{step_1}}
+
+Materials and Methods:
+{{step_2}}
+
+Next, present the data and results gathered from the experiment. Remember to explain each number or statistic in a simple language so it is comprehensible for high school students: {{experiment_data}}.
+
+->>>>
+
+So far in the lab report, we have:
+
+Materials and Methods:
+{{step_2}}
+
+Results:
+{{step_3}}
+
+It's now time for the analysis, interpret the results of the experiment. Discuss how these outcomes align with the initial hypothesis or prediction: {{experiment_analysis}}.
+

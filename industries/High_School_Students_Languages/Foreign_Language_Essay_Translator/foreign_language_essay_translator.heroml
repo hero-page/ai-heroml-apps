@@ -1,0 +1,106 @@
+Your task is to write an "Essay in Foreign Language" for the "High School Students - Languages" industry, specifically for a "Student".
+
+Let's begin the essay with an introduction establishing the context of the essay: {{essay_topic}}. This will outline the focus of your essay and present your thesis statement.
+
+Here's some more context about the Essay in Foreign Language:
+Essay Topic: {{essay_topic}}
+Target Vocabulary: {{target_vocabulary}}
+Example One: {{example_one}}
+Example Two: {{example_two}}
+Example Three: {{example_three}}
+
+->>>>
+
+Beginnings of the essay, and the introduction of context and a thesis statement:
+
+Introduction:
+{{step_1}}
+
+Now, let's formulate a plan to divide the essay into three main parts: Introduction, Body, and Conclusion. Each part of the body should ideally focus on a specific aspect or argument related to the {{essay_topic}}.
+
+->>>>
+
+For our essay, we have the introduction and a formulation of essay partition:
+
+Introduction:
+{{step_1}}
+
+Essay Partition:
+{{step_2}}
+
+Next, let's ensure the use of proper grammar, sentence structure, and vocabulary of the foreign language within the essay. Consider including a variety of sentence structures and focusing on the proper use of the target vocabulary: {{target_vocabulary}}.
+
+->>>>
+
+In relation to the proposed essay division:
+
+Essay Partition:
+{{step_2}}
+
+We have set the grammatical standards and vocabulary use for our essay:
+
+Grammar and Vocabulary Guidelines:
+{{step_3}}
+
+Moving on, let's begin the body paragraphs, each starting with a topic sentence followed by evidences or examples ({{example_one}}, {{example_two}}, {{example_three}}) supporting the point of view. Make sure each evidence is thoroughly explained and does link explicitly back to the thesis statement.
+
+->>>>
+
+In our essay, considering the grammar and vocabulary guidelines:
+
+Grammar and Vocabulary Guidelines:
+{{step_3}}
+
+We have crafted the body paragraphs with evidences linking back to the thesis statement:
+
+Body Paragraphs with Examples:
+{{step_4}}
+
+Now, offer a summarizing conclusion that wraps up all points, showing their relevance to the thesis statement. It should include your final thoughts about the {{essay_topic}}.
+
+->>>>
+
+In reflection of the body paragraphs we have presented:
+
+Body Paragraphs with Examples:
+{{step_4}}
+
+We have crafted a conclusion summarizing all points and providing final thoughts.
+
+Conclusion:
+{{step_5}}
+
+Next, try to incorporate culture-specific references, idioms, or proverbs of the foreign language relevant to the {{essay_topic}}. This highlights your understanding of the language context.
+
+->>>>
+
+With the conclusion at hand:
+
+Conclusion:
+{{step_5}}
+
+We have incorporated culture-specific references within our essay:
+
+Cultural References:
+{{step_6}}
+
+Let's move to revising the essay, focusing on correcting any possible mistakes and ensure the essay flows logically and fluently.
+
+->>>>
+
+After including cultural references:
+
+Cultural References:
+{{step_6}}
+
+We have made revisions to correct any mistakes and ensured logical flow in the essay:
+
+Revised Essay:
+{{step_7}}
+
+Now, translate the essay back into your original language to ensure the content maintains the original meaning and the tone reflects your intended sentiment. Understand that the goal is to convey the meaning rather than copying the structure of the original language.
+
+->>>>
+
+Next, we need to reference any sources used to gather information or quotes for your essay following the standard citation format of the foreign language, if any. This avoids any plagiarism.
+

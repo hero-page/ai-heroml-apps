@@ -1,0 +1,88 @@
+Let's start with creating an introduction for the "Team Meeting Notes". Recap the previous meeting's outcome and give a brief overview of the points to be discussed during the current meeting. Use {{prior_outcomes}} and {{discussion_points}} as a reference for the points that need to be covered.
+
+Here's some more context about the Team Meeting Notes:
+Prior Outcomes: {{prior_outcomes}}
+Discussion Points: {{discussion_points}}
+Game Strategies: {{game_strategies}}
+Player Performances: {{player_performances}}
+Team Members Progress: {{team_members_progress}}
+Future Game Strategies: {{future_game_strategies}}
+Team Challenges: {{team_challenges}}
+Team Members Feedback: {{team_members_feedback}}
+Future Actions: {{future_actions}}
+
+->>>>
+
+For our "High School Students - Sports" team meeting, we have an introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's generate a section that highlights the team's recent performance. Discuss the brief stats, game strategies, player performances, and improvements or declines seen since the last meeting. Use {{game_strategies}} and {{player_performances}} to guide your response.
+
+->>>>
+
+For our "Team Meeting Notes", we have our introduction and a high-level overview of the team's recent performance:
+
+Introduction:
+{{step_1}}
+
+Recent Performance:
+{{step_2}}
+
+Progressing further, let's create a section dedicated to the individual performances of team members. Describe their progress since the previous meeting, any notable changes in skills or behavior, and the expected improvement actions for the next period. Use {{team_members_progress}} to guide your response.
+
+->>>>
+
+In our "Team Meeting Notes", we now have sections for individual performances of team members:
+
+Introduction:
+{{step_1}}
+
+Recent Performance:
+{{step_2}}
+
+Individual Performances:
+{{step_3}}
+
+Next, create a section regarding the strategic planning. Outline specific strategies that have been decided for the team's future games or competitions. Use {{future_game_strategies}} to guide your response.
+
+->>>>
+
+Now, in our "Team Meeting Notes", we have covered strategic planning for future games or competitions:
+
+Introduction:
+{{step_1}}
+
+Recent Performance:
+{{step_2}}
+
+Individual Performances:
+{{step_3}}
+
+Strategic Planning:
+{{step_4}}
+
+The next task is to compose a section on issues and concerns. Detail any challenges faced by the team, any significant issues that impact the team's performance, and the actions taken to address these issues. Use {{team_challenges}} to guide your response.
+
+->>>>
+
+So far in our "Team Meeting Notes", we have covered the challenges faced by the team and the steps taken to address these issues:
+
+Introduction:
+{{step_1}}
+
+Recent Performance:
+{{step_2}}
+
+Individual Performances:
+{{step_3}}
+
+Strategic Planning:
+{{step_4}}
+
+Issues and Concerns:
+{{step_5}}
+
+Towards the end, let's provide a platform for open discussion in our "Team Meeting Notes". Encourage team members to ask questions, share thoughts, and provide feedback on the team strategy and decisions made during the meeting. Use {{team_members_feedback}} to guide your response.
+

@@ -1,0 +1,66 @@
+Your task is to write a "Budget Request" for the "Grant Writing - Human Rights Organizations" industry, requiring the skills of a "Grant Writer". Let's begin by generating an Overview Section introducing your organization and the project for which the grant is requested.
+
+Here's some more context about the Budget Request:
+Project Goals: {{project_goals}}
+Budget Breakdown: {{budget_breakdown}}
+Justification Statement: {{justification_statement}}
+Monitoring And Evaluation Plans: {{monitoring_and_evaluation_plans}}
+Sustainability Plan: {{sustainability_plan}}
+
+->>>>
+
+Now, we have created an overview for the Budget Request:
+
+Overview:
+{{step_1}}
+
+Next, we need to develop an Objectives Section highlighting the goals of your project and illustrating how it addresses human rights issues. Make sure to explain how the funds will contribute to these goals.
+
+->>>>
+
+We now have the project's objectives listed:
+
+Overview:
+{{step_1}}
+
+Objectives:
+{{step_2}}
+
+Moving forward, let's include a detailed Budget Breakdown. List each item or service for which funds are requested, making it logical and granular. Break down each large cost into smaller parts with their individual expenses.
+
+->>>>
+
+Our budget request now includes a detailed Budget Breakdown:
+
+Objectives:
+{{step_2}}
+
+Budget Breakdown:
+{{step_3}}
+
+Next, we'll write a Justification Section. In this section, we should thoroughly explain why each budget item is necessary for our project and how each contributes to achieving our human rights objectives. Remember to establish a relation between the costs and the projected outcomes of the planned spending.
+
+->>>>
+
+Our budget request now includes a Justification Section:
+
+Budget Breakdown:
+{{step_3}}
+
+Justification Statement:
+{{step_4}}
+
+Now, let's design a Monitoring and Evaluation Section. Outline the systems and methods your organization plans to use in order to keep track of the project's progress and assess the effectiveness of the utilization of funds.
+
+->>>>
+
+We have added a Monitoring and Evaluation plan to the budget request:
+
+Justification:
+{{step_4}}
+
+Monitoring and Evaluation:
+{{step_5}}
+
+Next, let's compose a Sustainability Section. This section should explain the plans for the project's sustainability after the end of the grant period, reinforcing the theme of human rights sustainability.
+

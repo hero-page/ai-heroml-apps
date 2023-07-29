@@ -1,0 +1,63 @@
+Your task is to write a "Sport Analysis" for the "High School Students - Sports" industry, specifically for a "Student Athlete". Let's start with an introduction that outlines the sport in topic: {{sport}}, the athlete’s performance so far, and the purpose of the analysis.
+
+Here's some more context about the Sport Analysis:
+Sport: {{sport}}
+Athlete Name: {{athlete_name}}
+
+->>>>
+
+The "Sport Analysis" report began with an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, write a performance summary, providing a minute-by-minute retrospect of the {{athlete_name}}'s performance in the recent game(s)/event(s) in context.
+
+->>>>
+
+We have the introduction and the performance summary for our "Sport Analysis" report:
+
+Introduction:
+{{step_1}}
+
+Performance Summary:
+{{step_2}}
+
+Now, let's examine the strengths and challenges of the {{athlete_name}}, pinpointing specific plays or actions that exemplify these characteristics.
+
+->>>>
+
+The "Sport Analysis" report now includes the strengths and challenges of the athlete:
+
+Performance Summary:
+{{step_2}}
+
+Strengths and Challenges:
+{{step_3}}
+
+Next, analyze the performances of other key competitors/participants in the {{sport}}, and highlight how their actions influenced or affected the performance of {{athlete_name}}.
+
+->>>>
+
+In the "Sport Analysis" report, we analyzed the influence of other competitors on the athlete. Now we have:
+
+Strengths and Challenges:
+{{step_3}}
+
+Competitors' Influence:
+{{step_4}}
+
+Create a section comparing the performance metrics of the {{athlete_name}} to the league/industry averages for the {{sport}}.
+
+->>>>
+
+The "Sport Analysis" report has the following sections:
+
+Competitors' Influence:
+{{step_4}}
+
+Performance Metrics Comparison:
+{{step_5}}
+
+Now, in the outcomes and opportunities section, provide an analysis of the impact of the {{athlete_name}}'s performance on the game's results, and what opportunities lie ahead for improvement.
+

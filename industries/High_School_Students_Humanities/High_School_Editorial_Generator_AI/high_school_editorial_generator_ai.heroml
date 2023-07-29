@@ -1,0 +1,67 @@
+Your task is to write an "Editorial" for the "High School Students - Humanities" industry, specifically for a "Newspaper Club Member". 
+
+Let's start with an introduction. Please provide a short paragraph that provides a brief overview and context to the issues to be discussed on the given topic, {{editorial_topic}}.
+
+Here's some more context about the Editorial:
+Editorial Topic: {{editorial_topic}}
+Stance On Topic: {{stance_on_topic}}
+Supporting Evidence 1: {{supporting_evidence_1}}
+Supporting Evidence 2: {{supporting_evidence_2}}
+Supporting Evidence 3: {{supporting_evidence_3}}
+Counterargument And Rebuttal: {{counterargument_and_rebuttal}}
+Conclusive Statement: {{conclusive_statement}}
+
+->>>>
+
+We have an introduction for our editorial:
+
+Introduction:
+{{step_1}}
+
+Now, write a statement of position to offer a clear stance on the topic. This statement will set the tone for the rest of the editorial and should be thought-provoking.
+
+->>>>
+
+We have set the tone with our statement of position:
+
+Introduction:
+{{step_1}}
+
+Statement of Position:
+{{step_2}}
+
+Moving forward, we need to support this standpoint with evidence. These could be facts gleaned from research, compelling anecdotes, or logical reasoning based on the information available. Make sure each point is in its own paragraph.
+
+->>>>
+
+We have an introduction, statement of position, and supporting evidence for our editorial:
+
+Introduction:
+{{step_1}}
+
+Statement of Position:
+{{step_2}}
+
+Supporting Evidence:
+{{step_3}}
+
+Next, let's consider any counterarguments. Acknowledge differing viewpoints to demonstrate that all sides of the issue have been considered. This also gives a chance to counter these opposing arguments with more evidence and reinforcement of the original position.
+
+->>>>
+
+We are building this editorial with an introduction, statement of position, supporting evidence, and consideration of counterarguments:
+
+Introduction:
+{{step_1}}
+
+Statement of Position:
+{{step_2}}
+
+Supporting Evidence:
+{{step_3}}
+
+Counterarguments:
+{{step_4}}
+
+Now, conclude with a powerful ending. This can be a call to action, a rallying cry, or a summary of your viewpoint that leaves your audience with something to think about. It should be persuasive and directly related to your stance on the topic.
+

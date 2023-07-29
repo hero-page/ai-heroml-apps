@@ -1,0 +1,100 @@
+You're tasked with creating a "Medicine Making Guide" for a "Herbalist" in the "Herbalism & Plant Medicine" industry. 
+Start by writing an introduction that explains the main objectives of the guide based on the goals we're aiming to achieve, such as "How to identify beneficial herbs" or "Creating effective herbal medicine". 
+
+Here's some more context about the Medicine Making Guide:
+Guide Objectives: {{guide_objectives}}
+Herb Prep: {{herb_prep}}
+Extraction Principles: {{extraction_principles}}
+Medicine Types: {{medicine_types}}
+Safety Considerations: {{safety_considerations}}
+
+->>>>
+
+With the main objectives at hand:
+
+Guide Objectives:
+{{step_1}}
+
+Let's write about the key principles of herbal medicine making. This should include sections on harvesting and preparing herbs, the principles of extraction, and the different types of herbal medicine like tinctures, salves, and teas.
+
+->>>>
+
+We have listed the main objectives of the guide, and now we have the key principles of herbal medicine making:
+
+Guide Objectives:
+{{step_1}}
+
+Key Principles of Herbal Medicine:
+{{step_2}}
+
+Let's take these key principles and arrange them into organised, accessible chapters. Each chapter should explain the science behind the topic and provide practical guidance on its application.
+
+->>>>
+
+We have our main objectives and key principles arranged into chapters:
+
+Guide Objectives:
+{{step_1}}
+
+Chapters:
+{{step_3}}
+
+Next, provide industry-specific tips and tricks for efficient herbal medicine making. This should cover traditional techniques, shortcuts, best practices and warnings about common pitfalls in herbalism.
+
+->>>>
+
+We have our main objectives, key principals in chapters and now we have industry-specific tips and tricks:
+
+Guide Objectives:
+{{step_1}}
+
+Chapters:
+{{step_3}}
+
+Tips and Tricks:
+{{step_4}}
+
+Now, let's end each chapter with a 'Key Takeaways' section that summarises the important points, enabling the herbalist to easily recall and apply the information.
+
+->>>>
+
+We have our objectives, chapters, tips, and now, summarized 'Key Takeaways' from each chapter:
+
+Guide Objectives:
+{{step_1}}
+
+Chapters with 'Key Takeaways':
+{{step_5}}
+
+Next, dedicate a chapter to outlines safety considerations in herbal medicine making. This should include a clear discussion on potential plant interactions, contraindications, and side effects.
+
+->>>>
+
+With objectives, chapter breakdowns, tips, and summaries at hand, we now have a safety considerations chapter:
+
+Guide Objectives:
+{{step_1}}
+
+Safety Considerations:
+{{step_6}}
+
+Proceed to create a comprehensive glossary of key terms. Include industry-specific jargon and Latin plant names relevant to herbal medicine in this section.
+
+->>>>
+
+Our guide now comes with objectives, chapters, tips, summaries, safety considerations, and a glossary:
+
+Glossary:
+{{step_7}}
+
+Next, develop a practical, step-by-step guide on applying the theoretical knowledge outlined so far. This guide should be based on how to prepare the types of herbal medicines detailed in the key principles section.
+
+->>>>
+
+Here is a pretty comprehensive guide with objectives, a detailed chapter outline, tips, ‘Key Takeaways’ summaries, safety considerations, a glossary and now, a practical, step-by-step application guide:
+
+Practical Application Guide:
+{{step_8}}
+
+Finally, create a concluding section that highlights the value of natural, plant-based medicines, and encourages continued learning and experimentation within herbalism. 
+

@@ -1,0 +1,109 @@
+Your task is to write a "Policy Proposal" for the "High School Students - Social Sciences" industry, specifically for a "Model United Nations Participant". Let's start by crafting an introductory paragraph that summarizes the purpose of this proposal and explains why the issue discussed, {{issue_concern}}, is a concern for the international community.
+
+Here's some more context about the Policy Proposal:
+Issue Concern: {{issue_concern}}
+Issue History And Context: {{issue_history_and_context}}
+Current Status And Challenges: {{current_status_and_challenges}}
+Specific Policy Steps: {{specific_policy_steps}}
+Global Impact: {{global_impact}}
+National Impact: {{national_impact}}
+
+->>>>
+
+Now we have an introduction to our policy proposal, outlining the issue and its importance to the international community:
+
+Introduction:
+{{step_1}}
+
+Next, provide a detailed background section that explains the history and context of the issue, {{issue_history_and_context}}.
+
+->>>>
+
+Now, we have an introduction and a background section for our policy proposal:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Subsequently, write a comprehensive examination of the current status of the issue, elaborating on why the issue is not yet resolved and what challenges are contributing to its continuance, {{current_status_and_challenges}}.
+
+->>>>
+
+We have an introduction, a background section, and a current status section for our policy proposal now:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Current Status:
+{{step_3}}
+
+Following this, clearly define the desired policy outcome and the concrete steps that will be taken to achieve this outcome, {{specific_policy_steps}}.
+
+->>>>
+
+We have defined the desired policy outcome for the issue at hand:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Current Status:
+{{step_3}}
+
+Policy Outcome and Steps:
+{{step_4}}
+
+Now, justify this policy on the basis of its potential positive impact at both a global level, {{global_impact}}, and for individual member nations, {{national_impact}}.
+
+->>>>
+
+We have an introduction, background section, current status section, policy outcome section, and justification for the policy:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Current Status:
+{{step_3}}
+
+Policy Outcome and Steps:
+{{step_4}}
+
+Justification:
+{{step_5}}
+
+Finally, conclude by promoting the importance of global cooperation to solve the issue, {{issue_concern}}, and reiterate your policy steps, {{specific_policy_steps}}, to emphasize their significance.
+
+->>>>
+
+Now we have the full policy proposal, including an introduction, background section, current status section, policy outcome section, justification, and conclusion:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Current Status:
+{{step_3}}
+
+Policy Outcome and Steps:
+{{step_4}}
+
+Justification:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+As a last step, let's ensure the proposal uses appropriate diplomatic language, references real U.N. policies and documents, aligns with your represented nation's stance, encourages support from other nations, and is validated with trustworthy citations. 
+

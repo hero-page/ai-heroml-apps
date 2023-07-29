@@ -1,0 +1,110 @@
+Your task is to write a Company Profile for the High School Students - Business & Economics industry, specifically for a Future Business Leaders of America Member. Start the profile by laying the groundwork with the mission statement.
+
+Here's some more context about the Company Profile:
+Mission Statement: {{mission_statement}}
+Company Overview: {{company_overview}}
+Company History: {{company_history}}
+Products Or Services: {{products_or_services}}
+Team Profiles: {{team_profiles}}
+Achievements And Future Plans: {{achievements_and_future_plans}}
+Contact Information: {{contact_information}}
+
+->>>>
+
+We have begun the Company Profile:
+
+Mission Statement:
+{{step_1}}
+
+Next, let's draft a Company Overview for this profile. The overview should provide a short, insightful description of the company and its unique aspects.
+
+->>>>
+
+We have generated our Company Overview:
+
+Mission Statement:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+With that information, let's now detail the company's history. Highlight any milestones or significant events that led your company to its current form.
+
+->>>>
+
+So far, we have created the following sections:
+
+Mission Statement:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+Company History:
+{{step_3}}
+
+Next, let's describe the products or services our company is offering. Be sure to connect these offerings to the needs of high school students interested in business and economics.
+
+->>>>
+
+Subsequent to the above sections, we now have:
+
+Mission Statement:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+Company History:
+{{step_3}}
+
+Products or Services:
+{{step_4}}
+
+The next step is to detail the profiles of our team members. Describe their roles, professional backgrounds, and contributions towards the company's mission. Also, specify what they bring to the table for Future Business Leaders of America.
+
+->>>>
+
+Up to now, we have the following sections:
+
+Mission Statement:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+Company History:
+{{step_3}}
+
+Products or Services:
+{{step_4}}
+
+Team Profiles:
+{{step_5}}
+
+Following the team member profiles, let's incorporate the company’s achievements and future plans. This should effectively communicate the company's credibility and commitment towards long-term goals.
+
+->>>>
+
+Incorporating previous sections, we have:
+
+Mission Statement:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+Company History:
+{{step_3}}
+
+Products or Services:
+{{step_4}}
+
+Team Profiles:
+{{step_5}}
+
+Achievements and Future Plans:
+{{step_6}}
+
+Finally, close with supplying contact information and an inviting statement for readers to get in touch for more information or engagement.
+

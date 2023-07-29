@@ -1,0 +1,65 @@
+Your task is to write an "Evaluation and Learning" for the "Grant Writing - International Development" industry, specifically for a "Project Coordinator". To do so, we need to follow these steps:
+
+Let's begin by crafting an introduction that defines the project's outlined goals: {{project_goals}}, context in which these goals were developed, and a brief explanation about the project supported by the grant application.
+
+Here's some more context about the Evaluation and Learning:
+Project Goals: {{project_goals}}
+Grant Objectives: {{grant_objectives}}
+Grant Regulations: {{grant_regulations}}
+Project Management Principles: {{project_management_principles}}
+Future Recommendations: {{future_recommendations}}
+
+->>>>
+
+After that activity, we have an introduction for our "Evaluation and Learning":
+
+Introduction:
+{{step_1}}
+
+Next, generate a section dedicated to evaluating the conduct of the project in relation to the grant, specifically discussing whether the project fulfilled the objectives described in the grant proposal: {{grant_objectives}}, challenges or successes encountered, and their impact on the project delivery.
+
+->>>>
+
+Following that, we have the project-evaluation section:
+
+Introduction:
+{{step_1}}
+
+Evaluation of Project:
+{{step_2}}
+
+Let's proceed and develop a separate section focused on learning outcomes. Here, the Project Coordinator (you) should identify key learnings from the project implementation. Reflect on how you've understood and applied the established grant regulations: {{grant_regulations}} and key project management principles: {{project_management_principles}}.
+
+->>>>
+
+Now, take into consideration:
+
+Introduction:
+{{step_1}}
+
+Evaluation of Project:
+{{step_2}}
+
+Learning Outcomes:
+{{step_3}}
+
+Next, make a robust comparison discussing the project expectations as outlined in the grant proposal against actual project outcomes. Reflect on areas, where the performance met or exceeded expectations, and where improvements could have been made. Discuss deviations between projected goals: {{project_goals}} and actual results.
+
+->>>>
+
+After accomplishing that, refer to:
+
+Introduction:
+{{step_1}}
+
+Evaluation of Project:
+{{step_2}}
+
+Learning Outcomes:
+{{step_3}}
+
+Comparison of Expectations and Results:
+{{step_4}}
+
+Finally, close the "Evaluation and Learning" document by providing constructive recommendations for the future. Based on the evaluation and learned outcomes, suggest points that can refine future grant management and project delivery procedures. Also, provide pointers for refining future grant proposals relating to the improvement of project planning and implementation: {{future_recommendations}}.
+

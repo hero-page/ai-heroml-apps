@@ -1,0 +1,86 @@
+Your task is to write a "Maintenance Guide" for the "Hardware Documentation" industry, specifically for a "Technical Writer". 
+Let's start by writing an introduction which gives a high-level overview of the hardware product the guide refers to and explains the purpose of the "Maintenance Guide". Remember to title this segment as {{maintenance_purpose}}.
+
+Here's some more context about the Maintenance Guide:
+Maintenance Purpose: {{maintenance_purpose}}
+Necessary Tools And Safety: {{necessary_tools_and_safety}}
+Maintenance Procedure: {{maintenance_procedure}}
+Troubleshooting Advice: {{troubleshooting_advice}}
+Industry Experience: {{industry_experience}}
+Customer Support: {{customer_support}}
+
+->>>>
+
+Now we have an introduction for our "Maintenance Guide":
+
+Maintenance Purpose:
+{{step_1}}
+
+Next, compile a list of necessary tools and safety measures that should be considered when performing maintenance tasks on the specified hardware product. Let's title this segment as {{necessary_tools_and_safety}}.
+
+->>>>
+
+We have the introduction, and a list of necessary tools and safety measures for maintenance tasks:
+
+Maintenance Purpose:
+{{step_1}}
+
+Necessary Tools and Safety Measures:
+{{step_2}}
+
+Now, describe a step-by-step procedure for each maintenance task associated with the hardware product. Explain how each task is carried out, the precautions necessary, and expected results. This segment should be titled as {{maintenance_procedure}}.
+
+->>>>
+
+So far, we have the following components for our "Maintenance Guide":
+
+Maintenance Purpose:
+{{step_1}}
+
+Necessary Tools and Safety Measures:
+{{step_2}}
+
+Maintenance Procedure:
+{{step_3}}
+
+Next, let's provide some troubleshooting advice for common problems that may occur during maintenance tasks or as signs that maintenance is required. Let's title this section as {{troubleshooting_advice}}.
+
+->>>>
+
+By now, we have:
+
+Maintenance Purpose:
+{{step_1}}
+
+Necessary Tools and Safety Measures:
+{{step_2}}
+
+Maintenance Procedure:
+{{step_3}}
+
+Troubleshooting Advice:
+{{step_4}}
+
+Now, include some tips and techniques gained from industry experience. This should include specifics on how to perform the maintenance tasks more efficiently or how to diagnose hidden issues. This segment should be labelled as {{industry_experience}}.
+
+->>>>
+
+So far, we have:
+
+Maintenance Purpose:
+{{step_1}}
+
+Necessary Tools and Safety Measures:
+{{step_2}}
+
+Maintenance Procedure:
+{{step_3}}
+
+Troubleshooting Advice:
+{{step_4}}
+
+Industry Experience:
+{{step_5}}
+
+Finally, provide customer support information where users can seek additional help for the hardware product. This segment should be labelled as {{customer_support}}.
+

@@ -1,0 +1,112 @@
+Your task is to write a "Data Management Plan" for the "Grant Writing - Research Institutions" industry, for a "Researcher". 
+
+Let's begin with an introduction. 
+
+Explain the project's research problem: {{research_problem}}. This should provide the context for the 'Data Management Plan', highlighting the importance and relevance of effective data management to the research question.
+
+Here's some more context about the Data Management Plan:
+Research Problem: {{research_problem}}
+Data Types: {{data_types}}
+Data Documentation Methods: {{data_documentation_methods}}
+Data Storage And Protection: {{data_storage_and_protection}}
+Data Sharing And Access: {{data_sharing_and_access}}
+Data Reuse And Preservation: {{data_reuse_and_preservation}}
+Roles And Responsibilities: {{roles_and_responsibilities}}
+Data Management Plan Budget: {{data_management_plan_budget}}
+Data Management Plan Summary: {{data_management_plan_summary}}
+
+->>>>
+
+This is the introduction to our "Data Management Plan": 
+
+Introduction:
+{{step_1}}
+
+The next step is to identify and describe the types of data that will be generated or collected in your project: {{data_types}}. Describe the methods used for data collection, and explain why these methods are appropriate for your research problem.
+
+->>>>
+
+The introduction to the Data Management Plan is:
+
+Introduction:
+{{step_1}}
+
+The collected data and the involved methodologies are:
+
+Data Collection:
+{{step_2}}
+
+Moving on, detail how the collected data will be documented and organized: {{data_documentation_methods}}. Consider the data standards and the metadata that will be used to annotate the data, ensuring it can be understood and used properly in the future.
+
+->>>>
+
+For our Data Management Plan, we have defined the collection process and the subsequent documentation approach:
+
+Data Collection:
+{{step_2}}
+
+Data Documentation and Metadata:
+{{step_3}}
+
+Next, discuss how the data will be safely stored and protected: {{data_storage_and_protection}}. Include details about physical storage solutions, digital security measures, backup protocols, and access restrictions.
+
+->>>>
+
+In the Data Management Plan, this is how the data is documented, and stored and protected:
+
+Data Documentation and Metadata:
+{{step_3}}
+
+Data Storage and Protection:
+{{step_4}}
+
+Then, explain how data will be shared and who will have access to it: {{data_sharing_and_access}}. Detail any limitations to data accessibility due to ethical considerations, participant confidentiality, or proprietary data use agreements.
+
+->>>>
+
+This is how we are planning on storing, protecting, and providing access to the data:
+
+Data Storage and Protection:
+{{step_4}}
+
+Data Access and Sharing:
+{{step_5}}
+
+Next, discuss your plans for long-term data preservation and how this data can be re-used in future research: {{data_reuse_and_preservation}}.
+
+->>>>
+
+The plan for granting access to the data and the provisions for its reuse and preservation are:
+
+Data Access and Sharing:
+{{step_5}}
+
+Data Re-usage and Long-term Preservation:
+{{step_6}}
+
+Detail roles and responsibilities for all stages of data management: {{roles_and_responsibilities}}. Remember to include information about the person or team responsible for each stage of the data management life-cycle.
+
+->>>>
+
+The protocols defined for reusing the data, alongside the roles & responsibilities during the data management processes, are:
+
+Data Re-usage and Long-term Preservation:
+{{step_6}}
+
+Roles and Responsibilities:
+{{step_7}}
+
+Provide an estimate of costs associated with implementing this data management plan: {{data_management_plan_budget}}.
+
+->>>>
+
+The identified roles and responsibilities during data management and the estimated budget are:
+
+Roles and Responsibilities:
+{{step_7}}
+
+Budget:
+{{step_8}}
+
+To wrap up the "Data Management Plan", end with a summary that reiterates the main processes and procedures. In this section, emphasize the beneficial impact of proper data management on your research problem and the broader scientific community: {{data_management_plan_summary}}.
+

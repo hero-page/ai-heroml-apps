@@ -1,0 +1,90 @@
+Your task is to write a "Speech" for the "High School Students - Humanities" industry, specifically for a "Debate Club Member". 
+
+Let's begin by generating an introduction for the topic {{speech_topic}}. Briefly explain its importance and interest in the context of the debate.
+
+Here's some more context about the Speech:
+Speech Topic: {{speech_topic}}
+Main Argument: {{main_argument}}
+Counter Argument: {{counter_argument}}
+
+->>>>
+
+This is the introduction to our speech:
+
+Introduction:
+{{step_1}}
+
+Next, let's identify the main argument or thesis of your speech: {{main_argument}}. It should be clear, precise and persuasive.
+
+->>>>
+
+The introduction for our speech is ready:
+
+Introduction:
+{{step_1}}
+
+The main argument for our speech is:
+
+Main Argument:
+{{step_2}}
+
+Now, we need to structure the body of your speech with main points that support your {{main_argument}}. Back each point with compelling evidence or reasons. Also, consider potential counterarguments and their rebuttals.
+
+->>>>
+
+The introduction and main argument of our speech are:
+
+Introduction:
+{{step_1}}
+
+Main Argument:
+{{step_2}}
+
+The body of the Speech is:
+
+Body:
+{{step_3}}
+
+Moving forward, incorporate industry-specific elements. Cite reputable sources, examples from current events, and direct quotations from experts that are relevant to the debate topic.
+
+->>>>
+
+Now, we have prepared the introduction, main argument, body of our speech:
+
+Introduction:
+{{step_1}}
+
+Main Argument:
+{{step_2}}
+
+Body:
+{{step_3}}
+
+And industry-specific elements:
+
+Industry-specific elements:
+{{step_4}}
+
+Next, include a section where you address counter-arguments, {{counter_argument}}, demonstrating that you've considered the other side. Make sure to refute these points to strengthen your case.
+
+->>>>
+
+We have the introduction, main argument, body, industry-specific elements for our speech, and a counter-argument section:
+
+Introduction:
+{{step_1}}
+
+Main Argument:
+{{step_2}}
+
+Body:
+{{step_3}}
+
+Industry-specific elements:
+{{step_4}}
+
+Counter-argument section:
+{{step_5}}
+
+Then, construct a powerful conclusion for your speech. Reiterate your {{main_argument}} and the main supporting points. Discuss the implications and make a persuasive appeal to your audience.
+

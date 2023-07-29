@@ -1,0 +1,118 @@
+Your task is to create a "Mathematical Proof" in the "High School Students – Mathematics" industry for a "Student". 
+Let's start by creating a "Statement of Problem". This is where we present the problem we are trying to prove: {{math_problem}}.
+
+Here's some more context about the Mathematical Proof:
+Math Problem: {{math_problem}}
+Principal Terms: {{principal_terms}}
+Assumption List: {{assumption_list}}
+Verification Method: {{verification_method}}
+Extended Problems: {{extended_problems}}
+
+->>>>
+
+We have the statement of our mathematical problem:
+
+Statement of Problem:
+{{step_1}}
+
+Now let's continue to the "Definition of Terms" section. Here, let's define the main mathematical terms and principles applied in the problem, {{principal_terms}}, and if applicable, explain the relational dynamics between these terms.
+
+->>>>
+
+We have defined the terms and principles of our mathematical problem:
+
+Definition of Terms:
+{{step_2}}
+
+Next, let's propose a “Hypothesis”. This is a tentative explanation or presumption that the {{math_problem}} is true, to be tested in our forthcoming proof.
+
+->>>>
+
+Our mathematical problem and its defined terms are:
+
+Statement of Problem:
+{{step_1}}
+
+Definition of Terms:
+{{step_2}}
+
+We have formed a hypothesis for our problem:
+
+Hypothesis:
+{{step_3}}
+
+Let's now proceed to the "Mathematical Proof" section, starting with the "Assumptions." We need to make a list of any assumptions or givens necessary for the problem: {{assumption_list}}.
+
+->>>>
+
+Our mathematical problem, defined terms, and hypothesis are:
+
+Statement of Problem:
+{{step_1}}
+
+Definition of Terms:
+{{step_2}}
+
+Hypothesis:
+{{step_3}}
+
+This is the list of assumptions we've made for our problem:
+
+Assumptions:
+{{step_4}}
+
+Next, let's develop the "Proof". We will systematically approach {{math_problem}}, showing step-by-step how it can be solved using the assumptions and principles from the previous step.
+
+->>>>
+
+We have assumptions and a proof procedure for our mathematical problem:
+
+Assumptions:
+{{step_4}}
+
+Proof:
+{{step_5}}
+
+For making sure our proof is correct, proceed with the "Verification." Let's validate our proof: {{verification_method}}.
+
+->>>>
+
+We have the proof and its validation for our problem:
+
+Proof:
+{{step_5}}
+
+Verification:
+{{step_6}}
+
+Let's create a "Conclusion". This is where we confirm whether the original hypothesis for the problem was proven correct, or if it was incorrect and a new hypothesis needs to be formed.
+
+->>>>
+
+Our mathematical problem's proof and its verification are as follows:
+
+Proof:
+{{step_5}}
+
+Verification:
+{{step_6}}
+
+We have a conclusion based on the proof and its verification:
+
+Conclusion:
+{{step_7}}
+
+Under the final step "Reflection," let's note what lessons were learned from this process. The reflection could incorporate discoveries about the problem, the proof process, or the mathematical principles involved.
+
+->>>>
+
+After concluding our mathematical problem, the lessons learned are:
+
+Conclusion:
+{{step_7}}
+
+Reflection:
+{{step_8}}
+
+In the end, let's encourage revisiting "Extended Problems". We need to analyze and solve more complex problems: {{extended_problems}} that are based on the knowledge acquired from solving the {{math_problem}}.
+

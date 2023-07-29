@@ -1,0 +1,98 @@
+
+You are tasked with generating Safety Instructions for a Technical Writer in the Hardware Documentation Industry:
+
+Let's start by creating a compelling introduction that clearly states the purpose of the safety instructions: {{purpose}}.
+
+Here's some more context about the Safety Instructions:
+Purpose: {{purpose}}
+Hardware Component: {{hardware_component}}
+Potential Hazards: {{potential_hazards}}
+Safety Procedures: {{safety_procedures}}
+Required Tools And PPE: {{required_tools_and_PPE}}
+Safety Standards And Regulations: {{safety_standards_and_regulations}}
+Emergency Procedures: {{emergency_procedures}}
+
+->>>>
+
+We have generated an introduction for our Safety Instructions:
+
+Introduction:
+{{step_1}}
+
+Now, let's provide a brief on the hardware component these instructions are targeted towards: {{hardware_component}}.
+
+->>>>
+
+Our Safety Instructions now have an introduction and a brief:
+
+Introduction:
+{{step_1}}
+
+Brief:
+{{step_2}}
+
+Let's now identify potential hazards in working with the specific hardware component, and categorize them under appropriate heads: mechanical, electrical, chemical, etc.
+
+->>>>
+
+Our Safety Instructions now contain an introduction, a brief, and a categorized list of potential hazards:
+
+Introduction:
+{{step_1}}
+
+Brief:
+{{step_2}}
+
+Potential Hazards:
+{{step_3}}
+
+Let's detail the safety procedures and precautionary measures to deal with these identified hazards. The procedures should align with the workflow and operation process of the hardware.
+
+->>>>
+
+Our Safety Instructions now detail potential hazards and align them with safety procedures:
+
+Potential Hazards:
+{{step_3}}
+
+Safety Procedures:
+{{step_4}}
+
+Next, specify the tools and personal protection equipment (PPE) required for each safety procedure.
+
+->>>>
+
+Our Safety Instructions now detail safety procedures and specify required tools and PPE:
+
+Safety Procedures:
+{{step_4}}
+
+Required Tools and PPE:
+{{step_5}}
+
+Now, introduce industry-specific safety standards and regulations that must be followed when handling the hardware component.
+
+->>>>
+
+Adding to our Safety Instructions, we have detailed safety procedures and introduced safety standards and regulations:
+
+Safety Procedures:
+{{step_4}}
+
+Safety Standards and Regulations:
+{{step_6}}
+
+Let's now provide advice on emergency procedures or the immediate action to be taken in case of a safety incident involving the hardware component.
+
+->>>>
+
+Our comprehensive Safety Instructions now offer insight on safety standards as well as emergency procedures:
+
+Safety Standards and Regulations:
+{{step_6}}
+
+Emergency Procedures:
+{{step_7}}
+
+Next, indicate the importance of following these safety precautions and how they contribute to a risk-free and productive environment.
+

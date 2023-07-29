@@ -1,0 +1,81 @@
+Your task is to write a "Community Impact Statement" for an organization in the "Grant Writing - Housing Organizations" industry, specifically for a "Grant Writer". First, let's start by writing an introduction that provides an overview of the {{organization_name}} and the grants obtained for housing projects in the community. Describe the core mission of the organization and the purpose of the community impact statement.
+
+Here's some more context about the Community Impact Statement:
+Organization Name: {{organization_name}}
+Housing Project Name: {{housing_project_name}}
+
+->>>>
+
+We have an introduction to our Community Impact Statement, which provides an overview of the organization and its mission:
+
+Introduction:
+{{step_1}}
+
+Building from this, let's discuss the {{housing_project_name}} funded by the grant, providing a concise description of the project, its objective, and the target population it serves.
+
+->>>>
+
+We now have an introduction to our Community Impact Statement and a concise description of the project:
+
+Introduction:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Next, we'll discuss the specific problem or need in the community that the {{housing_project_name}} is addressing. Elaborate why the project is crucial, incorporating any relevant demographic or socioeconomic data to highlight the need in the community. Ensure to make this data-specific and tailor it to the organization's focus area.
+
+->>>>
+
+For the Community Impact Statement, we have the introduction, project description, and a detailed explanation of the community need:
+
+Introduction:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Community Need:
+{{step_3}}
+
+Moving on, we need to outline the project implementation, detailing how the {{housing_project_name}} operates. Include aspects like the timeline, phases involved, project resources, and the number of families or individuals who have benefited, all of which will show how methodically the grant is being used.
+
+->>>>
+
+In the Community Impact Statement, we now have a description of the project implementation:
+
+Introduction:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Community Need:
+{{step_3}}
+
+Project Implementation:
+{{step_4}}
+
+Next, let's discuss the tangible and intangible impact of the {{housing_project_name}} on the community. Highlight how the project has improved the living conditions, promoted social cohesion, and positively affected health, education, or economic factors in the community.
+
+->>>>
+
+We now have a detailed description of the impact of the {{housing_project_name}} on the community:
+
+Introduction:
+{{step_1}}
+
+Project Description:
+{{step_2}}
+
+Community Need:
+{{step_3}}
+
+Project Implementation:
+{{step_4}}
+
+Project Impact:
+{{step_5}}
+
+Now, we need to present testimonials or stories from community members who have benefited from the {{housing_project_name}}. These narratives should show how the project has made a direct, positive effect on individual lives and thus, the community as a whole.
+

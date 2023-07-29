@@ -1,0 +1,59 @@
+Your task is to write a "Game Strategy" for the "High School Students - Sports" industry, specifically for a "Team Captain". 
+
+Let's begin by writing a motivational introduction that briefly explains the purpose of the game strategy for the game: {{game}}. The team captain must understand that the strategy is designed to enhance the team's performance in the game.
+
+Here's some more context about the Game Strategy:
+Game: {{game}}
+Team Performance: {{team_performance}}
+Opponent Performance: {{opponent_performance}}
+Team Skills: {{team_skills}}
+
+->>>>
+
+Currently, we have an introduction that sets the tone and purpose for our "Game Strategy":
+
+Introduction:
+{{step_1}}
+
+Next, analyze the current performance levels of the team: {{team_performance}}, as well as review the strengths and weaknesses of opponent teams: {{opponent_performance}}. Use this analysis to form a foundation for your subsequent strategy.
+
+->>>>
+
+The performance analysis of our team and opponents is as follows:
+
+Team and Opponents Performance Analysis:
+{{step_2}}
+
+Based on this analysis, define the "Game Strategy". List specific goals and objectives you want to achieve by implementing the strategy in the {{game}}.
+
+->>>>
+
+Our analysis is now followed by the "Game Strategy Definition" that outlines our goals for the {{game}}:
+
+Game Strategy Definition:
+{{step_3}}
+
+Now, starting with the analysis and strategy definition:
+
+Team and Opponents Performance Analysis:
+{{step_2}}
+
+Game Strategy Definition:
+{{step_3}}
+
+Develop strategic game plans. Breakdown different game scenarios and suggest possible approaches to handle them, based on the skills and aptitudes of your team members: {{team_skills}}. Ensure these strategies exploit your team's strengths and counter the opponent's strengths.
+
+->>>>
+
+We have developed strategic game plans based on the analysis and defined goals:
+
+Strategic Game Plans:
+{{step_4}}
+
+Moving forward, based on the strategic game plans:
+
+Strategic Game Plans:
+{{step_4}}
+
+Introduce an actionable plan. This should detail the steps on implementing the strategies during the game: {{game}}. Additionally, include contingency plans in case the main strategies don't work.
+

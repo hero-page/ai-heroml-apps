@@ -1,0 +1,89 @@
+Your task is to write a Speech for the High School Students - Social Sciences industry, specifically for a Model United Nations Participant. 
+
+Start with creating an introduction that sets the stage and outlines the topic of your speech.
+
+Here's some more context about the Speech:
+Speech Topic: {{Speech_topic}}
+Country: {{Country}}
+
+->>>>
+
+For a Model United Nations speech, we have an introduction:
+
+Introduction:
+{{step_1}}
+
+Now, move on to provide context, detailing the significance of the issue at hand and why it matters on an international level.
+
+->>>>
+
+In our MUN speech, after the introduction, we have provided a relevant context:
+
+Context:
+{{step_2}}
+
+Next, introduce the country you are representing. Briefly explain its stances, interests, and how the issue is affecting or could affect it.
+
+->>>>
+
+Our MUN speech's introduction and context are ready. Now with details of the country:
+
+Country representation:
+{{step_3}}
+
+Next up, discuss the core arguments you want to put forth. Each argument should reflect the situation, policies, perspectives, and potential recommendations of the county you are representing towards the issue.
+
+->>>>
+
+For our MUN speech, the introduction, context, and country's stance are ready, and now we have the core arguments:
+
+Core Arguments:
+{{step_4}}
+
+Furthermore, support your arguments with accurate statistics and facts that are specific to the country you are representing.
+
+->>>>
+
+We have a well-rounded MUN speech with introduction, context, country's stance, and arguments backed with facts:
+
+Facts and Statistics:
+{{step_5}}
+
+Now, advocate for solutions that are in accordance with your country's interests and policies. These must be feasible and should contribute to solving or improving the situation related to the issue.
+
+->>>>
+
+For our MUN speech, we have our country's stance, arguments supported with facts, and now suggested solutions:
+
+Solutions:
+{{step_6}}
+
+Maintain diplomatic language throughout the speech. As a Model United Nations Participant, incorporate United Nations specific terms such as 'Distinguished Delegates,' 'The Honorable Chair,' and the third-person reference to your country.
+
+->>>>
+
+We have a diplomatic language setting for our MUN speech after the introduction, context, country representation, arguments backed with facts, and suggested solutions:
+
+Diplomatic Language:
+{{step_7}}
+
+Moving forward, summarize your arguments and recall highlights from your speech, ending with a substantial call to action that provokes thought and encourages action by other countries towards the issue.
+
+->>>>
+
+We now have a summary and call to action for our MUN speech:
+
+Summary and Call to Action:
+{{step_8}}
+
+To conclude, make sure to end your speech with 'Thank you' or 'Thank you for your attention,' following the formal norms of United Nations speeches.
+
+->>>>
+
+We now have a conclusion with formal appreciation for our MUN speech:
+
+Conclusion with Appreciation:
+{{step_9}}
+
+Lastly, use the formal UN closure: "I yield my time to the chair", or "I yield my time to the floor." This will conclude the formal part of your speech.
+

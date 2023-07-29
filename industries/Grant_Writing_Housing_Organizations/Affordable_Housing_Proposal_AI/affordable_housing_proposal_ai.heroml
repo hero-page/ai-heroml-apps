@@ -1,0 +1,96 @@
+Your task is to write an "Affordable Housing Project Proposal" for the "Grant Writing - Housing Organizations" industry, as a "Grant Writer". 
+
+Let's start by creating an executive summary. This summary should overview the housing project: {{housing_project}} and immediately capture the essence of your proposal while providing a brief highlight of the project. 
+
+Here's some more context about the Affordable Housing Project Proposal:
+Housing Project: {{housing_project}}
+Current Housing Situation: {{current_housing_situation}}
+Target Community Traits: {{target_community_traits}}
+Unique Housing Characteristics: {{unique_housing_characteristics}}
+Partnerships And Resources: {{partnerships_and_resources}}
+Expected Budget And Funding Sources: {{expected_budget_and_funding_sources}}
+Expected Community Impact: {{expected_community_impact}}
+Reiteration Of Project Goals And Request For Consideration: {{reiteration_of_project_goals_and_request_for_consideration}}
+
+->>>>
+
+Our proposal will have an executive summary as follows:
+
+Executive Summary:
+{{step_1}}
+
+Next, write a problem statement. This section should clarify the housing issue that your project aims to address. Discuss the present housing situation in the concerned area, along with the gaps your project aims to fill: {{current_housing_situation}}.
+
+->>>>
+
+In our proposal, the problem statement reads:
+
+Problem Statement:
+{{step_2}}
+
+Now, detail the target community. The proposal should clearly identify the community that stands to benefit from the affordable housing project. Provide specific demographic and behavioral traits of this community, along with their current living conditions: {{target_community_traits}}.
+
+->>>>
+
+The target community for our project is described as follows:
+
+Target Community:
+{{step_3}}
+
+Based on this, provide a detailed project description. This section should offer an in-depth but concise look at the project. Discuss the location of the project, the number of housing units to be provided, timelines, and sustainability plans. Detail the unique characteristics of your housing project which set you apart: {{unique_housing_characteristics}}.
+
+->>>>
+
+Our project description reads:
+
+Project Description:
+{{step_4}}
+
+Next, articulate the feasibility of the project. Justify that the project is achievable and sustainable. Indicate the resources (including human resources and materials) needed and how they will be acquired. Discuss the partnerships that will contribute to project implementation and maintenance: {{partnerships_and_resources}}.
+
+->>>>
+
+We've discussed the project's feasibility, noting resources and partnerships as:
+
+Project Feasibility:
+{{step_5}}
+
+Now let's focus on the project budget proposal. It should outline a clear and conclusive breakdown of the expected project expenses and potential sources of funding. Also, clarify the direct saves to residents, emphasizing the affordability aspect: {{expected_budget_and_funding_sources}}.
+
+->>>>
+
+Our budget proposal for the project is laid out as:
+
+Budget Proposal:
+{{step_6}}
+
+Next, talk about the project's impact. Describe how the affordable housing project will positively influence the community, including metrics for success or benchmarks for measuring progress, economic benefits, and improved standards of living: {{expected_community_impact}}.
+
+->>>>
+
+We've detailed the projected positive impacts of the project as:
+
+Project Impact:
+{{step_7}}
+
+To wrap up our proposal, reiterate the project goals and target benefits to the community. Also express your readiness to cooperate with the grant agency and other stakeholders, requesting for a favorable consideration: {{reiteration_of_project_goals_and_request_for_consideration}}.
+
+->>>>
+
+To conclude our proposal, we reiterate the key points and express engagement with stakeholders as follows:
+
+Conclusion:
+{{step_8}}
+
+Finally, to bolster the proposal's relevance to the 'Housing Organizations' industry, let's integrate the following elements into your proposal:
+- Pertinent housing laws and regulations
+- Alignment of your project with local, regional, or national housing development goals
+- Explicit linkage of the project to the resolution or mitigation of significant societal issues such as homelessness or gentrification
+- Drawing on successful examples of affordable housing projects and lessons learned from less successful ones.
+
+Please adjust the proposal accordingly. 
+
+While infusing these elements, do not alter the content produced in the previous steps substantially. Rather, it should feel as if these points have been an intrinsic part of the proposal all along. 
+
+By doing this, the compliance of your proposal with industry standards and regulations is guaranteed. 
+
