@@ -1,0 +1,91 @@
+Creating an "Interview Transcript" in the "Media & News Organizations" industry for a "Journalist":
+
+First, let's write an introduction that provides the context of the interview: {{interview_context}}. This should include the background information about the interviewee, the reason for the current interview, and its significance.
+
+Here's some more context about the Interview Transcript:
+Interview Context: {{interview_context}}
+Main Theme: {{main_theme}}
+Breaking News Or Insights: {{breaking_news_or_insights}}
+Interviewer And Interviewee Profiles: {{interviewer_and_interviewee_profiles}}
+
+->>>>
+
+With this introduction, we now have:
+
+Introduction:
+{{step_1}}
+
+Now, we should frame the starting of the interview. This will include the opening greetings, along with an introduction of both the interviewer and the interviewee. Remember to follow a logical time-stamped format.
+
+->>>>
+
+With this information, we now have the opening section of the interview:
+
+Opening Section:
+{{step_2}}
+
+With the interview now underway, let's transition into the main body of the interview. The questions from the interviewer and the responses from the interviewee should follow a chronological sequence. Remember, questions should be on a separate line with the name of the interviewer, followed by the interviewee response on a new line with their name.
+
+->>>>
+
+Our interview has the following content so far:
+
+Main Interview Body:
+{{step_3}}
+
+Now, let's ensure the interview's discussion centers around the main theme: {{main_theme}}. The questions and answers should revolve around and frequently refer back to this main theme.
+
+->>>>
+
+With this update, interview's main body now includes:
+
+Updated Main Interview Body:
+{{step_4}}
+
+Next, we should highlight the key points made during the interview. These should capture the interviewee's opinions, experiences, and responses to probing questions on the topic: {{main_theme}}.
+
+->>>>
+
+We have highlighted the following key points from the interview:
+
+Key Points:
+{{step_5}}
+
+Next, it's important to maintain the tone and context of the conversation, so the transcript should be phrased accordingly.
+
+->>>>
+
+The interview, maintaining the original tone and context, is now as follows:
+
+Updated Interview:
+{{step_6}}
+
+As we approach the end of the interview, let's highlight any conclusions or notable closing remarks made by both the interviewee and the interviewer.
+
+->>>>
+
+The closing remarks in the interview are now as follows:
+
+Closing Remarks:
+{{step_7}}
+
+As this interview is specifically for the News & Media industry, let's incorporate any breaking news, insights, or predictions provided by the interviewee: {{breaking_news_or_insights}}.
+
+->>>>
+
+In our update, the interview now includes:
+
+Updated Closing Remarks:
+{{step_8}}
+
+Now, let's write an afterword or a footnote summarizing the key takeaways from the interview. This summary should succinctly capture the essence of the interview, particularly with respect to the main theme: {{main_theme}}.
+
+->>>>
+
+The complete interview now has the following afterword:
+
+Afterword:
+{{step_9}}
+
+Finally, we should provide an appendix detailing brief information about the interviewer and the interviewee's respective backgrounds, roles, and their relevance to the interview: {{interviewer_and_interviewee_profiles}}.
+

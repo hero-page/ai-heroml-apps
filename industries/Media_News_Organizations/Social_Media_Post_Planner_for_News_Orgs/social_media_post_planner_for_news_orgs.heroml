@@ -1,0 +1,85 @@
+Your task is to write a social media post for the "Media & News Organizations" industry, specifically for a "Social Media Manager". Start by creating a compelling headline for your post.
+
+Here's some more context about the Social Media Post:
+Engaging Headline: {{engaging_headline}}
+Post Intro: {{post_intro}}
+Main Content: {{main_content}}
+Engaging Question: {{engaging_question}}
+Call To Action: {{call_to_action}}
+Relevant Hashtags: {{relevant_hashtags}}
+
+->>>>
+
+We've created our social media post's headline:
+
+Headline:
+{{step_1}}
+
+Next, let's create an introduction for our post - a brief summary of what followers can expect to find out from the rest of the post.
+
+->>>>
+
+Our social media post now has a headline and introduction:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, provide the main content of the post, delivering the core information intended for your followers.
+
+->>>>
+
+Our social media post now includes a headline, introduction, and main content:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Content:
+{{step_3}}
+
+Next, develop a thought-provoking question related to your post to incite comments and increase user engagement.
+
+->>>>
+
+Our social media post is shaping up with a headline, introduction, main content, and an engaging question:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Content:
+{{step_3}}
+
+Engaging Question:
+{{step_4}}
+
+Now, generate a compelling call-to-action to conclude your post, instructing followers on their next engagement step.
+
+->>>>
+
+Here's how our social media post looks now:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Main Content:
+{{step_3}}
+
+Engaging Question:
+{{step_4}}
+
+Call to Action:
+{{step_5}}
+
+As a final touch, add relevant hashtags that align with the content of your post to increase its discoverability among interested users.
+

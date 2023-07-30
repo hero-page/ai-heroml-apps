@@ -1,0 +1,115 @@
+Your task is to write a "Press Release" for the "Media & News Organizations" industry, specifically for a "Journalist". 
+Let's start by crafting a strong, attention-grabbing headline that summarizes the main news of the release.
+
+Here's some more context about the Press Release:
+Headline: {{headline}}
+Topic: {{topic}}
+Company Executive Or Expert Quotes: {{company_executive_or_expert_quotes}}
+Contact Information: {{contact_information}}
+Industry Specific Jargon: {{industry_specific_jargon}}
+
+->>>>
+
+We have a captivating headline for our press release:
+
+Headline:
+{{step_1}}
+
+Next, let's write a lead paragraph that extends the headline and hooks the reader. This paragraph should provide the most important information: the who, what, where, when, why, and how of the {{topic}}.
+
+->>>>
+
+The press release is shaping up with a headline and a lead paragraph:
+
+Headline:
+{{step_1}}
+
+Lead Paragraph:
+{{step_2}}
+
+Now, we should elaborate on the lead paragraph with a more detailed explanation in the following paragraph, providing more depth and context about the {{topic}}.
+
+->>>>
+
+Our press release now has a headline, a lead paragraph, and a detailed explanation:
+
+Headline:
+{{step_1}}
+
+Lead Paragraph:
+{{step_2}}
+
+Detailed Explanation:
+{{step_3}}
+
+It's time to include some relevant quotes from key figures related to the press release. This could be company executives or industry experts. Use these quotes to provide insight or opinions, not hard news.
+
+->>>>
+
+Our press release is now shaping up with a headline, lead information, and relevant quotes:
+
+Headline:
+{{step_1}}
+
+Lead Paragraph:
+{{step_2}}
+
+Detailed Explanation & Quotes:
+{{step_4}}
+
+If available, let's incorporate specific data, surveys, and research findings relevant to the {{topic}}. Journalists appreciate data as it strengthens the news.
+
+->>>>
+
+We have our headline, lead paragraph, quotes, and now some data:
+
+Headline:
+{{step_1}}
+
+Lead Paragraph:
+{{step_2}}
+
+Quotes & Data:
+{{step_5}}
+
+Next, write a brief 'About Us' section at the end, summarizing what your company or organization does and why it's relevant to the {{topic}}.
+
+->>>>
+
+Our press release now includes a headline, lead paragraph, quotes, data, and an 'About Us' section:
+
+Headline:
+{{step_1}}
+
+Lead Paragraph:
+{{step_2}}
+
+Quotes & Data:
+{{step_5}}
+
+About Us:
+{{step_6}}
+
+Conclude the press release with clear contact information. This should include who to contact for more details on the {{topic}}, their email, and phone number.
+
+->>>>
+
+The press release now contains a headline, lead paragraph, data quotes, brief about section, and contact information:
+
+Headline:
+{{step_1}}
+
+Lead Paragraph:
+{{step_2}}
+
+Quotes & Data:
+{{step_5}}
+
+About Us:
+{{step_6}}
+
+Contact Information:
+{{step_7}}
+
+Lastly, let's integrate industry-specific jargon relevant to the news. This can catch a journalist's attention and demonstrate expertise in the field. However, remember to balance this with clear explanations to maintain accessibility for a wider audience. 
+

@@ -1,0 +1,93 @@
+Your task is to write an "Engagement Report" for the "Media & News Organizations" industry designed for a "Social Media Manager". First, start the report by providing an introduction that clearly mentions the time period you are analyzing: {{time_period}}. This should broadly explain the different social media performance metrics observed during this period.
+
+Here's some more context about the Engagement Report:
+Time Period: {{time_period}}
+Engagement KPIs: {{engagement_KPIs}}
+Platform Engagement: {{platform_engagement}}
+Comparison: {{comparison}}
+Content Type: {{content_type}}
+Posting Schedule: {{posting_schedule}}
+Influencers: {{influencers}}
+Key Findings: {{key_findings}}
+
+->>>>
+
+Now, you have written an introduction to the Engagement Report:
+
+Introduction:
+{{step_1}}
+
+Next, present a comprehensive analysis of the key performance indicators (KPIs) that you have investigated in relation to overall social media engagement: {{engagement_KPIs}}. This could include metrics such as likes, shares, comments, mentions, retweets, replies, and the time your audience spent on your content.
+
+->>>>
+
+Having finished the introduction, you'll now have an analysis of the social media engagement KPIs:
+
+Introduction:
+{{step_1}}
+
+Engagement KPIs:
+{{step_2}}
+
+Moving forward, perform a detailed analysis by separately examining engagement metrics for each social media platform: {{platform_engagement}}. Describe which forms of engagement were particularly high or low on each platform.
+
+->>>>
+
+With an engagement KPIs analysis in hand, now we have a platform-specific engagement analysis:
+
+Engagement KPIs:
+{{step_2}}
+
+Platform Engagement:
+{{step_3}}
+
+Now, provide a comparison of these findings to past performance or to industry benchmarks in the "Media & News Organizations" industry: {{comparison}}. This will offer a useful point of reference.
+
+->>>>
+
+Having a platform-specific analysis, we now have a comparison to benchmarks or past performance:
+
+Platform Engagement:
+{{step_3}}
+
+Comparison:
+{{step_4}}
+
+Next, analyze and detail the most engaging type of content (text, video, image, link, or combination): {{content_type}}. This part should cover an analysis of the length, tone, style, and topic of content that garnered the most engagement.
+
+->>>>
+
+After developing a comparison, the next step is to distinguish the most engaging type of content:
+
+Comparison:
+{{step_4}}
+
+Content Analysis:
+{{step_5}}
+
+Subsequently, discuss the impacts of posting times and dates: {{posting_schedule}}. Highlight the optimal times and days of the week to post for maximizing engagement.
+
+->>>>
+
+Following the analysis of engaging content, you should now address the impact of posting times and dates:
+
+Content Analysis:
+{{step_5}}
+
+Posting Schedule Analysis:
+{{step_6}}
+
+Now, list the top influencers or public figures who interacted with your organization's social media during your specified time period: {{influencers}}. Describe the nature of their engagement and the audience's response.
+
+->>>>
+
+Upon analyzing the posting schedule, we can now specify the top influencers and their impact:
+
+Posting Schedule Analysis:
+{{step_6}}
+
+Influencer Analysis:
+{{step_7}}
+
+Finally, summarize your report with a review of key findings and trends observed from your analysis. Concretely address shifts in follower preferences, changes in peak engagement times, and other important trends: {{key_findings}}.
+

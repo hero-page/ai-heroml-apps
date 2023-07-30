@@ -1,0 +1,101 @@
+Your task is to write a "Project Update" for the "Local Government Administration" industry, specifically for a "Public Works Director". Let's begin by drafting an introduction that briefly overviews the update topic: {{update_topic}}. Provide some context by recapping prior updates or stating the phase or stage of the project.
+
+Here's some more context about the Project Update:
+Update Topic: {{update_topic}}
+Project Components: {{project_components}}
+Greater Objective: {{greater_objective}}
+Budget: {{budget}}
+
+->>>>
+
+We have created an introduction that gives a brief overview regarding the update topic:
+
+Introduction:
+{{step_1}}
+
+Next, write about the general progress of the project, focusing on all the recent developments related to {{update_topic}}.
+
+->>>>
+
+We now have an introduction and a general progress overview of the project:
+
+Introduction:
+{{step_1}}
+
+General Progress Overview:
+{{step_2}}
+
+Moving on, elaborate on individual project components: {{project_components}}. Discuss their status, changes, challenges, upcoming milestones, and their contribution to the overall objective.
+
+->>>>
+
+We now have a detailed status for each project component:
+
+Introduction:
+{{step_1}}
+
+General Progress Overview:
+{{step_2}}
+
+Project Components Status:
+{{step_3}}
+
+Our next step is discussing any roadblocks or issues encountered throughout the project. Describe how these issues are related to {{update_topic}}, measures being taken to address them, and their potential impacts.
+
+->>>>
+
+We now have a comprehensive understanding of the project's progress and hurdles:
+
+General Progress Overview:
+{{step_2}}
+
+Project Components Status:
+{{step_3}}
+
+Project Roadblocks and Issues:
+{{step_4}}
+
+Next, highlight the upcoming steps or operations related to the project, ensuring that it aligns with the greater objective: {{greater_objective}}.
+
+->>>>
+
+We have detailed the project's current status, challenges, and planned next steps:
+
+Project Components Status:
+{{step_3}}
+
+Project Roadblocks and Issues:
+{{step_4}}
+
+Upcoming Steps:
+{{step_5}}
+
+Now, focus on the financial aspect of the project. Discuss the budget: {{budget}}, how it is being utilized, changes in budget allocation, or any financial developments that need attention.
+
+->>>>
+
+We have now included a discussion of the budget and future steps:
+
+Upcoming Steps:
+{{step_5}}
+
+Budget Discussion:
+{{step_6}}
+
+To wrap things up, write a concluding summary that reinforces the update on {{update_topic}}. It should reiterate the objectives, and emphasize the current status and future direction of the project.
+
+->>>>
+
+We have now completed the project progress and status update:
+
+Upcoming Steps:
+{{step_5}}
+
+Budget Discussion:
+{{step_6}}
+
+Concluding Summary:
+{{step_7}}
+
+Lastly, incorporate industry-specific terms, laws, regulations, or standards relevant to local government administration. Make sure to adequately explain these details to ensure understanding for all readers.
+

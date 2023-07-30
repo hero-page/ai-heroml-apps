@@ -1,0 +1,95 @@
+
+Your task is to write a "Zoning Proposal" for the "Local Government Administration" industry, specifically for a "City Planner". 
+Let's begin with an introduction that outlines the general premise of the zoning proposal: {{proposal_overview}}. This introduction should explain the proposed land use in the identified zone.
+
+Here's some more context about the Zoning Proposal:
+Proposal Overview: {{proposal_overview}}
+Zone Boundaries: {{zone_boundaries}}
+Proposal Rationale: {{proposal_rationale}}
+Current Zone Status: {{current_zone_status}}
+Proposed Land Use: {{proposed_land_use}}
+Community Benefits: {{community_benefits}}
+Impact Assessment: {{impact_assessment}}
+Process And Timeline: {{process_and_timeline}}
+
+->>>>
+
+We have the introduction to our zoning proposal:
+
+Introduction:
+{{step_1}}
+
+Next, detail the geographical boundaries of the proposed area: {{zone_boundaries}}. Indicate the precise geographic location and its corresponding identifying parameters.
+
+->>>>
+
+We have the introduction and the geographical boundaries for our zoning proposal:
+
+Introduction:
+{{step_1}}
+
+Geographical Boundaries:
+{{step_2}}
+
+Now, provide the explanation for proposing these zoning changes: {{proposal_rationale}}. This should include specifics such as enhancing economic development, growth accommodation, or compatibility with existing zoning.
+
+->>>>
+
+We have described the geographical boundaries and the rationale for our zoning proposal:
+
+Geographical Boundaries:
+{{step_2}}
+
+Rationale:
+{{step_3}}
+
+Next, describe the current zoning status and land use of the proposed area: {{current_zone_status}}. This comparison is crucial to help clearly understand what changes are being proposed.
+
+->>>>
+
+We have outlined the rationale and current zoning status for our zoning proposal:
+
+Rationale:
+{{step_3}}
+
+Current Zoning Status:
+{{step_4}}
+
+Moving on, detail the suggested land use, including the types of allowed structures, requirements, and restrictions: {{proposed_land_use}}. This description should be comprehensive to clearly illustrate what the area will look like if the proposal is approved.
+
+->>>>
+
+To this point, our zoning proposal includes the current zoning status and the proposed land use:
+
+Current Zoning Status:
+{{step_4}}
+
+Proposed Land Use:
+{{step_5}}
+
+Next, explain the potential benefits to the local community and how it aligns with broader city planning goals: {{community_benefits}}. Mention how the proposal promotes sound land use planning and furthers community goals.
+
+->>>>
+
+In our zoning proposal, we have detailed the proposed land use and its potential community benefits:
+
+Proposed Land Use:
+{{step_5}}
+
+Community Benefits:
+{{step_6}}
+
+Now, account for the possible immediate and long-term impacts on local infrastructure, traffic, environment, and surrounding neighborhoods: {{impact_assessment}}. Offering an impartial review will assist decision-makers in understanding the ramifications of the proposal.
+
+->>>>
+
+We have stated the community benefits and conducted an impact assessment for our zoning proposal:
+
+Community Benefits:
+{{step_6}}
+
+Impact Assessment:
+{{step_7}}
+
+Next, propose a timeline and progression for the rezone application, public hearings, plan amendment, and actual implementation: {{process_and_timeline}}. This will offer stakeholders a clear idea of when and how the proposal will progress.
+

@@ -1,0 +1,92 @@
+Start by defining the core theme of the news article: {{core_theme}}. Using this theme, generate a statement that clearly communicates your targeted focus for this article.
+
+Here's some more context about the Headline Creation:
+Core Theme: {{core_theme}}
+Key Story Points: {{key_story_points}}
+Headline Length: {{headline_length}}
+Keywords: {{keywords}}
+
+->>>>
+
+Following the definition of the core theme, which is:
+
+Core Theme:
+{{step_1}}
+
+Craft an engaging hook that introduces the {{core_theme}} for the headline. This hook should promise to provide valuable information without giving away too much of the content.
+
+->>>>
+
+With a core theme and engaging hook in place:
+
+Core Theme:
+{{step_1}}
+
+Headline Hook:
+{{step_2}}
+
+Use words or phrases specific to the media and news industry, relevant to the {{core_theme}}, in the headline. Include currently popular or trending terms, but ensure your word choices do not mislead readers about the article's content.
+
+->>>>
+
+Given the core theme, catchy hook, and media-specific jargon, we have:
+
+Core Theme:
+{{step_1}}
+
+Headline Hook:
+{{step_2}}
+
+Media-Specific Terms:
+{{step_3}}
+
+Now, introduce key elements of the story and relevant keywords without revealing the entire story to create engaging teasers.
+
+->>>>
+
+With a defined core theme, an engaging hook, relevant industry phrases, and introduced key elements, we have:
+
+Core Theme:
+{{step_1}}
+
+Key Story Elements:
+{{step_4}}
+
+Next, include action verbs that resonate with the {{core_theme}} and the {{key_story_points}}, to bring more urgency and excitement to your headline.
+
+->>>>
+
+Having defined the key elements of our story, and with the use of action verbs, we now have:
+
+Key Story Elements:
+{{step_4}}
+
+Action Verbs used:
+{{step_5}}
+
+With these elements in order, craft a headline that is succinct and clear. The headline should adhere to your organization's guidelines, not exceeding a length of {{headline_length}} words or characters.
+
+->>>>
+
+After including action verbs and keeping the headline succinct, we now have:
+
+Action Verbs:
+{{step_5}}
+
+Headline:
+{{step_6}}
+
+Consider SEO optimization for the online presence of the news article. Include relevant {{keywords}} to the {{core_theme}} to enhance visibility and attract more clicks.
+
+->>>>
+
+With the SEO optimized headline in view, and having calculated the length of the headline, we have:
+
+Headline:
+{{step_6}}
+
+SEO Keywords:
+{{step_7}}
+
+Lastly, read through the headline and ensure it accurately represents the article's content, grabs attention, and is free from language errors. Refine the headline if needed.
+

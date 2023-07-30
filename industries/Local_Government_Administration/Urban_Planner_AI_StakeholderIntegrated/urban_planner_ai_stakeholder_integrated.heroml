@@ -1,0 +1,96 @@
+Your task is to write an "Urban Development Plan" for the "Local Government Administration" industry, specifically designed for a "City Planner". 
+
+Let's begin with an Executive Summary that provides a brief overview of the proposed city development project: {{development_project}}. This section should offer insight into the current state of the city, its potential for development, and summarise the key objectives and characteristics of your plan.
+
+Here's some more context about the Urban Development Plan:
+Development Project: {{development_project}}
+City Characteristics: {{city_characteristics}}
+Current Infrastructure: {{current_infrastructure}}
+City Vision: {{city_vision}}
+Development Proposals: {{development_proposals}}
+Sustainability Measures: {{sustainability_measures}}
+Implementation Plan: {{implementation_plan}}
+Stakeholder Engagement: {{stakeholder_engagement}}
+Risk Mitigation: {{risk_mitigation}}
+
+->>>>
+
+We begin our urban development plan with an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, provide an introduction to the city. Detail the unique aspects of the city such as its geographical location, population demographics, economic situation, cultural heritage, and environmental challenges: {{city_characteristics}}. Highlight why and how this development plan will benefit the city.
+
+->>>>
+
+The Urban Development Plan now has an introduction to the city:
+
+Introduction to the City:
+{{step_2}}
+
+Following this, conduct an assessment of the city's current urban infrastructure. Analyse the existing urban facilities including residential areas, commercial locations, transportation networks, recreational areas, and utilities' layout: {{current_infrastructure}}. Identify the areas that require immediate improvement.
+
+->>>>
+
+Our Urban Development plan now includes an assessment of the current infrastructure:
+
+Assessment of Current Urban Infrastructure:
+{{step_3}}
+
+Now, let's envision a future for the city based on its potential and unique characteristics, including the aspirations of its inhabitants: {{city_vision}}. Outline the main goals that the plan aims to achieve in alignment with this vision.
+
+->>>>
+
+Our future city vision is as follows:
+
+City Vision and Goals:
+{{step_4}}
+
+Following this, detail the strategies and specific development proposals: {{development_proposals}} for achieving the established goals. Prioritise proposals based on their impact and feasibility.
+
+->>>>
+
+We now have a set of development strategies and proposals for the Urban Development Plan:
+
+Strategies and Development Proposals:
+{{step_5}}
+
+Next, focus on incorporating sustainable development measures into your plan. Detail the proposed actions for ensuring energy efficiency, waste management, water conservation, and the inclusion of green spaces: {{sustainability_measures}}.
+
+->>>>
+
+The Urban Development Plan now incorporates sustainable development measures: 
+
+Sustainable Development Measures:
+{{step_6}}
+
+Subsequently, outline a comprehensive implementation plan that details the timeframe, key milestones, and budget needed for each development proposal: {{implementation_plan}}. Ensure that this plan is feasible given the city’s available resources and potential for raising new funds.
+
+->>>>
+
+We now have a comprehensive implementation plan:
+
+Implementation Plan:
+{{step_7}}
+
+Next, detail the plans for engaging key stakeholders such as city residents, local businesses, community organizations, and government agencies: {{stakeholder_engagement}}. This should include methods such as public forums, surveys or community meetings designed to disseminate information about the plan and collect feedback.
+
+->>>>
+
+We have plans for stakeholder engagement in the Urban Development Plan:
+
+Stakeholder Engagement:
+{{step_8}}
+
+Now, identify any potential risks that could disrupt the development plan and propose strategies for mitigating them: {{risk_mitigation}}.
+
+->>>>
+
+Our Urban Development Plan now includes a risk assessment and mitigation strategy:
+
+Risk Assessment and Mitigation:
+{{step_9}}
+
+Finally, write a summary that recaps the main points of your Urban Development Plan, highlighting its expected impact and benefits for the city. Reiterate the city vision and the key development goals for a powerful conclusion. 
+

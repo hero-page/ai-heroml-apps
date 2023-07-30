@@ -1,0 +1,106 @@
+Your task is to write a "Community Outreach Plan" for the "Local Government Administration" industry, specifically for a "Community Services Coordinator". Let's start by generating an executive summary that outlines the overall outreach plan and its expected impacts. The summary should provide an understanding of the backdrop of the community outreach: {{community_context}}.
+
+Here's some more context about the Community Outreach Plan:
+Community Context: {{community_context}}
+Community Needs: {{community_needs}}
+Community Demographics: {{community_demographics}}
+
+->>>>
+
+Now we have the executive summary for our community outreach plan:
+
+Executive Summary:
+{{step_1}}
+
+Next, let's introduce the specific issues or needs around which the community outreach plan is built: {{community_needs}}.
+
+->>>>
+
+After the introduction of specific issues or needs, we have:
+
+Executive Summary:
+{{step_1}}
+
+Issues or Needs:
+{{step_2}}
+
+Now we should describe the community we are targeting with comprehensive demographic and characteristic information. This should include the age distribution, economic aspects, cultural identities, and specific needs of the community.
+
+->>>>
+
+Having described the community, we have:
+
+Executive Summary:
+{{step_1}}
+
+Issues or Needs:
+{{step_2}}
+
+Community Description:
+{{step_3}}
+
+Next, in the "Goals and Objectives" section, outline the primary goals your outreach plan wants to achieve, how they align with the community needs, and how they benefit the local community. Each goal should be specific, measurable, achievable, relevant, and time-bound (SMART).
+
+->>>>
+
+Now we have:
+
+Executive Summary:
+{{step_1}}
+
+Issues or Needs:
+{{step_2}}
+
+Community Description:
+{{step_3}}
+
+Goals and Objectives:
+{{step_4}}
+
+Let's move on to the "Outreach Strategies" section. Present the outreach activities designed to address the community needs, with specific details on how, where, and when each activity will take place. For each strategy, identify the resources required, potential partners, and the role of the community services coordinator in implementation.
+
+->>>>
+
+With the "Outreach Strategies" we have:
+
+Executive Summary:
+{{step_1}}
+
+Issues or Needs:
+{{step_2}}
+
+Community Description:
+{{step_3}}
+
+Goals and Objectives:
+{{step_4}}
+
+Outreach Strategies:
+{{step_5}}
+
+Next, in the "Community Engagement" section, detail the steps to engage the community. This should specifically focus on how to raise awareness, increase participation, gather feedback from community members, and ensure the community has ownership over the initiative.
+
+->>>>
+
+Now, we have:
+
+Executive Summary:
+{{step_1}}
+
+Issues or Needs:
+{{step_2}}
+
+Community Description:
+{{step_3}}
+
+Goals and Objectives:
+{{step_4}}
+
+Outreach Strategies:
+{{step_5}}
+
+Community Engagement:
+{{step_6}}
+
+Let's include a section on "Evaluation and Feedback", detailing how success will be measured against the plan's goals. Discuss the key performance indicators, feedback mechanism, and how results will be communicated back to the community.
+

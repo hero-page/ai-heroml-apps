@@ -1,0 +1,111 @@
+Your task is to write a "Public Consultation Report" for the "Local Government Administration" industry, specifically for a "City Planner". We will begin with an executive summary that addresses the purpose of the report and the overarching views or concerns from the public consultation.
+
+Here's some more context about the Public Consultation Report:
+Consultation Purpose And Overarching Views: {{consultation_purpose_and_overarching_views}}
+Consultation Details: {{consultation_details}}
+Participant Details: {{participant_details}}
+Consultation Methodology: {{consultation_methodology}}
+Key Findings: {{key_findings}}
+City Planner Evaluation: {{city_planner_evaluation}}
+Impact On Planning: {{impact_on_planning}}
+Next Steps: {{next_steps}}
+
+->>>>
+
+Now, we have a draft executive summary for our report:
+
+Executive Summary:
+{{step_1}}
+
+Next, provide an introduction to the public consultation, including when and why it was held.
+
+->>>>
+
+Our report currently includes:
+
+Executive Summary:
+{{step_1}}
+
+Consultation Details:
+{{step_2}}
+
+Continue by presenting a detailed overview of the community participants involved in the consultation. Be specific about the demographic makeup, representing a balance of various stakeholders in your local community.
+
+->>>>
+
+So far, we have:
+
+Executive Summary:
+{{step_1}}
+
+Consultation Details:
+{{step_2}}
+
+Participant Details:
+{{step_3}}
+
+Thereafter, discuss the consultation methodology. This includes how the information was gathered, what types of consultation methods were used (surveys, public meetings, online discussions, etc), and why those particular methods were chosen.
+
+->>>>
+
+Our report now includes:
+
+Executive Summary:
+{{step_1}}
+
+Consultation Details:
+{{step_2}}
+
+Participant Details:
+{{step_3}}
+
+Consultation Methodology:
+{{step_4}}
+
+Now, present the key findings from the public consultation. This segment should include major themes and points of view expressed by participants related to the development project or policy under consideration.
+
+->>>>
+
+The current state of our report is as follows:
+
+Executive Summary:
+{{step_1}}
+
+Consultation Details:
+{{step_2}}
+
+Participant Details:
+{{step_3}}
+
+Consultation Methodology:
+{{step_4}}
+
+Key Findings:
+{{step_5}}
+
+Discuss the explicit evaluation and analysis related to the city planner's particular project or policy. This segment should provide a perspective on how the public views or concerns relate to the city planner's agenda.
+
+->>>>
+
+Our report now includes:
+
+Executive Summary:
+{{step_1}}
+
+Consultation Details:
+{{step_2}}
+
+Participant Details:
+{{step_3}}
+
+Consultation Methodology:
+{{step_4}}
+
+Key Findings:
+{{step_5}}
+
+City Planner Evaluation:
+{{step_6}}
+
+Address the potential impact or changes that the findings of the consultation might instigate on the current planning or policy. This could be amendments to the project, policy adaptations, or even reconsiderations.
+

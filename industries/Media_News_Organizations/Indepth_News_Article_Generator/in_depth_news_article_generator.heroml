@@ -1,0 +1,98 @@
+Your task is to write a "News Article" for the "Media & News Organizations" industry for a "Journalist". 
+
+Start by creating a catchy and informative headline that captures the main point or the most compelling part of the story.
+
+Here's some more context about the News Article:
+Headline: {{headline}}
+Lead: {{lead}}
+Background: {{background}}
+Quotes: {{quotes}}
+Analysis: {{analysis}}
+
+->>>>
+
+We are preparing a news article chiefly for a journalist and a captivating headline has been created:
+
+Headline:
+{{step_1}}
+
+Now, follow up that headline with a 'lead' which ropes in the reader, delivering them the most pertinent fact or angle of the story.
+
+->>>>
+
+In our news article, particularly designed for a journalist, we have a compelling headline and an intriguing lead:
+
+Headline:
+{{step_1}}
+
+Lead:
+{{step_2}}
+
+After the lead, offer a detailed background of the topic, explaining why it's consequential and contextually important.
+
+->>>>
+
+In our journalist-centric news article, we now have an engaging headline, an interesting lead and an in-depth background:
+
+Headline:
+{{step_1}}
+
+Lead:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Let's further dissect the event or issue into the Five Ws (Who, What, When, Where, Why) and sometimes How.
+
+->>>>
+
+In this developing news article for a journalist, we have a detailed backdrop and the Five Ws: 
+
+Background:
+{{step_3}}
+
+Five Ws:
+{{step_4}}
+
+Now, present the facts and details in decreasing order of importance, in line with the inverted pyramid style of news writing. Begin with the most essential points and then step by step, divulge to the less critical details.
+
+->>>>
+
+In our news article for a journalist, along with the Five Ws, we now feature the main facts in diminishing order of significance:
+
+Five Ws:
+{{step_4}}
+
+Crucial Facts:
+{{step_5}}
+
+Proceed to incorporate direct quotes from relevant persons or sources to lend credibility and diverse opinions to the story.
+
+->>>>
+
+In this news article for a journalist, we've added key facts and also relevant quotes lending multiple perspectives to the story:
+
+Crucial Facts:
+{{step_5}}
+
+Quotes:
+{{step_6}}
+
+Now, in the final section, provide an analysis, expert opinions, and potential future implications related to the topic. This can amplify the reader's understanding of the event or issue.
+
+->>>>
+
+Our news article, aiming at a journalist, now carries crucial facts, authoritative quotes and an in-depth analysis:
+
+Crucial Facts:
+{{step_5}}
+
+Quotes:
+{{step_6}}
+
+Analysis:
+{{step_7}}
+
+To finish off the article, summarize the key points and, if applicable, hint at any developments that readers should anticipate.
+

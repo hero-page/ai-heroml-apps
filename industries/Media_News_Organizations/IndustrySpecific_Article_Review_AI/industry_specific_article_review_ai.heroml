@@ -1,0 +1,67 @@
+Let's start by crafting an introduction for the article review that includes the title, author, and publication of the article: {{article_title}}, {{article_author}}, {{article_publication}}.
+
+Here's some more context about the Article Review:
+Article Title: {{article_title}}
+Article Author: {{article_author}}
+Article Publication: {{article_publication}}
+Article Summary: {{article_summary}}
+Article Critique: {{article_critique}}
+Industry Relevance: {{industry_relevance}}
+Journalistic Implication: {{journalistic_implication}}
+Review Conclusion: {{review_conclusion}}
+Future Recommendations: {{future_recommendations}}
+
+->>>>
+
+For our "Article Review" in the "Media & News Organizations" industry, we started with:
+
+Introduction:
+{{step_1}}
+
+Next, create an overview of the article, summarizing its key points and main arguments.
+
+->>>>
+
+Our review now includes an introduction and summary of the article:
+
+Introduction:
+{{step_1}}
+
+Summary:
+{{step_2}}
+
+Let's proceed to write a critique section that critically analyzes the approach of the article. Discuss how well the author made their points, whether the information was presented logically, if the reporting was biased, and any other relevant assessment.
+
+->>>>
+
+Our "Article Review" now consists of an introduction, summary, and a critique section:
+
+Introduction:
+{{step_1}}
+
+Summary:
+{{step_2}}
+
+Critique:
+{{step_3}}
+
+Now, it's time to discuss the relevance of the article to the media & news industry. Evaluate its impact on any recent events, trends, or developments in the industry.
+
+->>>>
+
+We have an introduction, a summary, a critique, and a section relating the article's relevance to the industry:
+
+Introduction:
+{{step_1}}
+
+Summary:
+{{step_2}}
+
+Critique:
+{{step_3}}
+
+Industry relevance:
+{{step_4}}
+
+Next, reflect upon the implications the article might have on journalistic practices or editorial policies, if applicable.
+
