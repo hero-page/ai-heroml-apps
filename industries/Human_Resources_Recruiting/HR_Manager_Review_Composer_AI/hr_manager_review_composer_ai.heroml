@@ -1,0 +1,139 @@
+Your task is to write a "Performance Review" for the "Human Resources & Recruiting" industry, specifically for a "HR Manager". Let's start by creating an introduction summarizing the purpose and agenda of the performance review: {{review_purpose}}.
+
+Here's some more context about the Performance Review:
+Review Purpose: {{review_purpose}}
+HR Manager Roles: {{HR_manager_roles}}
+KPIs: {{KPIs}}
+Performance Assessment: {{performance_assessment}}
+Areas Of Improvement: {{areas_of_improvement}}
+Industry Related HR Issues: {{industry_related_HR_issues}}
+Future Action Plan: {{future_action_plan}}
+Professional Development Opportunities: {{professional_development_opportunities}}
+HR Manager Feedback Input: {{HR_manager_feedback_input}}
+
+->>>>
+
+In the initial step, we have established an introduction for the performance review:
+
+Introduction:
+{{step_1}}
+
+With the introduction set, let's briefly outline the roles and responsibilities of the HR manager under review, showcasing an understanding of their duties: {{HR_manager_roles}}.
+
+->>>>
+
+To write a thorough performance review, we have these elements so far:
+
+Introduction:
+{{step_1}}
+
+HR Manager Roles and Responsibilities:
+{{step_2}}
+
+Next, discuss key performance indicators (KPIs) that are pertinent to the HR manager's role. These KPIs should include variables such as hiring successes, employee retention rates, and employee satisfaction surveys: {{KPIs}}.
+
+->>>>
+
+We have the Introduction, Roles and Responsibilities of HR Manager, and KPIs as follows:
+
+Introduction:
+{{step_1}}
+
+HR Manager Roles and Responsibilities:
+{{step_2}}
+
+KPIs:
+{{step_3}}
+
+Let's now provide a detailed assessment of the HR manager's performance against these KPIs. Where they excelled, note the exceptional performance and its positive impact on the company: {{performance_assessment}}.
+
+->>>>
+
+In our performance review report, we have the following details:
+
+Introduction:
+{{step_1}}
+
+HR Manager Roles and Responsibilities:
+{{step_2}}
+
+KPIs:
+{{step_3}}
+
+Performance Assessment:
+{{step_4}}
+
+Next, address any underperformance discretely and constructively without being overly critical. Highlight the specific areas that require improvement and provide practical advice for development and growth: {{areas_of_improvement}}.
+
+->>>>
+
+In preparing the performance review, we've got:
+
+Introduction:
+{{step_1}}
+
+HR Manager Roles and Responsibilities:
+{{step_2}}
+
+KPIs:
+{{step_3}}
+
+Performance Assessment:
+{{step_4}}
+
+Areas of Improvement:
+{{step_5}}
+
+Now, discuss the HR matters that are specific to your industry and point out how the HR manager has handled them. This could be topics like industry-specific recruitment strategies or managing employees' issues unique to the industry: {{industry_related_HR_issues}}.
+
+->>>>
+
+We now have an outline of performance review that includes:
+
+Introduction:
+{{step_1}}
+
+HR Manager Roles and Responsibilities:
+{{step_2}}
+
+KPIs:
+{{step_3}}
+
+Performance Assessment:
+{{step_4}}
+
+Areas of Improvement:
+{{step_5}}
+
+Management of Industry-specific HR issues:
+{{step_6}}
+
+Next, conclude the review by offering overall feedback for the HR manager, summarizing their performance and priorities for the next period. Include a plan of action that outlines the steps needed to leverage strengths and improve weaknesses that were identified in the review: {{future_action_plan}}.
+
+->>>>
+
+In our review, there are now sections on:
+
+Introduction:
+{{step_1}}
+
+HR Manager Roles and Responsibilities:
+{{step_2}}
+
+KPIs:
+{{step_3}}
+
+Performance Assessment:
+{{step_4}}
+
+Areas of Improvement:
+{{step_5}}
+
+Management of Industry-specific HR issues:
+{{step_6}}
+
+Future Action Plan:
+{{step_7}}
+
+Recommend relevant professional development or training opportunities that could help the HR manager in developing themselves further in the areas identified during the review: {{professional_development_opportunities}}.
+

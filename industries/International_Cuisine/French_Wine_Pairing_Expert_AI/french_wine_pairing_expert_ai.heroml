@@ -1,0 +1,73 @@
+To create the guide for "French Wine Pairing Suggestions" for the "International Cuisine" industry for a "French Cuisine Expert":
+
+1. Start by creating an enticing introduction that explains the art and significance of pairing French wines with their appropriate dishes. It's important to give a general outline of this process, as well as why it is culturally and gastronomically significant: {{pairing_intro}}.
+
+Here's some more context about the French Wine Pairing Suggestions:
+Pairing Intro: {{pairing_intro}}
+Wine Categories: {{wine_categories}}
+Wine Characteristics: {{wine_characteristics}}
+Suggested Dishes: {{suggested_dishes}}
+Pairing Explanation: {{pairing_explanation}}
+Alternative Dishes: {{alternative_dishes}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+Now we have an introduction for our "French Wine Pairing Suggestions":
+
+Introduction:
+{{step_1}}
+
+2. Let's divide the French wines into various categories, based on elements such as their region of origin, the type of grape used, and how they were aged. Include as much detail as possible about each category: {{wine_categories}}.
+
+->>>>
+
+For our guide, we have the introduction and the categories of French wines:
+
+Introduction:
+{{step_1}}
+
+Wine Categories:
+{{step_2}}
+
+3. Now, dive into each wine category, providing a detailed explanation that highlights its unique characteristics, flavor profiles, and production methods. This should not only educate the reader about the wine but also intensify their anticipation for the actual pairing with the dishes: {{wine_characteristics}}.
+
+->>>>
+
+So far we have an introduction, categories of French wine, and details on individual characteristics of each category:
+
+Introduction:
+{{step_1}}
+
+Wine Categories:
+{{step_2}}
+
+Wine Characteristics:
+{{step_3}}
+
+4. Then, propose a selection of French dishes that go well with each specific category of wine. Describe these dishes in culinary terms emphasizing their flavors, ingredients, and preparation methods. This part of the guide should make the reader eager to experience these pairings: {{suggested_dishes}}.
+
+->>>>
+
+Now, we've successfully proposed French dishes to go along with each category of wine:
+
+Wine Characteristics:
+{{step_3}}
+
+Suggested Dishes:
+{{step_4}}
+
+5. It's time to explain the magic behind each proposed pairing. Describe why the dish and the wine complement each other and how they can enhance the overall dining experience: {{pairing_explanation}}.
+
+->>>>
+
+We've discussed wine characteristics, proposed some dishes, and described why they're a good match:
+
+Suggested Dishes:
+{{step_4}}
+
+Pairing Explanations:
+{{step_5}}
+
+6. Next, encourage the readers to venture beyond the suggested pairings. Propose alternative dishes that could also pair well with each wine type. This will allow the reader to explore their culinary creativity and make their own discoveries: {{alternative_dishes}}.
+

@@ -1,0 +1,112 @@
+For writing a "Sport Article" in the "High School Students - Sports" industry for a "Sports Journalism Club Member":
+
+{{step_1}}: Generate a catchy headline for the sports article that captivates the readers. The headline should highlight the main event or theme of the game.
+
+Here's some more context about the Sport Article:
+Headline: {{headline}}
+Introduction: {{introduction}}
+Event Details: {{event_details}}
+Game Summary: {{game_summary}}
+Key Moments Analysis: {{key_moments_analysis}}
+Quotes: {{quotes}}
+Conclusion: {{conclusion}}
+
+->>>>
+
+We have a captivating headline for our sports article:
+
+Headline:
+{{step_1}}
+
+{{step_2}}: Now, let's proceed to the next step, which is creating an engaging introduction. This introduction should provide a brief overview of the game's topic and clearly state the purpose of the article.
+
+->>>>
+
+We now have a headline and an engaging introduction for our sports article:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+{{step_3}}: Our next step is to detail the time, venue, and teams or player involved in the game. This will give the reader a clear understanding of the setting.
+
+->>>>
+
+Our article now has a headline, introduction, and details about the event:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Event Details:
+{{step_3}}
+
+{{step_4}}: Let's now move on to describe the play-by-play action or sequence of events in the game. This should cover the essential moments, strategic tactics, players' performances, and scores.
+
+->>>>
+
+We now have the headline, introduction, event details, and a vivid account of the game:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Event Details:
+{{step_3}}
+
+Game Summary:
+{{step_4}}
+
+{{step_5}}: Next, analyze and advise on the key moments or turning points in the game. Discuss how these impacted the final outcome.
+
+->>>>
+
+Our article is coming together. We have the headline, introduction, event details, game summary, and commentary on key moments:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Event Details:
+{{step_3}}
+
+Game Summary:
+{{step_4}}
+
+Key Moments Analysis:
+{{step_5}}
+
+{{step_6}}: To add depth to the article, incorporate quotes from players, coaches, or spectators. This will provide more perspectives and an authentic feel to the piece.
+
+->>>>
+
+Our sports article now has a headline, introduction, event details, game summary, key moments analysis, and insights from players, coaches, or spectators:
+
+Headline:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Event Details:
+{{step_3}}
+
+Game Summary:
+{{step_4}}
+
+Key Moments Analysis:
+{{step_5}}
+
+Quotes:
+{{step_6}}
+
+{{step_7}}: Lastly, compose a conclusion that summarizes the game's result, discusses potential implications, and includes your final thoughts.
+

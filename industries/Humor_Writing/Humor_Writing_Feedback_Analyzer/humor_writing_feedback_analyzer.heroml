@@ -1,0 +1,73 @@
+Let's start by creating an overview of the humorous piece in question.
+
+Here's some more context about the Humor Feedback:
+Piece Overview: {{piece_overview}}
+Humor Assessment: {{humor_assessment}}
+Specific Feedback: {{specific_feedback}}
+Audience Connection: {{audience_connection}}
+Improvement Suggestions: {{improvement_suggestions}}
+Summarized Feedback: {{summarized_feedback}}
+
+->>>>
+
+At this point, we have structured an overview for a humorous piece:
+
+Overview:
+{{step_1}}
+
+Keeping this overview in mind, give a general assessment of the humor used in the piece.
+
+->>>>
+
+Based on the previous overview and general assessment of humor used:
+
+Overview:
+{{step_1}}
+
+General Humor Assessment:
+{{step_2}}
+
+Now, provide specific feedback on the section-by-section or joke-by-joke breakdown in the piece.
+
+->>>>
+
+Considering the information we have so far about the humorous piece:
+
+Overview:
+{{step_1}}
+
+General Humor Assessment:
+{{step_2}}
+
+Specific Feedback:
+{{step_3}}
+
+Now, connect the humor with its intended audience.
+
+->>>>
+
+Our humorous piece feedback is taking shape. So far, this is what we have:
+
+Overview:
+{{step_1}}
+
+Specific Feedback:
+{{step_3}}
+
+Audience Connection:
+{{step_4}}
+
+Next, provide suggestions for improving the humor in the piece.
+
+->>>>
+
+We have generated an audience connection and improvement suggestions for the humorous piece:
+
+Audience Connection:
+{{step_4}}
+
+Improvement Suggestions:
+{{step_5}}
+
+Finally, conclude the feedback with a summary that reiterates your main suggestions and your overall impression of the piece's humor. 
+

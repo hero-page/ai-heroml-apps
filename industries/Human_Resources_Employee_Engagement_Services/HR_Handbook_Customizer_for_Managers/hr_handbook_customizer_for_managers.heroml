@@ -1,0 +1,94 @@
+Your task is to write an "Employee Handbook" for the "Human Resources & Employee Engagement Services" industry, specifically for a "HR Manager". 
+
+Begin with an introduction that explains the purpose, importance, and the intended audience of the Handbook. 
+
+Here's some more context about the Employee Handbook:
+Purpose And Audience: {{purpose_and_audience}}
+Organization Overview: {{organization_overview}}
+Employment Policies: {{employment_policies}}
+Conduct Expectations: {{conduct_expectations}}
+Compensation And Benefits: {{compensation_and_benefits}}
+Safety And Wellness: {{safety_and_wellness}}
+Reports And Grievances: {{reports_and_grievances}}
+
+->>>>
+
+We have started the "Employee Handbook" with the following introduction:
+
+Introduction:
+{{step_1}}
+
+Next, provide an overview of the organization, including its culture, mission, and structure.
+
+->>>>
+
+For our Employee Handbook, we now have an introduction and an overview of the organization:
+
+Introduction:
+{{step_1}}
+
+Organization Overview:
+{{step_2}}
+
+Now, move on to creating detailed employment policies. Include clauses on hiring, orientation, training, probation period, termination, and other job-related processes.
+
+->>>>
+
+In our Employee Handbook, we now have an organization overview and detailed employment policies:
+
+Organization Overview:
+{{step_2}}
+
+Employment Policies:
+{{step_3}}
+
+Next, define the expectations for employee conduct. Address issues such as performance standards, work ethics, attendance, dress code, and use of company property.
+
+->>>>
+
+In the Employee Handbook, the employment policies have been laid out, and next up are expectations for employee conduct:
+
+Employment Policies:
+{{step_3}}
+
+Conduct Expectations:
+{{step_4}}
+
+Moving on, outline the compensation and benefits section. This should detail all financial entitlements, perks, leave policies, insurance, overtime, retirement plans, etc:
+
+->>>>
+
+In our Employee Handbook, conduct expectations are defined, and next, let's elaborate on the compensation and benefits:
+
+Conduct Expectations:
+{{step_4}}
+
+Compensation and Benefits:
+{{step_5}}
+
+Now, focus on addressing the safety, health, and wellness provisions in the workplace. This section should include elements like occupational health & safety regulations, substance abuse policies, and wellness programs.
+
+->>>>
+
+We have detailed the compensation and benefits in our Employee Handbook, and next, let's focus on safety and wellness:
+
+Compensation and Benefits:
+{{step_5}}
+
+Safety and Wellness:
+{{step_6}}
+
+Proceed to writing about the guidelines for reporting concerns & grievances. This section should include anti-discrimination rules, harassment policies, whistle-blower policies, and conflict resolution mechanisms.
+
+->>>>
+
+In our Employee Handbook, we have a section on safety and wellness, and we're going to proceed with the section on reporting concerns and grievances:
+
+Safety and Wellness:
+{{step_6}}
+
+Reports and Grievances:
+{{step_7}}
+
+Finally, conclude with attestation information. This is usually a signed acknowledgment by the employee that they have received, read, and understand the terms/rest of the handbook. Make sure to specify that the handbook is not an employment contract and is subject to change.
+

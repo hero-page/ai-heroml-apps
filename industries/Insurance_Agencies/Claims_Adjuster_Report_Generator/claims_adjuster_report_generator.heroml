@@ -1,0 +1,86 @@
+Let's begin with writing an introduction for the investigation report for the "Insurance Agencies" industry, specifically for a "Claims Adjuster". The introduction should set the context of the claim: {{claim_context}}.
+
+Here's some more context about the Investigation Report:
+Claim Context: {{claim_context}}
+Incident Details: {{incident_details}}
+Claimant Details: {{claimant_details}}
+Damage Details: {{damage_details}}
+Investigation Details: {{investigation_details}}
+Investigation Conclusion: {{investigation_conclusion}}
+Settlement Recommendation: {{settlement_recommendation}}
+
+->>>>
+
+We now have an introduction for our investigation report:
+
+Introduction:
+{{step_1}}
+
+Next, we need a section dedicated to the description of the incident including the time, date, location: {{incident_details}} and a description of what occurred.
+
+->>>>
+
+We now have a dedicated section for our incident description:
+
+Introduction:
+{{step_1}}
+
+Incident Description:
+{{step_2}}
+
+Now, let's examine and record the details of the claimant, including their policy number, contact information, and a brief overview of their insurance history: {{claimant_details}}.
+
+->>>>
+
+We have compiled the claimant's details:
+
+Introduction:
+{{step_1}}
+
+Incident Description:
+{{step_2}}
+
+Claimant Details:
+{{step_3}}
+
+Moving on, it's time to assess and report on the claimed damages or losses. This should include a comprehensive description of the loss or damage, the degree of severity, and estimated costs: {{damage_details}}.
+
+->>>>
+
+We have reported on the claimed damages or losses:
+
+Introduction:
+{{step_1}}
+
+Incident Description:
+{{step_2}}
+
+Claimant Details:
+{{step_3}}
+
+Claimed Damages:
+{{step_4}}
+
+Next, we have a section to discuss the investigation process. This section should discuss the evidence gathered, witnesses interviewed, any relevant information from databases or archives, and the methods of investigation used: {{investigation_details}}.
+
+->>>>
+
+With the investigation details in place, we have:
+
+Introduction:
+{{step_1}}
+
+Incident Description:
+{{step_2}}
+
+Claimant Details:
+{{step_3}}
+
+Claimed Damages:
+{{step_4}}
+
+Investigation Details:
+{{step_5}}
+
+Now, describe your findings and conclusions from the investigation. This should objectively report whether the claim is valid or invalid based on the evidence and information collected throughout the investigation: {{investigation_conclusion}}.
+

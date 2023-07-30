@@ -1,0 +1,118 @@
+Your task is to write a "Server Setup Guide" for the "IT Infrastructure Documentation" industry, specifically for a "System Administrator". Let's commence by providing an introduction to the setup guide. 
+
+In this introduction, explain the server type and its purpose. Explain what the system administrator can expect to achieve at the end of the process: {{server_type}}, {{server_purpose}}, {{expected_outcome}}.
+
+Here's some more context about the Server Setup Guide:
+Server Type: {{server_type}}
+Server Purpose: {{server_purpose}}
+Expected Outcome: {{expected_outcome}}
+Prerequisite Knowledge And Requirements: {{prerequisite_knowledge_and_requirements}}
+Hardware Overview And Specifications: {{hardware_overview_and_specifications}}
+Step By Step Installation Process: {{step_by_step_installation_process}}
+Post Installation Procedures And Tests: {{post_installation_procedures_and_tests}}
+Ongoing Management And Maintenance: {{ongoing_management_and_maintenance}}
+Troubleshooting Tips: {{troubleshooting_tips}}
+
+->>>>
+
+We have an introduction for our server setup guide:
+
+Introduction:
+{{step_1}}
+
+Now let us list the prerequisite knowledge and requirements. These should outline any experience, skills, or existing system settings that the system administrator needs before starting the server setup process: {{prerequisite_knowledge_and_requirements}}.
+
+->>>>
+
+We now have an introduction and the prerequisite knowledge and requirements:
+
+Introduction:
+{{step_1}}
+
+Prerequisite knowledge and requirements:
+{{step_2}}
+
+Next, conduct a server hardware overview. In this step, detail the hardware components and specifications of the server that will be setup: {{hardware_overview_and_specifications}}.
+
+->>>>
+
+For our server setup guide, we have the introduction, prerequisites, and a hardware overview:
+
+Introduction:
+{{step_1}}
+
+Prerequisite Knowledge and Requirements:
+{{step_2}}
+
+Hardware Overview:
+{{step_3}}
+
+Now, offer a detailed, step-by-step server installation guide. This should break down the installation process into manageable steps, beginning with how to physically prepare the server for installation, and progressing to the actual installation of the server OS: {{step_by_step_installation_process}}.
+
+->>>>
+
+To date, our server setup guide includes an introduction, prerequisites, a hardware overview, and a detailed server installation guide:
+
+Introduction:
+{{step_1}}
+
+Prerequisite Knowledge and Requirements:
+{{step_2}}
+
+Hardware Overview:
+{{step_3}}
+
+Installation Guide:
+{{step_4}}
+
+The next task is discussing post-installation. After the server has been installed, provide steps for post-installation setup, including security measures, optimizations, backup procedures, and when and how to conduct server tests: {{post_installation_procedures_and_tests}}.
+
+->>>>
+
+Our server setup guide now includes an introduction, prerequisites, a hardware overview, a detailed installation guide and post-installation steps:
+
+Introduction:
+{{step_1}}
+
+Prerequisite Knowledge and Requirements:
+{{step_2}}
+
+Hardware Overview:
+{{step_3}}
+
+Installation Guide:
+{{step_4}}
+
+Post-installation steps:
+{{step_5}}
+
+Following post-installation, discuss server management and maintenance. Provide guidance on how to keep the server running optimally, and include steps on routine maintenance tasks, monitoring server performance, and disaster recovery plans: {{ongoing_management_and_maintenance}}.
+
+->>>>
+
+We now have a server setup guide that includes an introduction, prerequisites, a hardware overview, a detailed installation guide, post-installation steps, and guidance on server management and maintenance:
+
+Introduction:
+{{step_1}}
+
+Prerequisite Knowledge and Requirements:
+{{step_2}}
+
+Hardware Overview:
+{{step_3}}
+
+Installation Guide:
+{{step_4}}
+
+Post-installation steps:
+{{step_5}}
+
+Server Management and Maintenance:
+{{step_6}}
+
+Our guide is nearly complete. As a means to wrap it up, conclude with server troubleshooting and referencing. Discuss commonly encountered problems and their solutions: {{troubleshooting_tips}}. Also, reference other helpful materials or links which can help the system administrator cope with unforeseen challenges.
+
+->>>>
+
+Finally, let's complete our server setup guide by adding industry-specific elements. These will include commonly used jargon, abbreviations used in the IT infrastructure sector, references to leading industry practices, and compliance considerations that are relevant to the sector: {{industry_specific_elements}}. 
+

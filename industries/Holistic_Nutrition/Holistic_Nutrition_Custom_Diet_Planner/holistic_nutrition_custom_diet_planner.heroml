@@ -1,0 +1,96 @@
+Your task is to write a "Diet Plan" for the "Holistic Nutrition" industry, specifically for a "Nutritionist". 
+
+First, let's start by introducing the category of individuals the diet plan is catered to as per their unique health needs and lifestyle habits: {{target_individuals}}. Identify the goals or objectives of this diet plan, whether it's for weight loss, improved gut health, maximized energy levels, etc.
+
+Here's some more context about the Diet Plan:
+Target Individuals: {{target_individuals}}
+
+->>>>
+
+For the holistic nutrition diet plan for {{target_individuals}}, we have drafted an introduction and identified the objectives:
+
+Introduction & Objectives:
+{{step_1}}
+
+Now, define the nutritional framework ideal for {{target_individuals}} such as a plant-based diet, paleo, ketogenic, gluten-free, dairy-free, or a combination, depending on their dietary restrictions and preferences.
+
+->>>>
+
+We have noted the objectives for our diet plan, next, let's breakdown the nutritional framework:
+
+Objectives:
+{{step_1}}
+
+Nutritional Framework:
+{{step_2}}
+
+Next, based on the nutritional framework, describe the recommended daily intake of different macro (proteins, fats, carbohydrates) and micronutrients (vitamins, minerals), and explain their benefits for {{target_individuals}}.
+
+->>>>
+
+After defining the nutritional framework:
+
+Nutritional Framework:
+{{step_2}}
+
+Now we can breakdown the intake of macro and micronutrients:
+
+Macro and Micronutrients Intake:
+{{step_3}}
+
+Moving on, create a weekly diet plan that encompasses all the necessary nutrients. This plan should prefer whole, unprocessed foods whenever possible, incorporating a diverse range of food groups for balance and enjoyment.
+
+->>>>
+
+We have created an intake of macro and micronutrients, now let's detail our weekly meal templates:
+
+Macro and Micronutrients Intake:
+{{step_3}}
+
+Weekly Meal Plan Template:
+{{step_4}}
+
+Following the weekly meal plan, suggest natural supplements if applicable, that will benefit the specific needs of {{target_individuals}}, especially in cases of certain populations like vegans or the elderly.
+
+->>>>
+
+We have a weekly meal plan designed:
+
+Weekly Meal Plan Template:
+{{step_4}}
+
+Now let's suggest any natural supplements, if needed:
+
+Natural Supplements Recommendation:
+{{step_5}}
+
+Moving forward, discuss the importance of hydration, the recommended daily water intake, and the inclusion of beneficial herbal teas or hydrating foods, specifically tailored for {{target_individuals}}.
+
+->>>>
+
+We have suggested natural supplements:
+
+Natural Supplements Recommendation:
+{{step_5}}
+
+Now let's define the hydration requirements:
+
+Hydration Requirements:
+{{step_6}}
+
+Next, discuss how certain ways of eating (slow, mindful eating) or pairing nutrition with physical activities or rest, given the holistic approach, can enhance the diet's impact for {{target_individuals}}.
+
+->>>>
+
+We've detailed the hydration requirements:
+
+Hydration Requirements:
+{{step_6}}
+
+Let's integrate lifestyle elements along-with consumption:
+
+Integrated Lifestyle Elements:
+{{step_7}}
+
+Finally, conclude by reviewing the aim of the plan according to the health and wellness needs of {{target_individuals}} and reminding them to consult with a healthcare professional for any dietary changes. Also, encourage obtaining feedback and making tweaks to the diet plan based on individual experiences and results.
+

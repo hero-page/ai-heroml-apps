@@ -1,0 +1,69 @@
+Your task is to write a "Coq au Vin Recipe" for the "International Cuisine" industry, specifically for a "French Cuisine Expert". 
+
+Start by providing a brief description about the historical and cultural significance of Coq au Vin in French cuisine: 
+
+Here's some more context about the Coq au Vin Recipe:
+Historical Cultural Significance: {{historical_cultural_significance}}
+Ingredient List: {{ingredient_list}}
+Cooking Steps: {{cooking_steps}}
+Wine Reduction Steps: {{wine_reduction_steps}}
+Pairing Tips: {{pairing_tips}}
+Serving Suggestions: {{serving_suggestions}}
+
+->>>>
+
+We now have a comprehensive understanding of the historical and cultural significance of Coq au Vin:
+
+Historical and Cultural Significance:
+{{step_1}}
+
+Next, introduce the dynamic list of ingredients required for the recipe. This should include specifics of the type of ingredients needed, especially when it comes to the wine and chicken cuts which are crucial to this dish.
+
+->>>>
+
+Moving forward, we have a list of ingredients for our Coq au Vin recipe:
+
+Ingredients List:
+{{step_2}}
+
+Next, establish a detailed step-by-step guide on the cooking process. It's important to include the finer nuances of French cooking, like the importance of proper browning and slow cooking.
+
+->>>>
+
+Together with the ingredients, we now have a detailed cooking process:
+
+Ingredients List:
+{{step_2}}
+
+Cooking Steps:
+{{step_3}}
+
+The next step is to intricately describe the process of making the wine reduction sauce. This is an essential part of the Coq au Vin and needs to be elaborated to ensure the recipe qualifies for an expert level dish.
+
+->>>>
+
+For our Coq au Vin recipe, we have the cooking process along with the wine reduction sauce preparation:
+
+Cooking Process:
+{{step_3}}
+
+Wine Reduction Sauce Preparation:
+{{step_4}}
+
+In this step, integrate tips for matching the Coq au Vin with sides and wines. Since a French Cuisine Expert would be interested in a holistic dining experience, this would add substantial value to the recipe.
+
+->>>>
+
+In the context of putting together our Coq au Vin recipe, this is what we have so far:
+
+Cooking Process:
+{{step_3}}
+
+Wine Reduction Sauce Preparation:
+{{step_4}}
+
+Pairing Tips:
+{{step_5}}
+
+In the concluding step, provide suggestions on the best way to serve and enjoy the Coq au Vin. Include tips on dishware selection, garnishing styles and more.
+

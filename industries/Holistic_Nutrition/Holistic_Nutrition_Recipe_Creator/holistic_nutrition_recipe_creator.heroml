@@ -1,0 +1,66 @@
+Your task is to write a "Recipe" for the "Holistic Nutrition" industry, specifically for a "Nutritionist". 
+
+Let's start by creating an appetizing title that reflects the nature of the recipe. This title should highlight the main ingredients and/or the health benefits of the recipe.
+
+Here's some more context about the Recipe:
+Recipe Title: {{recipe_title}}
+Recipe Introduction: {{recipe_introduction}}
+Recipe Ingredients: {{recipe_ingredients}}
+Recipe Instructions: {{recipe_instructions}}
+Serving Size Prep Time: {{serving_size_prep_time}}
+Holistic Benefits: {{holistic_benefits}}
+
+->>>>
+
+This will be the title of our recipe:
+
+Title:
+{{step_1}}
+
+Next, write a brief introduction that provides some context about the recipe. This may include what the recipe helps to encourage in terms of holistic nutrition, who it might benefit, or why it might be a good choice. Mention the category of the recipe (e.g. appetizers, main dishes, desserts), and the diet it suits (e.g. vegan, gluten-free, low-fat).
+
+->>>>
+
+So far we have:
+
+Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Let's proceed by presenting a comprehensive list of all the ingredients required for the recipe. Each ingredient should be accompanied by its quantity or proportion. Ensure the ingredients listed align with holistic nutrition principles.
+
+->>>>
+
+Now we have listed the ingredients for our recipe:
+
+Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Ingredients:
+{{step_3}}
+
+Next, provide a step-by-step guide on how to prepare the dish. Each step should be clear, concise, and easy to follow. Incorporate preparation tips unique to holistic nutrition—for instance, preferring raw over cooked ingredients wherever possible.
+
+->>>>
+
+So far we have:
+
+Title:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Ingredients:
+{{step_3}}
+
+Instructions:
+{{step_4}}
+
+Our next step is to describe the serving size and total preparation time required for the recipe, as this helps the nutritionist advise clients on portion control and meal planning effectively.
+

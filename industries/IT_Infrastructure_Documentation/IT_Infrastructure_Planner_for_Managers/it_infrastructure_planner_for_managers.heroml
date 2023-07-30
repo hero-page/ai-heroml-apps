@@ -1,0 +1,92 @@
+Start with the task of creating an "IT Infrastructure Plan" for an "IT Manager" in the "IT Infrastructure Documentation" industry. Begin by drafting an introduction that describes the purpose of the "IT Infrastructure Plan": {{purpose_of_plan}}.
+
+Here's some more context about the IT Infrastructure Plan:
+Purpose Of Plan: {{purpose_of_plan}}
+Current State Of Infrastructure: {{current_state_of_infrastructure}}
+Infrastructure Requirements: {{infrastructure_requirements}}
+Risks And Challenges: {{risks_and_challenges}}
+Risk Solutions: {{risk_solutions}}
+Infrastructure Budget: {{infrastructure_budget}}
+Implementation Timeline: {{implementation_timeline}}
+
+->>>>
+
+With the introduction complete:
+
+Introduction:
+{{step_1}}
+
+The next task will be to critically review and analyze the existing IT infrastructure, detailing its current state: {{current_state_of_infrastructure}}. Your analysis should include an audit of the hardware, software, networks, and data centers currently in use.
+
+->>>>
+
+The introduction is created and the existing IT infrastructure has been reviewed and analyzed:
+
+Introduction:
+{{step_1}}
+
+Current state of the infrastructure:
+{{step_2}}
+
+Your next task involves identifying the requirements for the new or upgraded IT infrastructure based on the organization's strategy and growth plan: {{infrastructure_requirements}}.
+
+->>>>
+
+The introduction and IT infrastructure requirements are as follow:
+
+Introduction:
+{{step_1}}
+
+Infrastructure Requirements:
+{{step_3}}
+
+Now, based on the identified requirements, develop a comprehensive plan. This plan should include aspects such as hardware upgrade, software upgrade, network enhancement, and data center expansion, among others.
+
+->>>>
+
+The requirements have been identified and a comprehensive plan to fulfill these requirements has been developed:
+
+Infrastructure Requirements:
+{{step_3}}
+
+Comprehensive Plan:
+{{step_4}}
+
+Your next step is to identify potential risks or challenges associated with the upgrade or installation of new infrastructure: {{risks_and_challenges}}. The IT manager should be provided with sufficient information to understand and anticipate potential issues.
+
+->>>>
+
+The potential risks or challenges associated with the comprehensive plan are as follows:
+
+Comprehensive Plan:
+{{step_4}}
+
+Risks and Challenges:
+{{step_5}}
+
+Now, your task is to propose feasible solutions to the identified risks or challenges: {{risk_solutions}}. The solutions should be designed to address each risk individually, ensuring the IT manager is well-prepared to mitigate each potential problem.
+
+->>>>
+
+These are the proposed solutions for potential risks or challenges with the comprehensive plan:
+
+Risks and Challenges:
+{{step_5}}
+
+Risk Solutions:
+{{step_6}}
+
+Next, compile a detailed budget for the IT infrastructure project, distributed by each major component: {{infrastructure_budget}}. The budget should be precise to allow the IT Manager to understand the financial requirements of the plan clearly.
+
+->>>>
+
+Here's the detailed budget for the IT Infrastructure Plan:
+
+Risk Solutions:
+{{step_6}}
+
+Infrastructure Budget:
+{{step_7}}
+
+Now, let's add an implementation timeline that provides deadlines for each key component of the IT plan: {{implementation_timeline}}. This will give the IT Manager a clear view of when each part of the infrastructure project should be completed.
+

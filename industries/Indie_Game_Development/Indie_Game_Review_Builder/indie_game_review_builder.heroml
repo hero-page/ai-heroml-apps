@@ -1,0 +1,136 @@
+Your task is to write a "Game Review" for the "Indie Game Development" industry, targeting specifically an "Indie Game Developer". Start by providing a gripping introduction that includes the title of the game: {{game_title}}, the development studio: {{game_studio}}, and a teaser description of the game play and genre: {{game_description}}.
+
+Here's some more context about the Game Review:
+Game Title: {{game_title}}
+Game Studio: {{game_studio}}
+Game Description: {{game_description}}
+Game Background: {{game_background}}
+Game Challenges: {{game_challenges}}
+Game Rating: {{game_rating}}
+
+->>>>
+
+At this point, we have crafted an engaging introduction for our review:
+
+Introduction:
+{{step_1}}
+
+Let's continue by providing a brief background about the game, focused on its development process, inspiration, and potentially some brief information about the developer. This information you're going to write should be based on the game background provided: {{game_background}}.
+
+->>>>
+
+Now, our review has an introduction and background information about the game:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+We will now delve into the meat of our review. We need to cover and discuss these four key aspects of the game: narrative and story, gameplay, graphics and art style, and sound design and music.
+
+->>>>
+
+After detailing these key aspects, our review now includes:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+An important aspect of this review is the Challenges and Solutions section. In this part, empathize with potential issues faced by the developer and how they were or could be resolved by providing details on the game's challenges: {{game_challenges}}.
+
+->>>>
+
+With the inclusion of the "Challenges and Solutions" part, our review now comprises:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Challenges and Solutions:
+{{step_4}}
+
+Now, analyze how the game's mechanics, art, sound, and story work together to create a cohesive experience. Discuss the gameplay experience and whether all elements mesh together harmoniously.
+
+->>>>
+
+Having analyzed the game's cohesiveness, our review includes:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Challenges and Solutions:
+{{step_4}}
+
+Cohesion Assessment:
+{{step_5}}
+
+Next, discuss what sets this game apart from others in its genre and why it stands out. This could cover unique features, innovative mechanics, challenging gameplay, or a captivating story.
+
+->>>>
+
+At this point, we have assessed the distinctive attributes of the game. These are the review components we have:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Challenges and Solutions:
+{{step_4}}
+
+Cohesion Assessment:
+{{step_5}}
+
+Uniqueness:
+{{step_6}}
+
+Now, compose a thoughtful conclusion reflecting on the playing experience and summarizing your thoughts on the game as a whole. Consider if and for whom you would recommend this game.
+
+->>>>
+
+Including a thoughtful conclusion, our review contains:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Detailed Discussion:
+{{step_3}}
+
+Challenges and Solutions:
+{{step_4}}
+
+Cohesion Assessment:
+{{step_5}}
+
+Uniqueness:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Lastly, rating the game is an essential part of any game review process. Provide a relevant score for the game: {{game_rating}} on a scale defined by you. This will give the reader an instant numerical representation of the game's overall quality according to your assessment.
+

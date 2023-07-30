@@ -1,0 +1,85 @@
+Your task is to write an "Authentic Dumpling Recipe" for the "International Cuisine" industry, specifically suitable to a "Chinese Cuisine Specialist". 
+
+To start, provide an insightful and engaging introduction about the "Authentic Dumpling Recipe".
+
+Here's some more context about the Authentic Dumpling Recipe:
+Dumpling Background: {{dumpling_background}}
+Ingredient List: {{ingredient_list}}
+Cooking Steps: {{cooking_steps}}
+Expert Tips: {{expert_tips}}
+Cultural Significance: {{cultural_significance}}
+Serve Store Tweak Tips: {{serve_store_tweak_tips}}
+
+->>>>
+
+We have an informative introduction to the "Authentic Dumpling Recipe":
+
+Introduction:
+{{step_1}}
+
+Now, let's prepare a comprehensive list of ingredients needed for the "Authentic Dumpling Recipe", with specific quantities and possible substitutes if applicable.
+
+->>>>
+
+Our "Authentic Dumpling Recipe" starts with this introduction:
+
+Introduction:
+{{step_1}}
+
+And includes a comprehensive list of ingredients:
+
+Ingredients:
+{{step_2}}
+
+The next step is to describe each part of the cooking process in detail. For better understanding, please divide the process into subsections such as "Making the Dumpling Filling", "Preparing the Dough", and "Cooking the Dumplings".
+
+->>>>
+
+The introductory part of our "Authentic Dumpling Recipe" is this:
+
+Introduction:
+{{step_1}}
+
+And these are the ingredients we need:
+
+Ingredients:
+{{step_2}}
+
+Here's a detailed description of the cooking process:
+
+Cooking Steps:
+{{step_3}}
+
+Now, let's emphasize on specific tips and advice on key aspects of the "Authentic Dumpling Recipe". This could include techniques for kneading the dough or sealing the dumplings, taste enhancement recommendations, insights on ingredient selection, and other expert tips.
+
+->>>>
+
+Here is the cooking process for our "Authentic Dumpling Recipe":
+
+Cooking Steps:
+{{step_3}}
+
+And these are some specific tips and professional advice to enhance the recipe:
+
+Expert Tips:
+{{step_4}}
+
+Moving on, we should highlight the cultural significance and traditional elements of this recipe, as this is likely to be of interest to a "Chinese Cuisine Specialist". Try to include variations of the recipe in different regions of China, its presence in festivals or other cultural phenomena, and its reflection of Chinese culinary philosophy.
+
+->>>>
+
+The cooking process for our "Authentic Dumpling Recipe" contains these expert tips:
+
+Cooking Steps:
+{{step_3}}
+
+Expert Tips:
+{{step_4}}
+
+And this is the cultural significance associated with the recipe:
+
+Cultural Significance:
+{{step_5}}
+
+Lastly, we need to conclude the recipe with serving and storage instructions, pairing suggestions, and tips for tweaking the recipe according to personal preference.
+

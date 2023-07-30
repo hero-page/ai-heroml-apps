@@ -1,0 +1,96 @@
+Your task is to write a "Network Diagram" for the "IT Infrastructure Documentation" industry, specifically for a "Network Engineer". Let's start with an introductory description that summarizes the overall outlook of the network infrastructure: {{network_summary}}.
+
+Here's some more context about the Network Diagram:
+Network Summary: {{network_summary}}
+Primary Devices: {{primary_devices}}
+Network Zones: {{network_zones}}
+Network Subnets: {{network_subnets}}
+Network Interactions: {{network_interactions}}
+Security Devices: {{security_devices}}
+Traffic Flow: {{traffic_flow}}
+Wifi Zones: {{wifi_zones}}
+Network Redundancy: {{network_redundancy}}
+Network Inventory: {{network_inventory}}
+Revision History: {{revision_history}}
+
+->>>>
+
+The introductory summary of network infrastructure is complete:
+
+Network Summary:
+{{step_1}}
+
+Now, let's develop a hierarchy representing the primary devices in your network like routers, switches, servers, and their interconnections: {{primary_devices}}.
+
+->>>>
+
+We have the hierarchy of primary devices and their interconnections:
+
+Primary Devices:
+{{step_2}}
+
+Next, identify and detail the key sections or zones within the network such as data centers, connectivity trunks, access points, and user zones: {{network_zones}}.
+
+->>>>
+
+So far we have a detailed hierarchy of devices and the key network zones:
+
+Key Network Zones:
+{{step_3}}
+
+Continuing, the task now is to include the representation of various network subnets, segregations, and how they interact with one another, covering their IP ranges: {{network_subnets}}.
+
+->>>>
+
+Good progress. We now have a detailed layout of the network subnets and segregations:
+
+Network Subnets:
+{{step_4}}
+
+We now have to define the point of interactions between the internal network and the outside world, including firewalls, the Internet, VPN endpoints, and other external entities: {{network_interactions}}.
+
+->>>>
+
+Our network diagram now includes the internal and external points of interaction:
+
+Network Interactions:
+{{step_5}}
+
+Now, let's highlight critical security elements such as intrusion detection systems or other threat management devices: {{security_devices}}.
+
+->>>>
+
+We have now added the critical security elements to our network diagram:
+
+Security Elements:
+{{step_6}}
+
+We'll move on to describe the network traffic flow between devices and zones in the network, including addressing routing protocols used: {{traffic_flow}}.
+
+->>>>
+
+The network traffic flow has been described:
+
+Network Traffic Flow:
+{{step_7}}
+
+Let's now incorporate Wi-Fi access points, their coverage areas, and how they are connected to the rest of the network: {{wifi_zones}}.
+
+->>>>
+
+Next, we have added Wi-Fi access points and their connections:
+
+Wi-Fi Zones:
+{{step_8}}
+
+For efficiency, let's detail redundancy and failover directions e.g. secondary devices, standby systems, network links, and how they kick in when primary links fail: {{network_redundancy}}.
+
+->>>>
+
+At this point, redundancy and failover directions have been done:
+
+Network Redundancy:
+{{step_9}}
+
+Let's conclude with a key section that is highly descriptive and includes all necessary information about software versions, hardware types, makes, models of the equipment: {{network_inventory}}.
+

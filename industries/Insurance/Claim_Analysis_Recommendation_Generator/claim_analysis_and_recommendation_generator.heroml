@@ -1,0 +1,69 @@
+Your task is to write a "Claim Analysis" for the "Insurance" industry, specifically for a "Claims Adjuster". 
+Let's begin by writing an introduction that overviews the claim in question: {{insurance_claim}}.
+
+Here's some more context about the Claim Analysis:
+Insurance Claim: {{insurance_claim}}
+Policyholder Account: {{policyholder_account}}
+Policy Coverage Details: {{policy_coverage_details}}
+Investigation Findings: {{investigation_findings}}
+Damage Calculations: {{damage_calculations}}
+Claim Concerns: {{claim_concerns}}
+Claim Handling Recommendation: {{claim_handling_recommendation}}
+
+->>>>
+
+Our analysis begins with an introduction to the claim:
+
+Introduction:
+{{step_1}}
+
+Now, detail the assertion by the policyholder. This should outline their account of what transpired leading to the claim: {{policyholder_account}}.
+
+->>>>
+
+Our analysis now has an introduction and the policyholder's account:
+
+Introduction:
+{{step_1}}
+
+Policyholder's Account:
+{{step_2}}
+
+Next, present the policy review, exhibiting the relevant coverage specifics and how they relate to the claim: {{policy_coverage_details}}.
+
+->>>>
+
+At this stage we have the policyholder's account and policy coverage details:
+
+Policyholder's Account:
+{{step_2}}
+
+Policy Coverage:
+{{step_3}}
+
+Now, we will explain the investigation findings about the claim. This will include specifics about evidence, statements from witnesses and experts, police reports, or any other relevant details: {{investigation_findings}}.
+
+->>>>
+
+We now have information regarding the policy coverage and findings from the investigation:
+
+Policy Coverage:
+{{step_3}}
+
+Investigation Findings:
+{{step_4}}
+
+Next, let's review the damage calculations and loss quantification, providing clear justifications based on the facts and data gathered: {{damage_calculations}}.
+
+->>>>
+
+We have the investigation findings and details on the damage and loss calculations:
+
+Investigation Findings:
+{{step_4}}
+
+Damage Calculations:
+{{step_5}}
+
+Following this, discuss potential claim-related concerns such as possible fraud or policy violation by summarizing suspicious or conflictual elements found during the claim review: {{claim_concerns}}.
+

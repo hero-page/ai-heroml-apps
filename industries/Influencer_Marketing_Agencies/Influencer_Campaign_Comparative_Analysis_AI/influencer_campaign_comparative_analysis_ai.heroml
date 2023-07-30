@@ -1,0 +1,88 @@
+Your task is to write a "Campaign Report" for the "Influencer Marketing Agencies" industry, specifically for a "Data Analyst". 
+
+Let's begin with an introduction that gives an overview of the campaign: {{campaign_overview}}. This introduction should include details such as the campaign’s objectives, the influencers involved, and the platform(s) used.
+
+Here's some more context about the Campaign Report:
+Campaign Overview: {{campaign_overview}}
+Campaign Objectives: {{campaign_objectives}}
+Influencer Strategies: {{influencer_strategies}}
+Raw Data: {{raw_data}}
+Data Insights: {{data_insights}}
+Campaign Comparison: {{campaign_comparison}}
+Action Steps: {{action_steps}}
+
+->>>>
+
+For this "Campaign Report", we have the following introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's discuss the campaign's objectives in greater depth: {{campaign_objectives}}. Each objective should be stated specifically, clearly, and they should be measurable and time-bound.
+
+->>>>
+
+We have the introduction and the specific objectives of the campaign:
+
+Introduction:
+{{step_1}}
+
+Campaign's objectives:
+{{step_2}}
+
+Following that, for the main body of the report, describe the execution details of the campaign: the influencers' strategies {{influencer_strategies}}, and the method of engagement with the audience.
+
+->>>>
+
+Now, we have the introduction, objectives and execution details of the campaign:
+
+Introduction:
+{{step_1}}
+
+Campaign's objectives:
+{{step_2}}
+
+Execution details:
+{{step_3}}
+
+Now, we need to dedicate a portion of the report to data analysis. Start with a presentation of raw data: {{raw_data}} gathered from the campaign, such as views, likes, shares, comments, follower count increases, and conversions.
+
+->>>>
+
+Our report now includes the introduction, objectives, execution details and raw data from the campaign:
+
+Introduction:
+{{step_1}}
+
+Campaign's objectives:
+{{step_2}}
+
+Execution details:
+{{step_3}}
+
+Raw Data:
+{{step_4}}
+
+Next, focus on the interpretation of this data. Discuss the insights gained from the data: {{data_insights}}. This discussion should include trends, patterns, strong and weak points, anomalies, etc.
+
+->>>>
+
+So far in our report, we have the introduction, objectives, execution details, raw data, and insights:
+
+Introduction:
+{{step_1}}
+
+Campaign's objectives:
+{{step_2}}
+
+Execution details:
+{{step_3}}
+
+Raw Data:
+{{step_4}}
+
+Data insights:
+{{step_5}}
+
+Create a section for comparisons next. Compare the campaign's outcome with its objectives: {{campaign_comparison}}. Highlight where the campaign exceeded expectations and where it fell short.
+

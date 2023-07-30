@@ -1,0 +1,134 @@
+Your task is to write a "Configuration Guide" for the "IT Infrastructure Documentation" industry, specifically for a "Network Engineer".
+
+To initiate this task, start by generating an introduction that explains the purpose of this guide and offers an overview of its scope concerning the network setup: {{network_setup}}.
+
+Here's some more context about the Configuration Guide:
+Network Setup: {{network_setup}}
+Technology Stack: {{technology_stack}}
+
+->>>>
+
+We have begun our "Configuration Guide" with an introductory section:
+
+Introduction:
+{{step_1}}
+
+Next, provide a comprehensive background of the technology stack involved in the network setup: {{technology_stack}}.
+
+->>>>
+
+For a "Network Engineer" in the "IT Infrastructure Documentation" industry, we now have:
+
+Introduction:
+{{step_1}}
+
+Technology Stack Background:
+{{step_2}}
+
+Now, detail the key steps for configuring the hardware and software components of the network setup: {{network_setup}}.
+
+->>>>
+
+In the "Configuration Guide" for a "Network Engineer":
+
+Introduction:
+{{step_1}}
+
+Technology Stack Background:
+{{step_2}}
+
+Key Configuration Steps:
+{{step_3}}
+
+Next, cover industry-specific terms, standards, and practices in the context of {{network_setup}}.
+
+->>>>
+
+The "Configuration Guide" for a "Network Engineer" so far includes:
+
+Introduction:
+{{step_1}}
+
+Technology Stack Background:
+{{step_2}}
+
+Key Configuration Steps:
+{{step_3}}
+
+Industry-Specific Terms and Practices:
+{{step_4}}
+
+Following that, offer a detailed explanation on the secure configuration practices along with password and user role management for the network devices and software in the {{network_setup}}.
+
+->>>>
+
+In our "Configuration Guide" so far for a "Network Engineer", we have: 
+
+Introduction:
+{{step_1}}
+
+Technology Stack Background:
+{{step_2}}
+
+Key Configuration Steps:
+{{step_3}}
+
+Industry-Specific Terms and Practices:
+{{step_4}}
+
+Security and User Role Management:
+{{step_5}}
+
+Include a troubleshoot section addressing common issues and their solutions within the {{network_setup}}.
+
+->>>>
+
+Our "Configuration Guide" now includes: 
+
+Introduction:
+{{step_1}}
+
+Technology Stack Background:
+{{step_2}}
+
+Key Configuration Steps:
+{{step_3}}
+
+Industry-Specific Terms and Practices:
+{{step_4}}
+
+Security and User Role Management:
+{{step_5}}
+
+Troubleshooting:
+{{step_6}}
+
+To wrap up, let's conclude with a summary and additional resource references relevant to the {{network_setup}}. Also, include details on support contacts in case further assistance is required.
+
+->>>>
+
+Our nearly complete "Configuration Guide" for a "Network Engineer" now has: 
+
+Introduction:
+{{step_1}}
+
+Technology Stack Background:
+{{step_2}}
+
+Key Configuration Steps:
+{{step_3}}
+
+Industry-Specific Terms and Practices:
+{{step_4}}
+
+Security and User Role Management:
+{{step_5}}
+
+Troubleshooting:
+{{step_6}}
+
+Summary and Additional Resources:
+{{step_7}}
+
+Finally, add a section that discusses the necessity for regular updates and version control documentation for the {{network_setup}} guide. This should stress the importance of efficient maintenance and ease of use for future users.
+

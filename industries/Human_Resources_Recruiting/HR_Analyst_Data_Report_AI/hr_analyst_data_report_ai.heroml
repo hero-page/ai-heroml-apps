@@ -1,0 +1,109 @@
+Your task is to write a "Data Analysis Report" for the "Human Resources & Recruiting" industry, specifically for a "HR Analyst". 
+
+Let's start by stating the Analysis Objective: {{analysis_objective}}, which includes the purpose and the scope of the analysis being reported.
+
+Here's some more context about the Data Analysis Report:
+Analysis Objective: {{analysis_objective}}
+Time Period: {{time_period}}
+Analysis Tools: {{analysis_tools}}
+Key Trainee Variables: {{key_trainee_variables}}
+
+->>>>
+
+With the Analysis Objective: 
+
+Objective:
+{{step_1}}
+
+Next, create a section for Data Collection Details. Explain the sources from which the data were collected, and detail the methodology of collection. Make sure to mention the time period of data collection: {{time_period}}.
+
+->>>>
+
+In our "Data Analysis Report", we have an objective and data collection details:
+
+Objective:
+{{step_1}}
+
+Data Collection Details:
+{{step_2}}
+
+The next section covers Data Cleaning and Pre-processing. Please elucidate any errors in the data, missing values, and how they were rectified. Discuss the entire process of pre-processing the data.
+
+->>>>
+
+The "Data Analysis Report" so far includes the objective, data collection details, and information on data cleaning and pre-processing:
+
+Objective:
+{{step_1}}
+
+Data Collection Details:
+{{step_2}}
+
+Data Cleaning and Pre-processing:
+{{step_3}}
+
+The following chapter should be based on the Analysis Methodology. Describe the statistical methods or data analysis techniques that were used, including any software or tools: {{analysis_tools}} used in the analysis phase.
+
+->>>>
+
+The "Data Analysis Report" we are creating has information about the objective, data collection, data pre-processing and now the analysis methodology:
+
+Objective:
+{{step_1}}
+
+Data Collection Details:
+{{step_2}}
+
+Data Cleaning and Pre-processing:
+{{step_3}}
+
+Analysis Methodology:
+{{step_4}}
+
+The next section should be the Analysis Findings. Describe all the findings from the data analysis which should be factual and direct, covering key variables of interest: {{key_trainee_variables}}.
+
+->>>>
+
+Our "Data Analysis Report" includes the analysis objective, data collection details, data pre-processing, analysis methodology, and now the findings of the analysis:
+
+Objective:
+{{step_1}}
+
+Data Collection Details:
+{{step_2}}
+
+Data Cleaning and Pre-processing:
+{{step_3}}
+
+Analysis Methodology:
+{{step_4}}
+
+Analysis Findings:
+{{step_5}}
+
+Next, please write the Conclusions section, summarizing the main findings from the analysis and include any limitations that were noticed.
+
+->>>>
+
+The current state of our "Data Analysis Report" includes the objective, data collection, data cleaning, methodology, analysis findings and now the conclusions:
+
+Objective:
+{{step_1}}
+
+Data Collection Details:
+{{step_2}}
+
+Data Cleaning and Pre-processing:
+{{step_3}}
+
+Analysis Methodology:
+{{step_4}}
+
+Analysis Findings:
+{{step_5}}
+
+Conclusions:
+{{step_6}}
+
+We should now move to Recommendations. Based on the conclusions of your analysis, provide suggested actions for the HR Department to consider.
+

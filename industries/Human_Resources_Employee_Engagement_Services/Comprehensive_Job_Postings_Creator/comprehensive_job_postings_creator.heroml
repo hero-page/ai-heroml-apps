@@ -1,0 +1,79 @@
+Your task is to write a "Job Posting" for the "Human Resources & Employee Engagement Services" industry, specifically for a "Recruiter". Let's start with an engaging job title and location. State the position as “Recruiter” and your company's location for the role.
+
+Here's some more context about the Job Posting:
+Company Location: {{company_location}}
+Unique Company Aspects: {{unique_company_aspects}}
+Key Responsibilities: {{key_responsibilities}}
+Required Qualifications And Skills: {{required_qualifications_and_skills}}
+Compensation And Benefits: {{compensation_and_benefits}}
+Discrimination Factors: {{discrimination_factors}}
+
+->>>>
+
+For our "Job Posting" in the "Human Resources & Employee Engagement Services" industry for a "Recruiter", we have created an engaging job title and location:
+
+Job Title and Location:
+{{step_1}}
+
+Next, write an introduction about your company. Provide a brief overview about the company, its vision, culture, and why it's a great place to work. Also, include any unique aspects of the company.
+
+->>>>
+
+We have a job title and location, and a company introduction for our job posting:
+
+Job Title and Location:
+{{step_1}}
+
+Company Introduction:
+{{step_2}}
+
+Now, let's identify the job role and responsibilities. Describe the primary duties of the "Recruiter" in clear, engaging language. Include the primary responsibilities such as sourcing candidates, coordinating interviews, and engaging in employee relation activities.
+
+->>>>
+
+For our job posting, we have a company introduction and a job role with responsibilities:
+
+Company Introduction:
+{{step_2}}
+
+Job Role and Responsibilities:
+{{step_3}}
+
+Next, mention the required qualifications and skills. List the essential qualifications, skills, and experience that the "Recruiter" would need.
+
+->>>>
+
+In our job posting, we have the job role and responsibilities, along with the required qualifications and skills:
+
+Job Role and Responsibilities:
+{{step_3}}
+
+Required Qualifications and Skills:
+{{step_4}}
+
+Now, provide information about the employee benefits and compensation. Include the salary range, bonuses, and benefits your company offers.
+
+->>>>
+
+For our job posting for a recruiter, we mention the required qualifications and skills, and the benefits and compensation details:
+
+Required Qualifications and Skills:
+{{step_4}}
+
+Employee Benefits and Compensation:
+{{step_5}}
+
+Next, explain the application process. Clarify how candidates can apply for the job, who they should contact, and which documents they need to submit.
+
+->>>>
+
+In our job posting, we have detailed the benefits and compensation, and explained the application process:
+
+Employee Benefits and Compensation:
+{{step_5}}
+
+Application Process:
+{{step_6}}
+
+Finally, conclude with an Equal Opportunity Employer (EOE) statement. Make sure to mention that your company is an equal opportunity employer and does not discriminate based on factors such as race, religion, age, gender, nationality, or disability. 
+

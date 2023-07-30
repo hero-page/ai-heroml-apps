@@ -1,0 +1,137 @@
+Your task is to write a "Website Design Plan" tailored to the tech needs of high school students studying Computer Science. Let's start by crafting a brief introduction. This should cover the website's purpose and explain how this aligns with the interests and needs of high-school students studying technology & computer science.
+
+Here's some more context about the Website Design Plan:
+Website Purpose: {{website_purpose}}
+Site Architecture: {{site_architecture}}
+Content Type: {{content_type}}
+UI Design: {{UI_design}}
+Toolset: {{toolset}}
+Engagement Strategy: {{engagement_strategy}}
+Maintenance Plan: {{maintenance_plan}}
+
+->>>>
+
+With an introduction in place, our Design Plan looks like this:
+
+Introduction:
+{{step_1}}
+
+Next, plan the "site architecture", detailing the categories and subcategories that seem essential for the website according to its purpose. These categories and subcategories need to be logically structured for clear navigation of the website's content.
+
+->>>>
+
+Having outlined the site's architecture, the Design Plan now includes:
+
+Introduction:
+{{step_1}}
+
+Site Architecture:
+{{step_2}}
+
+Let's continue our plan by delineating a "content plan", detailing the type of content under each of the site architecture categories. The content should be relevant to technology & computer science - from tutorials and lessons to programming challenges, career advice in tech, and discussion areas.
+
+->>>>
+
+The Content Plan has been added to our overall Website Design Plan:
+
+Introduction:
+{{step_1}}
+
+Site Architecture:
+{{step_2}}
+
+Content Plan:
+{{step_3}}
+
+Next, draft a "User Interface (UI) Design" section, which explains how you plan to apply intuitive design principles for seamless navigation and accessible content.
+
+->>>>
+
+Our web design plan so far:
+
+Introduction:
+{{step_1}}
+
+Site Architecture:
+{{step_2}}
+
+Content Plan:
+{{step_3}}
+
+UI Design:
+{{step_4}}
+
+Now we focus on the "Toolset" area, which should detail the website builders, coding technologies, and plugins you plan to use for building, enhancing, and managing the website.
+
+->>>>
+
+With the addition of the Toolset, our Website Design Plan now reads:
+
+Introduction:
+{{step_1}}
+
+Site Architecture:
+{{step_2}}
+
+Content Plan:
+{{step_3}}
+
+UI Design:
+{{step_4}}
+
+Toolset:
+{{step_5}}
+
+Let's proceed to creating a "student-engagement strategy". This involves coming up with features that can increase the level of student participation and retention, such as gamifying learning content or incorporating social features for peer interaction.
+
+->>>>
+
+Our comprehensive plan now includes a strategy to engage students:
+
+Introduction:
+{{step_1}}
+
+Site Architecture:
+{{step_2}}
+
+Content Plan:
+{{step_3}}
+
+UI Design:
+{{step_4}}
+
+Toolset:
+{{step_5}}
+
+Engagement Strategy:
+{{step_6}}
+
+Draw up a "Website Accessibility and Security Plan". Firstly, describe how the website will be made accessible in consideration of diverse student needs. Then, lay out strategies to ensure data privacy and the overall security of the website.
+
+->>>>
+
+Our detailed plan now has an Accessibility and Security section:
+
+Introduction:
+{{step_1}}
+
+Site Architecture:
+{{step_2}}
+
+Content Plan:
+{{step_3}}
+
+UI Design:
+{{step_4}}
+
+Toolset:
+{{step_5}}
+
+Engagement Strategy:
+{{step_6}}
+
+Accessibility and Security Plan:
+{{step_7}}
+
+Now draft a "Maintenance Plan" outlining who will be responsible for updating and correcting the website, along with details about content updates, performance checks, and other regular maintenance tasks.
+

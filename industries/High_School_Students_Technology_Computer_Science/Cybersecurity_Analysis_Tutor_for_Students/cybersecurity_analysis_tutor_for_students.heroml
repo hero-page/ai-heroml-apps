@@ -1,0 +1,142 @@
+Your task is to write a "Security Analysis" for the "High School Students - Technology & Computer Science" industry, specifically for a "Cybersecurity Club Member".
+
+Let's start by introducing and describing the chosen security domain: {{chosen_security_domain}}. 
+Ensure to clarify why it is important within the cybersecurity context.
+
+Here's some more context about the Security Analysis:
+Chosen Security Domain: {{chosen_security_domain}}
+
+->>>>
+
+For the "Security Analysis", we have selected and described our chosen security domain:
+
+Domain:
+{{step_1}}
+
+Next, identify and elaborate on the common threats within this chosen security domain. Discuss potential hazards such as viruses, malware, and other cyber threats in detail.
+
+->>>>
+
+With our chosen security domain:
+
+Domain:
+{{step_1}}
+
+We have identified and elaborated the common threats:
+
+Common threats:
+{{step_2}}
+
+Let's proceed to detail the existing security measures currently in place in the chosen domain. 
+Include all safeguards like firewall protections, antivirus software, and other security protocols.
+
+->>>>
+
+Given our chosen security domain:
+
+Domain:
+{{step_1}}
+
+The threats we've identified:
+
+Threats:
+{{step_2}}
+
+We have detailed the existing security measures:
+
+Security Measures:
+{{step_3}}
+
+Now, analyze how effective these measures are in the chosen domain. Evaluate these safeguards' performance against the threats we've identified.
+
+->>>>
+
+In our chosen security domain:
+
+Domain:
+{{step_1}}
+
+Considering our identified threats:
+
+Threats:
+{{step_2}}
+
+And the existing security measures:
+
+Security Measures:
+{{step_3}}
+
+We've conducted an effectiveness analysis:
+
+Effectiveness of Measures:
+{{step_4}}
+
+Next, based on the identified vulnerabilities, suggest methods to improve security in our chosen domain. Recommendations could include stronger password protocols, multi-factor authentication, and regular software updates.
+
+->>>>
+
+For our chosen security domain:
+
+Domain:
+{{step_1}}
+
+Considering the vulnerabilities spotted and existing measures:
+
+Threats:
+{{step_2}}
+
+Security Measures:
+{{step_3}}
+
+Effectiveness:
+{{step_4}}
+
+These are the proposed improvements:
+
+Security Improvements:
+{{step_5}}
+
+Now, conduct a risk assessment considering the current security status of the chosen domain, including the possible impacts of potential breaches.
+
+->>>>
+
+For our chosen security domain:
+
+Domain:
+{{step_1}}
+
+Considering the existing situation:
+
+Threats:
+{{step_2}}
+
+Security Measures:
+{{step_3}}
+
+Effectiveness:
+{{step_4}}
+
+Improvements:
+{{step_5}}
+
+We have conducted a risk assessment:
+
+Risk Assessment:
+{{step_6}}
+
+Next, let's incorporate sections on the latest trends and advancements in cybersecurity that may be relevant and beneficial in the chosen domain. This could include AI defenses, blockchain technology, etc.
+
+->>>>
+
+Regarding our chosen security domain:
+
+Domain:
+{{step_1}}
+
+We have included the latest trends and advancements in cybersecurity:
+
+Trends & Advancements:
+{{step_7}}
+
+Lastly, consolidate all information and key points discussed in the previous steps into a comprehensive summary. This will help educate the cybersecurity club members and raise their awareness about the relevance of cybersecurity in the chosen domain.
+

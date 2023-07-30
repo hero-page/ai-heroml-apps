@@ -1,0 +1,83 @@
+Your task is to write a "Product Review" for the "Lifestyle & Fashion Blogs" industry, specifically for a "Fashion Blogger". 
+
+To start, let's create an engaging introduction that hooks the reader. Bear in mind, we should provide the name of the product: {{product_name}} and a brief description, but without going into too many details.
+
+Here's some more context about the Product Review:
+Product Name: {{product_name}}
+Product Origin Story: {{product_origin_story}}
+Overall Impression: {{overall_impression}}
+Design And Quality: {{design_and_quality}}
+Value For Money: {{value_for_money}}
+Personal Experience: {{personal_experience}}
+
+->>>>
+
+Often, reviews for the "Fashion Blogger" in the "Lifestyle & Fashion Blogs" industry begin with an engaging introduction. 
+
+Our introduction is:
+
+Introduction:
+{{step_1}}
+
+For the next step, let's come up with the backstory of why we chose to review this particular product: {{product_origin_story}}.
+
+->>>>
+
+Following the introduction, we now have the backstory of why this product was chosen for review:
+
+Introduction:
+{{step_1}}
+
+Backstory:
+{{step_2}}
+
+Now, let's describe our overall impression of the product: {{overall_impression}}. This should include your first impressions, thoughts after prolonged use and notable features of the product.
+
+->>>>
+
+After writing our product backstory, we now have our overall impression of the product:
+
+Backstory:
+{{step_2}}
+
+Overall Impression:
+{{step_3}}
+
+Next, discuss the product's design, quality, and practicality, which includes packaging, material quality, appearance, ease of use, etc: {{design_and_quality}}.
+
+->>>>
+
+For our product review, we have an overall impression and description of its design and quality:
+
+Overall Impression:
+{{step_3}}
+
+Design and Quality:
+{{step_4}}
+
+It's important to critically analyze the value for money of the product: {{value_for_money}}. Discuss if it's worth the price, how it compares to similar items in its price range or if there are better alternatives available.
+
+->>>>
+
+We now have a description of the design and quality of the product, as well as its value for money:
+
+Design and Quality:
+{{step_4}}
+
+Value for Money:
+{{step_5}}
+
+Next, share your personal experience of using the product. Elaborate on how it fits into your lifestyle or daily routine: {{personal_experience}}.
+
+->>>>
+
+The sections on the product's value for money and your personal experience with it inform readers about the product's cost-effectiveness and utility:
+
+Value for Money:
+{{step_5}}
+
+Personal Experience:
+{{step_6}}
+
+We need to present our overall rating of the product out of a specific number (e.g., out of 5 or 10).
+

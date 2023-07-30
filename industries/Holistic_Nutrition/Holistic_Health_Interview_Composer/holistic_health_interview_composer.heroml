@@ -1,0 +1,112 @@
+Your task is to write an "Interview with Nutritionist/Health Coach" for the "Holistic Nutrition" industry, specifically for a "Wellness Blogger". 
+
+Let's start with an opening statement. It should give the readers an overview about the purpose of the conversation with the Nutritionist/Health Coach: {{interview_purpose}}.
+
+Here's some more context about the Interview with Nutritionist/Health Coach:
+Interview Purpose: {{interview_purpose}}
+Nutritionist Expertise Areas: {{Nutritionist_Expertise_Areas}}
+Nutritionist Expertise Area: {{Nutritionist_Expertise_Area}}
+Reader Questions: {{Reader_Questions}}
+
+->>>>
+
+We have initiated the interview with this opening statement:
+
+Opening Statement:
+{{step_1}}
+
+Next, let's develop a set of icebreaker questions. These questions should be aimed at making the interviewee feel relaxed and opening up the conversation.
+
+->>>>
+
+We have now an opening statement and a set of icebreaker questions for our interview:
+
+Opening Statement:
+{{step_1}}
+
+Icebreaker Questions:
+{{step_2}}
+
+Now, moving on to the major part of the interview. Please, focus on questions about {{Nutritionist_Expertise_Areas}}. These questions should dig deeper into the expertise of the health coach.
+
+->>>>
+
+We've established an opening and have progressed into the main part of the interview:
+
+Opening Statement:
+{{step_1}}
+
+Icebreaker Questions:
+{{step_2}}
+
+Main Interview Questions:
+{{step_3}}
+
+Let's continue by incorporating a section focused on common myths or misconceptions in the holistic nutrition field.
+
+->>>>
+
+In our interview draft, we now have an opening, main questions, and a section dedicated to debunking common myths:
+
+Opening Statement:
+{{step_1}}
+
+Main Interview Questions:
+{{step_3}}
+
+Myths and Misconceptions Questions:
+{{step_4}}
+
+Now, let's include a practical tips section. In this section, ask about everyday practices your readers should adopt to improve their health holistically.
+
+->>>>
+
+The interview now contains opening statements, main questions, myth debunking, and practical tips:
+
+Opening Statement:
+{{step_1}}
+
+Main Interview Questions:
+{{step_3}}
+
+Myths and Misconceptions Questions:
+{{step_4}}
+
+Practical Tips Questions:
+{{step_5}}
+
+Next, incorporate a section addressing questions and concerns from your reader-base. Frame these questions around the concerns of your readers.
+
+->>>>
+
+Now the interview includes, opening statements, main questions, myth debunking, practical tips, and even reader-based questions:
+
+Opening Statement:
+{{step_1}}
+
+Main Interview Questions:
+{{step_3}}
+
+Reader-Based Questions:
+{{step_6}}
+
+Let's now conclude the interview. Ask the interviewee to provide any additional insights into holistic health or any motivational advice for your readers to adhere to a holistic lifestyle.
+
+->>>>
+
+Our interview now includes opening statements, main questions, reader-based questions, and a conclusive note:
+
+Opening Statement:
+{{step_1}}
+
+Main Interview Questions:
+{{step_3}}
+
+Reader-Based Questions:
+{{step_6}}
+
+Conclusive Advice:
+{{step_7}}
+
+Finally, conclude the "Interview with Nutritionist/Health Coach" by thanking them for their time and insights. Also, provide any necessary information about following up or upcoming articles.
+

@@ -1,0 +1,58 @@
+Your task is to write an "Interview Summary" for the "Human Resources & Employee Engagement Services" industry, specifically for a "Recruiter". Let's start by generating a brief overview that introduces the candidate and the role they are being considered for.
+
+Here's some more context about the Interview Summary:
+Candidate Summary: {{candidate_summary}}
+Role Summary: {{role_summary}}
+Candidate Experience: {{candidate_experience}}
+Candidate Skills: {{candidate_skills}}
+Candidate Responses: {{candidate_responses}}
+Cultural Fit: {{cultural_fit}}
+Growth Potential: {{growth_potential}}
+Interviewer Summary: {{interviewer_summary}}
+
+->>>>
+
+The task at hand is about creating an "Interview Summary". 
+We have started with brief overviews of the candidate and the role:
+
+Candidate Summary:
+{{step_1}}
+
+Next, let's outline the candidate's relevant work experience and skills in relation to the role.
+
+->>>>
+
+Our "Interview Summary" is taking shape, and we now have an outline of the candidate's relevant work experience and skills:
+
+Candidate Summary:
+{{step_1}}
+
+Candidate's Work Experience and Skills:
+{{step_2}}
+
+Following, let's provide a section detailing the candidate's responses to key questions or scenarios during the interview. Use direct quotes when possible and interpret the responses in the context of the role.
+
+->>>>
+
+We are creating an "Interview Summary" and we have detailed the candidate's responses to the interview questions:
+
+Candidate's Work Experience and Skills:
+{{step_2}}
+
+Candidate's Responses:
+{{step_3}}
+
+Next, evaluate the candidate's work culture compatibility, reflecting on norms, values, and expectations of the organization. Consider the candidate's expressed opinions and engagement during the discussion.
+
+->>>>
+
+In our "Interview Summary", we have assessed the candidate's cultural fit:
+
+Candidate's Responses:
+{{step_3}}
+
+Candidate's Cultural Fit:
+{{step_4}}
+
+Next, assess the candidate's potential for growth within the company and how they align with the company's future trajectory.
+

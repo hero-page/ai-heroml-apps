@@ -1,0 +1,139 @@
+Your task is to write a "Candidate Email" for the "Human Resources & Recruiting" industry, specifically for a "Recruiter".
+
+Let's start with a personalized greeting and capture the candidate's interest with an introduction that highlights the exciting opportunity: {{opportunity}}.
+
+Here's some more context about the Candidate Email:
+Opportunity: {{opportunity}}
+Source Of Candidate Information: {{source_of_candidate_information}}
+Candidate Skillset: {{candidate_skillset}}
+Job Role: {{job_role}}
+Industry Specific Terms: {{industry_specific_terms}}
+Company Culture: {{company_culture}}
+Next Action: {{next_action}}
+
+->>>>
+
+Your email starts with a personalized greeting and an engaging introduction:
+
+Greeting and Introduction:
+{{step_1}}
+
+Next, write a concise paragraph explaining why you are contacting the candidate. Specify how you found their profile: {{source_of_candidate_information}} and why their skills and experience: {{candidate_skillset}} make them a potential fit.
+
+->>>>
+
+Your email now has an introduction and a paragraph explaining why you are contacting the candidate:
+
+Greeting and Introduction:
+{{step_1}}
+
+Why Contacting:
+{{step_2}}
+
+Now, let's add more information about this employment opportunity. Detail the company, the role: {{job_role}}, and what the candidate might be able to contribute or gain from this experience.
+
+->>>>
+
+You have an introduction, an explanation for contacting the candidate, and a detailed description of the employment offering:
+
+Greeting and Introduction:
+{{step_1}}
+
+Why Contacting:
+{{step_2}}
+
+Employment Opportunity Details:
+{{step_3}}
+
+Next, incorporate industry-specific terms and buzzwords linked to the role: {{industry_specific_terms}} to demonstrate your knowledge and make the candidate feel more confident about the opportunity.
+
+->>>>
+
+Your email now includes industry-specific language:
+
+Greeting and Introduction:
+{{step_1}}
+
+Why Contacting:
+{{step_2}}
+
+Employment Opportunity Details:
+{{step_3}}
+
+Industry-specific Language:
+{{step_4}}
+
+Now, describe the organization's culture: {{company_culture}}. This will give the candidate a glimpse of what working at the company is like.
+
+->>>>
+
+Your email highlights the company culture, along with the other details covered:
+
+Greeting and Introduction:
+{{step_1}}
+
+Why Contacting:
+{{step_2}}
+
+Employment Opportunity Details:
+{{step_3}}
+
+Industry-specific Language:
+{{step_4}}
+
+Company Culture:
+{{step_5}}
+
+Next, indicate what the candidate should do next: {{next_action}}. Be it sending their resume, arranging an interview, or any other next step.
+
+->>>>
+
+Your email now includes a clear call to action:
+
+Greeting and Introduction:
+{{step_1}}
+
+Why Contacting:
+{{step_2}}
+
+Employment Opportunity Details:
+{{step_3}}
+
+Industry-specific Language:
+{{step_4}}
+
+Company Culture:
+{{step_5}}
+
+Next Step Call to Action:
+{{step_6}}
+
+Now, draft a closing remark, express your eagerness to hear back and provide your contact details for any queries.
+
+->>>>
+
+Your email now includes a warm closing remark and your contact details:
+
+Greeting and Introduction:
+{{step_1}}
+
+Why Contacting:
+{{step_2}}
+
+Employment Opportunity Details:
+{{step_3}}
+
+Industry-specific Language:
+{{step_4}}
+
+Company Culture:
+{{step_5}}
+
+Next Step Call to Action:
+{{step_6}}
+
+Closing Remark and Contact Details:
+{{step_7}}
+
+Finally, thank the candidate for their time, express your hope to hear from them soon, and make sure the entire email is cordial and respectful.
+

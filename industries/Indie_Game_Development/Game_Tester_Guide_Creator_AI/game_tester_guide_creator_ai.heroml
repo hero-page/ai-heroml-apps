@@ -1,0 +1,65 @@
+Your task is to write a "Player Guide" for the "Indie Game Development" industry, specifically for a "Game Tester". 
+Let's start by writing an introduction that presents the purpose of the guide, and gives a brief narrative of the game: {{game_narrative}}.
+
+Here's some more context about the Player Guide:
+Game Narrative: {{game_narrative}}
+Game Mechanics: {{game_mechanics}}
+Game Levels: {{game_levels}}
+Game Items: {{game_items}}
+Game Issues: {{game_issues}}
+Game Tips: {{game_tips}}
+
+->>>>
+
+After introducing the fact that we are writing a "Player Guide" for a "Game Tester":
+
+Introduction:
+{{step_1}}
+
+Next, provide information on the game mechanics and gameplay basics, offering ways to navigate through the game: {{game_mechanics}}.
+
+->>>>
+
+The "Player Guide" has started to form with:
+
+Introduction:
+{{step_1}}
+
+Gameplay Basics:
+{{step_2}}
+
+Now, explain the different stages or levels in the game (if any): {{game_levels}}. Describe the tasks, challenges, and potential strategies.
+
+->>>>
+
+For our "Player Guide" so far, we have:
+
+Introduction:
+{{step_1}}
+
+Gameplay Basics:
+{{step_2}}
+
+Stages or Levels:
+{{step_3}}
+
+Next, discuss the feature sets, items, power-ups, or character abilities (if any): {{game_items}}. Give context of when and how to use these.
+
+->>>>
+
+The current state of our "Player Guide" is:
+
+Introduction:
+{{step_1}}
+
+Gameplay Basics:
+{{step_2}}
+
+Stages or Levels:
+{{step_3}}
+
+Game Items:
+{{step_4}}
+
+Now, create a troubleshooting section that addresses common problems game testers might experience like bugs, glitches, game crash: {{game_issues}}. Lay out the procedure for documenting and reporting these issues.
+

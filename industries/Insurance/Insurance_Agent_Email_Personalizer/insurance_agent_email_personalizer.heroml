@@ -1,0 +1,108 @@
+Your first task is to write a "Customer Email" for the "Insurance" industry for an "Insurance Agent".
+
+Let's start by creating a personalized salutation for {{customer_name}}. This should be a warm and professional opening to the email.
+
+Here's some more context about the Customer Email:
+Customer Name: {{customer_name}}
+Email Purpose: {{email_purpose}}
+Agent Contact Info: {{agent_contact_info}}
+
+->>>>
+
+We're creating an email for our customer:
+
+Salutation:
+{{step_1}}
+
+Now, let's craft an introduction that expresses appreciation for their business and states the purpose of the email: {{email_purpose}}.
+
+->>>>
+
+Our email starts off with:
+
+Salutation:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, provide some contextual background information relevant to {{email_purpose}}. This information should resonate with the customer's unique insurance needs.
+
+->>>>
+
+Our email has a salutation, and introduction, and relevant background information:
+
+Salutation:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Background Information:
+{{step_3}}
+
+For the main content section, give detailed information about the {{email_purpose}}. This could be about a policy renewal, a new insurance product, or potential updates about a claim. Ensure to use clear and concise insurance-specific language.
+
+->>>>
+
+We have salutation, introduction, background, and the main content for our customer email:
+
+Salutation:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Background Information:
+{{step_3}}
+
+Main Content:
+{{step_4}}
+
+Anticipate potential questions the customer might have and cover these within the main body of the email. This could relate to changes in the policy, how to make a claim, or the benefits of a new insurance product, depending on {{email_purpose}}.
+
+->>>>
+
+Our email consists of the salutation, introduction, background, main content and now responses to potential customer queries:
+
+Salutation:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Background Information:
+{{step_3}}
+
+Main Content:
+{{step_4}}
+
+Potential Query Responses:
+{{step_5}}
+
+Now let's provide actionable next steps, such as the deadline for renewing a policy, how to make a premium payment, or where to find further information about a new product.
+
+->>>>
+
+Our customer email now includes a salutation, an introduction, background information, the main content, responses to potential queries and actionable next steps:
+
+Salutation:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Background Information:
+{{step_3}}
+
+Main Content:
+{{step_4}}
+
+Potential Query Responses:
+{{step_5}}
+
+Next Steps:
+{{step_6}}
+
+Let's now write a warm and brief closing where you reiterate your appreciation for their business and clearly offer help in case they have more questions. Also, include the agent's contact information: {{agent_contact_info}}.
+

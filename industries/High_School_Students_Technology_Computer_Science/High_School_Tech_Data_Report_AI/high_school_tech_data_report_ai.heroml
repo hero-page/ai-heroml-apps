@@ -1,0 +1,68 @@
+Your task is to write a "Data Analysis Report" tailored for the "High School Students - Technology & Computer Science" industry, specifically for a "Student". Let's get started by crafting an introduction that outlines the purpose of this data analysis and the intended outcomes: {{purpose_of_analysis}}.
+
+Here's some more context about the Data Analysis Report:
+Purpose Of Analysis: {{purpose_of_analysis}}
+Data Collection Overview: {{data_collection_overview}}
+Analysis Methods: {{analysis_methods}}
+Data Findings: {{data_findings}}
+Discussion: {{discussion}}
+Concluding Next Steps: {{concluding_next_steps}}
+Used References: {{used_references}}
+
+->>>>
+
+The "Data Analysis Report" has begun with the following introduction:
+
+Introduction:
+{{step_1}}
+
+Our next step involves crafting an overview of the data collection process. This should detail the specific type of data collected, the reasons behind these data choices and the methods used to gather it: {{data_collection_overview}}.
+
+->>>>
+
+The "Data Analysis Report's" introduction is followed by an overview of the data collection process:
+
+Introduction:
+{{step_1}}
+
+Data Collection Overview:
+{{step_2}}
+
+For the "Data Analysis" section, let's break down the process using the specific analytics tools, coding languages or platforms employed in the analysis: {{analysis_methods}}.
+
+->>>>
+
+In our "Data Analysis Report," the Data Collection Overview transitions into the Data Analysis section:
+
+Data Collection Overview:
+{{step_2}}
+
+Data Analysis Methods:
+{{step_3}}
+
+Let's move on to the "Findings" section. Here, we detail the outcomes or trends unearthed in the data, ensuring these findings relate back to the initial purpose outlined in the introduction: {{data_findings}}.
+
+->>>>
+
+In our "Data Analysis Report," we have an overview of the analysis methods and the findings from the data:
+
+Data Analysis Methods:
+{{step_3}}
+
+Findings:
+{{step_4}}
+
+Next, let's write the "Discussion" section. Connect the findings to larger themes, hypotheses, or theories in technology & computer science. Address their implications on a practical, theoretical, and educational level: {{discussion}}.
+
+->>>>
+
+We have our Data Analysis Report with findings and discussion:
+
+Findings:
+{{step_4}}
+
+Discussion:
+{{step_5}}
+
+Now, write a conclusion that encompasses all previous sections and outlines potential next steps informed by the data analysis findings: {{concluding_next_steps}}.
+

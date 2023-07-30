@@ -1,0 +1,99 @@
+Your prompt is to write a "Risk Assessment Report" for the "Insurance Agencies" industry, specifically for an "Underwriter". Let's start with writing an executive summary that introduces the nature of risk involved with {{risk_subject}} and the importance of underwriting in the {{insurance_agency}} industry.
+
+Here's some more context about the Risk Assessment Report:
+Risk Subject: {{risk_subject}}
+Insurance Agency: {{insurance_agency}}
+Insurance Namespace: {{insurance_namespace}}
+Risk Evaluation Scale: {{risk_evaluation_scale}}
+Risk Priority Scale: {{risk_priority_scale}}
+
+->>>>
+
+The executive summary for our risk assessment report is as follows:
+
+Executive Summary:
+{{step_1}}
+
+Now let's provide an introduction that provides the context of the risk assessment and its relevance to the {{insurance_agency}}. Also, describe the type of insurance - {{insurance_namespace}} - being assessed.
+
+->>>>
+
+We have an executive summary and an introduction for our risk assessment report:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+The next step involves identifying the risks associated with {{risk_subject}}. Detail each risk, including their potential causes and potential impacts on the insured entity.
+
+->>>>
+
+Our risk assessment report currently includes an introduction and the identified risks:
+
+Introduction:
+{{step_2}}
+
+Risk Identification:
+{{step_3}}
+
+Now, perform a detailed risk analysis on the identified risks. This should provide an evaluation of their likelihood and the potential magnitude of their impact. Utilize the {{risk_evaluation_scale}} to standardize the evaluation process.
+
+->>>>
+
+Having identified the risks, we now have a detailed analysis of them:
+
+Risk Identification:
+{{step_3}}
+
+Risk Analysis:
+{{step_4}}
+
+Next, prioritize the analyzed risks based on their severity and potential impact. Use the {{risk_priority_scale}} for consistency.
+
+->>>>
+
+We have analyzed the risks and put them in order of priority:
+
+Risk Analysis:
+{{step_4}}
+
+Risk Evaluation:
+{{step_5}}
+
+Now let's work on the 'Risk Treatment' section. Propose risk mitigation strategies that are tailored to each risk that has been identified and rated in the previous steps.
+
+->>>>
+
+We have evaluated our risks and proposed risk mitigation strategies:
+
+Risk Evaluation:
+{{step_5}}
+
+Risk Treatment:
+{{step_6}}
+
+Next, document appropriate 'Monitoring and Review' processes. This should include steps for regularly reviewing and updating the risk assessment as changes occur in {{risk_subject}} or within the broader industry.
+
+->>>>
+
+Our risk assessment report now includes risk monitoring and review processes:
+
+Risk Treatment:
+{{step_6}}
+
+Monitoring & Review:
+{{step_7}}
+
+We're almost there. Now, provide a succinct 'Risk Summary' that restates all the risks and their mitigation strategies in an easily accessible format.
+
+->>>>
+
+The comprehensive summary of the risks and their respective mitigation strategies are as follows:
+
+Risk Summary:
+{{step_8}}
+
+Finally, conclude the report with 'Recommendations', suggesting future actions for underwriters, brokers, and policyholders to undertake based on the completed risk assessment. 
+

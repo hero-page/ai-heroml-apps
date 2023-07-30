@@ -1,0 +1,101 @@
+Your task is to write a "Bug Report" for the "Indie Game Development" industry, specifically for a "Game Tester". 
+Let's start off by creating an introduction that describes the encountered bug: {{encountered_bug}}. 
+This introduction should include a brief description of what type of bug was encountered and the overall impact of the bug on gameplay.
+
+Here's some more context about the Bug Report:
+Encountered Bug: {{encountered_bug}}
+Bug Severity: {{bug_severity}}
+Reproduction Steps: {{reproduction_steps}}
+Observed Patterns: {{observed_patterns}}
+Test Environment: {{test_environment}}
+Possible Causes: {{possible_causes}}
+
+->>>>
+
+For our "Bug Report" we have an introduction that outlines the initial details of the bug:
+
+Bug Introduction:
+{{step_1}}
+
+Now, let's classify the bug according to its severity such as game-breaking, major, minor, or cosmetic. 
+This classification: {{bug_severity}}, should be added right after the bug introduction.
+
+->>>>
+
+Our bug report now holds the initial description and the classification of the bug:
+
+Bug Introduction:
+{{step_1}}
+
+Bug Severity:
+{{step_2}}
+
+Moving forward, describe the process to reproduce the bug: {{reproduction_steps}}. 
+Start with the game-state before the bug occurred and describe each step that leads up to the bug.
+
+->>>>
+
+Our bug, categorized by severity, now has a detailed reproduction process:
+
+Bug Severity:
+{{step_2}}
+
+Reproduction Steps:
+{{step_3}}
+
+Next, list any possible indicators or patterns observed that might be connected to the bug: {{observed_patterns}}. 
+This could include certain actions or triggers that seem to cause the bug to occur, or any noticeable game-states whenever the bug appears.
+
+->>>>
+
+We now have reproduction steps and observed patterns for the bug we're detailing:
+
+Reproduction Steps:
+{{step_3}}
+
+Observed Patterns:
+{{step_4}}
+
+Let's provide information about the test environment where the bug has occurred: {{test_environment}}. 
+Details should include the platform, the operating system, game version, hardware specifications, and other relevant details.
+
+->>>>
+
+Having observed patterns, our bug report now has details about the testing environment:
+
+Observed Patterns:
+{{step_4}}
+
+Test Environment:
+{{step_5}}
+
+Begin the conclusion by summarizing the report's findings about the bug. 
+This summary should recap the {{encountered_bug}} and {{bug_severity}}, allowing the development team to quickly grasp the key points of the report.
+
+->>>>
+
+Having detailed the test environment, we now have a summary of the bug report:
+
+Test Environment:
+{{step_5}}
+
+Report Summary:
+{{step_6}}
+
+End the report by proposing possible areas in the game that could be causing the bug: {{possible_causes}}. 
+This could be specific game mechanics or code modules.
+
+->>>>
+
+Having summarized the bug report, we've highlighted possible causes of the bug:
+
+Report Summary:
+{{step_6}}
+
+Possible Causes:
+{{step_7}}
+
+Finally, include any other comments about the bug. 
+This might include feedback on how this bug can affect the player experience, or any insights on how to avoid the bug from a player's perspective. 
+Keep it brief and focused on the {{encountered_bug}}.
+

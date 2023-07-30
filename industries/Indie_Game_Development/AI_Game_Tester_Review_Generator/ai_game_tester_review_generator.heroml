@@ -1,0 +1,134 @@
+Your task is to write a "Game Review" for the "Indie Game Development" industry, specifically for a "Game Tester". 
+
+Let's start by generating an engaging introduction that briefly describes the game being reviewed: {{game_title}}, and why this particular game stands out in the indie game industry.
+
+Here's some more context about the Game Review:
+Game Title: {{game_title}}
+
+->>>>
+
+For a game review, we have an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Now, let's discuss the gameplay of {{game_title}}. Provide detailed information about how the game functions, the game mechanics, controls, and complexity, all from the perspective of a game tester.
+
+->>>>
+
+Up until now, our game review has an engaging introduction and detailed information about the gameplay:
+
+Introduction:
+{{step_1}}
+
+Gameplay Description:
+{{step_2}}
+
+
+Now, move on to the story (if applicable) of {{game_title}}. Describe the plot, characters, and setting, and how these contribute to the overall gaming experience. Try to avoid disclosing any spoilers that could detract from the player's experience.
+
+->>>>
+
+So far, we have described the introduction, gameplay, and story of our game review:
+
+Introduction:
+{{step_1}}
+
+Gameplay Description:
+{{step_2}}
+
+Story Description:
+{{step_3}}
+
+Next, discuss the graphical and auditory aspects of {{game_title}}. Describe the game's graphics style, audio quality, and how they enhance or detract from the overall gaming experience. Remember that we are viewing this from a game tester's perspective, noting any lags, bugs, or glitches that one encountered.
+
+->>>>
+
+For our game review, we have analyzed the introduction, gameplay, story, and graphical and auditory aspects.
+
+Introduction:
+{{step_1}}
+
+Gameplay Description:
+{{step_2}}
+
+Story Description:
+{{step_3}}
+
+Graphics and Audio Description:
+{{step_4}}
+
+It's time to analyze the difficulty and learning curve of {{game_title}}. Share your experience about how challenging the game was, the balance between difficulty and fun, and how intuitive the learning process was.
+
+->>>>
+
+So far for a game review, we have discussed the introduction, gameplay, storyline, graphical and auditory aspects, and the game's difficulty and learning curve.
+
+Introduction:
+{{step_1}}
+
+Gameplay Description:
+{{step_2}}
+
+Story Description:
+{{step_3}}
+
+Graphics and Audio Description:
+{{step_4}}
+
+Difficulty and Learning Curve Analysis:
+{{step_5}}
+
+Next, let's highlight any unique elements that {{game_title}} contributes to the industry. Comment on any innovative mechanics, unique story elements, or groundbreaking use of graphics or sound.
+
+->>>>
+
+In our game review, we have the introduction, gameplay, story, graphics and audio, difficulty and learning curve, and unique elements of the game.
+
+Introduction:
+{{step_1}}
+
+Gameplay Description:
+{{step_2}}
+
+Story Description:
+{{step_3}}
+
+Graphics and Audio Description:
+{{step_4}}
+
+Difficulty and Learning Curve Analysis:
+{{step_5}}
+
+Unique Elements:
+{{step_6}}
+
+Address any bugs or issues encountered while testing {{game_title}}. As a game tester, this is especially important to note. These issues, their frequency, and how they influence the gameplay experience need to be described.
+
+->>>>
+
+Our game review now includes an introduction, gameplay details, story, graphics and audio aspects, difficulty and learning curve, unique elements, and also, bugs or issues found during testing:
+
+Introduction:
+{{step_1}}
+
+Gameplay Description:
+{{step_2}}
+
+Story Description:
+{{step_3}}
+
+Graphics and Audio Description:
+{{step_4}}
+
+Difficulty and Learning Curve Analysis:
+{{step_5}}
+
+Unique Elements:
+{{step_6}}
+
+Bugs or Issues Encountered:
+{{step_7}}
+
+Now, end this review by summarizing your thoughts about {{game_title}}. Restate the key points discussed throughout the review and provide a final recommendation - whether or not you'd suggest this game to other players.
+

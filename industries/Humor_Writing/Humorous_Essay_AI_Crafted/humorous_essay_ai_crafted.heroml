@@ -1,0 +1,80 @@
+Your task is to write a humorous essay for the humor writing industry, specifically for an author. Begin by choosing a distinctive yet relatable topic for your essay.
+
+Here's some more context about the Humorous Essay:
+Essay Topic: {{essay_topic}}
+Point Of View: {{point_of_view}}
+Industry References: {{industry_references}}
+Target Audience: {{target_audience}}
+
+->>>>
+
+Moving forward, we have chosen a topic for the humorous essay:
+
+Essay Topic:
+{{step_1}}
+
+Let's craft an intriguing introduction that includes a humorous anecdote or a witty observation related to the topic to captivate the readers.
+
+->>>>
+
+At this point, we have an intriguing introduction for the humorous essay:
+
+Essay Topic:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Let's develop a structured mid-section that emphasizes the funny, surprising, or ironic aspects of the essay topic. This could involve examining conventional wisdom from a humorous angle or dissecting an amusing experience related to the topic.
+
+->>>>
+
+So far, we've got the following for our humorous essay:
+
+Essay Topic:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Mid-section:
+{{step_3}}
+
+To add more flavor, let's color each point of the essay with a unique perspective using the dynamic variable {{point_of_view}}. This might involve self-depreciation, wit, or even absurdity.
+
+->>>>
+
+Here's where we are with the humorous essay:
+
+Essay Topic:
+{{step_1}}
+
+Mid-section with point of view:
+{{step_4}}
+
+Now, incorporate industry-specific humor related to {{industry_references}}. These could involve jokes or humorous observations about the relevant industry.
+
+->>>>
+
+At this juncture, we've incorporated humor relevant to the industry:
+
+Essay Topic:
+{{step_1}}
+
+Mid-section with industry-specific humor:
+{{step_5}}
+
+As we approach the end, introduce an unexpected twist or surprise related to the essay topic to keep the audience engaged.
+
+->>>>
+
+We've now introduced an interesting twist towards the end:
+
+Essay Topic:
+{{step_1}}
+
+Mid-section with a twist:
+{{step_6}}
+
+Let's conclude the essay by summarizing the main points with a humorous twist, and add a final punch line or funny anecdote. 
+

@@ -1,0 +1,114 @@
+Start by creating an introduction to the appointment confirmation for the "Legal Services & Law Firms" industry, tailored specifically for a "Legal Secretary". The introduction should address the client politely and confirm their upcoming appointment.
+
+Here's some more context about the Appointment Confirmation:
+Client Name: {{Client_name}}
+Appointment Date: {{Appointment_date}}
+Appointment Time: {{Appointment_time}}
+Attorney Name: {{Attorney_name}}
+Appointment Agenda: {{Appointment_agenda}}
+Required Documents: {{required_documents}}
+Cancellation Window: {{cancellation_window}}
+Office Location: {{Office_location}}
+Online Meeting Link: {{Online_meeting_link}}
+Office Contact Info: {{Office_contact_info}}
+Legal Secretary Name: {{Legal_Secretary_name}}
+
+->>>>
+
+This is our introduction:
+
+Introduction:
+{{step_1}}
+
+Next, state the appointment details including day and time.
+
+->>>>
+
+With an introduction in place, let's move onto the details of the appointment:
+
+Introduction:
+{{step_1}}
+
+Appointment Details:
+{{step_2}}
+
+After that, identify the attorney designated to handle the client's case.
+
+->>>>
+
+We have the introduction, appointment details, and now the attorney information:
+
+Introduction:
+{{step_1}}
+
+Appointment Details:
+{{step_2}}
+
+Attorney Information:
+{{step_3}}
+
+Next, offer information about the purpose or agenda of the appointment.
+
+->>>>
+
+With an introduction, appointment details, attorney information, we now have an agenda:
+
+Introduction:
+{{step_1}}
+
+Appointment Details:
+{{step_2}}
+
+Attorney Information:
+{{step_3}}
+
+Agenda:
+{{step_4}}
+
+After this, mention any specific legal advice or documents the client should bring to their appointment.
+
+->>>>
+
+We've got an introduction, appointment details, attorney information, an agenda, and now instructions for what the client should bring:
+
+Introduction:
+{{step_1}}
+
+Appointment Details:
+{{step_2}}
+
+Attorney Information:
+{{step_3}}
+
+Agenda:
+{{step_4}}
+
+Required Documents:
+{{step_5}}
+
+Make sure to remind the client about the firm's cancellation or rescheduling policy.
+
+->>>>
+
+Our communication now includes an introduction, appointment details, attorney information, agenda, required documents, and the cancellation policy:
+
+Introduction:
+{{step_1}}
+
+Appointment Details:
+{{step_2}}
+
+Attorney Information:
+{{step_3}}
+
+Agenda:
+{{step_4}}
+
+Required Documents:
+{{step_5}}
+
+Cancellation Policy:
+{{step_6}}
+
+After that, provide either the office location for a physical meeting or the link for an online meeting.
+

@@ -1,0 +1,67 @@
+Your task is to write a "Job Description" for the "Human Resources & Employee Engagement Services" industry, specifically for a "HR Manager". 
+
+Let's start by writing an engaging job summary that introduces the role and highlights the dynamics of the company. It should cover aspects like the nature of the job, projected impact, and the kind of culture and environment the candidate can expect.
+
+Here's some more context about the Job Description:
+Job Summary: {{job_summary}}
+Hr Tasks: {{hr_tasks}}
+Required Experience: {{required_experience}}
+Educational Qualification: {{educational_qualification}}
+Key Skills: {{key_skills}}
+Performance Goals: {{performance_goals}}
+Growth Opportunities: {{growth_opportunities}}
+
+->>>>
+
+We have created a job summary for the role of a HR Manager in the Human Resources & Employee Engagement Services industry:
+
+Job Summary:
+{{step_1}}
+
+Next, provide a detailed list of the required duties and responsibilities. This should include tasks related to HR practices like managing employment records, organizing company events, developing engagement strategies, etc.
+
+->>>>
+
+We have a job summary and a list of duties and responsibilities for the HR Manager role:
+
+Job Summary:
+{{step_1}}
+
+Duties and Responsibilities:
+{{step_2}}
+
+Moving on, describe the requirements and qualifications the ideal candidate must possess. This includes aspects like required experience, educational qualification, and key skills. Also include specifications like the ability to handle certain types of inter-personnel situations, conflicts, etc.
+
+->>>>
+
+We have a job summary, a list of duties and responsibilities, and a detailed listing of requirements and qualifications for the HR Manager role:
+
+Job Summary:
+{{step_1}}
+
+Duties and Responsibilities:
+{{step_2}}
+
+Requirements and Qualifications:
+{{step_3}}
+
+Next, delve into the key outcomes or performance goals for the role. This will give potential applicants a clear picture of what is expected of them and how they would be evaluated.
+
+->>>>
+
+We have a job summary, duties and responsibilities, requirements, and key performance goals for the HR Manager role:
+
+Job Summary:
+{{step_1}}
+
+Duties and Responsibilities:
+{{step_2}}
+
+Requirements and Qualifications:
+{{step_3}}
+
+Performance Goals:
+{{step_4}}
+
+Following this, discuss the opportunities for personal and career growth offered to HR Managers. This can include aspects like potential promotions, allowances for continuous education, leadership training opportunities, etc.
+

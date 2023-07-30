@@ -1,0 +1,124 @@
+Let's begin by writing a "Hotel Review" for the "Hospitality & Tourism" industry, specifically for a "Travel Blogger":
+
+{{step_1_task= Start the review with an engaging introduction that briefly describes the overall experience at the hotel. Write in a conversational yet informative tone}}
+
+Here's some more context about the Hotel Review:
+Hotel Experience: {{hotel_experience}}
+Hotel Location: {{hotel_location}}
+Hotel Room: {{hotel_room}}
+Hotel Service: {{hotel_service}}
+Hotel Amenities: {{hotel_amenities}}
+Hotel Pricing: {{hotel_pricing}}
+Hotel Recommendation: {{hotel_recommendation}}
+
+->>>>
+
+We’ve started the hotel review with a captivating introduction:
+
+Hotel Experience:
+{{step_1}}
+
+The following step is to provide a detailed description of the hotel's location.
+
+{{step_2_task= Describe the hotel's location in detail including its proximity to local attractions, accessibility from major transport hubs, and the surrounding environment}}
+
+->>>>
+
+Our introduction to the hotel experience and its location now read as below:
+
+Hotel Experience:
+{{step_1}}
+
+Hotel Location:
+{{step_2}}
+
+The next step is to outline the accommodation options provided by the hotel.
+
+{{step_3_task= Describe the room you stayed in at the hotel, focusing on its decor, comfort, and facilities. Aim to give the reader a clear view of the room's atmosphere and amenities}}
+
+->>>>
+
+For our hotel review so far, we have an introduction, context about the location, and a detailed description of the room:
+
+Hotel Experience:
+{{step_1}}
+
+Hotel Location:
+{{step_2}}
+
+Hotel Room:
+{{step_3}}
+
+Next, share a review of your personal experiences interacting with the staff and using the hotel services.
+
+{{step_4_task= Discuss your experiences with the hotel staff and services, stating their professionalism, willingness to help, and mentioning any distinguishing features that made the stay memorable}}
+
+->>>>
+
+Our hotel review now includes an introduction, a description of the location, room details and our experiences with staff and services:
+
+Hotel Experience:
+{{step_1}}
+
+Hotel Location:
+{{step_2}}
+
+Hotel Room:
+{{step_3}}
+
+Staff & Services:
+{{step_4}}
+
+The following step is to discuss the hotel's amenities.
+
+{{step_5_task= Share your review of the hotel's amenities, such as the fitness center, spa, dining options, etc., and narrate how they enhanced or affected your stay at the hotel}}
+
+->>>>
+
+In the hotel review so far, we have highlighted the hotel experience, location, room, services, and amenities:
+
+Hotel Experience:
+{{step_1}}
+
+Hotel Location:
+{{step_2}}
+
+Hotel Room:
+{{step_3}}
+
+Staff & Services:
+{{step_4}}
+
+Amenities:
+{{step_5}}
+
+Up next, provide a discussion regarding the price range of the hotel and its value for money.
+
+{{step_6_task= State the price range of the hotel and discuss whether the hotel provides value for your money. Comment on any special packages or exclusive deals if available}}
+
+->>>>
+
+With the current additions, our hotel review includes an introduction, hotel location, room details, services, amenities, and a discussion about the pricing:
+
+Hotel Experience:
+{{step_1}}
+
+Hotel Location:
+{{step_2}}
+
+Hotel Room:
+{{step_3}}
+
+Staff & Services:
+{{step_4}}
+
+Amenities:
+{{step_5}}
+
+Pricing:
+{{step_6}}
+
+Finally, let's finalize the review with a summarizing conclusion.
+
+{{step_7_task= Summarize the overall rating of your hotel experience, stating whether you would recommend this hotel to your readers or not. Ensure to reflect your personal judgment about the experience}}
+

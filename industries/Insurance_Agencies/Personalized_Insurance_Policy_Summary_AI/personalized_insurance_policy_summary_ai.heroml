@@ -1,0 +1,85 @@
+Start by crafting an introductory statement that includes the policyholder's basic details: {{policyholder_details}}, such as their name, policy number, and the type of policy issued in a simple language.
+
+Here's some more context about the Policy Summary:
+Policyholder Details: {{policyholder_details}}
+Coverage Details: {{coverage_details}}
+Policy Term: {{policy_term}}
+Premium Details: {{premium_details}}
+Claim Process: {{claim_process}}
+Policy Exceptions: {{policy_exceptions}}
+
+->>>>
+
+Following the introductory statement, we have policyholder's basic details:
+
+Policyholder Details:
+{{step_1}}
+
+Moving on, generate a summary of the insurance coverage: {{coverage_details}}, highlighting the key provisions like the basic coverages, any add-on benefits, and conditions under which the policy pays out.
+
+->>>>
+
+We have the policyholder's basic details and a summary of the insurance coverage:
+
+Policyholder Details:
+{{step_1}}
+
+Coverage Details:
+{{step_2}}
+
+Next, write about the policy term: {{policy_term}}, which describes the duration the policy will provide coverage.
+
+->>>>
+
+With the policyholder details, the coverage details, and the policy term, we have:
+
+Policyholder Details:
+{{step_1}}
+
+Coverage Details:
+{{step_2}}
+
+Policy Term:
+{{step_3}}
+
+In this step, illustrate the premiums' details: {{premium_details}}, discussing the frequency, amount, and manner of payment. Also, explain any information on late payments, grace periods and potential consequences of non-payment.
+
+->>>>
+
+We have detailed the policyholder details, policy coverage, policy term, and premium details:
+
+Policyholder Details:
+{{step_1}}
+
+Coverage Details:
+{{step_2}}
+
+Policy Term:
+{{step_3}}
+
+Premium Details:
+{{step_4}}
+
+Following the premium details, lay out the process of making a claim on the policy: {{claim_process}}, including who to contact, what documentation is needed, how long the process usually takes, and any deductibles or co-pays.
+
+->>>>
+
+We now have the policyholder details, policy coverage, policy term, premium details, and claim process:
+
+Policyholder Details:
+{{step_1}}
+
+Coverage Details:
+{{step_2}}
+
+Policy Term:
+{{step_3}}
+
+Premium Details:
+{{step_4}}
+
+Claim Process:
+{{step_5}}
+
+As a vital step, outline policy exceptions: {{policy_exceptions}}. Be clear about any major exclusions that the policy does not cover, and conditions that may disallow benefits payment.
+

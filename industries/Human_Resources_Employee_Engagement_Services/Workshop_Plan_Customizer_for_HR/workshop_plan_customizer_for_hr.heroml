@@ -1,0 +1,97 @@
+Your task is to write a "Workshop Plan" for the "Human Resources & Employee Engagement Services" industry, specifically for an "Employee Engagement Specialist". 
+
+Start by defining the main objective of the workshop, considering the areas which might need improvements. 
+
+Here's some more context about the Workshop Plan:
+Workshop Objective: {{workshop_objective}}
+Audience Description: {{audience_description}}
+Engagement Methods: {{engagement_methods}}
+Required Resources: {{required_resources}}
+
+->>>>
+
+We are preparing a workshop plan in the "Human Resources & Employee Engagement Services" industry:
+
+Workshop Objective:
+{{step_1}}
+
+Now, based on this objective, describe the target audience. Outline their unique needs and expectations.
+
+->>>>
+
+Here's what we have so far in our workshop plan:
+
+Workshop Objective:
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Next, considering the workshop objective and the needs of the target audience, create a detailed agenda with a logical sequence of activities for the session. Include timings, topics, speakers, and modes of engagement for each item.
+
+->>>>
+
+Progress for our workshop plan:
+
+Workshop Objective:
+{{step_1}}
+
+Target Audience:
+{{step_2}}
+
+Workshop Agenda:
+{{step_3}}
+
+Based on these details, include a section on the core themes to be addressed in the workshop. Align these themes with both the workshop objectives and the target audience's needs and expectations.
+
+->>>>
+
+We have an agenda with topics and speakers, as well as a list of themes aligned with our objectives:
+
+Workshop Agenda:
+{{step_3}}
+
+Core Themes:
+{{step_4}}
+
+Next, generate the methods and activities for participant engagement during the workshop. List specific activities such as group discussions, interactive exercises, and case studies that will help reinforce key concepts.
+
+->>>>
+
+We have our core themes, and a set of methods and activities for participant engagement:
+
+Core Themes:
+{{step_4}}
+
+Engagement Methods:
+{{step_5}}
+
+Now, taking into account the engagement methods, themes, and agenda, specify all required resources. This could include facilities, materials, and technical support.
+
+->>>>
+
+Progress for our workshop plan includes necessary resources:
+
+Core Themes:
+{{step_4}}
+
+Engagement Methods:
+{{step_5}}
+
+Required Resources:
+{{step_6}}
+
+Next, include a section dedicated to post-workshop follow-up activities. This should include action plans for participants to follow post-workshop, and a system of feedback to measure the effectiveness of the workshop.
+
+->>>>
+
+We have a defined set of resources and created post-workshop follow-up activities:
+
+Required Resources:
+{{step_6}}
+
+Follow-up Activities:
+{{step_7}}
+
+Now, conclude the workshop plan with a summary. This should reiterate the workshop objective, key themes, resources required, and the expected outcomes.
+

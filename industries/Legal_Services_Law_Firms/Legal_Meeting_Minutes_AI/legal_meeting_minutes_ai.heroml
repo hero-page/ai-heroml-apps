@@ -1,0 +1,123 @@
+Your task is to write a "Meeting Minutes" for the "Legal Services & Law Firms" industry, specifically for a "Legal Secretary". 
+
+Let's start by drafting a header for the Meeting Minutes, featuring the {{firm_name}}, the {{date}} and the {{location}} of the meeting.
+
+Here's some more context about the Meeting Minutes:
+Firm Name: {{firm_name}}
+Date: {{date}}
+Location: {{location}}
+Attendee List: {{attendee_list}}
+Previous Minutes: {{previous_minutes}}
+Discussion Points: {{discussion_points}}
+Action Items: {{action_items}}
+Legal Concerns: {{legal_concerns}}
+Court Ruling Review: {{court_ruling_review}}
+
+->>>>
+
+Now that we have created a header for our Meeting Minutes:
+
+Header:
+{{step_1}}
+
+Next, we need to create an attendee list, including any guests, and indicate their affiliations and purpose for their presence.
+
+->>>>
+
+Having drafted a header for our Meeting Minutes, we also have a list of attendees:
+
+Header:
+{{step_1}}
+
+Attendee List:
+{{step_2}}
+
+Further, document the start and end time of the meeting, along with who chaired it. Include any proxy and quorum details if relevant.
+
+->>>>
+
+With a header and the attendees listed, we also have the documentation of the meeting's start and end time:
+
+Header:
+{{step_1}}
+
+Attendee List:
+{{step_2}}
+
+Start and End Time of the Meeting:
+{{step_3}}
+
+Next, detail the approval of the previous Meeting Minutes. Indicate who motioned for approval, who seconded, and provide a summary of amendments, if any.
+
+->>>>
+
+We have recorded the start and end time of the meeting, now we have approval details of the previous Meeting Minutes:
+
+Start and End Time of the Meeting:
+{{step_3}}
+
+Approval of Previous Minutes:
+{{step_4}}
+
+Moving on, structure your key discussion points by item presented, indicating the presenter and the nature of discussions. Capture all legal insights provided, key directives and decisions reached.
+
+->>>>
+
+We have recorded the approval of the previous Meeting Minutes, next we have structured key discussion points:
+
+Approval of Previous Minutes:
+{{step_4}}
+
+Key Discussion Points:
+{{step_5}}
+
+For each point, note who spoke, highlight any motions raised, examination of legal documents discussed and action items assigned.
+
+->>>>
+
+Next, following the details of key discussion points, create an overview of the speakers, motions raised, and action items assigned:
+
+Key Discussion Points:
+{{step_5}}
+
+Speakers, Motions, and Action Items:
+{{step_6}}
+
+Now, incorporate a section about any legal readiness concerns raised, emergency situations discussed, and relevant mitigation steps.
+
+->>>>
+
+We have an overview of the speakers and motions, subsequently, make a note of any legal readiness concerns and mitigation steps:
+
+Speakers, Motions, and Action Items:
+{{step_6}}
+
+Legal Readiness Concerns and Mitigation Steps:
+{{step_7}}
+
+A meeting in a law firm can often involve court ruling reviews. Write down the case name, its brief description, the court's decision, and its implications on current workload.
+
+->>>>
+
+We have notated the legal readiness concerns and mitigation steps. Now, include information about any reviewed court rulings and their implications on the current workload:
+
+Legal Readiness and Mitigation Steps:
+{{step_7}}
+
+Court Ruling Reviews:
+{{step_8}}
+
+Now, acknowledge and record the time for the next meeting, location and possible agenda items.
+
+->>>>
+
+With the information about any reviewed court rulings, now jot down the details of the next scheduled meeting:
+
+Court Ruling Reviews:
+{{step_8}}
+
+Next Meeting's Details:
+{{step_9}}
+
+At the end, summarize any agreed-upon action items and their deadlines, the persons assigned to these actions, and reiterate key decisions reached.
+

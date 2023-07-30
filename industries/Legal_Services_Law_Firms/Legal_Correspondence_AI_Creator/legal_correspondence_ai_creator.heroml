@@ -1,0 +1,80 @@
+Your task is to write a "Legal Correspondence" for the "Legal Services & Law Firms" industry, specifically for a "Legal Secretary". 
+
+Let's start by crafting a professional salutation that addresses the recipient of the legal correspondence: {{recipient_name}}.
+
+Here's some more context about the Legal Correspondence:
+Recipient Name: {{recipient_name}}
+Correspondence Purpose: {{correspondence_purpose}}
+Legal Aspects: {{legal_aspects}}
+Legal Advice: {{legal_advice}}
+Actions Required: {{actions_required}}
+Next Steps: {{next_steps}}
+Sender Info: {{sender_info}}
+
+->>>>
+
+Now we have a professional salutation for our legal correspondence:
+Salutation:
+{{step_1}}
+
+Next, write an introduction that succinctly describes the purpose of the correspondence: {{correspondence_purpose}}. This introduction should include specifics related to the case or legal matter at hand and the recipient's relation to that matter.
+
+->>>>
+
+For this legal correspondence, we have a professional salutation and a clear introduction:
+Salutation:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Now, let's outline the key elements of this matter, detailing the specific legal aspects that are relevant and should be considered: {{legal_aspects}}.
+
+->>>>
+
+We have an introduction to our legal correspondence, and an outlined key elements of the legal matter:
+
+Introduction:
+{{step_2}}
+
+Key legal aspects:
+{{step_3}}
+
+Next up, detail any relevant legal advice or options pertaining to these legal aspects: {{legal_advice}}. Ensure that this information is structured logically for easy understanding by the recipient, adhering to all legal guidelines to maintain professional conduct.
+
+->>>>
+
+For this legal correspondence, we have a clear overview and have detailed relevant legal advice:
+
+Overview:
+{{step_3}}
+
+Legal advice:
+{{step_4}}
+
+Following that, please include the particulars of necessary actions needed to be taken by either party: {{actions_required}}. This should be clear and detailed.
+
+->>>>
+
+We now have an outline of the action steps required in this legal correspondence:
+
+Legal advice:
+{{step_4}}
+
+Required actions:
+{{step_5}}
+
+Now let's conclude this correspondence with next steps, like a meeting appointment or a deadline for the required action, or any other pertinent information: {{next_steps}}.
+
+->>>>
+
+In our legal correspondence, we have detailed the required actions and defined the next steps:
+
+Required actions:
+{{step_5}}
+
+Next steps:
+{{step_6}}
+
+Finally, finish the legal correspondence with a professional sign-off that represents the sending legal practice or firm, and includes the contact information of the legal secretary or their respective lawyer for any further clarifications: {{sender_info}}.
+

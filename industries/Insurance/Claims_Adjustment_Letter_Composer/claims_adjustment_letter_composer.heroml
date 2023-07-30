@@ -1,0 +1,108 @@
+Your task is to write an "Adjustment Letter" for the "Insurance" industry, as a "Claims Adjuster". 
+Let's start by composing a polite and formal greeting that addresses the insured party: {{insured_party_name}}.
+
+Here's some more context about the Adjustment Letter:
+Insured Party Name: {{insured_party_name}}
+Claim Number: {{claim_number}}
+Policy Number: {{policy_number}}
+Your Contact Information: {{your_contact_information}}
+
+->>>>
+
+In the Adjustment Letter, so far we have a greeting:
+
+Greeting to the insured party:
+{{step_1}}
+
+Next, let's craft a brief introduction outlining the reason for the letter - the adjustment of the insurance claim. Reference the specific claim number: {{claim_number}} in this section.
+
+->>>>
+
+At this point, we have a greeting and an introduction in the Adjustment Letter:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Let's proceed to describe the claim in detail. This should include the nature of the loss, the policy coverage type, date of incident, and the original claim details. Mention the policy number: {{policy_number}} in this section.
+
+->>>>
+
+In the Adjustment Letter, we have a greeting, an introduction, and detailed background of the claim:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Background Details:
+{{step_3}}
+
+Up next, detail the investigation process of the claim, which will include the evaluation of the claim's validity, the assessment of damages, and the eventual payout amount determination. Include the necessary industry regulations or guidelines followed during the investigation.
+
+->>>>
+
+So far, our Adjustment Letter contains a greeting, an introduction, background of the claim, and the claim investigation process:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Background Details:
+{{step_3}}
+
+Claim Investigation Details:
+{{step_4}}
+
+Moving on, let's write about the outcomes of the claim adjustment. Include the final adjusted amount, any deductions, and how they were calculated. The language used here should be clear and straightforward to avoid confusion.
+
+->>>>
+
+At this juncture, the Adjustment Letter includes a greeting, introduction, background, claim investigation details, and the outcomes:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Background Details:
+{{step_3}}
+
+Claim Investigation Details:
+{{step_4}}
+
+Outcomes:
+{{step_5}}
+
+Let's continue to illuminate the reasons behind our adjustment decision. The reasons must align with the policy agreement's terms and conditions and should be directly related to this specific claim.
+
+->>>>
+
+In our Adjustment Letter, we have described the outcome and the reasons for the claim adjustment:
+
+Outcome:
+{{step_5}}
+
+Reasons for Adjustment:
+{{step_6}}
+
+From here, let's detail the procedure to appeal the adjustment decision. Highlight the timeline and any documents needed for an appeal, in case the insured party disagrees with our adjustment.
+
+->>>>
+
+Up until now, the Adjustment Letter encompasses the reasons for the claim adjustment and the appeal process:
+
+Reasons for Adjustment:
+{{step_6}}
+
+Appeal Procedure:
+{{step_7}}
+
+As we near the end of our letter, let's write a conclusion which encourages the insured party to contact us for further clarification. Include your contact information: {{your_contact_information}}, to make it effortless for them to reach you.
+

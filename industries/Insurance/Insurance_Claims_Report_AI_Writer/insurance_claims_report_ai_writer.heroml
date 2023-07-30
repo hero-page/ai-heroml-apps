@@ -1,0 +1,109 @@
+Your task is to write an "Investigation Report" for the "Insurance" industry, specifically for a "Claims Adjuster".
+First, draft an 'Executive Summary' section for the report. This section should provide a brief synopsis of the claim: {{claim_overview}}. Remember to use insurance-specific terminology to increase the report's relevance.
+
+Here's some more context about the Investigation Report:
+Claim Overview: {{claim_overview}}
+Investigation Purpose: {{investigation_purpose}}
+Insured Party Info: {{insured_party_info}}
+Policy Info: {{policy_info}}
+Incident Details: {{incident_details}}
+Evidence Verification: {{evidence_verification}}
+Policy Evaluation: {{policy_evaluation}}
+Valuation Assessment: {{valuation_assessment}}
+Liability Assessment: {{liability_assessment}}
+Claim Resolution: {{claim_resolution}}
+Disclaimer: {{disclaimer}}
+
+->>>>
+
+We're starting to prepare an Insurance Investigation Report and begin with the following Executive Summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, generate the 'Introduction' of the report, which details the purpose of the investigation: {{investigation_purpose}}.
+
+->>>>
+
+Here's how our Insurance Investigation Report looks so far:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+For the 'Background Information' section, provide details about the insured party's background and the specifics of the policy in relation to the covered risk: {{insured_party_info}}, {{policy_info}}.
+
+->>>>
+
+With that addition, here's how our Insurance Investigation Report is shaping up:
+
+Introduction:
+{{step_2}}
+
+Background Information:
+{{step_3}}
+
+The 'Details of the Incident' section should unravel the factual timeline of the incident leading to the claim: {{incident_details}}.
+
+->>>>
+
+Our Insurance Investigation Report now includes:
+
+Background Information:
+{{step_3}}
+
+Details of Incident:
+{{step_4}}
+
+Next, focus on the 'Proof Verification' section. You must pinpoint how each piece of evidence was collected, recorded, and checked for potential fraudulence: {{evidence_verification}}.
+
+->>>>
+
+Our Insurance Investigation Report has been updated:
+
+Details of Incident:
+{{step_4}}
+
+Proof Verification:
+{{step_5}}
+
+For the next section, 'Policy Evaluation', analyze the policy to clarify whether the claim lines up with the coverage or includes coverage exceptions: {{policy_evaluation}}.
+
+->>>>
+
+Following the new additions, our Insurance Investigation Report embodies:
+
+Proof Verification:
+{{step_5}}
+
+Policy Evaluation:
+{{step_6}}
+
+For the 'Valuation Assessment' section, determine the value of the loss which may require market research or usage of depreciation tables: {{valuation_assessment}}.
+
+->>>>
+
+The updated Insurance Investigation Report reads as follows:
+
+Policy Evaluation:
+{{step_6}}
+
+Valuation Assessment:
+{{step_7}}
+
+The 'Liability Assessment' section should discuss the insured's liability in the incident: {{liability_assessment}}.
+
+->>>>
+
+The Insurance Investigation Report has been updated:
+
+Valuation Assessment:
+{{step_7}}
+
+Liability Assessment:
+{{step_8}}
+
+Next, write the 'Recommendations and Conclusion' section to deliver a final reflection of the investigation and your suggestions for the claim resolution: {{claim_resolution}}.
+

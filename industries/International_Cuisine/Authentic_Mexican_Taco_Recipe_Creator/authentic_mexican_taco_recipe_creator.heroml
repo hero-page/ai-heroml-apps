@@ -1,0 +1,96 @@
+Your task is to write a "Taco Tuesday Recipes" for the "International Cuisine" industry, specifically for a "Mexican Cuisine Expert". Let's start by creating an engaging introduction that sets the unique cultural context of Tacos: {{taco_context}}. The context could include historical aspects, regional differences, or how these tacos are traditionally enjoyed in Mexico.
+
+Here's some more context about the Taco Tuesday Recipes:
+Taco Context: {{taco_context}}
+Primary Ingredient: {{primary_ingredient}}
+Taco Summary: {{taco_summary}}
+Preparation Details: {{preparation_details}}
+Filling Ingredients: {{filling_ingredients}}
+Assembly Ingredients: {{assembly_ingredients}}
+Cooking Instructions: {{cooking_instructions}}
+Assembly Instructions: {{assembly_instructions}}
+Chefs Tips: {{chefs_tips}}
+Accompaniments: {{accompaniments}}
+
+->>>>
+
+Nice! Now we have the cultural context of our tacos:
+
+Cultural Context:
+{{step_1}}
+
+Next, create a recipe title using the format - "{{primary_ingredient}} Tacos".
+
+->>>>
+
+We have a title for our taco recipe:
+
+Recipe Title:
+{{step_2}}
+
+Moving forward, provide a brief summary about the specific taco recipe. This should include its origin, taste profile, significant ingredients, and why it stands unique among other tacos: {{taco_summary}}.
+
+->>>>
+
+Now, we have a title and a summary for our taco recipe:
+
+Recipe Title:
+{{step_2}}
+
+Summary:
+{{step_3}}
+
+Next, share the prep time, cook time, total time and the number of servings this recipe makes. These details will form our {{preparation_details}}.
+
+->>>>
+
+Great! We have the preparation details for our taco recipe:
+
+Preparation Details:
+{{step_4}}
+
+Moving on, list the ingredients needed to make the taco. Make sure to split the list into two sections - one for the taco filling like "{{filling_ingredients}}" and another for the taco assembly like "{{assembly_ingredients}}".
+
+->>>>
+
+For our "{{step_2}}" recipe, here are the needed ingredients:
+
+Filling Ingredients:
+{{step_5a}}
+
+Assembly Ingredients:
+{{step_5b}}
+
+Now, generate step-by-step, easy-to-follow instructions detailing how to make the taco from start to finish. Again, divide this into two parts - "{{cooking_instructions}}" for making the filling, and "{{assembly_instructions}}" for putting together the taco.
+
+->>>>
+
+For the "{{step_2}}" recipe, we have the ingredients and cooking instructions as follows:
+
+Filling Ingredients:
+{{step_5a}}
+
+Cooking Instructions:
+{{step_6a}}
+
+Assembly Ingredients:
+{{step_5b}}
+
+Assembly Instructions:
+{{step_6b}}
+
+Next, create a section called "Chef's Tips". This should include advice on ingredient selection, cooking techniques or common pitfalls to avoid, authentic to Mexican Cuisine: {{chefs_tips}}.
+
+->>>>
+
+For our "{{step_2}}" recipe, along with the cooking instructions, we now have some valuable "Chef's Tips":
+
+Cooking Instructions:
+{{step_6a}}
+{{step_6b}}
+
+Chef's Tips:
+{{step_7}}
+
+To wrap up, let's draft a conclusion that summarizes the flavors of the taco and gives ideas for pairings. Also, encourage the reader to explore more Mexican cuisine.
+

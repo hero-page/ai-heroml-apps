@@ -1,0 +1,135 @@
+Your task is to write a "Project Progress Report" for the "High School Students - Technology & Computer Science" industry, specifically for a "Coding Club Member". 
+
+Start with an introduction that briefly describes the coding project's goal: {{project_goal}}. 
+
+Here's some more context about the Project Progress Report:
+Project Goal: {{project_goal}}
+Project Milestones: {{project_milestones}}
+Coding Tools: {{coding_tools}}
+
+->>>>
+
+Here is the introduction of our "Project Progress Report" for the coding project:
+
+Introduction:
+{{step_1}}
+
+Next, create an "Objectives and Deliverables" section where you outline the planned milestones and deliverables of the coding project: {{project_milestones}}, and align them with the Coding Club objectives.
+
+->>>>
+
+At this stage of our "Project Progress Report" we have an introduction and outline of the objectives and deliverables:
+
+Introduction:
+{{step_1}}
+
+Objectives and Deliverables:
+{{step_2}}
+
+Now, prepare the "Progress Summary" section of the report. This section should detail the status of each milestone or deliverable listed in the {{project_milestones}} section, include what has been completed, any changes to the project plan, and the reasons for those modifications.
+
+->>>>
+
+So far in our "Project Progress Report", we have an introduction, objectives and deliverables, and a progress summary:
+
+Introduction:
+{{step_1}}
+
+Objectives and Deliverables:
+{{step_2}}
+
+Progress Summary:
+{{step_3}}
+
+Proceed to the "Challenges and Solutions" section. Here, identify any impediments or issues witnessed during the execution of the {{project_goal}}. Be sure to explain how these challenges were surmounted or are being tackled.
+
+->>>>
+
+Our "Project Progress Report" now possesses an introduction, objectives and deliverables, a progress summary, and a section on challenges and their solutions:
+
+Introduction:
+{{step_1}}
+
+Objectives and Deliverables:
+{{step_2}}
+
+Progress Summary:
+{{step_3}}
+
+Challenges and Solutions:
+{{step_4}}
+
+Next, generate the "Next Steps" section. Describe what immediate measures will be taken towards the achievement of the {{project_goal}}. Consider including projected dates for these steps if possible.
+
+->>>>
+
+Our "Project Progress Report" now includes an introduction, objectives and deliverables, progress summary, challenges and solutions, and the proposed next steps:
+
+Introduction:
+{{step_1}}
+
+Objectives and Deliverables:
+{{step_2}}
+
+Progress Summary:
+{{step_3}}
+
+Challenges and Solutions:
+{{step_4}}
+
+Next Steps:
+{{step_5}}
+
+In the "Industry-Specific Inclusions" section, shed light on the technologies, tools, or programming languages used in the project. Frame the content like: "In the process of meeting our {{project_goal}}, we utilized {{coding_tools}}". Discuss why these tools were selected and how they helped the project.
+
+->>>>
+
+At this point, our "Project Progress Report" includes an introduction, objectives and deliverables, progress summary, challenges and solutions, next steps, and industry-specific inclusions:
+
+Introduction:
+{{step_1}}
+
+Objectives and Deliverables:
+{{step_2}}
+
+Progress Summary:
+{{step_3}}
+
+Challenges and Solutions:
+{{step_4}}
+
+Next Steps:
+{{step_5}}
+
+Industry-Specific Inclusions:
+{{step_6}}
+
+Conclude the report with the "Remaining Project Timeline". In this section, provide an updated estimate for when the coding project will be completed. If there are projected obstacles that may affect the timeline, these should also be listed in this section.
+
+->>>>
+
+Our almost complete "Project Progress Report" now includes an introduction, objectives and deliverables, progress summary, challenges and solutions, next steps, industry-specific inclusions, and the remaining project timeline:
+
+Introduction:
+{{step_1}}
+
+Objectives and Deliverables:
+{{step_2}}
+
+Progress Summary:
+{{step_3}}
+
+Challenges and Solutions:
+{{step_4}}
+
+Next Steps:
+{{step_5}}
+
+Industry-Specific Inclusions:
+{{step_6}}
+
+Remaining Project Timeline:
+{{step_7}}
+
+For the tail section, draft a paragraph that invites feedback and queries from the club members and/or project supervisor. Highlight the collaborative nature of the Coding Club environment. The language used should be easily comprehended by both experienced and beginner members of the club.
+

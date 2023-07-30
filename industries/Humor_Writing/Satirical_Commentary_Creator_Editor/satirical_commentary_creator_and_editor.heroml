@@ -1,0 +1,85 @@
+Your task is to write a "Satirical Commentary" about {{commentary_topic}} for the "Humor Writing" industry, specifically for a "Author". Begin by drafting a captivating introduction that lightly mocks the topic or acknowledges its absurdity, ensuring to grab the readers' attention.
+
+Here's some more context about the Satirical Commentary:
+Commentary Topic: {{commentary_topic}}
+Subject Matter: {{subject_matter}}
+Thesis Statement: {{thesis_statement}}
+Arguments: {{arguments}}
+Anecdotes: {{anecdotes}}
+Counterarguments: {{counterarguments}}
+Industry Terms: {{industry_terms}}
+Commentary Content: {{commentary_content}}
+Concluding Thought: {{concluding_thought}}
+
+->>>>
+
+Now, with a captivating introduction at hand:
+
+Introduction:
+{{step_1}}
+
+For the next step, introduce the subject matter or issue twill be critiqued: {{subject_matter}}. Provide context to it, highlighting its anomalies and peculiarities in a subtle and nuanced manner.
+
+->>>>
+
+Here is the subject introduction on {{subject_matter}} and its peculiarities:
+
+Subject Matter Introduction:
+{{step_2}}
+
+Now, write a strong thesis statement that encapsulates the satirical standpoint you're taking with respect to the subject matter: {{thesis_statement}}.
+
+->>>>
+
+With a satirical thesis statement at hand:
+
+Thesis Statement:
+{{step_3}}
+
+Let's proceed to write the body of the commentary. Come up with at least three powerful arguments - each in its own paragraph - that support and defend the thesis statement: {{arguments}}. Keep in mind, no matter how exaggerated or hyperbolic, the arguments must sound logical and reasonable.
+
+->>>>
+
+We have structured three strong arguments which support the thesis statement:
+
+Arguments:
+{{step_4}}
+
+Illustrate each argument with humorous yet relevant real-world anecdotes or examples: {{anecdotes}}. Incorporate these in a way it brings humor to your commentary and enhances its satirical essence.
+
+->>>>
+
+We have three arguments for the thesis statement, enhanced with humorous anecdotes:
+
+Arguments with Anecdotes:
+{{step_5}}
+
+Bring counterarguments to the table that challenge your main arguments and let's then refute them: {{counterarguments}}. This gives depth to commentary and satire.
+
+->>>>
+
+At this point in our commentary, we have counterarguments and their refutations:
+
+Counterarguments and Refutations:
+{{step_6}}
+
+Incorporate industry-specific commentary or terminologies: {{industry_terms}}. Make sure these are explained clearly for a broader audience to understand.
+
+->>>>
+
+Related industry terms are incorporated and explained in the commentary:
+
+Commentary with Industry Terms:
+{{step_7}}
+
+Enrich your satirical commentary by using irony, sarcasm, and understatement within the {{commentary_content}}. Handle these tools carefully to enhance the humor and satire in your commentary.
+
+->>>>
+
+Within our commentary content, we have effectively infused irony, sarcasm, and understatement:
+
+Commentary Content with Satirical Elements:
+{{step_8}}
+
+Write a compelling conclusion to wrap up the commentary. It should not only summarize your thesis and arguments, it should also leave a lasting impression with a striking final thought or call-to-action: {{concluding_thought}}. 
+

@@ -1,0 +1,57 @@
+
+You are required to write a piece on "Chinese Festival Food Ideas" for the "International Cuisine" industry, catered to a "Chinese Cuisine Specialist". 
+Let's first start with a brief introduction focussing on the unique culinary tradition of Chinese festivals - emphasise on the cultural and symbolic significance of the festival food.
+
+Here's some more context about the Chinese Festival Food Ideas:
+Festival Significance: {{festival_significance}}
+Festival Food: {{festival_food}}
+Food Description: {{food_description}}
+Modern Twists: {{modern_twists}}
+Drink Pairing: {{drink_pairing}}
+Concluding Summary: {{concluding_summary}}
+
+->>>>
+
+Here, we have an introduction for our piece:
+
+Introduction:
+{{step_1}}
+
+Next, let's divide the content into subsections, each focused on a different major Chinese festival. For instance, Chinese New Year, Dragon Boat Festival, or Mid-Autumn Festival. Also mention the unique foods associated with each festival.
+
+->>>>
+
+We have some subsections for our content now:
+
+Introduction:
+{{step_1}}
+
+Subsections:
+{{step_2}}
+
+For each festival food, let's provide a comprehensive description about the ingredients, preparation methods, and the cultural or ritualistic importance related to the festival.
+
+->>>>
+
+Now, we have descriptions for each type of festival food:
+
+Subsections:
+{{step_2}}
+
+Detailed food descriptions:
+{{step_3}}
+
+Next, let's incorporate some valuable tips and innovative ideas for modern twists on traditional festival foods. We should take into account the taste and preferences of modern consumers.
+
+->>>>
+
+We now have some tips and modern twists on traditional foods:
+
+Detailed food descriptions:
+{{step_3}}
+
+Updated traditional foods:
+{{step_4}}
+
+Add a section that discusses the appropriate drinks to pair with each festival food. Such drinks might include teas or wines, and they should enhance the gastronomic experience.
+

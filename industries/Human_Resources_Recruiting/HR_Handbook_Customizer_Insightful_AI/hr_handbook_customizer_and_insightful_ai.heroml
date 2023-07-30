@@ -1,0 +1,169 @@
+Your task is to write an "Employee Handbook" for the "Human Resources & Recruiting" industry, specifically for a "HR Manager".
+
+The first step is to begin with a welcoming introduction that explains the purpose and importance of the handbook: {{handbook_purpose}}. 
+
+Here's some more context about the Employee Handbook:
+Handbook Purpose: {{handbook_purpose}}
+Company History: {{company_history}}
+Organizational Structure: {{organizational_structure}}
+Company Policies: {{company_policies}}
+Employee Benefits: {{employee_benefits}}
+Acknowledgement Form: {{acknowledgement_form}}
+HR Function: {{HR_function}}
+
+->>>>
+
+Now, we have the welcoming introduction for our Employee Handbook:
+
+Introduction:
+{{step_1}}
+
+The next step is to add a brief history of the company and its mission statement: {{company_history}}.
+
+->>>>
+
+So far, for our Employee Handbook, we have:
+
+Introduction:
+{{step_1}}
+
+A brief history of the company and its mission statement:
+{{step_2}}
+
+Now, let's succinctly define the organizational structure of the company: {{organizational_structure}}.
+
+->>>>
+
+For our Employee Handbook, we now have:
+
+Introduction:
+{{step_1}}
+
+Company History:
+{{step_2}}
+
+Organizational structure of the company:
+{{step_3}}
+
+Next, let's discuss the comprehensive list of policies, categorized depending on their relevance: {{company_policies}}.
+
+->>>>
+
+Our Employee Handbook now consists of:
+
+Introduction:
+{{step_1}}
+
+Company History:
+{{step_2}}
+
+Organizational Structure:
+{{step_3}}
+
+Comprehensive list of company policies:
+{{step_4}}
+
+Let's now describe the employee benefits, incentives, and opportunities for professional development: {{employee_benefits}}.
+
+->>>>
+
+We're making progress on the Employee Handbook:
+
+Introduction:
+{{step_1}}
+
+Company History:
+{{step_2}}
+
+Organizational Structure:
+{{step_3}}
+
+Company Policies:
+{{step_4}}
+
+Employee Benefits:
+{{step_5}}
+
+Finally, let's end with an acknowledgement form, ensuring that the employee understands the information in the handbook: {{acknowledgement_form}}.
+
+->>>>
+
+Our almost complete Employee Handbook now has these sections:
+
+Introduction:
+{{step_1}}
+
+Company History:
+{{step_2}}
+
+Organizational Structure:
+{{step_3}}
+
+Company Policies:
+{{step_4}}
+
+Employee Benefits:
+{{step_5}}
+
+Acknowledgement Form:
+{{step_6}}
+
+As we prepare to finalize the handbook, let's incorporate some industry-specific elements. Start by including an overview of the Human Resources function and how they can support employees: {{HR_function}}.
+
+->>>>
+
+Almost complete, the Employee Handbook looks like this:
+
+Introduction:
+{{step_1}}
+
+Company History:
+{{step_2}}
+
+Organizational Structure:
+{{step_3}}
+
+Company Policies:
+{{step_4}}
+
+Employee Benefits:
+{{step_5}}
+
+Acknowledgement Form:
+{{step_6}}
+
+Overview of the HR Function:
+{{step_7}}
+
+Next, we'll detail the process for voicing concerns and lodging complaints, repeatedly emphasizing the company's commitment to a safe and respectful work environment.
+
+->>>>
+
+Here's what we have so far in our Employee Handbook:
+
+Introduction:
+{{step_1}}
+
+Company History:
+{{step_2}}
+
+Organizational Structure:
+{{step_3}}
+
+Company Policies:
+{{step_4}}
+
+Employee Benefits:
+{{step_5}}
+
+Acknowledgement Form:
+{{step_6}}
+
+HR Function Overview:
+{{step_7}}
+
+Process for Concerns and Complaints:
+{{step_8}}
+
+Further, let's highlight elements related to recruiting, like diversity and inclusion policies, candidate selection criteria, and recruitment processes.
+

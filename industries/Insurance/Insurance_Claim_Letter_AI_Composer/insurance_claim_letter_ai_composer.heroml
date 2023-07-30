@@ -1,0 +1,101 @@
+Your task is to write a "Claim Letter" for the "Insurance" industry, specifically for an "Insurance Agent". 
+Let's start by producing the policy holder's statement, which should contain the holder's personal and policy information: {{policy_holder_information}}.
+
+Here's some more context about the Claim Letter:
+Policy Holder Information: {{policy_holder_information}}
+Policy Number: {{policy_number}}
+Insured Event Details: {{insured_event_details}}
+Outlined Losses Or Expenses: {{outlined_losses_or_expenses}}
+Supporting Documents: {{supporting_documents}}
+Settlement Request: {{settlement_request}}
+
+->>>>
+
+Now, we have the policy holder's statement for our claim:
+
+Policy Holder's Statement:
+{{step_1}}
+
+Next, generate an introductory paragraph that mentions the main purpose of this letter, specifically filing a claim. 
+Make sure to reference the insurance policy number: {{policy_number}}.
+
+->>>>
+
+In our "Claim Letter", we have the policy holder's statement and an introduction:
+
+Policy Holder's Statement:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Moving on, let's describe the event that led to this claim in detail: {{insured_event_details}}. 
+Ensure the description is clear and concise to avoid any misunderstandings.
+
+->>>>
+
+In our claim letter so far, we have the policy holder's statement, an introduction, and a description of the insured event:
+
+Policy Holder's Statement:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Insured Event Description:
+{{step_3}}
+
+Next, we have to enumerate all the expenses or losses related to the insured event: {{outlined_losses_or_expenses}}. 
+Specify the total amount that the policy holder is claiming from the insurance company with clarity and precision.
+
+->>>>
+
+In our claim letter so far, we have the insured event and the related expenses or losses:
+
+Insured Event Description:
+{{step_3}}
+
+Outlined Losses or Expenses:
+{{step_4}}
+
+Proceed to incorporate a section that lists all the supporting documents that are being attached with this claim letter: {{supporting_documents}}. 
+This can include things like receipts, medical records, or photographs.
+
+->>>>
+
+In our claim letter so far, we have the detailed losses or expenses and a list of the supporting documents:
+
+Outlined Losses or Expenses:
+{{step_4}}
+
+Supporting Documents:
+{{step_5}}
+
+Following, write a request for a prompt claim settlement: {{settlement_request}}. 
+This can be placed after all the necessary facts and figures have been presented.
+
+->>>>
+
+In our claim letter, we have the list of supporting documents and a request for settlement:
+
+Supporting Documents:
+{{step_5}}
+
+Settlement Request:
+{{step_6}}
+
+Let's conclude this claim letter courteously. 
+Indicate your willingness to provide additional details if required and the desire for a quick resolution.
+
+->>>>
+
+In our claim letter, we have the settlement request and a courteous conclusion:
+
+Settlement Request:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+Lastly, generate a signature for this claim letter should include the policy holder's name, date, and contact details for further correspondence.
+

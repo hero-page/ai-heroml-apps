@@ -1,0 +1,85 @@
+Your task is to write a "Penetration Test Report" for the "High School Students - Technology & Computer Science" industry, specifically for a "Cybersecurity Club Member". Let’s begin by crafting an Introduction that outlines the purpose of the penetration test: {{penetration_test_purpose}}. The introduction should detail the systems that were targeted, the nature of the test (whether black-box, white-box, or gray-box), and a general timeline.
+
+Here's some more context about the Penetration Test Report:
+Penetration Test Purpose: {{penetration_test_purpose}}
+Penetration Test Methodology: {{penetration_test_methodology}}
+Penetration Test Findings: {{penetration_test_findings}}
+Penetration Test Recommendations: {{penetration_test_recommendations}}
+Penetration Test Summary: {{penetration_test_summary}}
+Technical Terms: {{technical_terms}}
+
+->>>>
+
+Now, we have an introduction to our penetration test report:
+
+Introduction:
+{{step_1}}
+
+Next, let's detail the Methodology section. Explain the steps followed to perform the penetration test: {{penetration_test_methodology}}. This should cover the phases of planning, reconnaissance, scanning, exploiting, and post-exploitation. The reader should be able to understand your thought process and approach to the test through this explanation.
+
+->>>>
+
+We now have an introduction and a methodology for our penetration test report:
+
+Introduction:
+{{step_1}}
+
+Methodology:
+{{step_2}}
+
+Let’s move on to the 'Findings' section. Provide a detailed breakdown of the vulnerabilities found during the penetration test: {{penetration_test_findings}}. Describe each vulnerability, its severity, potential impact, possible exploit methods, and whether it was successfully exploited during the test or not.
+
+->>>>
+
+Now we have a detailed 'Findings' report to add to our penetration test report:
+
+Introduction:
+{{step_1}}
+
+Methodology:
+{{step_2}}
+
+Findings:
+{{step_3}}
+
+Next, we will need a 'Recommendations' section. Share remediations for each vulnerability found during the test: {{penetration_test_recommendations}}. This section should cover how to fix each vulnerability or how to mitigate its impact. To help the reader prioritize remediation efforts, be sure to assign a priority level to each recommendation based on the respective vulnerability's severity and impact.
+
+->>>>
+
+Our penetration test report now includes a 'Recommendations' section:
+
+Introduction:
+{{step_1}}
+
+Methodology:
+{{step_2}}
+
+Findings:
+{{step_3}}
+
+Recommendations:
+{{step_4}}
+
+Now, let's summarize the current security posture of the tested systems. This 'Conclusion' section should note the strengths and weaknesses identified during your penetration test: {{penetration_test_summary}}.
+
+->>>>
+
+Our penetration test report has an addition of a 'Conclusion' section now:
+
+Introduction:
+{{step_1}}
+
+Methodology:
+{{step_2}}
+
+Findings:
+{{step_3}}
+
+Recommendations:
+{{step_4}}
+
+Conclusion:
+{{step_5}}
+
+Lastly, create a ‘Glossary of Terms’ at the end to explain all the technical jargon used in the report: {{technical_terms}}. This will help high school students who are not yet familiar with all the cybersecurity terminologies understand your report better. This is essential in the context of the "High School Students - Technology & Computer Science" industry and for "Cybersecurity Club Member". 
+

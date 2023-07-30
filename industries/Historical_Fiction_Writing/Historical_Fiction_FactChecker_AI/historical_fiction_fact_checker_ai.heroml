@@ -1,0 +1,127 @@
+Your task is to write a "Fact-checking Report" for the "Historical Fiction Writing" industry, specifically for a "Editor". Start by generating an introduction that provides an overview of the historical fiction piece that was researched: {{piece_overview}}.
+
+Here's some more context about the Fact-checking Report:
+Piece Overview: {{piece_overview}}
+Fact Elements: {{fact_elements}}
+Historical Context: {{historical_context}}
+Historical Characters: {{historical_characters}}
+Historical Locations: {{historical_locations}}
+Historical Events: {{historical_events}}
+Fictional Elements: {{fictional_elements}}
+
+->>>>
+
+After providing the introduction, let's briefly list our report sections:
+
+Introduction:
+{{step_1}}
+
+Our report contains the following sections:
+1. Introduction 
+2. Historical Context 
+3. Historical Characters 
+4. Historical Locations 
+5. Historical Events 
+6. Fictional Elements 
+7. Conclusion 
+8. Recommendation 
+9. Appendix 
+
+Next, compile a comprehensive list of the factual elements present in the story, including people, places, events and context: {{fact_elements}}.
+
+->>>>
+
+We have prepared the introduction and a comprehensive list of factual elements for our report:
+
+Introduction:
+{{step_1}}
+
+Factual Elements:
+{{step_2}}
+
+For the first section, "Historical Context", detail the general time period during which the story took place, including broader socio-economic or political conditions: {{historical_context}}.
+
+->>>>
+
+For the "Historical Fiction Writing" report, we have prepared:
+
+Factual Elements:
+{{step_2}}
+
+Historical Context:
+{{step_3}}
+
+Now, for the "Historical Characters", consider the real people mentioned or referenced in the text. Discuss their accurate historical representation in terms of actions, character traits and roles in the story: {{historical_characters}}.
+
+->>>>
+
+For the "Historical Fiction Writing" report, with the discussed 'Historical Characters', we have:
+
+Historical Context:
+{{step_3}}
+
+Historical Characters:
+{{step_4}}
+
+For "Historical Locations", evaluate the real places mentioned in the text. Discuss the geography, appearance, and culture surrounding these places during the time period of the story: {{historical_locations}}.
+
+->>>>
+
+We have prepared the 'Historical Locations' for our "Historical Fiction Writing" report:
+
+Historical Characters:
+{{step_4}}
+
+Historical Locations:
+{{step_5}}
+
+Consider this: "Historical Events", assess all real events featured in the text. Check whether the description of these events aligns with the real, historical records and narratives: {{historical_events}}.
+
+->>>>
+
+The 'Historical Events' for our "Historical Fiction Writing" report are ready:
+
+Historical Locations:
+{{step_5}}
+
+Historical Events:
+{{step_6}}
+
+Focus for a moment on "Fictional Elements". This section should consider characters, events or places that are purely fictional, explaining their likely origins or inspirations from the historical context or author's creativity: {{fictional_elements}}.
+
+->>>>
+
+We've elaborated the 'Fictional Elements' for our "Historical Fiction Writing" report:
+
+Historical Events:
+{{step_6}}
+
+Fictional Elements:
+{{step_7}}
+
+Your conclusion should reiterate the overall historical accuracy of depicted events, characters, locations, and context in the story, summarizing your findings in simple language.
+
+->>>>
+
+We have compiled a conclusion for our "Historical Fiction Writing" report:
+
+Fictional Elements:
+{{step_7}}
+
+Conclusion:
+{{step_8}}
+
+Your final task is to end the report with a recommendation on the historical accuracy of the text, stating whether it adheres well to known historical facts or heavily favors the fictional narrative with scant relation to real historical documentation.
+
+->>>>
+
+In our "Historical Fiction Writing" report, the recommendation section looks like:
+
+Conclusion:
+{{step_8}}
+
+Recommendation:
+{{step_9}}
+
+Finally, provide an appendix that includes any additional resources or references used in your fact-check investigation, following proper citation practice.
+

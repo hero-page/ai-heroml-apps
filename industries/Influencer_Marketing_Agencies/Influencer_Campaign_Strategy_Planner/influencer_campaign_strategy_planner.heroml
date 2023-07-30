@@ -1,0 +1,70 @@
+Let's start with an introduction to our Campaign Strategy. Please compose an introduction that explains the purpose of the campaign: {{campaign_purpose}}. 
+
+Here's some more context about the Campaign Strategy:
+Campaign Purpose: {{campaign_purpose}}
+Influencers: {{influencers}}
+Campaign Timeline: {{campaign_timeline}}
+Content Strategy: {{content_strategy}}
+Campaign Goals: {{campaign_goals}}
+Evaluation Method: {{evaluation_method}}
+
+->>>>
+
+At this stage, we have an introduction that clearly states the purpose of our Influencer Marketing Campaign:
+
+Introduction:
+{{step_1}}
+
+Now, let's overview the influencer landscape. Provide an in-depth analysis on the influencers that the agency plans to work with : {{influencers}}.
+
+->>>>
+
+We have defined the purpose of our campaign, and provided a detailed overview of the influencer landscape:
+
+Introduction:
+{{step_1}}
+
+Influencer Landscape:
+{{step_2}}
+
+Next, we need to outline our campaign’s timeline. Please detail the campaign timeline specifying start and end dates: {{campaign_timeline}}.
+
+->>>>
+
+Our campaign strategy for Influencer Marketing is taking shape with:
+
+Introduction:
+{{step_1}}
+
+Influencer Landscape:
+{{step_2}}
+
+Campaign Timeline:
+{{step_3}}
+
+Now, we should elaborate on the campaign content strategy. Please detail the sorts of content that influencers will be creating: {{content_strategy}}.
+
+->>>>
+
+The campaign strategy thus far includes:
+
+Campaign Timeline:
+{{step_3}}
+
+Campaign Content Strategy:
+{{step_4}}
+
+Let's move on to define clear and measurable campaign goals that align with the predefined campaign purpose: {{campaign_goals}}.
+
+->>>>
+
+Our campaign strategy for Influencer Marketing now includes the following elements:
+
+Campaign Content Strategy:
+{{step_4}}
+
+Campaign Goals:
+{{step_5}}
+
+Now, we should explain how the campaign's performance will be evaluated. Detail the evaluation method outlining how performance will be measured according to the defined campaign goals: {{evaluation_method}}.
+

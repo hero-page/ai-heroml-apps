@@ -1,0 +1,166 @@
+Your task is to generate a "Policy Description" for the "Insurance" industry, specifically for an "Insurance Agent". 
+
+We will start with an engaging introduction that overviews the insurance policy, including its name: {{policy_name}}, and why it might be needed by potential customers.
+
+Here's some more context about the Policy Description:
+Policy Name: {{policy_name}}
+Target Audience: {{target_audience}}
+Covered Perils: {{covered_perils}}
+Excluded Perils: {{excluded_perils}}
+Policy Duration: {{policy_duration}}
+Policy Premiums: {{policy_premiums}}
+
+->>>>
+
+Now we have a covering introduction for the policy description:
+
+Introduction:
+
+{{step_1}}
+
+Next, describe the target audience for the policy: {{target_audience}}, their potential challenges, and how the policy can help to address their specific needs.
+
+->>>>
+
+After describing the target audience, we have the following ready:
+
+Introduction:
+
+{{step_1}}
+
+Target Audience Description:
+
+{{step_2}}
+
+We will now move on to stating the policy coverage. Clearly detail what is covered: {{covered_perils}}, and what is not covered: {{excluded_perils}}. Also explain why these coverages are necessary for the target audience: {{target_audience}}.
+
+->>>>
+
+With the policy coverage defined, we now have:
+
+Introduction:
+
+{{step_1}}
+
+Target Audience Description:
+
+{{step_2}}
+
+Policy Coverage:
+
+{{step_3}}
+
+Now we will describe the policy terms, including the duration: {{policy_duration}}, and any conditions that could lead to early termination or limitations. Do not forget to note key dates or deadlines.
+
+->>>>
+
+For our Policy Description, we also now have the Policy Terms set:
+
+Introduction:
+
+{{step_1}}
+
+Target Audience Description:
+
+{{step_2}}
+
+Policy Coverage:
+
+{{step_3}}
+
+Policy Terms:
+
+{{step_4}}
+
+Next, simplify the claim process into easy-to-understand language: how to report a claim, what information will be needed, and what to expect throughout the process.
+
+->>>>
+
+The simplified Claim Process is as follows:
+
+Introduction:
+
+{{step_1}}
+
+Target Audience Description:
+
+{{step_2}}
+
+Policy Coverage:
+
+{{step_3}}
+
+Policy Terms:
+
+{{step_4}}
+
+Claim Process:
+
+{{step_5}}
+
+Now we'll need to detail the policy cost, including the premium: {{policy_premiums}}, any discounts available, and what factors could increase or decrease the policy cost.
+
+->>>>
+
+In our Policy Description, we now have the cost details:
+
+Introduction:
+
+{{step_1}}
+
+Target Audience Description:
+
+{{step_2}}
+
+Policy Coverage:
+
+{{step_3}}
+
+Policy Terms:
+
+{{step_4}}
+
+Claim Process:
+
+{{step_5}}
+
+Policy Cost:
+
+{{step_6}}
+
+Bring together all key points in a summary of the policy, reiterating the policy name: {{policy_name}}, its coverage, benefits, and who it is targeted towards: {{target_audience}}.
+
+->>>>
+
+Our summarised policy description is:
+
+Introduction:
+
+{{step_1}}
+
+Target Audience Description:
+
+{{step_2}}
+
+Policy Coverage:
+
+{{step_3}}
+
+Policy Terms:
+
+{{step_4}}
+
+Claim Process:
+
+{{step_5}}
+
+Policy Cost:
+
+{{step_6}}
+
+Policy Summary:
+
+{{step_7}}
+
+The final task is to conclude with customer support information where potential policyholders can find additional help or answers about any queries regarding the policy. 
+

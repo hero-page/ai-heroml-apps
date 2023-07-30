@@ -1,0 +1,50 @@
+Your task is to write a "Service Review" for the "Hospitality & Tourism" industry, specially for a "Hotel Manager". 
+Let's start with an introduction that provides an overview of the service provided at the hotel.
+
+Here's some more context about the Service Review:
+Hotel Service Overview: {{hotel_service_overview}}
+Service Delivery Details: {{service_delivery_details}}
+Guest Experiences: {{guest_experiences}}
+Employee Feedback: {{employee_feedback}}
+Improvement Recommendations: {{improvement_recommendations}}
+
+->>>>
+
+We are creating a "Service Review" in the "Hospitality & Tourism" industry for a "Hotel Manager". We have introduced the service provided at the hotel:
+
+Introduction:
+{{step_1}}
+
+Now, proceed to a detailed description of different areas of service delivery, outlining their performance and any specific areas of strength or need for improvement.
+
+->>>>
+
+For our "Service Review", we have the introduction for the hotel's service:
+
+Introduction:
+{{step_1}}
+
+And, we have a detailed description of different areas of service delivery:
+
+Service Delivery Details:
+{{step_2}}
+
+Next, discuss specific guest interactions and experiences that stood out, both positively and negatively, during their stay.
+
+->>>>
+
+We are writing a "Service Review" for a "Hotel manager" and have covered the introduction:
+
+Introduction:
+{{step_1}}
+
+Service Delivery Details:
+{{step_2}}
+
+And, we have discussed guest's experiences during their stay:
+
+Guest Experiences:
+{{step_3}}
+
+Now, include feedback from employees regarding the work environment, teamwork, and management support, and how these factors contribute to service success or failure.
+

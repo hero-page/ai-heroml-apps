@@ -1,0 +1,88 @@
+Your task is to write an "Event Announcement" for the "Human Resources & Employee Engagement Services" industry, specifically for a "Employee Engagement Specialist". 
+
+Let's start by creating an inviting introduction that briefly talks about the nature of the event and its importance. Specifically mention that the event is designed for an Employee Engagement Specialist like {{attendee_name}}.
+
+Here's some more context about the Event Announcement:
+Attendee Name: {{attendee_name}}
+Event Details: {{event_details}}
+Guest Speakers And Benefits: {{guest_speakers_and_benefits}}
+Event Date Time Location: {{event_date_time_location}}
+Sign Up Instructions: {{sign_up_instructions}}
+
+->>>>
+
+Having written the introduction for our event announcement:
+
+Introduction:
+{{step_1}}
+
+Now, let's inform the audience about what the event will entail. Include the major points like what topics will be discussed, the main activities, and what they can expect to learn or gain from the event – all catered towards an Employee Engagement Specialist's interests: {{event_details}}.
+
+->>>>
+
+With an introduction and details about the event:
+
+Introduction:
+{{step_1}}
+
+Event details:
+{{step_2}}
+
+Next, captivate the audience by highlighting any prominent speakers or personalities that will be present, or else the benefits they can expect from attending. Be sure to relate these to the perspective and needs of an Employee Engagement Specialist: {{guest_speakers_and_benefits}}.
+
+->>>>
+
+So far we've created:
+
+Introduction:
+{{step_1}}
+
+Event details:
+{{step_2}}
+
+Guests and benefits:
+{{step_3}}
+
+Now, add information about the date, time, and location (or if it is virtual, then how to access). If the event has multiple sessions, categorise the different sessions including dates and times along with guests for each individual session: {{event_date_time_location}}.
+
+->>>>
+
+So far, the announcement has:
+
+Introduction:
+{{step_1}}
+
+Event details:
+{{step_2}}
+
+Guests and benefits:
+{{step_3}}
+
+Event date, time and location:
+{{step_4}}
+
+Next, state any instructions for signing up or joining the event, and any extra steps that must be followed before, during, or after the event. Make sure to provide a clear call-to-action, urging them to sign up, reserve their spot, or similar: {{sign_up_instructions}}.
+
+->>>>
+
+With the main contents of the event announcement ready:
+
+Introduction:
+{{step_1}}
+
+Event details:
+{{step_2}}
+
+Guests and benefits:
+{{step_3}}
+
+Event date, time and location:
+{{step_4}}
+
+Sign up instructions:
+{{step_5}}
+
+End the announcement by re-emphasising the benefits they will receive specifically as an Employee Engagement Specialist, and invite them to share the event with colleagues or friends who might be interested. 
+
+Turn attention to the tone of your message now. As an Employee Engagement Specialist, the reader may value details, return on investment, or the chance to network with industry peers. The language must be engaging but professional, reflecting the importance of the event and respecting the role of the target audience. 
+

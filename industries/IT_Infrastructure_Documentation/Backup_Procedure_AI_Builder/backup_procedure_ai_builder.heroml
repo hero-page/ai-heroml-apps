@@ -1,0 +1,234 @@
+Your task is to write a "Backup Procedure" for the "IT Infrastructure Documentation" industry, specifically for a "System Administrator".
+Let's begin with an introduction that outlines the purpose and contents of the "Backup Procedure" with the context of {{backup_purpose}}.
+
+Here's some more context about the Backup Procedure:
+Backup Purpose: {{backup_purpose}}
+System Environment: {{system_environment}}
+Data Details: {{data_details}}
+Backup Schedule: {{backup_schedule}}
+
+->>>>
+
+We have an introduction for our "Backup Procedure".
+
+Introduction:
+{{step_1}}
+
+Next, establish the background context by explaining the system environment that the procedure targets: {{system_environment}}.
+
+->>>>
+
+We have provided a context for our "Backup Procedure".
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Now, let's describe in detail the data to be backed up, including aspects such as location, size, and format: {{data_details}}.
+
+->>>>
+
+The "Backup Procedure" now consists of the following sections:
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Data Details:
+{{step_3}}
+
+Moving on, construct the step-by-step process for executing the backup procedure, tailored to the {{system_environment}}.
+
+->>>>
+
+Our Backup Procedure is taking shape with:
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Data Details:
+{{step_3}}
+
+Backup Procedure Steps:
+{{step_4}}
+
+Let's now highlight the essential software and hardware requirements to implement the backup procedure for the given {{system_environment}}.
+
+->>>>
+
+The "Backup Procedure" now includes software and hardware requirements:
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Data Details:
+{{step_3}}
+
+Backup Procedure Steps:
+{{step_4}}
+
+Requirements:
+{{step_5}}
+
+Next, specify the backup schedule, explaining the frequency and timing of the backup tasks: {{backup_schedule}}.
+
+->>>>
+
+Our Backup Procedure now has a schedule:
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Data Details:
+{{step_3}}
+
+Backup Procedure Steps:
+{{step_4}}
+
+Requirements:
+{{step_5}}
+
+Backup Schedule:
+{{step_6}}
+
+Following this, discuss the plan for verifying the backups to ensure data has been correctly copied and stored.
+
+->>>>
+
+The "Backup Procedure" includes a verification plan:
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Data Details:
+{{step_3}}
+
+Backup Procedure Steps:
+{{step_4}}
+
+Requirements:
+{{step_5}}
+
+Backup Schedule:
+{{step_6}}
+
+Verification Plan:
+{{step_7}}
+
+Next, let's incorporate a data recovery procedure explaining how to restore data from the backup in the event of a system failure.
+
+->>>>
+
+Our current Backup Procedure includes:
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Data Details:
+{{step_3}}
+
+Backup Procedure Steps:
+{{step_4}}
+
+Requirements:
+{{step_5}}
+
+Backup Schedule:
+{{step_6}}
+
+Verification Plan:
+{{step_7}}
+
+Data Recovery Procedure:
+{{step_8}}
+
+Now, conclude the procedure by providing a maintenance and review schedule, stating how often the procedure should be updated or revisited due to changes in the {{system_environment}}.
+
+->>>>
+
+We are almost done with the procedure, which now includes a maintenance and review schedule:
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Data Details:
+{{step_3}}
+
+Backup Procedure Steps:
+{{step_4}}
+
+Requirements:
+{{step_5}}
+
+Backup Schedule:
+{{step_6}}
+
+Verification Plan:
+{{step_7}}
+
+Data Recovery Procedure:
+{{step_8}}
+
+Maintenance and Review Schedule:
+{{step_9}}
+
+Now, let's create a glossary of likely error messages and their corresponding troubleshooting measures, keeping them relevant to the {{system_environment}}.
+
+->>>>
+
+The procedure has been further enhanced with a glossary of error messages:
+
+Introduction:
+{{step_1}}
+
+Background Context:
+{{step_2}}
+
+Data Details:
+{{step_3}}
+
+Backup Procedure Steps:
+{{step_4}}
+
+Requirements:
+{{step_5}}
+
+Backup Schedule:
+{{step_6}}
+
+Verification Plan:
+{{step_7}}
+
+Data Recovery Procedure:
+{{step_8}}
+
+Maintenance and Review Schedule:
+{{step_9}}
+
+Error Messages Glossary:
+{{step_10}}
+
+Let's now include contact information for technical support or any further queries related to the backup procedure.
+

@@ -1,0 +1,62 @@
+Your task is to write "Wellness Tips" for the "Holistic Nutrition" industry, specifically for a "Health Coach". Let's start by generating an engaging introduction that sets the tone for the wellness tip: "Did you know that {{engaging_fact}}?"
+
+Here's some more context about the Wellness Tips:
+Engaging Fact: {{engaging_fact}}
+Wellness Topic: {{wellness_topic}}
+Benefit Associated: {{benefit_associated}}
+Food Source: {{food_source}}
+
+->>>>
+
+We now have an engaging introduction for our wellness tip:
+
+Introduction:
+{{step_1}}
+
+The next step is to specify the topic of the wellness tip following our introduction. Use language like: "Today, let's talk about {{wellness_topic}}."
+
+->>>>
+
+The introduction and the topic for our wellness tip are as follows:
+
+Introduction:
+{{step_1}}
+
+Topic:
+{{step_2}}
+
+The next step is to provide an informative explanation about the topic, emphasizing its benefits in holistic nutrition. For instance, "By incorporating {{wellness_topic}} into our daily regimen, we can promote {{benefit_associated}}."
+
+->>>>
+
+Our wellness tip now has an introduction, topic, and explanation:
+
+Introduction:
+{{step_1}}
+
+Topic:
+{{step_2}}
+
+Explanation:
+{{step_3}}
+
+Next, suggest practical ways for the reader to incorporate the {{wellness_topic}} in their daily lifestyle. Provide examples of food sources that are easy to add to their meals.
+
+->>>>
+
+Our wellness tip now includes suggestions on how to incorporate the topic into daily life:
+
+Introduction:
+{{step_1}}
+
+Topic:
+{{step_2}}
+
+Explanation:
+{{step_3}}
+
+Suggestions:
+{{step_4}}
+
+Now, let's close each wellness tip with an encouraging call-to-action, inspiring readers to implement the tip in their routine.
+

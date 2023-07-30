@@ -1,0 +1,140 @@
+Your task is to write a "Policy Proposal" for the "Insurance Agencies" industry, specifically for an "Underwriter". 
+
+Let's start by writing an executive summary. This summary should provide an overview describing the current situation and the identified need for the proposed policy: {{current_situation}}. 
+
+Here's some more context about the Policy Proposal:
+Current Situation: {{current_situation}}
+Policy Objectives: {{policy_objectives}}
+Policy Background: {{policy_background}}
+Policy Details: {{policy_details}}
+Risk Analysis: {{risk_analysis}}
+Impact Analysis: {{impact_analysis}}
+Implementation Timeline: {{implementation_timeline}}
+Proposal Recommendations: {{proposal_recommendations}}
+
+->>>>
+
+After generating an executive summary that provides an overview of the current situation:
+
+Executive Summary:
+{{step_1}}
+
+Next, state the aims and objectives of the proposal. This should clearly state the purpose of the policy proposal and what it aims to achieve: {{policy_objectives}}.
+
+->>>>
+
+After stating the aims and objectives:
+
+Executive Summary:
+{{step_1}}
+
+Aims and Objectives:
+{{step_2}}
+
+Now, it's time to outline the background for the policy. This section should detail the underlying factors that necessitated this proposal, mentioning any important data or metrics: {{policy_background}}.
+
+->>>>
+
+For the "Policy Proposal," we currently have:
+
+Executive Summary:
+{{step_1}}
+
+Aims and Objectives:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Now, elaborate on the details of the proposed policy, citing any existing policies that influenced its formation, and how it differs from them, if applicable: {{policy_details}}.
+
+->>>>
+
+At this point, we have the following sections of the "Policy Proposal":
+
+Executive Summary:
+{{step_1}}
+
+Aims and Objectives:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Policy Details:
+{{step_4}}
+
+Next, we need to perform a risk analysis. This section should evaluate potential risks and challenges presented by this policy proposal. It should also discuss how these risks will be mitigated considering both the insured and insurer perspective: {{risk_analysis}}.
+
+->>>>
+
+So far, our "Policy Proposal" includes:
+
+Executive Summary:
+{{step_1}}
+
+Aims and Objectives:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Policy Details:
+{{step_4}}
+
+Risk Analysis:
+{{step_5}}
+
+Following the risk analysis, proceed with an impact analysis. This should outline how will this policy impact the overall operations and profitability of the agency, and the benefits to both the agency and its customers. It should provide realistic expectations and reasonings behind those expectations: {{impact_analysis}}.
+
+->>>>
+
+Our "Policy Proposal" currently includes:
+
+Executive Summary:
+{{step_1}}
+
+Aims and Objectives:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Policy Details:
+{{step_4}}
+
+Risk Analysis:
+{{step_5}}
+
+Impact Analysis:
+{{step_6}}
+
+Now, specify a proposed timeline for implementing the policy. This should include important milestones: {{implementation_timeline}}.
+
+->>>>
+
+Our "Policy Proposal" including an implementation timeline is as follows:
+
+Executive Summary:
+{{step_1}}
+
+Aims and Objectives:
+{{step_2}}
+
+Background:
+{{step_3}}
+
+Policy Details:
+{{step_4}}
+
+Risk Analysis:
+{{step_5}}
+
+Impact Analysis:
+{{step_6}}
+
+Implementation timeline:
+{{step_7}}
+
+To conclude this "Policy Proposal", reiterate its purpose, summarize the key points and express why this proposal is important for the company's future: {{proposal_recommendations}}.
+

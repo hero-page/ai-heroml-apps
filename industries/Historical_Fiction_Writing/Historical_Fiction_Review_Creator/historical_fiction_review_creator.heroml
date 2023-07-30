@@ -1,0 +1,85 @@
+Your task is to write a "Book Review" for the "Historical Fiction Writing" industry, specifically for a "Blogger". 
+
+Starting with an engaging introduction for this book: {{book_title}}, written by {{author_name}}, that includes a brief overview of the plot. 
+
+Be careful not to reveal too much to keep your audience's interest piqued.
+
+Here's some more context about the Book Review:
+Book Title: {{book_title}}
+Author Name: {{author_name}}
+Main Themes: {{main_themes}}
+
+->>>>
+
+Your review of the book "{{book_title}}" by {{author_name}} begins with an engaging introduction:
+
+Introduction:
+{{step_1}}
+
+Next, develop the body of your review, discussing the main themes of the book: {{main_themes}}. 
+
+Focus on elements that highlight the historical aspect of the book - the context, historical accuracy, and the author's portrayal of historical events.
+
+->>>>
+
+Introducing and reviewing "{{book_title}}" by {{author_name}} is done. Now, you have presented the main themes:
+
+Review Body:
+{{step_2}}
+
+Further, robustly describe {{author_name}}'s writing style. Consider how effectively their writing transports you back in time. Are the descriptions vivid enough for readers to realistically imagine the past?
+
+->>>>
+
+The body of your review of "{{book_title}}" by {{author_name}} is clear, and you've talked about author's writing style:
+
+Author's Writing Style Description:
+{{step_3}}
+
+You should now evaluate the main characters in the book. Discuss how well-developed they are and their significance in a historical context. Do the characters' behaviors and beliefs accurately reflect the historical era the book is set in?
+
+->>>>
+
+Having discussed {{author_name}}'s writing style, now you have evaluated the main characters in "{{book_title}}":
+
+Characters Evaluation:
+{{step_4}}
+
+Next, scrutinize the plot and pacing of the story in {{book_title}}. Is it captivating, maintaining your interest from start to finish? Or did it lose its charm somewhere?
+
+->>>>
+
+After evaluating the characters, you have scrutinized the plot and pacing of "{{book_title}}" by {{author_name}}:
+
+Plot and Pacing Analysis:
+{{step_5}}
+
+Incorporate your personal opinions about {{book_title}} next. Did you enjoy it? If so, why? If not, what elements of the book led to your dissatisfaction?
+
+->>>>
+
+Your review of "{{book_title}}" by {{author_name}} now includes analysis of the plot and pacing, as well as your personal opinion:
+
+Personal Opinion:
+{{step_6}}
+
+Now, discuss the historical setting. Was the author successful in depicting the time period? How well was the research incorporated? Does {{book_title}} offer insights into that particular era? Try to engage readers by relating the historical setting to current events.
+
+->>>>
+
+Your personal opinion about "{{book_title}}" is now included in the review. Further, you have discussed the historical setting of the book:
+
+Historical Setting Discussion:
+{{step_7}}
+
+Make sure to highlight any unique elements in {{book_title}} related to the historical fiction genre. Did the book offer a fresh perspective or unique take on historical events?
+
+->>>>
+
+Next in your review of "{{book_title}}" by {{author_name}}, you have highlighted unique historical elements:
+
+Unique Historical Elements:
+{{step_8}}
+
+Conclude your review by summarizing your thoughts and providing an overall rating of the book. Summarize your views on the historical accuracy and storytelling of {{book_title}}.
+

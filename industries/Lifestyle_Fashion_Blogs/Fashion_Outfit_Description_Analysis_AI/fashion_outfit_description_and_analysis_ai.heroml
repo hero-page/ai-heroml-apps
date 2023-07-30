@@ -1,0 +1,108 @@
+Your task is to write an "Outfit Description" for the "Lifestyle & Fashion Blogs" industry, specifically for a "Fashion Blogger". Let's start by introducing the overall style or theme of the outfit: {{outfit_theme}}.
+
+Here's some more context about the Outfit Description:
+Outfit Theme: {{outfit_theme}}
+Top: {{top}}
+Bottom: {{bottom}}
+Shoes: {{shoes}}
+Accessories: {{accessories}}
+Outfit Occasion: {{outfit_occasion}}
+
+->>>>
+
+We've started an outfit description with the style or theme:
+
+Outfit Style or Theme:
+{{step_1}}
+
+Now, tangibly define each key piece of the outfit, starting from top to bottom for coherence: {{top}},{{bottom}},{{shoes}},{{accessories}}.
+
+->>>>
+
+Our outfit description comprises the style/theme and key pieces as follows:
+
+Outfit Style or Theme:
+{{step_1}}
+
+Outfit Components (Top to Bottom):
+{{step_2}}
+
+Next, discuss the details of each key piece mentioned (their color, material, brand/designer, fit, and unique features) systematically.
+
+->>>>
+
+In the outfit description, we have noted the style/theme, components, and their detailed description:
+
+Outfit Style or Theme:
+{{step_1}}
+
+Outfit Components (Top to Bottom) and Details:
+{{step_3}}
+
+Moving forward, describe how the chosen pieces complement each other, focusing on the color coordination, balance between formal and casual, or balance between simple and statement pieces.
+
+->>>>
+
+In the emerging description of the outfit, we have the style/theme, components, their details, and the complementation:
+
+Outfit Style or Theme:
+{{step_1}}
+
+Components and Complementation:
+{{step_4}}
+
+Following on, let's outline the occasion or event for which this outfit is perfect: {{outfit_occasion}}. 
+Also, provide a rationale for why it works for that particular occasion.
+
+->>>>
+
+The elements we've built for our outfit description now include the style/theme, components, their interplay, and the suitable occasion:
+
+Outfit Style or Theme:
+{{step_1}}
+
+Occasion and Rationale:
+{{step_5}}
+
+A big part of staying relevant in fashion is following trends. Incorporate current fashion trends, if any, the outfit adheres to or deviates from.
+
+->>>>
+
+Our outfit description so far includes components, complementation, occasion, and its connection to fashion trends:
+
+Components and Complementation:
+{{step_4}}
+
+Fashion Trends:
+{{step_6}}
+
+Now, offer ideas on how the outfit can be personalized or styled in different ways to cater to a broader audience.
+
+->>>>
+
+Our outfit description has components, their interaction, occasion, connection to trends, and personalization tips:
+
+Personalization Tips:
+{{step_7}}
+
+Do the pieces in the outfit have a personal story? If there's a unique personal story associated with one or more pieces of this outfit that makes it more relatable and engaging, add it.
+
+->>>>
+
+So far in our outfit description, we have the components, interactions, occasion, trends, personalization tips, and personal story:
+
+Personal Story:
+{{step_8}}
+
+Next, conclude by summarizing the overall look and feel of the outfit, highlighting the key pieces: {{top}},{{bottom}},{{shoes}},{{accessories}}.
+
+->>>>
+
+Our overall outfit description now includes components, their interrelationships, occasion suitability, adherence to trends, personalization tips, personal story, and conclusion:
+
+Outfit Conclusion:
+{{step_9}}
+
+Finally, inspire your readers to share their thoughts, imaginations, or personal variations of the outfit. 
+This not only adds a call to action but also fosters community with the audience.
+

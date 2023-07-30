@@ -1,0 +1,113 @@
+Your task is to write an "Employee Survey" for the "Human Resources & Recruiting" industry, specifically for a "HR Analyst". 
+
+Let's get started by writing an introduction for the survey that summarizes its purpose: {{survey_purpose}}.
+
+Here's some more context about the Employee Survey:
+Survey Purpose: {{survey_purpose}}
+Company Values: {{company_values}}
+
+->>>>
+
+Staring our Employee Survey with:
+
+Survey Introduction:
+{{step_1}}
+
+Next, create a section in the "Employee Survey" to gather general employee information, such as their department, the nature of their employment (full-time or contractor), and tenure duration.
+
+->>>>
+
+For our Employee Survey, we have an introduction and a section on general employee information:
+
+Survey Introduction:
+{{step_1}}
+
+General Employee Information:
+{{step_2}}
+
+Continuing, let's create a section focused on "Company Culture." Include questions that gauge employees’ perceptions of {{company_values}}, company leadership, and the teamwork environment.
+
+->>>>
+
+In our Employee Survey, after gathering general employee information, we delve into company culture:
+
+General Employee Information:
+{{step_2}}
+
+Company Culture:
+{{step_3}}
+
+Now, we need another section in our survey dedicated to "Job Satisfaction." This section should focus on aspects such as job role clarity, quality of management, workload, and opportunities for growth.
+
+->>>>
+
+In our survey, comfortable with the understanding of the company culture, we lead to job satisfaction:
+
+Company Culture:
+{{step_3}}
+
+Job Satisfaction:
+{{step_4}}
+
+Next, create a section for the survey that addresses "Employee Engagement." Include questions about employees' involvement, motivation & commitment to their work and the company.
+
+->>>>
+
+In the Employee Survey, after understanding about Job Satisfaction, we explore employee engagement:
+
+Job Satisfaction:
+{{step_4}}
+
+Employee Engagement:
+{{step_5}}
+
+Conclude the survey with an open-ended "Feedback and Suggestions" section to allow respondents to express views about their workplace experience freely.
+
+->>>>
+
+Now, we cover the last section of our Employee Survey, exploring feedback and suggestions after understanding employee engagement:
+
+Employee Engagement:
+{{step_5}}
+
+Feedback and Suggestions:
+{{step_6}}
+
+For relevance to the "Human Resources & Recruiting" industry, add a distinct section addressing recruiting processes, hiring experience, and the onboarding process.
+
+->>>>
+
+Exploring aspects specific to the HR & Recruiting industry, our Employee Survey now includes a section on recruitment:
+
+Feedback and Suggestions:
+{{step_6}}
+
+Recruiting Process:
+{{step_7}}
+
+Next, include questions focusing on talent management and performance appraisal systems within the organization.
+
+->>>>
+
+From understanding the recruitment process, we proceed to acquire knowledge about talent management and performance appraisals:
+
+Recruiting Process:
+{{step_7}}
+
+Talent Management and Performance Appraisals:
+{{step_8}}
+
+Now, we need to include questions on learning and development opportunities such as training, workshops, skill development programs, etc., offered by the company.
+
+->>>>
+
+For our HR-focused Employee Survey, after understanding talent management and performance systems, we add a section on learning and development opportunities:
+
+Talent Management and Performance Appraisals:
+{{step_8}}
+
+Learning and Development Opportunities:
+{{step_9}}
+
+Finally, add an emphasis on diversity and inclusion within the teams and departments as the last essential aspect of our "Employee Survey" for the "HR Analyst" in the "Human Resources & Recruiting" industry.
+

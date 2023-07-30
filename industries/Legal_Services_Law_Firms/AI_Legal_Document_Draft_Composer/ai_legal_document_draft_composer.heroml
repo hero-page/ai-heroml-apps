@@ -1,0 +1,138 @@
+You are tasked with writing a "Legal Document Draft" for the "Legal Services & Law Firms" industry, specifically for a "Paralegal". 
+
+To begin, let's generate a concise title that clearly indicates the nature of the document or contract: {{document_title}}, along with a detailed introductory section explaining the purpose of the contract or document.
+
+Here's some more context about the Legal Document Draft:
+Document Title: {{document_title}}
+Primary Parties: {{primary_parties}}
+Definitions: {{definitions}}
+Clauses: {{clauses}}
+Remedy And Dispute Resolution: {{remedy_and_dispute_resolution}}
+Appendices Or Schedules: {{appendices_or_schedules}}
+
+->>>>
+
+For our "Legal Document Draft", we now have a working title and introduction:
+
+Title:
+{{step_1}}
+
+Next, let's draft a preamble. The Preamble should outline the primary parties involved in the legal agreement or the relevant individuals/entities for the document at hand: {{primary_parties}}.
+
+->>>>
+
+For our "Legal Document Draft", we now have a title, introduction, and a preamble:
+
+Title:
+{{step_1}}
+
+Preamble:
+{{step_2}}
+
+Now, the body of the document should be structured using numbered or lettered sections for clear organization. Each section should deal with a distinct aspect of the legal situation or agreement involving the primary parties: {{primary_parties}}.
+
+->>>>
+
+For our "Legal Document Draft", we now have a title, preamble, and an organized main body:
+
+Title:
+{{step_1}}
+
+Preamble:
+{{step_2}}
+
+Body:
+{{step_3}}
+
+Next, we need to include a section that precisely defines all significant terms, phrases, or concepts used throughout the document: {{definitions}}.
+
+->>>>
+
+With the current progress, we now have a title, preamble, body, and a definitions section:
+
+Title:
+{{step_1}}
+
+Preamble:
+{{step_2}}
+
+Body:
+{{step_3}}
+
+Definitions:
+{{step_4}}
+
+Now, let's incorporate distinct clauses that detail the terms, obligations, rights, or conditions applicable to each of the primary parties: {{clauses}}.
+
+->>>>
+
+So far, our document contains a title, preamble, body, definitions, and a clauses section:
+
+Title:
+{{step_1}}
+
+Preamble:
+{{step_2}}
+
+Body:
+{{step_3}}
+
+Definitions:
+{{step_4}}
+
+Clauses:
+{{step_5}}
+
+Next, we should construct a remedy and dispute resolution section. This includes details of the actions and repercussions if any party breaches the agreement, and how conflicts will be resolved: {{remedy_and_dispute_resolution}}.
+
+->>>>
+
+For the "Legal Document Draft", we now have a remedy and dispute resolution section along with all previous sections:
+
+Title:
+{{step_1}}
+
+Preamble:
+{{step_2}}
+
+Body:
+{{step_3}}
+
+Definitions:
+{{step_4}}
+
+Clauses:
+{{step_5}}
+
+Remedy and Dispute Resolution:
+{{step_6}}
+
+Next, add a conclusion section that reaffirms the agreements or points discussed. This is where parties involved will sign or authenticate the document, make sure to include name and date blocks for each: {{primary_parties}}.
+
+->>>>
+
+Our Legal Document now includes a conclusion along with all previous sections:
+
+Title:
+{{step_1}}
+
+Preamble:
+{{step_2}}
+
+Body:
+{{step_3}}
+
+Definitions:
+{{step_4}}
+
+Clauses:
+{{step_5}}
+
+Remedy and Dispute Resolution:
+{{step_6}}
+
+Conclusion:
+{{step_7}}
+
+If needed, add appendices or schedules that include any necessary additional documents, forms, receipts, or images relevant to the document: {{appendices_or_schedules}}.
+

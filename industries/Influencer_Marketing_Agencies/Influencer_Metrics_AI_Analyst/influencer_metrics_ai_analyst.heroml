@@ -1,0 +1,57 @@
+Your task is to write a "Performance Metrics" for the "Influencer Marketing Agencies" industry, specifically for a "Data Analyst". 
+
+We'll begin by defining the scope of our metrics document. Describe the specific influencer marketing objective (e.g. Brand Awareness, User Engagement, Sales Conversion) these metrics are designed to measure.
+
+Here's some more context about the Performance Metrics:
+Purpose Of Metrics: {{purpose_of_metrics}}
+Key Metrics: {{key_metrics}}
+Data Sources: {{data_sources}}
+Comparative Analysis: {{comparative_analysis}}
+Results: {{results}}
+Recommendations: {{recommendations}}
+
+->>>>
+
+We have defined the scope of our "Performance Metrics", specifically to the objectives that will be monitored or supported:
+
+Scope/Objectives:
+{{step_1}}
+
+Now, start explaining each metric such as CPE (Cost Per Engagement), Impressions, Unique Reach, ROI etc. Give a clear explanation and real-life implications of each metric.
+
+->>>>
+
+We have explained each metric. These are the main measures a data analyst will keep track of for "Influencer Marketing Agencies":
+
+Main Metrics:
+{{step_2}}
+
+Now, identify and provide description for the data sources. Reference the platforms or tools (e.g. Google Analytics, Social Blade, Hootsuite) derived for data to uphold reliability and transparency.
+
+->>>>
+
+We have compiled a list of data sources, where a data analyst will draw their data from for "Influencer Marketing Agencies":
+
+Data Sources:
+{{step_3}}
+
+Next, we'll work on a comparative analysis. Here, use  either historical data or competitive market data to bring out the trend analysis or a comparative study of the metrics.
+
+->>>>
+
+Our comparative analysis is ready for the performance metrics in the "Influencer Marketing Agencies" sector:
+
+Comparative Analysis:
+{{step_4}}
+
+Next, interpret and explain what the metrics convey about the Influencer's performance.
+
+->>>>
+
+Here's our interpretation of what the metrics are conveying about the influencer's performance:
+
+Metrics Interpretation/Results:
+{{step_5}}
+
+Lastly, provide insights on how performance can be improved upon using the metrics information.
+

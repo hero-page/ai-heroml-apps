@@ -1,0 +1,99 @@
+Write a "Game Guide" for the "Indie Game Development" industry, specifically for a "Indie Game Developer".
+Let's start with an introduction to the indie game: {{indie_game}}. This introduction should provide a brief background, a synopsis of the game, and its unique selling points.
+
+Here's some more context about the Game Guide:
+Indie Game: {{indie_game}}
+
+->>>>
+
+We have a suitable introduction for our game guide:
+
+Game Introduction:
+{{step_1}}
+
+Next, write a 'Getting Started' section that describes the controls of {{indie_game}}. This section should teach players how to navigate the game world, interact with objects and NPCs, combat systems (if applicable), and other key mechanics of the game.
+
+->>>>
+
+The initial sections of our game guide now look as follows:
+
+Game Introduction:
+{{step_1}}
+
+Getting Started:
+{{step_2}}
+
+Moving forward, discuss the 'Gameplay' aspect of {{indie_game}}. Detail different game modes, strategies to win, and techniques to approach various situations or puzzles in the game.
+
+->>>>
+
+The beginning sections of our guide, with the added 'Gameplay' section, look as follows:
+
+Getting Started:
+{{step_2}}
+
+Gameplay:
+{{step_3}}
+
+We should now delve into the 'Characters' section for {{indie_game}}. Write brief biographies, describe their abilities, explain how to unlock or interact with them, and the dynamics between different characters that may affect gameplay.
+
+->>>>
+
+So far, in our guide, we have our 'Gameplay' section, and 'Characters' section:
+
+Gameplay:
+{{step_3}}
+
+Characters:
+{{step_4}}
+
+Let's add a 'Level and Mission Guides' section next. This section should explain the objectives of each level or mission, strategies to pass them, and enumerate the rewards that players can earn in {{indie_game}}.
+
+->>>>
+
+For our guide, we now have the 'Characters' section and 'Level and Mission Guides' section:
+
+Characters:
+{{step_4}}
+
+Level and Mission Guides:
+{{step_5}}
+
+Next, compose the 'Tips and Strategies' section for {{indie_game}}. Suggest various in-game tips, tricks, and strategies to enhance gameplay, suggest optimal character builds, efficient pathways through levels, or notify about secret features and Easter eggs in the game.
+
+->>>>
+
+We now have the 'Level and Mission Guides' and 'Tips and Strategies' sections for our guide:
+
+Level and Mission Guides:
+{{step_5}}
+
+Tips and Strategies:
+{{step_6}}
+
+Now, write the 'Troubleshooting' section concerning {{indie_game}}. This part should discuss common difficulties or bugs players may encounter in the game and suggest potential solutions or workarounds.
+
+->>>>
+
+For the guide, we now have 'Tips and Strategies' and a 'Troubleshooting' section:
+
+Tips and Strategies:
+{{step_6}}
+
+Troubleshooting:
+{{step_7}}
+
+Near the end, provide information on where players may find additional help or connect with the wider gaming community around the indie game: {{indie_game}}.
+
+->>>>
+
+Our guide now includes a 'Troubleshooting' section and details on connecting with the wider gaming community:
+
+Troubleshooting:
+{{step_7}}
+
+Community Help Section:
+{{step_8}}
+
+And finally, revisit and revise the guide ensuring all presented information is accurate and up-to-date for the current version of {{indie_game}}. Update the guide as per game updates or new content additions, keeping it reliable and useful.
+

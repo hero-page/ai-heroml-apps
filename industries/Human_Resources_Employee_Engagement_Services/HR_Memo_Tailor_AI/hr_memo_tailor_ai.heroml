@@ -1,0 +1,64 @@
+Your task is to write an "Internal Memo" for the "Human Resources & Employee Engagement Services" industry, specifically for a "HR Manager". Let's start with constructing a compelling introduction that captures the main purpose of the memo: {{memo_purpose}}.
+
+Here's some more context about the Internal Memo:
+Memo Purpose: {{memo_purpose}}
+Initiating Event: {{initiating_event}}
+Main Points: {{main_points}}
+Actionable Steps: {{actionable_steps}}
+Important Dates: {{important_dates}}
+Memo Importance: {{memo_importance}}
+
+->>>>
+
+Now, we have a compelling introduction for our memo:
+
+Introduction:
+{{step_1}}
+
+Next, we need to give a brief overview detailing the context or event that has initiated the need for this memo: {{initiating_event}}.
+
+->>>>
+
+We have an engaging introduction and a clear context for the memo:
+
+Introduction:
+{{step_1}}
+
+Context:
+{{step_2}}
+
+Now, let's present the main points the memo intends to address that pertain to the HR Manager's tasks. Each point should be brief, concise, and direct. Make sure these points relate to relevant policy changes, upcoming HR plans, or urgent employee issues that might require their attention: {{main_points}}.
+
+->>>>
+
+Our memo now has a compelling introduction, context, and main points that need to be addressed. They are as follows:
+
+Introduction:
+{{step_1}}
+
+Context:
+{{step_2}}
+
+Main Points:
+{{step_3}}
+
+The next step is to write specific instructions or actionable steps that the HR Manager is expected to undertake due to this memo. Ensure these actions align with their job responsibilities and are practical: {{actionable_steps}}.
+
+->>>>
+
+Our memo has now developed an introduction, context, main points, and actionable steps:
+
+Introduction:
+{{step_1}}
+
+Context:
+{{step_2}}
+
+Main Points:
+{{step_3}}
+
+Actionable Steps:
+{{step_4}}
+
+The next step in writing our memo is to mention crucial dates or deadlines related to the issues or tasks raised in the memo. This could the deadline to implement a new policy, or dates for upcoming employee engagement activities: {{important_dates}}.
+

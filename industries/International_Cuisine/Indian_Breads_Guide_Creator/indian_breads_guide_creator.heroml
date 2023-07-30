@@ -1,0 +1,68 @@
+Your task is to write a "Guide to Indian Breads" for the "International Cuisine" industry, specifically for a "Indian Cuisine Specialist". 
+To begin with, let's provide an introduction explaining the significance and diversity of Indian breads in the vast landscape of Indian cuisine: {{significance_of_Indian_breads}}.
+
+Here's some more context about the Guide to Indian Breads:
+Significance Of Indian Breads: {{significance_of_Indian_breads}}
+Bread Classification Criteria: {{bread_classification_criteria}}
+Bread Details: {{bread_details}}
+Industry Specific Elements: {{industry_specific_elements}}
+Culinary Terminology: {{culinary_terminology}}
+Health And Nutrition Details: {{health_and_nutrition_details}}
+
+->>>>
+
+For our "Guide to Indian Breads", we have an introduction:
+
+Introduction:
+{{step_1}}
+
+Next, let's create an outline classifying Indian breads based on different criteria like ingredients used, cooking methods, regional variations, etc. We need to organize this list in a logical order: {{bread_classification_criteria}}.
+
+->>>>
+
+For our guide, we have an introduction and an outline classifying various types of Indian breads:
+
+Introduction:
+{{step_1}}
+
+Bread Classification:
+{{step_2}}
+
+Now, provide a detailed explanation for each bread type included in the outline. This may include information about its origin, ingredients, cooking technique, traditional serving methods, and special tips: {{bread_details}}.
+
+->>>>
+
+In our Guide to Indian Breads, we have classified types of breads, and detailed explanations for each:
+
+Bread Classification:
+{{step_2}}
+
+Detailed Explanation for Each Bread:
+{{step_3}}
+
+The next step involves incorporating industry-specific elements like preparation and cooking techniques, pairing of breads with specific curries or dishes, and potential innovations in traditional recipes. This will give the guide more practical value: {{industry_specific_elements}}.
+
+->>>>
+
+In our guide, we have a variety of Indian breads, their detailed explanations, and industry-specific elements:
+
+Detailed Explanation for Each Bread:
+{{step_3}}
+
+Industry-Specific Elements:
+{{step_4}}
+
+To increase the authenticity and precision of the guide, we need to employ relevant culinary terminology: {{culinary_terminology}}.
+
+->>>>
+
+In our guide, we have included industry-specific elements and culinary terms:
+
+Industry-Specific Elements:
+{{step_4}}
+
+Culinary Terminology:
+{{step_5}}
+
+The following step requires detailing the health and nutritional aspects of the breads, which caters to the increasing trend toward healthy eating: {{health_and_nutrition_details}}.
+

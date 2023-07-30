@@ -1,0 +1,101 @@
+Your task is to write "Claim Processing Notes" for the "Insurance Agencies" industry, specifically for an "Insurance Agent". 
+
+Let's start by providing a brief introduction summarizing the claim. 
+- Describe the main issue that led to the claim: {{claim_issue}}. 
+- Provide information about the policyholder involved in the claim: {{policyholder_info}}.
+
+Here's some more context about the Claim Processing Notes:
+Claim Issue: {{claim_issue}}
+Policyholder Info: {{policyholder_info}}
+Claim Factors: {{claim_factors}}
+Policy Coverage: {{policy_coverage}}
+Investigation Steps Evidence: {{investigation_steps_evidence}}
+Claim Assessment: {{claim_assessment}}
+Claim Decision: {{claim_decision}}
+Next Steps: {{next_steps}}
+
+->>>>
+
+"Claim Processing Notes" initiation for the "Insurance Agencies" industry:
+
+Introduction:
+{{step_1}}
+
+Next, detail out the specific factors of the claim: 
+- Discuss the issue that led to the claim's creation: {{claim_factors}}. 
+- Explain what the policy covers in regard to the incident: {{policy_coverage}}.
+
+->>>>
+
+"Claim Processing Notes" for the "Insurance Agencies" industry have:
+
+Introduction:
+{{step_1}}
+
+Claim Details:
+{{step_2}}
+
+Next, describe the investigation process: 
+- Explain the steps taken in the investigation and any evidence that was presented: {{investigation_steps_evidence}}. 
+- Present the findings and outcomes of the investigation.
+
+->>>>
+
+"Claim Processing Notes" progression for the "Insurance Agencies" industry:
+
+Introduction:
+{{step_1}}
+
+Claim Details:
+{{step_2}}
+
+Investigation Process:
+{{step_3}}
+
+Continuing, carry out the assessment of the claim: 
+- Evaluate whether the claim falls under the policy coverage and provide reasons for the evaluation: {{claim_assessment}}. 
+- Include an assessment of any potential fraud or inconsistencies in relation to the claim.
+
+->>>>
+
+Our "Claim Processing Notes" for the "Insurance Agents" now have:
+
+Introduction:
+{{step_1}}
+
+Claim Details:
+{{step_2}}
+
+Investigation Process:
+{{step_3}}
+
+Claim Assessment:
+{{step_4}}
+
+Proceed to develop the claim decision and resolution stage: 
+- Discuss the final decision made on the claim: {{claim_decision}}. 
+- If the claim is approved, outline what benefits the policyholder will receive. If denied, provide the reasons.
+
+->>>>
+
+"Claim Processing Notes" for the "Insurance Agencies" industry now include:
+
+Introduction:
+{{step_1}}
+
+Claim Details:
+{{step_2}}
+
+Investigation Process:
+{{step_3}}
+
+Claim Assessment:
+{{step_4}}
+
+Claim Decision and Resolution:
+{{step_5}}
+
+Lastly, conclude with next steps and follow-ups: 
+- Outline any further actions to be taken by the insurer or policyholder: {{next_steps}}. 
+- If applicable, provide context for any potential appeals process.
+

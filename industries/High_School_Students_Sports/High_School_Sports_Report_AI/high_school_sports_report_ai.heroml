@@ -1,0 +1,97 @@
+Your task is to write a "Match Report" for the "High School Students - Sports" industry as a "Sports Journalism Club Member". To do this, let's start with crafting an engaging headline that gives a brief overview of the match results: {{match_outcome_headline}}.
+
+Here's some more context about the Match Report:
+Match Outcome Headline: {{match_outcome_headline}}
+Match Overview: {{match_overview}}
+First Half Detail: {{first_half_detail}}
+Second Half Detail: {{second_half_detail}}
+Individual Performances: {{individual_performances}}
+Match Conclusion: {{match_conclusion}}
+
+->>>>
+
+Your match report now has a headline:
+
+Match Report Headline:
+{{step_1}}
+
+Now, let's write an introductory paragraph that provides a brief overview of the match. Include the who, what, where, when, and why: {{match_overview}}.
+
+->>>>
+
+Now, you have an engaging headline and an overview of the match:
+
+Match Report Headline:
+{{step_1}}
+
+Match Overview:
+{{step_2}}
+
+Next, create a detailed report of the first-half of the match. This should include major events, such as goals, penalties, substitutions, and noticeable strategies or patterns of play: {{first_half_detail}}.
+
+->>>>
+
+The match report currently includes a headline, an overview, and a detailed account of the first half:
+
+Match Report Headline:
+{{step_1}}
+
+Match Overview:
+{{step_2}}
+
+First Half Details:
+{{step_3}}
+
+Now, provide a comprehensive summary of the second-half, again noting major events, notable players and any changes in the game flow: {{second_half_detail}}.
+
+->>>>
+
+So far, the match report details are as follows:
+
+Match Report Headline:
+{{step_1}}
+
+First Half Details:
+{{step_3}}
+
+Second Half Details:
+{{step_4}}
+
+Next, create a section dedicated to individual performances. Highlight key contributions from players on both teams and special techniques, standout performances, and notable tactical decisions: {{individual_performances}}.
+
+->>>>
+
+The match report now contains individual performance details:
+
+Second Half Details:
+{{step_4}}
+
+Individual Performance Details:
+{{step_5}}
+
+Now, create a conclusion for the match report. Discuss the final outcome of the match, and comment on implications for future games or the overall season for both teams: {{match_conclusion}}.
+
+->>>>
+
+The report includes individual performance details and a conclusion:
+
+Individual Performance Details:
+{{step_5}}
+
+Match Conclusion:
+{{step_6}}
+
+Next, include player and coach interviews, quoting these key people to boost the report's authenticity and provide valuable insights into the match's tactics, performance, and associated emotions.
+
+->>>>
+
+The report now also includes player and coach interviews:
+
+Match Conclusion:
+{{step_6}}
+
+Player and Coach Interviews:
+{{step_7}}
+
+The final step is to incorporate relevant statistics such as possession percentage, number of shots, fouls, and corner kicks. This provides objective evidence to support the report's narrative and creates a compelling case for your conclusions.
+

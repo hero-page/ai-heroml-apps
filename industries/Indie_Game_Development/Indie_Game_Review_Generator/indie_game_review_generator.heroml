@@ -1,0 +1,125 @@
+Your task is to write a "Game Review" for the "Indie Game Development" industry, specifically for a "Gaming Blogger". Let's start with an engaging introduction section where you hook the reader and introduce the game being examined: {{game_title}}.
+
+Here's some more context about the Game Review:
+Game Title: {{game_title}}
+
+->>>>
+
+Now, we have an engaging introduction for our game review:
+
+Introduction:
+{{step_1}}
+
+Next, let's generate an informative background about the game, including the name of the developer(s), release date, and the platforms on which the game is available. Be sure to highlight its status as an indie game.
+
+->>>>
+
+We have started the game review for {{game_title}} with:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Moving on, generate a general overview of the game, touching on its genre, main story, graphics style, and unique selling points that separate {{game_title}} from other games in the same genre.
+
+->>>>
+
+We have an introduction, background and an overview of the game:
+
+Introduction:
+{{step_1}}
+
+Background:
+{{step_2}}
+
+Overview:
+{{step_3}}
+
+Now, delve into the main body of the review. Start by examining the Gameplay of {{game_title}}, discussing the core mechanics, the learning curve, game's responsiveness, and difficulty level.
+
+->>>>
+
+We have an overview and a gameplay discussion for our game review:
+
+Overview:
+{{step_3}}
+
+Gameplay:
+{{step_4}}
+
+Now, present an analysis of the Graphics and Design of {{game_title}}, evaluating its visual style, color schemes, character design, and world-building aspects.
+
+->>>>
+
+In our game review, we have discussed the gameplay and now, the Graphics and Design:
+
+Gameplay:
+{{step_4}}
+
+Graphics and Design:
+{{step_5}}
+
+Let's move on to discussing the Sound and Music of {{game_title}}. Talk about the game's sound design, its soundtrack, and how they contribute to the game's atmosphere, setting, and storytelling.
+
+->>>>
+
+Our review now includes a critique of the graphics and design, and sound and music:
+
+Graphics and Design:
+{{step_5}}
+
+Sound and Music:
+{{step_6}}
+
+Next, evaluate the Performance and Bugs in {{game_title}}, addressing any noticeable bugs, glitches, or performance issues.
+
+->>>>
+
+Our review now analyzes the sound and music, and performance and bugs sections of {{game_title}}:
+
+Sound and Music:
+{{step_6}}
+
+Performance and Bugs:
+{{step_7}}
+
+Highlight the standout elements that underscore the indie nature of {{game_title}}, like innovative gameplay mechanics, unconventional art style, or emotionally charged storylines.
+
+->>>>
+
+So far, we have critiqued the performance aspects and drawn out standout indie elements:
+
+Performance and Bugs:
+{{step_7}}
+
+Standout Indie Elements:
+{{step_8}}
+
+Now let's review the reception of {{game_title}} among the wider gaming community, touching on the common praises or criticisms raised by other gamers and critics.
+
+->>>>
+
+Our review has detailed game's standout indie elements and community reception:
+
+Standout Indie Elements:
+{{step_8}}
+
+Community Reception:
+{{step_9}}
+
+Now, conclude the review with your overall assessment of {{game_title}}. Mention whether it offers good value for money, and how it compares to other games in the same genre. Make a recommendation on whether or not to purchase the game.
+
+->>>>
+
+Now we have a comprehensive review, including a final assessment:
+
+Community Reception:
+{{step_9}}
+
+Final Assessment:
+{{step_10}}
+
+To help guide readers, provide a summary list or rating, breaking down key elements like Gameplay, Graphics, Sound, and Value for Money, giving each a score out of ten. Justify your scores in the review body.
+

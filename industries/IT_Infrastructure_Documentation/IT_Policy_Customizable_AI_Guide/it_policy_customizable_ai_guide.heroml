@@ -1,0 +1,82 @@
+Your task is to write a "IT Policies and Procedures" for the "IT Infrastructure Documentation" industry, specifically for a "IT Manager". Let's begin by generating an introduction that outlines the purpose of the "IT Policies and Procedures": {{IT_policy_purpose}}. This section should explain what the document is, why it is necessary, and what it aims to achieve.
+
+Here's some more context about the IT Policies and Procedures:
+IT Policy Purpose: {{IT_policy_purpose}}
+IT Scope: {{IT_scope}}
+IT Policies: {{IT_policies}}
+IT Procedures: {{IT_procedures}}
+Incident Handling: {{incident_handling}}
+Compliance Requirements: {{compliance_requirements}}
+
+->>>>
+
+Now, we have an introduction for our IT Policies and Procedures:
+
+Introduction:
+{{step_1}}
+
+Next, create a section detailing the scope of the IT policies and procedures: {{IT_scope}}. Define the users these policies and procedures apply to, the kinds of IT resources covered, and in which situations they should be applied.
+
+->>>>
+
+Following the introduction, we have also defined the scope of our IT Policies and Procedures:
+
+Introduction:
+{{step_1}}
+
+Scope of the IT Policies and Procedures:
+{{step_2}}
+
+Now, present a section detailing the IT policies: {{IT_policies}}, aimed to guide the behaviour of users regarding IT resource usage. Each policy must state the policy's purpose, to whom it applies, and its core rules or principles.
+
+->>>>
+
+We have the introduction, scope, and now the IT Policies for our guide:
+
+Introduction:
+{{step_1}}
+
+Scope of the IT Policies and Procedures:
+{{step_2}}
+
+IT Policies:
+{{step_3}}
+
+Next, design a section to detail the IT procedures: {{IT_procedures}}. These are the step-by-step operational processes that your organization requires for the management and consistency of IT resources.
+
+->>>>
+
+We have the IT Policies and now gained the IT Procedures for our guide:
+
+IT Policies:
+{{step_3}}
+
+IT Procedures:
+{{step_4}}
+
+Subsequently, create a section dedicated to incident handling and reporting: {{incident_handling}}. Provide guidelines for identifying, reporting, tracking, and resolving IT incidents.
+
+->>>>
+
+We have the IT Procedures and a section for Incident Handling and Reporting:
+
+IT Procedures:
+{{step_4}}
+
+Incident Handling and Reporting:
+{{step_5}}
+
+Now, let's formulate a section for IT compliance requirements: {{compliance_requirements}}. Discuss laws, regulations, and standards your policies and procedures align with.
+
+->>>>
+
+For the IT Policies and Procedures, we have an Incident Handling and Reporting section, as well as a Compliance Requirements section:
+
+Incident Handling and Reporting:
+{{step_5}}
+
+Compliance Requirements:
+{{step_6}}
+
+To conclude, create a section explaining how and when the "IT Policies and Procedures" should be reviewed, who is responsible for the task, and how changes are communicated to relevant parties.
+

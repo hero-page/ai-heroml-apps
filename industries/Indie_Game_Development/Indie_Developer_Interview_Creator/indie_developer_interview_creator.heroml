@@ -1,0 +1,67 @@
+Your task is to write an "Interview with Indie Developer" for the "Indie Game Development" industry, specifically for a "Gaming Blogger". 
+
+Let's begin with an introduction where the interviewer introduces themselves, the blog, and the {{Indie_Developer}} they are interviewing. Also, share a brief background of the developer's experience in the indie game development industry.
+
+Here's some more context about the Interview with Indie Developer:
+Indie Developer: {{Indie_Developer}}
+Current Project: {{Current_Project}}
+Industry Trends: {{Industry_Trends}}
+Platform Influence: {{Platform_Influence}}
+
+->>>>
+
+So far, we have a concise introduction for our "Interview with Indie Developer":
+
+Introduction:
+{{step_1}}
+
+Now, let's proceed to the first section where we focus on the developer's inspiration. Please ask about why the {{Indie_Developer}} chose indie game development, and what games inspired them. Remember to discuss concepts such as the uniqueness of the indie scene, creative freedom, and standout titles that may have influenced their path.
+
+->>>>
+
+At this stage, we have the introduction and the first section about the developer's inspiration:
+
+Introduction:
+{{step_1}}
+
+Developer's Inspiration:
+{{step_2}}
+
+Now, let's create the second section, discussing the {{Current_Project}} the developer is working on. This should include questions about the game's creation process - starting from brainstorming ideas, gameplay mechanics, storyline development, up to the art and design process. Ensure you cover unique features, challenges faced during development, and any overcoming strategies applied.
+
+->>>>
+
+So far, we've covered the developer's inspirations and their current project:
+
+Developer's Inspiration:
+{{step_2}}
+
+Current Project:
+{{step_3}}
+
+Next, focus on the third section where the {{Indie_Developer}} discusses the indie game industry at large. Please ask for their perspectives on trends, the influence of major gaming platforms, and opportunities and challenges for indie developers in the current market. Don't forget to explore {{Industry_Trends}} and {{Platform_Influence}}.
+
+->>>>
+
+To this point, we have discussed industry perspectives and focused on the developer's current project:
+
+Current Project:
+{{step_3}}
+
+Industry Perspectives:
+{{step_4}}
+
+For the fourth section, we need to talk about the feedback and response the {{Indie_Developer}} has received for their work. Please ask about the key points of praise, criticism, or suggestions they received from players, testers, or fellow developers.
+
+->>>>
+
+We have examined the developer's current project, their perspectives on the industry, and now their response to feedback:
+
+Industry Perspectives:
+{{step_4}}
+
+Feedback and Response:
+{{step_5}}
+
+To close the interview, ask the {{Indie_Developer}} about their future plans. This could involve potential updates for the {{Current_Project}}, new projects they might take on and any advice they might have for aspiring indie game developers. Make sure to thank the {{Indie_Developer}} for their time and input, and conclude with a brief remark on your anticipation for their current and future work in the industry. 
+

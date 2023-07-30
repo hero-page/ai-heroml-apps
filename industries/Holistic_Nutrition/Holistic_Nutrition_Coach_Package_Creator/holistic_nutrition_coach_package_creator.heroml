@@ -1,0 +1,72 @@
+Your task is to write a "Coaching Package Description" for the "Holistic Nutrition" industry, specifically for a "Health Coach". 
+
+Let's begin by crafting an introduction that outlines the overarching aim of the coaching package: {{coaching_goal}}.
+
+Here's some more context about the Coaching Package Description:
+Coaching Goal: {{coaching_goal}}
+Coaching Approach: {{coaching_approach}}
+Coaching Components: {{coaching_components}}
+Client Customization: {{client_customization}}
+Unique Features: {{unique_features}}
+Expected Outcomes: {{expected_outcomes}}
+
+->>>>
+
+Now we have an introduction for our coaching package that highlights the primary goal:
+
+Introduction:
+{{step_1}}
+
+Next, briefly explain your holistic nutrition-based coaching approach: {{coaching_approach}}.
+
+->>>>
+
+So far we have an introduction and coaching approach for our Health Coach Program:
+
+Introduction:
+{{step_1}}
+
+Coaching Approach:
+{{step_2}}
+
+Now, let us define the key components of the coaching package: {{coaching_components}}.
+
+->>>>
+
+We have expanded our health coaching program details to include the strategy and key offerings:
+
+Coaching Approach:
+{{step_2}}
+
+Key components:
+{{step_3}}
+
+Next is to explain how this coaching program tailors to meet each client's individual needs: {{client_customization}}.
+
+->>>>
+
+For the health coaching program, we have the approach, main features and details on its customization:
+
+Coaching Approach:
+{{step_2}}
+
+Key Components:
+{{step_3}}
+
+Customization:
+{{step_4}}
+
+Now, we will impress the clients by elaborating on unique features of this program: {{unique_features}}.
+
+->>>>
+
+Until now, we have a coaching approach, its key components, customization and unique attributes:
+
+Coaching Approach:
+{{step_2}}
+
+Unique Features:
+{{step_5}}
+
+Following this, let's write about the expected outcomes the clients could achieve from this program: {{expected_outcomes}}.
+

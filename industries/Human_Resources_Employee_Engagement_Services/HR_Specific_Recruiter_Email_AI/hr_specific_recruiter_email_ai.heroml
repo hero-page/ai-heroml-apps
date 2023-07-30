@@ -1,0 +1,115 @@
+Your task is to write a "Candidate Email" for the "Human Resources & Employee Engagement Services" industry, specifically for a "Recruiter".
+
+Let's start with an engaging personalized greeting to the candidate.
+
+Here's some more context about the Candidate Email:
+Candidate Name: {{Candidate_name}}
+Your Name: {{Your_name}}
+Company Name: {{Company_name}}
+Job Position: {{Job_Position}}
+Job Responsibilities: {{Job_Responsibilities}}
+Impact On Company: {{Impact_on_Company}}
+Your Contact Info: {{Your_Contact_Info}}
+Your Name: {{Your_Name}}
+
+->>>>
+
+We have a professional greeting for our candidate email:
+
+Dear {{Candidate_name}},
+
+Greeting:
+{{step_1}}
+
+Moving on, let's introduce ourselves and the company.
+
+->>>>
+
+In our candidate email, we have a professional greeting and an introduction:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, we should mention the job position the candidate is being considered for.
+
+->>>>
+
+In the email we've composed so far, we have a greeting, an introduction, and a mention of the identified position:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Identified Position:
+{{step_3}}
+
+After that, let's detail the role and its importance.
+
+->>>>
+
+In our composed email, we have a greeting, an introduction, details about the position, and its importance to the company:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Identified Position:
+{{step_3}}
+
+Role Details and Importance:
+{{step_4}}
+
+Next, let's request the next step, whether it is for an updated resume or for a call.
+
+->>>>
+
+In our candidate email, we have a greeting, an introduction, details about the position, and a request for the next step:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Identified Position:
+{{step_3}}
+
+Role Details and Importance:
+{{step_4}}
+
+Next Step Request:
+{{step_5}}
+
+Now, express gratitude and provide the candidate with our contact information.
+
+->>>>
+
+For our candidate email so far, we have our greeting, introduction, identified position, role details and importance, next-step request, and ending with gratitude and contact information:
+
+Greeting:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Identified Position:
+{{step_3}}
+
+Role Details and Importance:
+{{step_4}}
+
+Next Step Request:
+{{step_5}}
+
+Gratitude and Contact:
+{{step_6}}
+
+Lastly, we should sign off the email with a professional closing.
+

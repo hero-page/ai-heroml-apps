@@ -1,0 +1,84 @@
+To start with, write a compelling job title for the position of a Recruiter in the "Human Resources & Recruiting" industry. This title will be the first information that potential applicants see about your job posting, so ensure it is clear and engaging. 
+
+Here's some more context about the Job Posting:
+Job Title: {{job_title}}
+Company Overview: {{company_overview}}
+Job Responsibilities: {{job_responsibilities}}
+Key Qualifications: {{key_qualifications}}
+Compensation And Benefits: {{compensation_and_benefits}}
+
+->>>>
+
+Now, we have a compelling job title for our Recruiter's position:
+
+Job Title:
+{{step_1}}
+
+Next, write an overview of the company or organization. This section should introduce your company, including its culture, values, size, and what it offers to new hires.
+
+->>>>
+
+For the recruiter's position, we have a job title and a company overview:
+
+Job Title:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+Next, specify the job responsibilities for the Recruiter position. Be clear and detailed when defining these responsibilities as it will help applicants understand what is expected of them in the role.
+
+->>>>
+
+Our job posting now includes a job title, a company overview, and specified job responsibilities:
+
+Job Title:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+Job Responsibilities:
+{{step_3}}
+
+Now, outline the key qualifications that are required for this Recruiter position. This section should mention the necessary education, skills, and experience applicants should possess to be considered for this role.
+
+->>>>
+
+So far, we have a job title, a company overview, specified job responsibilities, and defined key qualifications:
+
+Job Title:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+Job Responsibilities:
+{{step_3}}
+
+Key Qualifications:
+{{step_4}}
+
+Next, inform potential candidates about the compensation and benefits that come with this position. This section should include information about the salary range, bonus structure, and benefits.
+
+->>>>
+
+Our job posting now has a job title, a company overview, job responsibilities, key qualifications, and information on compensation and benefits:
+
+Job Title:
+{{step_1}}
+
+Company Overview:
+{{step_2}}
+
+Job Responsibilities:
+{{step_3}}
+
+Key Qualifications:
+{{step_4}}
+
+Compensation and Benefits:
+{{step_5}}
+
+Finally, describe the application process for this position. Provide instructions on where and how applicants should submit their application or resume.
+

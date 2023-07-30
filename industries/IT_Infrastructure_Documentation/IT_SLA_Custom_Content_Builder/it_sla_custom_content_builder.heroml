@@ -1,0 +1,93 @@
+Here is your task to write a "Service Level Agreement" for the "IT Infrastructure Documentation" industry, specifically for an "IT Manager". 
+Let's start by crafting an introduction that briefly discusses the purpose and objectives of the Service Level Agreement, specifically indicating the services offered by the IT team: {{IT_services}}.
+
+Here's some more context about the Service Level Agreement:
+IT Services: {{IT_services}}
+IT Services Scope: {{IT_services_scope}}
+Performance Metrics: {{performance_metrics}}
+Roles And Responsibilities: {{roles_and_responsibilities}}
+Expected Outcomes: {{expected_outcomes}}
+Industry Standards: {{industry_standards}}
+Penalties: {{penalties}}
+
+->>>>
+
+For our Service Level Agreement, we have an introduction:
+
+Introduction:
+{{step_1}}
+
+Next task is to define the scope of IT services, specifying the nature and extent of these services: {{IT_services_scope}}.
+
+->>>>
+
+Along with the introduction, we have now established the scope of IT services:
+
+Scope of Services:
+{{step_2}}
+
+Our next step is to elaborate the service level objectives. Let's define specific metrics for gauging the performance of the IT services: {{performance_metrics}}. Include priority levels for every service in case of incidents and their respective response and resolution times.
+
+->>>>
+
+We have an introduction, a scope of services, and now, service level objectives for our Service Level Agreement:
+
+Service Level Objectives:
+{{step_3}}
+
+Following this, incorporate a section outlining roles and responsibilities. Here, define each party's (the IT Department and the end-users) specific duties and tasks that ensure the effectiveness of the IT services: {{roles_and_responsibilities}}.
+
+->>>>
+
+Our Service Level Agreement now consists of an introduction, a scope of services, service level objectives, and definition of roles and responsibilities:
+
+Roles and Responsibilities:
+{{step_4}}
+
+The following task concerns service management. Detail how the IT services will be managed, supervised, and reviewed. Explain how service requests, incidents, changes and service continuity will be handled.
+
+->>>>
+
+We have service management details along with the introduction, scope of services, service level objectives, and roles and responsibilities in our Service Level Agreement:
+
+Service Management:
+{{step_5}}
+
+Subsequently, state the expected outcomes, benefits or results that will be accomplished by the delivery of the IT services: {{expected_outcomes}}.
+
+->>>>
+
+For our Service Level Agreement, we have expected outcomes added to the previously mentioned sections:
+
+Expected Outcomes:
+{{step_6}}
+
+The penultimate step is to talk about related industry standards, regulations or compliances that the IT services are required to follow: {{industry_standards}}.
+
+->>>>
+
+We've added industry standards to our Service Level Agreement:
+
+Industry Standards:
+{{step_7}}
+
+Now, draft a section on penalties, indicating any associated fines or warnings that will be imposed if the IT services fail to meet the specified service levels: {{penalties}}.
+
+->>>>
+
+With the section on penalties, our Service Level Agreement looks like this:
+
+Penalties:
+{{step_8}}
+
+To conclude, let's formulate a summary that revisits the objectives of the Service Level Agreement, emphasizing the cooperative efforts between the IT services provider and end-users to ensure service efficiency.
+
+->>>>
+
+We are near the end, having the conclusion added to our Service Level Agreement:
+
+Conclusion:
+{{step_9}}
+
+Finally, consider appending an 'Appendices' section. This should contain any additional information, definitions, protocols, or guidelines that will support the administration of the IT services.
+

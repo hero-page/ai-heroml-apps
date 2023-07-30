@@ -1,0 +1,93 @@
+Your task is to write a "Humor Book Review" for the "Humor Writing" industry, specifically for a "Blogger".
+
+Begin by drafting a catchy introduction that grabs attention while introducing the book: {{book_title}}. It should include humorous, light-hearted remarks to set the tone for the review.
+
+Here's some more context about the Humor Book Review:
+Book Title: {{book_title}}
+Book Author: {{book_author}}
+Target Audience: {{target_audience}}
+
+->>>>
+
+Our humor book review begins with a catchy and humorous introduction:
+
+Introduction:
+{{step_1}}
+
+Next, compose a paragraph giving an overview of the book's context. It should specify the book's author, {{book_author}}, and lightly touch on their background or other works in the humor genre.
+
+->>>>
+
+For our humor book review, we have a humorous introduction and the book's context:
+
+Introduction:
+{{step_1}}
+Book Context:
+{{step_2}}
+
+Now, write a brief, non-spoiler summary of the book. Incorporate elements of humor and wit in your overview of the plot and the characters in {{book_title}}.
+
+->>>>
+
+For the humor book review, the introduction, context, and humorous, non-spoiler summary are as follows:
+
+Introduction:
+{{step_1}}
+Book Context:
+{{step_2}}
+Non-Spoiler Summary:
+{{step_3}}
+
+Next, analyze and review the humor style of the book. If there are particularly funny quotations or passages, mention a few without giving too much away. Discuss whether the humor is consistent and describe its type. Avoid revealing spoilers or the punchlines to jokes.
+
+->>>>
+
+For our Humor Book Review, we now have an introduction, context, non-spoiler summary, and analysis of the book's humor style:
+
+Introduction:
+{{step_1}}
+Context:
+{{step_2}}
+Non-Spoiler Summary:
+{{step_3}}
+Humor Style Analysis:
+{{step_4}}
+
+Now, provide a detailed opinion on {{book_title}}. Discuss the writing style, characterization, plot development, and pacing. Highlight the comedic aspects that worked well and those that didn't, using specific examples from the book.
+
+->>>>
+
+In our Humor Book Review, we have an introduction, context, non-spoiler summary, humor style analysis, and a detailed opinion as follows:
+
+Introduction:
+{{step_1}}
+Context:
+{{step_2}}
+Non-Spoiler Summary:
+{{step_3}}
+Humor Style Analysis:
+{{step_4}}
+Detailed Opinion:
+{{step_5}}
+
+Next, identify the target audience {{target_audience}}, and assess whether the book suits their taste. Remember to keep it light-hearted and humorous.
+
+->>>>
+
+Here's the latest for the Humor Book Review: We've derived an introduction, context, a non-spoiler summary, humor style analysis, detailed opinion, and examination of the target audience:
+
+Introduction:
+{{step_1}}
+Context:
+{{step_2}}
+Non-Spoiler Summary:
+{{step_3}}
+Humor Style Analysis:
+{{step_4}}
+Detailed Opinion:
+{{step_5}}
+Target Audience:
+{{step_6}}
+
+In the interest of concluding our review, provide a summarizing evaluation of the book's overall humor value and whether you recommend it. You could use a humorous rating scale of 'laughs out of 10', or 'giggles per chapter', for example.
+

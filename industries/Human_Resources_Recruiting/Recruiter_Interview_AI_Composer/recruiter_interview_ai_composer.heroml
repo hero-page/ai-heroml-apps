@@ -1,0 +1,77 @@
+Your task is to write "Interview Questions" for the "Human Resources & Recruiting" industry, specifically for a "Recruiter". Let's start by writing an introduction that explains the purpose of the interview: {{interview_purpose}}.
+
+Here's some more context about the Interview Questions:
+Interview Purpose: {{interview_purpose}}
+Industry Knowledge: {{industry_knowledge}}
+Recruiter Tasks: {{recruiter_tasks}}
+Recruiter Skills: {{recruiter_skills}}
+Industry Trends: {{industry_trends}}
+Procedural Knowledge: {{procedural_knowledge}}
+Company Information: {{company_information}}
+
+->>>>
+
+Now, we have an introduction that states the purpose of your interview.
+
+Introduction:
+{{step_1}}
+
+Let's move on and formulate beginning questions aimed at evaluating the candidate's understanding of the recruitment industry: {{industry_knowledge}}.
+
+->>>>
+
+We now have an introduction and a set of beginning questions. 
+
+Introduction:
+{{step_1}}
+
+Beginning Questions:
+{{step_2}}
+
+Let's proceed to design questions based around the Recruiter's expected responsibilities or tasks: {{recruiter_tasks}}.
+
+->>>>
+
+So far, we have an introduction, beginning questions and responsibility-based questions.
+
+Introduction:
+{{step_1}}
+
+Beginning Questions:
+{{step_2}}
+
+Responsibility-Based Questions:
+{{step_3}}
+
+Next, we need to incorporate situational or behavioral interview questions that allow candidates to demonstrate their skills and experience: {{recruiter_skills}}.
+
+->>>>
+
+We have questions that evaluate industry knowledge, expected responsibilities and now, skills and experience.
+
+Beginning Questions:
+{{step_2}}
+
+Responsibility-Based Questions:
+{{step_3}}
+
+Skills & Experience Questions:
+{{step_4}}
+
+Now let's focus on including questions that assess candidates' knowledge about latest trends and developments in the HR and recruiting field: {{industry_trends}}.
+
+->>>>
+
+We have completed questions for skills, responsibilities, and now, industry trends.
+
+Responsibility-Based Questions:
+{{step_3}}
+
+Skills & Experience Questions:
+{{step_4}}
+
+Industry Trends Questions:
+{{step_5}}
+
+Following this, let's formulate questions addressing procedural knowledge like candidate sourcing, interview methods, and the use of recruitment software tools: {{procedural_knowledge}}.
+

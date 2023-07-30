@@ -1,0 +1,71 @@
+To write a 'Legal Advice' for the 'Legal Services & Law Firms' industry specifically for an 'Attorney':
+
+1. Start by giving a brief introduction summarizing the legal issue at hand. This summary should be comprehensive yet concise, and should be based around the legal question: {{legal_question}}.
+
+Here's some more context about the Legal Advice:
+Legal Question: {{legal_question}}
+Relevant Laws: {{relevant_laws}}
+
+->>>>
+
+Now, we have a comprehensive introduction that summarizes the legal question at hand:
+
+Introduction:
+{{step_1}}
+
+2. Your next task is to detail the laws and statutes that have relevance to the legal question. These should be accurate and up-to-date, involving the applicable legislation, rules, or case laws: {{relevant_laws}}.
+
+->>>>
+
+We now have the relevant laws and statutes:
+
+Relevant Laws:
+{{step_2}}
+
+3. Next, you will need to provide a detailed interpretation of how the {{relevant_laws}} apply to the {{legal_question}}. Make sure you consider the most recent and relevant case laws, statutory provisions, and legal precedents in your analysis.
+
+->>>>
+
+Here we have the application of the {{relevant_laws}} to our {{legal_question}}:
+
+Law Application:
+{{step_3}}
+
+4. Please include an enumeration of any potential legal defenses, counterarguments, or mitigating circumstances related to the {{legal_question}}. This introduces an element of balance and thoroughness to the advice.
+
+->>>>
+
+With the legal defenses identified, we now have:
+
+Legal Defenses:
+{{step_4}}
+
+5. Please suggest a course of action for the client to take, based on the analysis of the {{legal_question}} and the application of the {{relevant_laws}}. This is a personal input from the attorney based on their expert opinion and should be presented persuasively.
+
+->>>>
+
+Now we have a proposed course of action:
+
+Proposed Course of Action:
+{{step_5}}
+
+6. Include consequences and legal implications of the recommended action while tying it back to the {{legal_question}}. This helps in providing a comprehensive understanding of the situation to the client.
+
+->>>>
+
+We now have the consequences and legal implications of the suggested course of action:
+
+Consequences and Implications:
+{{step_6}}
+
+7. Write a conclusive summary that highlights the key findings and details the recommended course of action related to the {{legal_question}}. The summary should be clear and understandable to anyone reading it.
+
+->>>>
+
+We have now formed a conclusion for our advice:
+
+Conclusion:
+{{step_7}}
+
+8. Lastly, consider including an invitation for further questions or consultation, indicating to the client they can rely on the attorney for continued assistance.
+

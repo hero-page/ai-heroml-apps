@@ -1,0 +1,67 @@
+Your task is to write an "Editorial Assessment" for the "Historical Fiction Writing" industry, specifically for an "Editor". Let's begin by introducing the document and its purpose, explaining what the manuscript is about: {{manuscript_overview}}.
+
+Here's some more context about the Editorial Assessment:
+Manuscript Overview: {{manuscript_overview}}
+Historical Accuracy: {{historical_accuracy}}
+Storytelling Techniques: {{storytelling_techniques}}
+Character Development: {{character_development}}
+Plot Pacing: {{plot_pacing}}
+Overall Impression: {{overall_impression}}
+
+->>>>
+
+With our introduction set:
+
+Document Introduction:
+{{step_1}}
+
+Now, proceed with evaluating the manuscript's historical authenticity. Note down the novel's historical era, details, and the accuracy of such elements: {{historical_accuracy}}.
+
+->>>>
+
+Our assessment so far:
+
+Document Introduction: 
+{{step_1}}
+
+Historical Authenticity:
+{{step_2}}
+
+Moving forward, highlight unique storytelling techniques within the manuscript. Check if the writer has efficiently used literary devices to enhance the narrative: {{storytelling_techniques}}.
+
+->>>>
+
+We now have our introduction, historical accurracy and the evaluation of storytelling techniques estimation:
+
+Historical Authenticity:
+{{step_2}}
+
+Storytelling Techniques Evaluation:
+{{step_3}}
+
+Next, assess and discuss the character development throughout the manuscript, specifically looking at how believable the characters are and if their actions align with the timeline and their historical context: {{character_development}}.
+
+->>>>
+
+So far, we've covered the following aspects of the manuscript:
+
+Storytelling Techniques Evaluation:
+{{step_3}}
+
+Character Development Assessment:
+{{step_4}}
+
+Now, we should look into the pacing and structure of the story. Measure if the plot unravels naturally and at a rhythm that keeps the reader engaged: {{plot_pacing}}.
+
+->>>>
+
+Up until now, the evaluation of the manuscript includes:
+
+Character Development Assessment:
+{{step_4}}
+
+Plot Pacing and Structure:
+{{step_5}}
+
+The next step is to pinpoint the narrative strengths and weaknesses of the manuscript, providing necessary recommendations for improvement, while summarizing its potential to succeed in the "Historical Fiction Writing" market.
+

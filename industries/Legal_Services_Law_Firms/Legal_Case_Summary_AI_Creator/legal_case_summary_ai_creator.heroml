@@ -1,0 +1,64 @@
+Your task is to write a "Case Summary" for the "Legal Services & Law Firms" industry, specifically for an "Attorney". Let's start by preparing an introduction to the case that includes the parties involved and the relevant facts of the case: {{case_parties_and_facts}}.
+
+Here's some more context about the Case Summary:
+Case Parties And Facts: {{case_parties_and_facts}}
+Legal Issues: {{legal_issues}}
+Relevant Laws: {{relevant_laws}}
+Arguments: {{arguments}}
+Judgment: {{judgment}}
+Implications: {{implications}}
+
+->>>>
+
+Now, let's discuss a case:
+
+Introduction:
+{{step_1}}
+
+Next, provide a detailed account of the core legal issues presented by the case: {{legal_issues}}.
+
+->>>>
+
+We now have an introduction to the case and a discussion of the legal issues involved:
+
+Introduction:
+{{step_1}}
+
+Legal Issues:
+{{step_2}}
+
+It's time to put forth the relevant laws, regulations, or precedents that govern the case: {{relevant_laws}}.
+
+->>>>
+
+Currently, for our case summary, we have an introduction, legal issues, and a brief discussion about the governing laws:
+
+Introduction:
+{{step_1}}
+
+Legal Issues:
+{{step_2}}
+
+Relevant Laws and Regulations:
+{{step_3}}
+
+In the next step, outline the arguments presented by both sides, focusing on how these arguments tie into the identified legal issues: {{arguments}}.
+
+->>>>
+
+Our case summary now includes an introduction, legal issues, relevant laws, and the arguments from both sides:
+
+Introduction:
+{{step_1}}
+
+Legal Issues:
+{{step_2}}
+
+Relevant Laws and Regulations:
+{{step_3}}
+
+Arguments:
+{{step_4}}
+
+Moving on, provide a detailed description of the judgment or resolution of the case, objectively outlining how the decision was reached: {{judgment}}.
+

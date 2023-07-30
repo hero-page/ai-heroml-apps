@@ -1,0 +1,98 @@
+Your task is to write a "Customer Letter" for the "Insurance Agencies" industry, specifically for a "Claims Adjuster". 
+
+For the first step, let's greet and address the specific customer. Use the customer's name: {{customer_name}}.
+
+Here's some more context about the Customer Letter:
+Customer Name: {{customer_name}}
+Claim Details: {{claim_details}}
+Claim Process: {{claim_process}}
+Insurance Terms: {{insurance_terms}}
+Contact Details: {{contact_details}}
+
+->>>>
+
+Now we have a personalized greeting:
+
+Greeting:
+{{step_1}}
+
+Next, introduce the purpose of the letter, provide the specifics of the insurance claim that the adjuster is handling: {{claim_details}}.
+
+->>>>
+
+We have established the purpose of the letter:
+
+Greeting:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+The third step is to explain the insurance claim process in the body of the letter. Make sure to provide a timeline and what will be required from the customer: {{claim_process}}.
+
+->>>>
+
+We have detailed the claim process:
+
+Greeting:
+{{step_1}}
+
+Purpose:
+{{step_2}}
+
+Claim Process Explanation:
+{{step_3}}
+
+Now, mention any specific insurance industry jargon that is pertinent to the adjuster or the claim being adjusted. Ensure these terms are explained so the recipient understands: {{insurance_terms}}.
+
+->>>>
+
+We have explained necessary insurance terms:
+
+Purpose:
+{{step_2}}
+
+Claim Process Explanation:
+{{step_3}}
+
+Insurance Terminology Explanation:
+{{step_4}}
+
+Next, acknowledge the inconvenience this process might cause to the customer and assure them of your full support during the claim process.
+
+->>>>
+
+Now, we have addressed potential customer concerns:
+
+Claim Process Explanation:
+{{step_3}}
+
+Inconvenience Acknowledgment and Support Assurance:
+{{step_5}}
+
+Don't forget to mention how the customer can reach you (telephone, email, etc.) if they have any further questions or concerns: {{contact_details}}.
+
+->>>>
+
+Now, we have provided contact information::
+
+Inconvenience Acknowledgment and Support Assurance:
+{{step_5}}
+
+Contact Information:
+{{step_6}}
+
+Conclude the letter on a positive note, expressing your commitment and dedication to making the claims process as smooth as possible for the customer.
+
+->>>>
+
+We have a positive letter conclusion:
+
+Contact Information:
+{{step_6}}
+
+Positive Conclusion:
+{{step_7}}
+
+Lastly, finish the letter with a professional closing and the adjuster's name: {{adjuster's_name}}.
+

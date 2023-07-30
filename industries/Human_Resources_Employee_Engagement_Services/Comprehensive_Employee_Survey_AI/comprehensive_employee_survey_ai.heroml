@@ -1,0 +1,80 @@
+Your task is to write an "Engagement Survey" for the "Human Resources & Employee Engagement Services" industry, specifically for an "Employee Engagement Specialist". 
+
+To start, construct an engaging introduction that clearly lays out the survey's purpose: {{survey_purpose}}.
+
+Here's some more context about the Engagement Survey:
+Survey Purpose: {{survey_purpose}}
+Organizational Dimensions: {{organizational_dimensions}}
+Organizational Values Culture Mission: {{organizational_values_culture_mission}}
+Job Role Environment Compensation Advancement: {{job_role_environment_compensation_advancement}}
+Open Ended Feedback: {{open_ended_feedback}}
+
+->>>>
+
+We've started our engagement survey with an introduction regarding its purpose:
+
+Introduction:
+{{step_1}}
+
+Next, craft a section offering an overview of the key dimensions that will be measured within the organization. These dimensions will stem from the {{organizational_dimensions}} provided to you.
+
+->>>>
+
+Our engagement survey now includes the following:
+
+Introduction:
+{{step_1}}
+
+Key Organizational Dimensions:
+{{step_2}}
+
+Now, lay out a descriptive questionnaire. This element should properly structure open-ended and close-ended questions, directly addressing each dimension derived from the {{organizational_dimensions}}.
+
+->>>>
+
+Our engagement survey now contains a descriptive questionnaire:
+
+Introduction:
+{{step_1}}
+
+Key Organizational Dimensions:
+{{step_2}}
+
+Questionnaire:
+{{step_3}}
+
+Next, incorporate questions that validly measure employees' understanding and satisfaction with the organization's culture, values, and mission. The questions should pertain to these factors, as described in {{organizational_values_culture_mission}}.
+
+->>>>
+
+Our engagement survey has now been enriched with questions about values, culture, and the company's mission:
+
+Introduction:
+{{step_1}}
+
+Questionnaire:
+{{step_3}}
+
+Culture, Values and Mission Questions:
+{{step_4}}
+
+The next step is to create a segment that effectively gauges employees' perceptions of their roles, the working environment, compensation, and opportunities for career advancement. These questions should adhere to the information provided in {{job_role_environment_compensation_advancement}}.
+
+->>>>
+
+Our engagement survey now has additional questions on roles, workplace environment, compensation, and advancement:
+
+Introduction:
+{{step_1}}
+
+Questionnaire:
+{{step_3}}
+
+Culture, Values, and Mission Questions:
+{{step_4}}
+
+Job Role, Environment and Compensation Questions:
+{{step_5}}
+
+To conclude, create a feedback section that allows employees to freely express any additional thoughts or concerns. This section will be an open-ended question block, based on {{open_ended_feedback}}.
+

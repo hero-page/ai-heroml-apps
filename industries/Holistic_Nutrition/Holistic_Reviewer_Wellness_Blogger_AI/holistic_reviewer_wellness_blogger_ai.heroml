@@ -1,0 +1,79 @@
+Your task is to write a "Product Review" for the "Holistic Nutrition" industry, specifically for a "Wellness Blogger". Let's start by crafting an engaging product introduction for the reviewed product: {{product_overview}}.
+
+Here's some more context about the Product Review:
+Product Overview: {{product_overview}}
+Product Features Benefits: {{product_features_benefits}}
+User Experience: {{user_experience}}
+Product Price: {{product_price}}
+Holistic Health Impact: {{holistic_health_impact}}
+Final Opinion: {{final_opinion}}
+
+->>>>
+
+Now we have the introduction for our product review:
+
+Introduction:
+{{step_1}}
+
+Let's follow up with the product's features and benefits: {{product_features_benefits}}. Detail the product's individual characteristics, its nutritional profile, and how these may contribute to the health and wellness of the user.
+
+->>>>
+
+After detailing the product's features and benefits, our review now looks like this:
+
+Introduction:
+{{step_1}}
+
+Features and Benefits:
+{{step_2}}
+
+Next, elaborate on the user experience: {{user_experience}}. Discuss how the product is used, its taste and texture, ease of use, and the packaging. As a wellness blogger, also share more about the personal experiences with the product.
+
+->>>>
+
+Now we have a portion of the review that covers the product's features, benefits, and the user experience:
+
+Features and Benefits:
+{{step_2}}
+
+User Experience:
+{{step_3}}
+
+Next, let's discuss the product's price and value-for-money: {{product_price}}. Compare the product's price with similar products in the holistic nutrition industry and decide if it offers good value for its price.
+
+->>>>
+
+With the addition of the product's price analysis, here is how the review stands:
+
+User Experience:
+{{step_3}}
+
+Product Price and Value analysis:
+{{step_4}}
+
+Now, provide an analysis on the product's potential impact on holistic health: {{holistic_health_impact}}. Research and present factual information on how the product could potentially affect holistic well-being, including physical, emotional, and mental health.
+
+->>>>
+
+Incorporating the holistic health impact, the parts of the review we have are:
+
+Product Price and Value analysis:
+{{step_4}}
+
+Holistic Health Impact:
+{{step_5}}
+
+Finally, summarize key points covered and offer a balanced final opinion: {{final_opinion}}. Recap the product's features, benefits, user experience, price, and its impact on holistic health. Provide a personal recommendation on whether or not readers should purchase the product, and why.
+
+->>>>
+
+Following the summarized points and final opinion, the parts of the review we now have are:
+
+Holistic Health Impact:
+{{step_5}}
+
+Summary and Final Opinion:
+{{step_6}}
+
+Let's disclose if the product was received for free to comply with regulatory standards. Remember that transparency and honesty are key elements to enhance reader trust and engagement with product reviews.
+

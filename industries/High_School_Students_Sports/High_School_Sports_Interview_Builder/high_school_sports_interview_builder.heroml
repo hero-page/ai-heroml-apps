@@ -1,0 +1,78 @@
+Your task is to write an "Interview" for the "High School Students - Sports" industry, specifically for a "Sports Journalism Club Member". 
+
+Let's start with an introduction that sets out the context for the interview. Define who the interviewee is: {{interviewee}}, their position or role in high school sports, and why they were chosen for this interview.
+
+Here's some more context about the Interview:
+Interviewee: {{interviewee}}
+Specific Sport: {{specific_sport}}
+
+->>>>
+
+We have the introduction for the interview:
+
+Interview Introduction:
+{{step_1}}
+
+Next, delve into the background of the {{interviewee}}, asking them about their journey into the world of high school sports. This should include their initial interest, challenges faced, achievements, and how they balance sports with academics.
+
+->>>>
+
+For this "Interview", we have an intro and background information:
+
+Interview Introduction:
+{{step_1}}
+
+Interviewee's background:
+{{step_2}}
+
+Now, dedicate the following section of the interview to the current role of the {{interviewee}}, their responsibility, experience, and contribution to the field of high school sports.
+
+->>>>
+
+Thus far, the "Interview" includes info on the {{interviewee}}'s background and their current role:
+
+Interviewee's background:
+{{step_2}}
+
+Interviewee's Current Role:
+{{step_3}}
+
+In the next part of the interview, we will ask questions about the {{specific_sport}} they are associated with.
+
+->>>>
+
+In the "Interview" up till now, we have the {{interviewee}}'s background, their current role, and specifics about the sport they are involved with:
+
+Interviewee's Current Role:
+{{step_3}}
+
+Specific Sport Discussion:
+{{step_4}}
+
+Let's move forward and inquire about their visions and plans for the future.
+
+->>>>
+
+The "Interview" now includes discussions about the interviewee's future plans:
+
+Specific Sport Discussion:
+{{step_4}}
+
+Interviewee's Future Plans:
+{{step_5}}
+
+
+Next, include industry-specific elements such as in-depth discussion of the {{specific_sport}}, popular gaming strategies, critical game analysis, and insights about team dynamics.
+
+->>>>
+
+The "Interview" now covers popular strategies and in-depth discussions about {{specific_sport}}:
+
+Interviewee's Future Plans:
+{{step_5}}
+
+In-depth Discussion on The Sport and Strategies:
+{{step_6}}
+
+Then, conclude the interview by asking them to share advice or messages for others who want to pursue sports in high school.
+

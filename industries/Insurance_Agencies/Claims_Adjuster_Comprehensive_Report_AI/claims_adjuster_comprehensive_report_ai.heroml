@@ -1,0 +1,85 @@
+Your task is to write a "Claim Summary" for the "Insurance Agencies" industry, specifically for a "Claims Adjuster".
+
+We will start by providing a clear introduction to the claim, which should include information about the claimant, the nature of the claim, and details about the incident.
+
+Here's some more context about the Claim Summary:
+Claimant Info: {{claimant_info}}
+Claim Type: {{claim_type}}
+Incident Date Location: {{incident_date_location}}
+Claim Description: {{claim_description}}
+Policy Coverage: {{policy_coverage}}
+Damages Losses: {{damages_losses}}
+Investigation Summary: {{investigation_summary}}
+Claim Decision: {{claim_decision}}
+Risk Mitigation: {{risk_mitigation}}
+Claim Summary: {{claim_summary}}
+
+->>>>
+
+We now have the introductory context of our claim:
+
+Context of Claim:
+{{step_1}}
+
+Next, we need to provide a detailed description of how the incident occurred, based on the evidence gathered and the claimant's report.
+
+->>>>
+
+We now have the context and a detailed description of the claim:
+
+Context:
+{{step_1}}
+
+Description:
+{{step_2}}
+
+Now, let's detail the coverage that the claimant has under their policy, and provide any deductible amounts.
+
+->>>>
+
+For our claim summary, we have a detailed description and information about the policy's coverage:
+
+Description:
+{{step_2}}
+
+Coverage:
+{{step_3}}
+
+Next, present a detailed analysis of the damages and losses, covering the conditions before the incident, the damages suffered, the repair estimates, and any salvageable items.
+
+->>>>
+
+In our claim summary, we have provided details about the coverage, and performed an analysis of the damages and losses:
+
+Coverage:
+{{step_3}}
+
+Damages and Loss Analysis:
+{{step_4}}
+
+It's time now to cover any investigation that has been carried out. It should include the processes used, the findings, any liability issues, and possible fraud concerns.
+
+->>>>
+
+For our claim summary, we have details about the damages and losses, along with a thorough investigation summary:
+
+Damages and Loss Analysis:
+{{step_4}}
+
+Investigation Summary:
+{{step_5}}
+
+Next, we need to detail the decision regarding the claim's approval, including reasons for denial or the settlement amount if approved. We also might want to suggest amendments to the claimant’s policy.
+
+->>>>
+
+In the claim summary, we've included an investigation summary and presented our decision on the claim:
+
+Investigation Summary:
+{{step_5}}
+
+Decision on Claim:
+{{step_6}}
+
+Next, outline potential future risks based on this claim and suggest mitigation strategies to reduce these risks.
+

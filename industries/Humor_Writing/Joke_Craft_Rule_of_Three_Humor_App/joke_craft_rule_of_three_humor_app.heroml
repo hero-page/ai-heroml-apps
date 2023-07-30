@@ -1,0 +1,103 @@
+
+Start composing a joke for an "Author" in the "Humor Writing" industry by setting up a premise. The premise will present a relatable situation or context to relate to the punchline.
+
+Here's some more context about the Joke:
+Joke Premise: {{joke_premise}}
+Joke Characters: {{joke_characters}}
+Rule Of Three: {{rule_of_three}}
+Joke Punchline: {{joke_punchline}}
+Joke Tagline: {{joke_tagline}}
+
+->>>>
+
+For the "Humor Writing" joke, we have set the premise as:
+
+Premise:
+{{step_1}}
+
+Next, we need to develop distinguished characters that evoke humor in the joke.
+
+->>>>
+
+For our joke's premise, which goes:
+
+Premise:
+{{step_1}}
+
+We have created the following characters:
+
+Characters:
+{{step_2}}
+
+Now, try incorporating the rule of three in comedy. This suggests that events or characters introduced in threes are more humorous.
+
+->>>>
+
+For our joke, which starts with:
+
+Premise:
+{{step_1}}
+
+And includes the characters:
+
+Characters:
+{{step_2}}
+
+We've incorporated the rule of three as follows:
+
+Rule of Three:
+{{step_3}}
+
+Next, create the punchline that defies audience’s expectations set by the premise. This is designed to evoke laughter by taking a surprising turn.
+
+->>>>
+
+For our joke, which includes:
+
+Premise:
+{{step_1}}
+
+Characters:
+{{step_2}}
+
+Rule of Three:
+{{step_3}}
+
+We've devised this punchline:
+
+Punchline:
+{{step_4}}
+
+Now, considering the punchline, think of a tagline if applicable. This tagline will provide an additional laugh or extend the humor of the joke.
+
+->>>>
+
+Based on our joke so far:
+
+Punchline:
+{{step_4}}
+
+We've developed the following tagline:
+
+Tagline:
+{{step_5}}
+
+End the joke by solidifying the humor brought out by the punchline and tagline. This could be a brief summary or a call-back to an earlier part of the joke.
+
+->>>>
+
+For our joke with this punchline and tagline:
+
+Punchline:
+{{step_4}}
+
+Tagline:
+{{step_5}}
+
+We've crafted this ending:
+
+Ending:
+{{step_6}}
+
+Finally, revise and polish the joke. Make sure the flow from setup to punchline is smooth, the phrasing enhances the humor, and the tagline, if used, doesn't dilute the humor. Every part of the joke should be as concise and effective as possible.
+

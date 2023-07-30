@@ -1,0 +1,82 @@
+Your task is to write a "Product Review" for the "Influencer Marketing Agencies" industry, specifically for a "Content Creator".
+
+Start by writing an introduction that sets the tone of the review and provides an overview of the influencer marketing agency, {{marketing_agency_overview}}.
+
+Here's some more context about the Product Review:
+Marketing Agency Overview: {{marketing_agency_overview}}
+Agency Background: {{agency_background}}
+Services Description: {{services_description}}
+User Experience: {{user_experience}}
+Personal Experience: {{personal_experience}}
+Pros And Cons: {{pros_and_cons}}
+Final Verdict: {{final_verdict}}
+
+->>>>
+
+You have written a comprehensive introduction about the agency:
+
+Introduction:
+{{step_1}}
+
+Next, discuss the company's background and reputation, including specifics such as tenure in the influencer marketing industry, case studies, or notable clients, forming {{agency_background}}.
+
+->>>>
+
+Here is the completed section about the company's background and reputation:
+
+Introduction:
+{{step_1}}
+
+Company Background and Reputation:
+{{step_2}}
+
+Next, let's describe the services provided by the marketing agency. This description should be segmented based on the needs of content creators, such as matchmaking with brands, content creation assistance, campaign management, and payment facilitation, forming {{services_description}}.
+
+->>>>
+
+So far, you have introduced the agency, discussed its background, and described its services:
+
+Company Background and Reputation:
+{{step_2}}
+
+Services Description:
+{{step_3}}
+
+Now, analyze the user interface and user experience of the agency platform if applicable. Highlight all significant aspects such as ease of use, aesthetics, navigation, and other relevant aspects, to form {{user_experience}}.
+
+->>>>
+
+Now we have details about the agency, its services, and user experience:
+
+Services Description:
+{{step_3}}
+
+User Experience:
+{{step_4}}
+
+Next, share your personal experience with the agency. Include how you became a part of their network, how they managed your engagements, the brands you've worked with through them, and overall satisfaction, to form the {{personal_experience}} section.
+
+->>>>
+
+Up to this point, we have agency details, service description, user experience, and your personal experience:
+
+User Experience:
+{{step_4}}
+
+Personal Experience:
+{{step_5}}
+
+Next, weigh the pros and cons of the agency. This evaluation should be honest, accounting for strengths and areas for the agency to improve, specifically concerning creator support, brand partnerships, payment, and other significant aspects, to create the {{pros_and_cons}} section.
+
+->>>>
+
+Now that we've collected your personal experience and the pros and cons of the agency, we can see a fuller picture:
+
+Personal Experience:
+{{step_5}}
+
+Pros and Cons:
+{{step_6}}
+
+Lastly, conclude with a recommendation. Summarize your review and provide your stand on whether the agency is beneficial for content creators to engage with, forming the {{final_verdict}}. Don't forget to incorporate industry-specific elements such as return on influence, relevance of brand partnerships to your niche or target audience, and how well the agency understands and supports the content creators' interests. 
+

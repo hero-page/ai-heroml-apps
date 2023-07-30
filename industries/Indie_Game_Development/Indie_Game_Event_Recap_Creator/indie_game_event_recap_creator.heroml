@@ -1,0 +1,85 @@
+Your task is to write an "Event Recap" for the "Indie Game Development" industry, specifically for a "Gaming Blogger". Let's start by drafting a compelling introduction that introduces the event name, location, and primary objective.
+
+Here's some more context about the Event Recap:
+Event Intro: {{event_intro}}
+Event Highlights: {{event_highlights}}
+Game Reviews: {{game_reviews}}
+Quotes: {{quotes}}
+Industry Trends: {{industry_trends}}
+Event Summary: {{event_summary}}
+
+->>>>
+
+For our Indie Game Development event recap, we have the following introduction:
+
+Introduction:
+{{step_1}}
+
+Next, summarize the main highlights of the event. Use a bullet-point format and make sure to include key details like game launches, announcements, panels, and notable discussions.
+
+->>>>
+
+Now, for our event recap, we have:
+
+Introduction:
+{{step_1}}
+
+Event Highlights:
+{{step_2}}
+
+Moving on, we need to write comprehensive reviews of the top 3-5 indie games showcased at the event. In each review, detail the game's premise, gameplay mechanics, art style, and other significant features.
+
+->>>>
+
+Our Indie Game Development event recap currently includes:
+
+Introduction:
+{{step_1}}
+
+Event Highlights:
+{{step_2}}
+
+Game Reviews:
+{{step_3}}
+
+Next, include quotes or notable sayings from important figures in the industry who attended the event. This lends authority to your recap.
+
+->>>>
+
+Our event recap now includes:
+
+Introduction:
+{{step_1}}
+
+Event Highlights:
+{{step_2}}
+
+Game Reviews:
+{{step_3}}
+
+Quotes:
+{{step_4}}
+
+Now, we must discuss the main industry trends observed during the event. This can pertain to innovative technologies, gameplay mechanics, and shifts in the gamer demographic.
+
+->>>>
+
+Our Indie Game Development event recap so far features:
+
+Introduction:
+{{step_1}}
+
+Event Highlights:
+{{step_2}}
+
+Game Reviews:
+{{step_3}}
+
+Quotes:
+{{step_4}}
+
+Industry Trends:
+{{step_5}}
+
+To conclude our event recap, write a summary about the importance of the event for the indie game industry, and suggest what players can anticipate in terms of upcoming games or events.
+

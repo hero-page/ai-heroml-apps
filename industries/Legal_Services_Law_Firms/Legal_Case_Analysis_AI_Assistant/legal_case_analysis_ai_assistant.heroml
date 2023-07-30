@@ -1,0 +1,125 @@
+Your task is to write a "Case Research Summary" for the "Legal Services & Law Firms" industry, specifically for a "Paralegal". 
+Let's start by creating an executive summary that provides an overview of the case.
+
+Here's some more context about the Case Research Summary:
+Case Overview: {{case_overview}}
+Case Context: {{case_context}}
+Case Citation: {{case_citation}}
+Case Facts: {{case_facts}}
+Legal Issue And Applicable Law: {{legal_issue_and_applicable_law}}
+Procedural History: {{procedural_history}}
+Court Reasoning: {{court_reasoning}}
+Case Decision And Implications: {{case_decision_and_implications}}
+Research Reflection: {{research_reflection}}
+
+->>>>
+
+We have begun our "Case Research Summary" with the following executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Next, write an introduction that sets the nature, jurisdiction, and parties involved in the case to provide context.
+
+->>>>
+
+Our "Case Research Summary" thus far includes:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Next, present a comprehensive citation of the case, including the courts where the case was adjudicated, the judges who presided over the case, and the rulings made at each level. Ensure compliance with the relevant legal citation style.
+
+->>>>
+
+The citation for our case is as follows:
+
+Executive Summary:
+{{step_1}}
+
+Introduction:
+{{step_2}}
+
+Citation:
+{{step_3}}
+
+Now, thoroughly lay out the facts as presented in the original case, capturing all significant details.
+
+->>>>
+
+Our "Case Research Summary" now includes:
+
+Introduction:
+{{step_2}}
+
+Citation:
+{{step_3}}
+
+Facts of the Case:
+{{step_4}}
+
+Next, analyze the legal issue or question that this case presents and detail the applicable law or laws.
+
+->>>>
+
+Our "Case Research Summary" now includes:
+
+Citation:
+{{step_3}}
+
+Facts of the Case:
+{{step_4}}
+
+Legal Issue and Applicable Law:
+{{step_5}}
+
+Now, present the case's procedural history, describing the progress of the case through the legal system, and noting how different courts have ruled on it.
+
+->>>>
+
+Our "Case Research Summary" has the following elements:
+
+Facts of the Case:
+{{step_4}}
+
+Legal Issue and Applicable Law:
+{{step_5}}
+
+Procedural History:
+{{step_6}}
+
+Next, analyze the court's reasoning for the case decision, going through all the arguments, testimonies, and interpretation of the applicable law.
+
+->>>>
+
+Our "Case Research Summary" currently includes:
+
+Legal Issue and Applicable Law:
+{{step_5}}
+
+Procedural History:
+{{step_6}}
+
+Court's Reasoning:
+{{step_7}}
+
+Summarize the case's final decision or ruling and discuss its implications for the parties involved and any broader societal or legal impacts.
+
+->>>>
+
+Our "Case Research Summary" now encompasses:
+
+Procedural History:
+{{step_6}}
+
+Court's Reasoning:
+{{step_7}}
+
+Case Decision and Implications:
+{{step_8}}
+
+Finally, reflect on these research findings, considering how they aid in understanding and applying the law, and how they may extend previous understanding of the law.
+

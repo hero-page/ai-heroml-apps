@@ -1,0 +1,85 @@
+Your task is to create an "Audience Analysis" report for the "Influencer Marketing Agencies" industry, specifically for a "Data Analyst". 
+First, let's create an introductory section that clearly states the purpose of the analysis: {{purpose_of_analysis}}, and explain the relevance of the audience to the influencer marketing industry.
+
+Here's some more context about the Audience Analysis:
+Purpose Of Analysis: {{purpose_of_analysis}}
+Audience Demographics: {{audience_demographics}}
+Audience Psychographics: {{audience_psychographics}}
+Consumption Habits: {{consumption_habits}}
+Customer Journey Analytics: {{customer_journey_analytics}}
+Audience Sentiments: {{audience_sentiments}}
+Engagement Patterns: {{engagement_patterns}}
+Purchasing Power And Habits: {{purchasing_power_and_habits}}
+
+->>>>
+
+Now, we have an introduction and purpose of analysis for our report: 
+
+Introduction:
+{{step_1}}
+
+Next, develop a broad overview of the demographic distribution of the audience: {{audience_demographics}}. Incorporate factors like age, gender, geographical distribution, and other relevant demographic variables.
+
+->>>>
+
+We have provided an overview of the demographic distribution which is:
+
+Demographic Overview:
+{{step_2}}
+
+Moving forward, let's delve deeper into the audience's psychographics: {{audience_psychographics}}. Discuss their interests, values, attitudes, and behaviors around influencer content's consumption, such as preferred social media platforms, frequency of use, and engagement rates.
+
+->>>>
+
+Given the demographic details and psychographics:
+
+Psychographics:
+{{step_3}}
+
+Now, examine the audience's consumption habits and preferences: {{consumption_habits}}. Highlight the types of content with which they engage most – posts, videos, stories, etc., and explore their influencers' preferences.
+
+->>>>
+
+With the demographic, psychographic profile, and consumption habits outlined:
+
+Consumption Habits:
+{{step_4}}
+
+Next, create a robust section that covers customer journey analytics: {{customer_journey_analytics}}. Describe how audience becomes aware of, considers, and finally engages with influencers, products, or services.
+
+->>>>
+
+Now, with a detailed understanding of the audience's consumption habits:
+
+Customer Journey Analytics:
+{{step_5}}
+
+Let's delve into the audience's sentiments: {{audience_sentiments}}. Focus specifically on how your audience feels towards the influencers they follow and their attitudes towards sponsored or promoted content.
+
+->>>>
+
+By analyzing consumption habits and customer journey analytics:
+
+Audience Sentiments:
+{{step_6}}
+
+Document the audience's engagement patterns next: {{engagement_patterns}}. Discuss when they are most active and responsive, and what types of content elicit the most reactions, shares, comments, etc.
+
+->>>>
+
+With an understanding of the audience sentiments and engagement patterns:
+
+Engagement Patterns:
+{{step_7}}
+
+Next, focus on the audience's purchasing power and habits: {{purchasing_power_and_habits}}. Delve into their willingness and capacity to act upon recommendations made by influencers and their purchasing habits.
+
+->>>>
+
+Having examined engagement patterns and audience sentiments:
+
+Purchasing Power and Habits:
+{{step_8}}
+
+Finally, now that we have covered all details about the audience, create a succinct conclusion that recalls the purpose of the analysis: {{purpose_of_analysis}}, and summarize key insights about the audience's needs, habits, behaviors, and sentiments.
+

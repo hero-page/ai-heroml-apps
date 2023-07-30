@@ -1,0 +1,87 @@
+Your task is to write a "Client Letter" for the "Legal Services & Law Firms" industry, specifically for an "Attorney". Let's begin with an introduction that provides a warm greeting, briefly states the purpose of the client letter and introduces you, stated as the representative attorney: {{attorney's name}}, and includes the client's name: {{client's name}}. Set the tone of the letter to be formal and respectful.
+
+Here's some more context about the Client Letter:
+Legal Matter: {{legal_matter}}
+Deadline: {{deadline}}
+
+->>>>
+
+We have the introduction for our client letter:
+
+Introduction:
+{{step_1}}
+
+Now, we will move on to write about the context. Begin by explaining the legal matter: {{legal_matter}} that requires the client's attention in clear, simple terms. This will give the client a quick understanding of why the letter has been sent.
+
+->>>>
+
+The introduction and context for the letter are as follows:
+
+Introduction:
+{{step_1}}
+
+Context:
+{{step_2}}
+
+Next, it's time to delve into a detailed discussion about the legal matter: {{legal_matter}}. Discuss the facts and legal issues, current status, actions taken, potential consequences, and possible courses of action. Remember to keep the language simple and avoid legal jargon wherever possible. This section should be comprehensive and explain the legal matters in depth.
+
+->>>>
+
+In our client letter, we have provided an introductory context and a detailed discussion of the legal matter:
+
+Context:
+{{step_2}}
+
+Detailed discussion:
+{{step_3}}
+
+Now, include some recommendations about a potential course of action concerning this legal matter: {{legal_matter}}. Advise the client about what you believe, as their attorney, should be the best next steps to take in regards to the issue at hand.
+
+->>>>
+
+Here are the sections of our client letter so far:
+
+Detailed discussion:
+{{step_3}}
+
+Recommendations:
+{{step_4}}
+
+Following the recommendations, please summarize the key points of the letter. This summary will help reaffirm the main points and allow the client to understand the urgency or importance of the legal matter: {{legal_matter}}.
+
+->>>>
+
+In the client letter, we have detailed the problem, law firm's recommendations, and the summary of the key points covered:
+
+Recommendations:
+{{step_4}}
+
+Summary:
+{{step_5}}
+
+Moving on, provide the next steps for the client. Here you can outline what the client needs to do next, perhaps provide them with a deadline if there's a legal time limit involved: {{deadline}}. Let the client know what you require from them or the action you will be taking next.
+
+->>>>
+
+In the client letter, we have a summary of key points and the next steps for the client:
+
+Summary:
+{{step_5}}
+
+Next Steps:
+{{step_6}}
+
+Finally, before signing off, invite the client to contact you or the attorney: {{attorney's name}} for further clarification or assistance. Provide your or the attorney's contact details, and assure the client that their case is important and will be dealt with the utmost diligence and dedication.
+
+->>>>
+
+For our client letter, we have next steps and ending notes:
+
+Next Steps:
+{{step_6}}
+
+Ending Notes:
+{{step_7}}
+
+Lastly, let’s compose a formal closing for our letter. This should thank the client for their time, sign off with "Sincerely" or "Respectfully", followed by your name and the law firm's name.
+

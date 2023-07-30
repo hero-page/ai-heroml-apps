@@ -1,0 +1,86 @@
+Your task is to write a "Curry Recipe" for the "International Cuisine" industry, for an "Indian Cuisine Specialist". Let's start by doing an introduction. Provide a brief overview of the "Curry Recipe". Highlight the significance of the dish in Indian cuisine, its origin, flavor profiles, and major variations if any.
+
+Here's some more context about the Curry Recipe:
+Curry Overview: {{curry_overview}}
+Indian Ingredients: {{indian_ingredients}}
+Preparation Steps: {{preparation_steps}}
+Cooking Instructions: {{cooking_instructions}}
+Authentic Cooking Tips: {{authentic_cooking_tips}}
+Serving Suggestions: {{serving_suggestions}}
+Helpful Notes: {{helpful_notes}}
+
+->>>>
+
+For our "Curry Recipe", it starts with the following introduction:
+
+Introduction:
+{{step_1}}
+
+After the overview, let's break down the "Curry Recipe" into main parts. List down the Ingredients needed, along with their specific quantities required for the recipe. Ensure to highlight any special Indian spices, herbs, or other ingredients specific to the curry.
+
+->>>>
+
+The "Curry Recipe" has these components so far:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Next, detail the Preparation section. This should outline any pre-cooking steps that need to be undertaken, such as marinating, blending spices, or creating a base sauce or paste for the curry.
+
+->>>>
+
+Our progress in the "Curry Recipe" currently includes:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Preparation:
+{{step_3}}
+
+Now, let's draft the Cooking section. This should include step-by-step instructions for cooking the curry. Be specific about the cooking time, heat levels, and the sequence of adding ingredients.
+
+->>>>
+
+The "Curry Recipe" so far has these sections:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Preparation:
+{{step_3}}
+
+Cooking Instructions:
+{{step_4}}
+
+Incorporate industry-specific tips such as authentic Indian cooking techniques, precautions while cooking with certain Indian spices, strategic replacements for ingredients, and methods to adjust spice levels without compromising the taste.
+
+->>>>
+
+Here are the current sections of the "Curry Recipe":
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Preparation:
+{{step_3}}
+
+Cooking Instructions:
+{{step_4}}
+
+Cooking Tips:
+{{step_5}}
+
+Let's now conclude the "Curry Recipe" with serving suggestions and pairings, such as traditional Indian breads, rices, or side dishes that complement the curry should be included.
+

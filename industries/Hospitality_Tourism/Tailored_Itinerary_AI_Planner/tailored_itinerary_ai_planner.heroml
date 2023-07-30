@@ -1,0 +1,84 @@
+Your task is to write a "Tour Itinerary" for the "Hospitality & Tourism" industry, specifically for a "Tour Operator". Begin by drafting an introduction that provides a brief overview of the tour: {{tour_overview}}. Be sure to include the general destination, the duration of the tour, and a succinct description of what the tour aims to offer.
+
+Here's some more context about the Tour Itinerary:
+Tour Overview: {{tour_overview}}
+Target Group: {{target_group}}
+Daily Activities: {{daily_activities}}
+Accommodation: {{accommodation}}
+Transportation: {{transportation}}
+
+->>>>
+
+At this point, we have an overview for our tour:
+
+Tour Overview:
+{{step_1}}
+
+Next, let's define our target group for the tour: {{target_group}}. This could be families, solo travelers, adventure seekers, wildlife enthusiasts, etc. Clear definition of our target group will allow us to tailor the tour itinerary more effectively to their needs and interests.
+
+->>>>
+
+We have an initial overview and target group for our tour:
+
+Tour Overview:
+{{step_1}}
+
+Target Group:
+{{step_2}}
+
+Now, layout the day-to-day itinerary. Specify the main activities: {{daily_activities}}, locations to visit, and the estimated schedule for each day, ensuring that the description of these experiences engrosses and excites potential tourists.
+
+->>>>
+
+Our tour now has an overview, defined target group, and a day-to-day itinerary:
+
+Tour Overview:
+{{step_1}}
+
+Target Group:
+{{step_2}}
+
+Daily Itinerary:
+{{step_3}}
+
+Let's now provide information on the accommodation options: {{accommodation}} for each night of the tour. Describe each lodging option in a way that accentuates their unique features and comforts, also specifying which meals are included, and what additional facilities (like free Wi-fi, spa, gym etc.) are available.
+
+->>>>
+
+Our tour itinerary presently includes an overview, target group, daily activities, and accommodation options:
+
+Tour Overview:
+{{step_1}}
+
+Target Group:
+{{step_2}}
+
+Daily Itinerary:
+{{step_3}}
+
+Accommodation:
+{{step_4}}
+
+Include next a section on transportation: {{transportation}} that will be used during the tour. Describe the types of vehicles, travel times between destinations, and any notable aspects of the journey, such as scenic routes.
+
+->>>>
+
+Our tour itinerary now features an overview, target group, daily activities, accommodation options, and transportation details:
+
+Tour Overview:
+{{step_1}}
+
+Target Group:
+{{step_2}}
+
+Daily Itinerary:
+{{step_3}}
+
+Accommodation:
+{{step_4}}
+
+Transportation:
+{{step_5}}
+
+The next crucial detail is a section that includes recommendations like what to pack, what kind of climate to expect, and important cultural customs to respect during the tour. Tailor these tips to the particulars of the {{tour_overview}} for the convenience of the potential tourists.
+

@@ -1,0 +1,141 @@
+Your task is to write "Italian Wine Pairing Suggestions" for the "International Cuisine" industry, specifically for a "Italian Cuisine Expert". Let's begin with the introduction. 
+
+Please, start with introducing the niche topic of Italian wine pairing. The introduction should provide context and stimulate interest by sharing the richness of Italian viticulture.
+
+Here's some more context about the Italian Wine Pairing Suggestions:
+Wine Pairing Intro: {{wine_pairing_intro}}
+Italian Wine History: {{italian_wine_history}}
+Wine Varieties: {{wine_varieties}}
+Italian Food Varieties: {{italian_food_varieties}}
+General Pairing Principles: {{general_pairing_principles}}
+Pairing Suggestions: {{pairing_suggestions}}
+Italian Viticulture Characteristics: {{italian_viticulture_characteristics}}
+Italian Terroir Description: {{italian_terroir_description}}
+Wine Pairing Summary: {{wine_pairing_summary}}
+
+->>>>
+
+We have an introduction for our "Italian Wine Pairing Suggestions":
+
+Introduction:
+{{step_1}}
+
+Next, we will tackle the body of the content that's to be split into different sections for an organized approach. The first section we'll work on is a brief history of Italian wine. This helps the expert reader understand the roots of the pairing traditions.
+
+->>>>
+
+We have an introduction and a brief history of Italian wine for our "Italian Wine Pairing Suggestions":
+
+Introduction:
+{{step_1}}
+
+History of Italian Wine:
+{{step_2}}
+
+Continuing with the body, create a segment dedicated to the variety of Italian wines. You can classify wines according to regions, grapes, or styles.
+
+->>>>
+
+Our "Italian Wine Pairing Suggestions" now has an introduction, history of Italian wine, and a variety of Italian wines:
+
+Introduction:
+{{step_1}}
+
+History of Italian Wine:
+{{step_2}}
+
+Variety of Italian Wines:
+{{step_3}}
+
+Next, construct a section for Italian food varieties. Knowing what Italian food is made up of, will make the pairing suggestions more logical.
+
+->>>>
+
+We've drafted an introduction, discussed Italian wine history, presented a variety of Italian wines and compiled Italian food varieties:
+
+Introduction:
+{{step_1}}
+
+History of Italian Wine:
+{{step_2}}
+
+Variety of Italian Wines:
+{{step_3}}
+
+Italian Food Varieties:
+{{step_4}}
+
+It's time to get into the interesting part of the task. Start by presenting general pairing principles. Cover basic guidelines that apply to most situations.
+
+->>>>
+
+For our "Italian Wine Pairing Suggestions", we have:
+
+Introduction:
+{{step_1}}
+
+History of Italian Wine:
+{{step_2}}
+
+Variety of Italian Wines:
+{{step_3}}
+
+Italian Food Varieties:
+{{step_4}}
+
+General Wine Pairing Principles:
+{{step_5}}
+
+As a subsequent step, bridge the Italian foods with the Italian wines by making specific pairing suggestions for a harmonious dining experience.
+
+->>>>
+
+Below is all the information we have for the "Italian Wine Pairing Suggestions":
+
+Introduction:
+{{step_1}}
+
+History of Italian Wine:
+{{step_2}}
+
+Variety of Italian Wines:
+{{step_3}}
+
+Italian Food Varieties:
+{{step_4}}
+
+General Wine Pairing Principles:
+{{step_5}}
+
+Detailed Wine Pairing Suggestions:
+{{step_6}}
+
+Let's insert some expert knowledge. Explore the unique characteristics of the Italian viticulture and how they affect the wine pairing suggestions.
+
+->>>>
+
+Keep in mind these details from previous steps when writing the next:
+
+Introduction:
+{{step_1}}
+
+History of Italian Wine:
+{{step_2}}
+
+Variety of Italian Wines:
+{{step_3}}
+
+Italian Food Varieties:
+{{step_4}}
+
+General Wine Pairing Principles:
+{{step_5}}
+
+Detailed Wine Pairing Suggestions:
+{{step_6}}
+
+Unique Characteristics of Italian Viticulture:
+{{step_7}}
+
+To fascinate our expert reader, highlight the role of "terroir" (the natural environment including soil and climate) in shaping the taste of Italian wines.
+

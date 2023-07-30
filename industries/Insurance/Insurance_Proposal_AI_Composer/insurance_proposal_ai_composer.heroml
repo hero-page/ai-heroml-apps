@@ -1,0 +1,56 @@
+To generate an "Insurance Proposal" in the "Insurance" industry for an "Underwriter", we need to follow these steps: 
+
+Let's begin with creating a clear executive summary. This summary should explain the purpose of the proposal and provide a concise overview of the insurance policy being proposed.
+
+Here's some more context about the Insurance Proposal:
+Summary Of Coverage: {{summary_of_coverage}}
+Insured Party Details: {{insured_party_details}}
+Coverage Details: {{coverage_details}}
+Risk Assessment: {{risk_assessment}}
+Premium Calculations: {{premium_calculations}}
+
+->>>>
+
+For our insurance proposal, we have an executive summary:
+
+Executive Summary:
+{{step_1}}
+
+Continue on to detail relevant information about the insured party, which can include location, industry, and risk profile.
+
+->>>>
+
+For the insurance proposal, we have named and described the insured party:
+
+Insured Party:
+{{step_2}}
+
+Switching gears to the coverage details, provide an exhaustive breakdown of the coverage that's being proposed. This should include every type of coverage included, its limits, and the deductibles and premiums associated with it.
+
+->>>>
+
+In our insurance proposal, these are the details of the coverage:
+
+Coverage Details:
+{{step_3}}
+
+Next, analyze and provide a detailed account of the potential risks associated with the insured party. Essentially, this is a risk assessment based on a variety of factors like financials and industry reputation.
+
+->>>>
+
+The risk assessment for our insurance proposal is as follows:
+
+Risk Assessment:
+{{step_4}}
+
+Proceed to elaborate on how the premiums were calculated based on the coverage details and risk assessment.
+
+->>>>
+
+For the insurance proposal, this is how we calculated the insurance premiums:
+
+Premium Calculations:
+{{step_5}}
+
+Finally, provide a detailed conclusion that sums up all elements of the insurance proposal.
+

@@ -1,0 +1,96 @@
+Your task is to write a "Traditional Pasta Recipe" for the "International Cuisine" industry, specifically for an "Italian Cuisine Expert". Let's begin with a short introduction that explains the origin and significance of the {{pasta_dish}} in Italian cuisine.
+
+Here's some more context about the Traditional Pasta Recipe:
+Pasta Dish: {{pasta_dish}}
+Ingredients: {{ingredients}}
+Cooking Steps: {{cooking_steps}}
+Accompanying Sides: {{accompanying_sides}}
+Italian Cooking Terms: {{Italian_cooking_terms}}
+
+->>>>
+
+We have an introduction that sets the tone and background for our pasta dish:
+
+Introduction:
+{{step_1}}
+
+Next, let's draft a list of ingredients needed for the {{pasta_dish}}. Make sure to group them based on the part of the recipe they're used in, like pasta, sauce, garnish.
+
+->>>>
+
+Now we have a detailed list of ingredients for the preparation of the {{pasta_dish}}:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+We move on to describe a step-by-step method for making the {{pasta_dish}}. Each key stage in the cooking process should have its bullet point, and if any special skills or Italian cooking techniques are needed, provide meticulous explanations.
+
+->>>>
+
+Now, we have a complete instruction sequence for preparing the {{pasta_dish}}:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Cooking Method:
+{{step_3}}
+
+Towards the end, let's create some suggestions on how to serve the {{pasta_dish}}, including traditional Italian sides and beverages that complement the dish.
+
+->>>>
+
+We have a list of suggestions for serving the {{pasta_dish}}:
+
+Introduction:
+{{step_1}}
+
+Ingredients:
+{{step_2}}
+
+Cooking Method:
+{{step_3}}
+
+Serving Suggestions:
+{{step_4}}
+
+This recipe should encompass the unique Italian ingredients in the recipe for the dish, such as specific cheese types, olive oil, or herbs. Provide brief notes on how these components add to the dish’s flavor.
+
+->>>>
+
+Information about unique Italian ingredients and their contributions to the {{pasta_dish}} is now included:
+
+Unique Italian Ingredients:
+{{step_5}}
+
+Now, let's add information about the specific and traditional Italian cooking techniques used in preparing the {{pasta_dish}}.
+
+->>>>
+
+In our recipe, we have included traditional Italian cooking techniques:
+
+Unique Italian Ingredients:
+{{step_5}}
+
+Italian Cooking Techniques:
+{{step_6}}
+
+Next, let's detail the typical side dishes and wine that traditionally accompany the {{pasta_dish}} in Italian cuisine.
+
+->>>>
+
+In our recipe, we have now included typical Italian sides and wine that accompany the {{pasta_dish}}:
+
+Italian Cooking Techniques:
+{{step_6}}
+
+Traditional Accompaniments:
+{{step_7}}
+
+As a final step, enrich the recipe with specific Italian terminologies related to pasta, cooking, and ingredients. Share interesting facts about the region in Italy where the {{pasta_dish}} comes from, and any unique traditions or customs associated with the dish.
+

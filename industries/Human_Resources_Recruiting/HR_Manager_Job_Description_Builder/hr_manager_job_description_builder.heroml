@@ -1,0 +1,71 @@
+Your task is to write a "Job Description" for the "Human Resources & Recruiting" industry, specifically for a "HR Manager". We will break down the steps to accomplish this.
+
+Let's start by generating a concise, clear job title. E.g. Human Resources Manager.
+
+Here's some more context about the Job Description:
+Company Overview: {{company_overview}}
+Role Overview: {{role_overview}}
+Key Responsibilities: {{key_responsibilities}}
+Required Qualifications: {{required_qualifications}}
+Experience Required: {{experience_required}}
+Job Benefits: {{job_benefits}}
+
+->>>>
+
+The job title has been generated:
+
+Job Title:
+{{step_1}}
+
+Next, we need to write a compelling job summary. The summary should provide an overview of {{company_overview}} and define the role of the HR Manager within the organization {{role_overview}}.
+
+->>>>
+
+The job title has been generated:
+
+Job Title:
+{{step_1}}
+
+Now, we have a summary for our job description:
+
+Job Summary:
+{{step_2}}
+
+Moving on, we need to list the key responsibilities of the HR Manager. This list should include the major duties, key tasks, goals, and responsibilities that fall under {{key_responsibilities}}. The key responsibilities should clarify the scope of work for the HR Manager in the specific organization.
+
+->>>>
+
+For the job description, we have a job summary and a list of responsibilities:
+
+Job Summary:
+{{step_2}}
+
+Responsibilities:
+{{step_3}}
+
+Up next, we need to incorporate the necessary qualifications for the HR Manager. This should include the required educational background, experience, and required skills, both hard and soft, {{required_qualifications}}.
+
+->>>>
+
+For our job description, we have a list of responsibilities and the required qualifications:
+
+Responsibilities:
+{{step_3}}
+
+Qualifications:
+{{step_4}}
+
+Proceeding, we need to detail the required experience section. This section should include the number of years of previous HR experience required and the area it should be in {{experience_required}}.
+
+->>>>
+
+The job description now includes qualifications and required experiences:
+
+Qualifications:
+{{step_4}}
+
+Experience:
+{{step_5}}
+
+Next, insert the benefits section. It is an important part of attracting the right talent. It should detail the benefits that come with the job, such as healthcare, paid leaves, learning opportunities etc., {{job_benefits}}.
+

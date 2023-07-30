@@ -1,0 +1,77 @@
+Your task is to write a "Code Documentation" for the "High School Students - Technology & Computer Science" industry, specifically for a "Student". 
+
+Firstly, let's start the "Code Documentation" with an introductory section that describes the purpose of the code: {{code_purpose}}. This section should explain what the code does and its significance.
+
+Here's some more context about the Code Documentation:
+Code Purpose: {{code_purpose}}
+Program Name: {{program_name}}
+Inline Comments: {{inline_comments}}
+Block Comments: {{block_comments}}
+Known Issues: {{known_issues}}
+
+->>>>
+
+We have an introductory section for our "Code Documentation" now:
+
+Introduction:
+{{step_1}}
+
+Next, assign a unique name for the program or script you are documenting: {{program_name}}. Make sure the program name is descriptive and succinct to help others quickly understand what your code does.
+
+->>>>
+
+Our "Code Documentation" has an introduction and a program name:
+
+Introduction:
+{{step_1}}
+
+Program Name:
+{{step_2}}
+
+Following that, write a detailed explanation of how the code located within the {{program_name}} works. This section is where you will explain the logic behind your code, including the main processes, functions, and algorithms used.
+
+->>>>
+
+Our "Code Documentation" now contains an introduction, the program name, and an explanation of how the code works:
+
+Introduction:
+{{step_1}}
+
+Program Name:
+{{step_2}}
+
+Explanation:
+{{step_3}}
+
+Now, let's start with in-depth commenting of our code by beginning with inline commenting: {{inline_comments}}. This section should detail each line or smaller sections of the code, making sure to explain what each line or group of lines does, what the important variables are, and how they're used.
+
+->>>>
+
+We have inline comments for our code:
+
+Inline Comments:
+{{step_4}}
+
+Next, continue with block commenting: {{block_comments}}. This section needs to be a series of comments that explain larger portions of the code, or entire functions/methods. Describe what the code does, any inputs it takes, and the outputs it provides.
+
+->>>>
+
+We have both block and inline comments for our code:
+
+Inline comments:
+{{step_4}}
+
+Block comments:
+{{step_5}}
+
+Now, include a section that specifically addresses the limitations or bugs in the code: {{known_issues}}. This will allow to cover any known problems in the code and make the documentation more honest and informative.
+
+->>>>
+
+We've added a section describing the known limitations or bugs in our code:
+
+Known Issues:
+{{step_6}}
+
+Finally, conclude the documentation with a summary showing how the displayed code in {{program_name}} fulfills the stated purpose: {{code_purpose}}. This part should clarify how the main code works and how it achieves the purpose set out in the introduction.
+

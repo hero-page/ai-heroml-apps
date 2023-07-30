@@ -1,0 +1,76 @@
+Your task is to write an "Author Interview" for the "Historical Fiction Writing" industry, specifically for a "Blogger". 
+
+First, let's start with drafting an introduction for this interview which outlines the aim of this interaction. Make sure to highlight the importance of understanding the author's journey, writing process, historical research methods, and inspiration behind {{book_title}}.
+
+Here's some more context about the Author Interview:
+Book Title: {{book_title}}
+
+->>>>
+
+Now, we have an introduction for the interview:
+
+Introduction:
+{{step_1}}
+
+Next, let's prepare questions that delve into the author's background, including their early life, education, and experiences that influenced their writing career.
+
+->>>>
+
+So far, we have an introduction and questions for the author's background:
+
+Introduction:
+{{step_1}}
+
+Author's Background:
+{{step_2}}
+
+Now, let's focus on {{book_title}}. Write questions that will discuss the novel's plot, character development, setting, and theme in detail.
+
+->>>>
+
+We have questions for the author's background and the book 
+
+Author's Background:
+{{step_2}}
+
+About {{book_title}}:
+{{step_3}}
+
+Next, let's explore the author's writing and research process, especially how they shape historical narratives. Formulate questions accordingly.
+
+->>>>
+
+We have covered the author's background, the book details, and now, the writing process:
+
+About {{book_title}}:
+{{step_3}}
+
+Writing Process:
+{{step_4}}
+
+Let's proceed to discuss historical themes in {{book_title}}, the author's approach to representation, and their perspective on historical accuracy. Prepare appropriate questions for this section.
+
+->>>>
+
+We have questions for the book details, the writing process, and now, the assessment of historical themes:
+
+Writing Process:
+{{step_4}}
+
+Historical Themes:
+{{step_5}}
+
+Next, let's wrap up the author interview by creating questions that pertain to the author's future plans, any advice for aspiring writers, and keeping readers updated on their work.
+
+->>>>
+
+We have the book details, writing process, historical themes, and now, the concluding points are ready for the interview:
+
+Historical Themes:
+{{step_5}}
+
+Conclusion:
+{{step_6}}
+
+Finally, bearing all the key sections in mind, incorporate some industry-specific elements crucial to historical fiction writing in the interview. Be sure to touch upon historical events used in {{book_title}}, historical accuracy, upcoming trends in historical fiction, and the author's favorite historical books or authors.
+
